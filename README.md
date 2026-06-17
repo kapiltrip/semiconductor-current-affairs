@@ -2,7 +2,7 @@
 
 This repository is for tracking semiconductor, VLSI, chip-design, fabrication, packaging, equipment, policy, and market current affairs.
 
-The main goal is to create a daily study notebook: every date gets one Markdown file with newspaper/editorial images, source snippets, discussion notes, VLSI relevance, and interview-ready questions.
+The main goal is to create a daily study notebook: every date gets one Markdown file with newspaper/editorial images, source snippets, discussion notes, concept review, VLSI relevance, and interview-ready questions.
 
 The goal is not to collect every article. The goal is to build discussion-ready knowledge: what happened, why it matters, which companies or countries are affected, and what technical or business question it raises.
 
@@ -17,6 +17,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 5. Write the discussion below the images:
    - What happened?
    - Why does it matter?
+   - Is it local/India news, international news, or both?
    - Which semiconductor segment is involved?
    - What VLSI concept should I revise?
    - What question could someone ask me?
@@ -74,6 +75,8 @@ trackers/
 
 ## What To Track
 
+- Local / India: India Semiconductor Mission, SEMICON India, state incentives, design startups, OSAT/ATMP, compound semiconductor projects, VLSI hiring and skilling.
+- International: TSMC, Intel, Samsung, NVIDIA, ASML, export controls, China, Taiwan, US CHIPS Act, EU/Japan/Korea supply-chain policy.
 - Market: global semiconductor sales, WSTS/SIA updates, memory cycles, foundry utilization, equipment spending.
 - Technology: process nodes, EUV and High-NA EUV, GAA, backside power delivery, chiplets, HBM, advanced packaging, silicon photonics.
 - Companies: TSMC, Samsung, Intel, NVIDIA, AMD, Broadcom, Qualcomm, Apple, ASML, Applied Materials, Lam Research, KLA, Synopsys, Cadence, Arm.
@@ -94,9 +97,10 @@ Every good note should answer:
 
 1. What happened?
 2. Why does it matter?
-3. Which part of the semiconductor value chain is affected?
-4. What technical concept should I learn from this?
-5. What question could someone ask me about this?
+3. Is this local/India, international, or both?
+4. Which part of the semiconductor value chain is affected?
+5. What technical concept should I learn from this?
+6. What definition, example, and question should I revise later?
 
 ## Daily File Format
 
@@ -107,12 +111,24 @@ Title and date
 Images / newspaper snippets
 Source links
 Discussion
+News coverage mix: local / international
 VLSI relevance
+Concept review table
 India relevance
 Key terms
 Questions to revise
 What to follow next
 ```
+
+## Concept Review Standard
+
+Each daily file should include a concept-review table. Keep it short, but make it useful for revision.
+
+| Concept | Quick Definition | Why It Matters In This News | Revise Next |
+|---|---|---|---|
+| HBM | Stacked high-bandwidth DRAM used close to AI accelerators. | AI chip performance is limited by memory bandwidth. | DRAM vs HBM, bandwidth, packaging. |
+
+Use this section for concepts like HBM, CoWoS, OSAT, ATMP, GAA, EUV, DFT, STA, RTL, interposer, yield, PDK, export controls, and foundry economics.
 
 Images should live under `images/YYYY-MM-DD/`. From a daily page such as `2026-06-17/README.md`, link an image like this:
 

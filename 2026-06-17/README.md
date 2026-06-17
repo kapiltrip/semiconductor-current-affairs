@@ -52,6 +52,12 @@ For AI chips, packaging is no longer a low-level backend detail. Advanced packag
 
 For VLSI learning, this means you should not think only in RTL or transistor terms. Modern chip performance depends on the full stack: architecture, memory bandwidth, package design, substrate technology, thermal behavior, test, yield, and supply-chain location.
 
+### News Coverage Mix
+
+- Local / India: SEMICON India 2026 gives the India-side anchor for ecosystem building, workforce development, trusted supply chains, and industry participation.
+- International: TSMC-Amkor, Huawei/export controls, and Intel market reaction show how packaging, geopolitics, and foundry execution drive global semiconductor strategy.
+- Why both matter together: India's semiconductor opportunity depends on understanding global bottlenecks first, then identifying where India can realistically participate: design, verification, packaging, test, compound semiconductors, and supply-chain services.
+
 ### Value-Chain Segment
 
 - Packaging/test: TSMC-Amkor, CoWoS, CoPoS, advanced packaging in Arizona.
@@ -69,6 +75,17 @@ For VLSI learning, this means you should not think only in RTL or transistor ter
 - Warpage and package reliability
 - Export controls and AI accelerator system design
 - Foundry vs backend packaging capacity
+
+## Concept Review
+
+| Concept | Quick Definition | Why It Matters In This News | Revise Next |
+|---|---|---|---|
+| OSAT | Outsourced semiconductor assembly and test. | TSMC-Amkor shows backend packaging/test capacity is strategic, especially for US-based supply chains. | Assembly flow, test, package reliability, yield. |
+| ATMP | Assembly, testing, marking, and packaging. | India often uses ATMP in policy and manufacturing discussions. | Difference between fab, ATMP, and OSAT. |
+| CoWoS | Advanced 2.5D packaging where compute dies and HBM are integrated through an interposer/substrate flow. | AI accelerators need high-bandwidth memory close to compute dies. | HBM, interposer, TSV, package substrate. |
+| CoPoS | Chip-on-panel-on-substrate, a panel-level packaging direction intended to improve scaling and cost over time. | TSMC discussion shows panel packaging is promising but not a near-term full replacement for CoWoS. | Wafer-level vs panel-level packaging. |
+| Export controls | Government restrictions on selling advanced chips, tools, or technology to specific countries/entities. | Huawei news shows controls shape chip access, domestic alternatives, and system-level workarounds. | BIS rules, AI accelerator limits, China self-sufficiency. |
+| Trusted supply chain | A supply chain designed to reduce geopolitical, security, and concentration risk. | SEMICON India 2026 is framed around trusted and resilient semiconductor ecosystems. | CHIPS Act, India Semiconductor Mission, supply-chain localization. |
 
 ### India Relevance
 

@@ -50,6 +50,12 @@ This is useful for VLSI GK because it connects news directly to the areas an eng
 - Memory scaling: DRAM, flash, HBM, memory tiering, memory wall.
 - Edge AI: MLSoC, deployment workflows, power-constrained inference.
 
+### News Coverage Mix
+
+- Local / India: No direct India policy announcement in today's selected items, but the concepts matter for Indian VLSI roles in design enablement, verification, physical design, packaging, embedded AI, and system software.
+- International: Intel, TSMC, AMD, and SiMa show how the global semiconductor industry is solving process, packaging, memory, and edge-AI bottlenecks.
+- Why both matter together: Even when the source is international, the concepts map directly to what a VLSI engineer in India should understand for interviews, discussions, and career planning.
+
 ### Value-Chain Segment
 
 - Foundry/process: Intel 18A-P.
@@ -69,6 +75,17 @@ This is useful for VLSI GK because it connects news directly to the areas an eng
 - HBM and the memory wall
 - Memory tiering
 - MLSoC and edge AI accelerators
+
+## Concept Review
+
+| Concept | Quick Definition | Why It Matters In This News | Revise Next |
+|---|---|---|---|
+| Risk production | Early manufacturing phase before full high-volume production. | Intel 18A-P entering risk production is a signal that the process is moving from lab/qualification toward customer-ready manufacturing. | Yield, PDK maturity, design enablement, tapeout flow. |
+| GAA / RibbonFET | Gate-all-around transistor architecture where the gate surrounds the channel more fully than FinFET. | Advanced nodes need better electrostatic control as transistor dimensions shrink. | FinFET vs GAA, leakage, drive current, scaling limits. |
+| Backside power delivery | Routing power from the backside of the wafer instead of only the frontside metal stack. | Intel's PowerVia/backside power strategy can improve routing congestion and power delivery at advanced nodes. | IR drop, routing congestion, power grid, PDN. |
+| CoWoS | Chip-on-Wafer-on-Substrate, an advanced packaging approach used for large AI accelerators and HBM integration. | TSMC says CoWoS remains hard to replace for the largest AI packages. | Interposer, HBM, 2.5D packaging, package yield. |
+| Memory wall | The gap between compute capability and memory bandwidth/capacity/data movement. | AMD-MEXT shows AI infrastructure bottlenecks are often memory and data movement problems. | DRAM, HBM, cache hierarchy, memory tiering. |
+| MLSoC | Machine-learning system-on-chip for edge or physical AI workloads. | SiMa's news shows chip companies compete through hardware plus developer tooling. | Edge inference, accelerators, embedded software stack. |
 
 ### India Relevance
 

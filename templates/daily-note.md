@@ -24,9 +24,9 @@ images/YYYY-MM-DD/links.md
 
 ## Source Snippets
 
-| Source | Link | Topic | One-Line Summary |
-|---|---|---|---|
-|  |  |  |  |
+| Source | Link | Geography | Topic | One-Line Summary |
+|---|---|---|---|---|
+|  |  | Local / International / Both |  |  |
 
 ## Discussion
 
@@ -35,6 +35,12 @@ images/YYYY-MM-DD/links.md
 
 ### Why It Matters
 
+
+### News Coverage Mix
+
+- Local / India:
+- International:
+- Why both matter together:
 
 ### Value-Chain Segment
 
@@ -54,6 +60,12 @@ Choose one or more:
 ### VLSI / Semiconductor Concepts To Revise
 
 - 
+
+## Concept Review
+
+| Concept | Quick Definition | Why It Matters In This News | Revise Next |
+|---|---|---|---|
+|  |  |  |  |
 
 ### India Relevance
 
