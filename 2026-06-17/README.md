@@ -14,7 +14,17 @@ Screenshot/source manifest:
 
 - [../images/2026-06-17/links.md](../images/2026-06-17/links.md)
 
-Current screenshot status: pending. Chrome is installed but not currently reachable from this session. Add screenshots later using the filenames listed in the manifest.
+Current screenshot status: captured.
+
+![TSMC-Amkor advanced packaging source listing](../images/2026-06-17/news-01-tsmc-amkor-spn.png)
+
+![TSMC-Amkor Business Wire release](../images/2026-06-17/news-02-tsmc-amkor-businesswire.png)
+
+![Financial Times Huawei export-controls headline](../images/2026-06-17/news-03-huawei-export-controls.png)
+
+![Barron's Intel market reaction](../images/2026-06-17/news-04-intel-market-reaction.png)
+
+![SEMICON India 2026](../images/2026-06-17/news-05-semicon-india-2026.png)
 
 ## Source Snippets
 
@@ -86,7 +96,6 @@ Huawei/export-control news shows another angle: if one country blocks access to 
 
 ## Follow-Up
 
-- Add Chrome screenshots for each source once Chrome is running and the Codex Chrome Extension is reachable.
 - Create a deep-dive note on CoWoS, CoPoS, and advanced package substrates.
 - Track whether TSMC-Amkor Arizona capacity supports AI/HPC customers or broader advanced packaging demand.
 - Watch for India SEMICON 2026 speaker and agenda updates.

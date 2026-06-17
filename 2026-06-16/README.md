@@ -14,7 +14,15 @@ Screenshot/source manifest:
 
 - [../images/2026-06-16/links.md](../images/2026-06-16/links.md)
 
-Current screenshot status: pending. Chrome is installed but not currently reachable from this session. Add screenshots later using the filenames listed in the manifest.
+Current screenshot status: captured.
+
+![Intel 18A-P risk production](../images/2026-06-16/news-01-intel-18a-p.png)
+
+![TSMC CoWoS vs CoPoS](../images/2026-06-16/news-02-tsmc-cowos-copos.png)
+
+![AMD-MEXT memory wall](../images/2026-06-16/news-03-amd-mext-eetimes.png)
+
+![SiMa physical AI](../images/2026-06-16/news-04-sima-physical-ai.png)
 
 ## Source Snippets
 
@@ -87,7 +95,6 @@ June 16 ka simple point: the semiconductor race is now about solving bottlenecks
 
 ## Follow-Up
 
-- Add Chrome screenshots for each source once Chrome is running and the Codex Chrome Extension is reachable.
 - Create a concept note on risk production, yield, and PDK maturity.
 - Create a concept note on CoWoS vs CoPoS.
 - Create a concept note on HBM and memory wall.
