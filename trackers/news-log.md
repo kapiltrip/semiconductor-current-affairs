@@ -21,10 +21,15 @@ Use this as the running tracker. Keep entries short. Move important items into d
 | 2026-06-19 | Samsung Semiconductor | 3D stacked FET direction | Samsung / Korea | Device architecture | Samsung described movement from GAA toward 3D stacked FET concepts. | Future transistor scaling may depend on vertical device stacking after nanosheet gains become harder. | [2026-06-19](../2026-06-19/README.md) |
 | 2026-06-19 | imec | 2D-material transistors | imec / ASML / TSMC | Materials / process | imec, ASML, and TSMC reported progress on industry-ready 2D-material transistors on 300mm wafers. | 2D channels are a possible path for post-silicon-nanosheet scaling. | [2026-06-19](../2026-06-19/README.md) |
 | 2026-06-19 | NIST / CHIPS Program | Coherent InP photonics | US / Coherent | Photonics / policy | The CHIPS Program announced a letter of intent with Coherent for up to $50 million for InP photonic semiconductor work. | Optical and photonic semiconductor infrastructure matters for future AI data movement and interconnect. | [2026-06-19](../2026-06-19/README.md) |
+| 2026-06-20 | Wall Street Journal | Memory crunch | Global | Memory / market | WSJ reported that the memory crunch is difficult to solve as suppliers prioritize AI/HBM and remain cautious after past downturns. | AI is changing memory allocation, pricing, capex, and availability for consumer and industrial electronics. | [2026-06-20](../2026-06-20/README.md) |
+| 2026-06-20 | Tom's Hardware / ASML response | ASML EUV China allegation | ASML / US / China / Netherlands | Equipment / policy | ASML denied reports that an EUV scanner or EUV-specific components reached China in violation of export controls. | EUV is a strategic chokepoint, so compliance disputes affect the credibility of advanced-node export controls. | [2026-06-20](../2026-06-20/README.md) |
+| 2026-06-20 | Intel Newsroom | Packaging-led foundry reset | Intel / US | Foundry / packaging | Intel's Seok-Hee Lee appointment remained the key follow-up, confirming dedicated leadership for advanced packaging and back-end integration. | Intel Foundry's customer pitch increasingly depends on package-level AI/HPC integration, not only front-end nodes. | [2026-06-20](../2026-06-20/README.md) |
+| 2026-06-20 | SK hynix Newsroom | HBM4E follow-up | SK hynix / Korea | Memory / AI hardware | SK hynix's 12-layer HBM4E sample shipment remains a key validation milestone to track. | Future AI accelerators depend on HBM capacity, bandwidth, thermal behavior, and customer qualification. | [2026-06-20](../2026-06-20/README.md) |
+| 2026-06-20 | SEMICON India | SEMICON India 2026 watch | India | India / ecosystem | SEMICON India 2026 remains scheduled for September 17-19 with a Silicon to Systems ecosystem theme. | India should track agenda, exhibitor, and state/company participation for concrete semiconductor ecosystem signals. | [2026-06-20](../2026-06-20/README.md) |
 
 ## Backlog Ideas
 
-Status as of 2026-06-19: daily notes, source manifests, and screenshots are current through today.
+Status as of 2026-06-20: daily notes, source manifests, and screenshots are current through today.
 
 - Create company profiles for TSMC, ASML, NVIDIA, Intel, Samsung, Synopsys, Cadence, Arm.
 - Create a timeline of US export controls on AI chips and semiconductor equipment.

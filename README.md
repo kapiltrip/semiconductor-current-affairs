@@ -49,6 +49,8 @@ images/
     links.md
   2026-06-19/
     links.md
+  2026-06-20/
+    links.md
 
 2026-06-16/
   README.md
@@ -60,6 +62,9 @@ images/
   README.md
 
 2026-06-19/
+  README.md
+
+2026-06-20/
   README.md
 
 briefings/
@@ -102,6 +107,7 @@ trackers/
 | 2026-06-17 | [2026-06-17/README.md](2026-06-17/README.md) | [images/2026-06-17/links.md](images/2026-06-17/links.md) | TSMC-Amkor advanced packaging, Huawei/export controls, Intel market reaction, India SEMICON 2026 |
 | 2026-06-18 | [2026-06-18/README.md](2026-06-18/README.md) | [images/2026-06-18/links.md](images/2026-06-18/links.md) | Intel Foundry leadership, SK hynix HBM4E, Amazon Trainium, Apple-Intel reported signal |
 | 2026-06-19 | [2026-06-19/README.md](2026-06-19/README.md) | [images/2026-06-19/links.md](images/2026-06-19/links.md) | VLSI scaling paths, TSMC A16, Samsung 3D stacked FET, 2D materials, InP photonics, MLPerf |
+| 2026-06-20 | [2026-06-20/README.md](2026-06-20/README.md) | [images/2026-06-20/links.md](images/2026-06-20/links.md) | Memory crunch, ASML/EUV export-control dispute, Intel packaging reset, SK hynix HBM4E, SEMICON India |
 
 ## Note Quality Standard
 
@@ -154,4 +160,4 @@ Screenshots should capture the headline, date, source name, and short visible sn
 
 ## Current Status
 
-Daily notes are created through 2026-06-19, with source manifests and screenshots captured through today.
+Daily notes are created through 2026-06-20, with source manifests and screenshots captured through today.
