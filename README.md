@@ -20,6 +20,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
    - Is it local/India news, international news, or both?
    - Which semiconductor segment is involved?
    - What VLSI concept should I revise?
+   - Which technical terms need next-line definitions?
    - What question could someone ask me?
 6. Add only the most important items to `trackers/news-log.md`.
 
@@ -124,7 +125,8 @@ Every good note should answer:
 3. Is this local/India, international, or both?
 4. Which part of the semiconductor value chain is affected?
 5. What technical concept should I learn from this?
-6. What definition, example, and question should I revise later?
+6. What technical terms appeared, and were they defined deeply on the next line?
+7. What definition, example, and question should I revise later?
 
 ## Daily File Format
 
@@ -135,6 +137,7 @@ Title and date
 Images / newspaper snippets
 Source links
 Discussion
+Technical terms / deep cited definitions
 News coverage mix: local / international
 VLSI relevance
 Concept review table
@@ -146,13 +149,32 @@ What to follow next
 
 ## Concept Review Standard
 
-Each daily file should include a concept-review table. Keep it short, but make it useful for revision.
+Each daily file should include a concept-review table. Keep it short, but make it useful for revision. Definitions should be deep enough that the note saves a separate search later.
 
-| Concept | Quick Definition | Why It Matters In This News | Revise Next |
-|---|---|---|---|
-| HBM | Stacked high-bandwidth DRAM used close to AI accelerators. | AI chip performance is limited by memory bandwidth. | DRAM vs HBM, bandwidth, packaging. |
+| Concept | Deep Definition | Why It Matters In This News | Revise Next | Source |
+|---|---|---|---|---|
+| HBM | High-Bandwidth Memory is stacked DRAM connected through dense vertical and package-level interconnects so an AI accelerator can access memory with much higher bandwidth than ordinary DIMM-style memory. The important idea is not only capacity; it is short, wide data movement close to the compute die, which reduces the memory bottleneck in training and inference workloads. | AI chip performance is limited by memory bandwidth. | DRAM vs HBM, TSVs, bandwidth, packaging. | https://www.jedec.org/ |
 
 Use this section for concepts like HBM, CoWoS, OSAT, ATMP, GAA, EUV, DFT, STA, RTL, interposer, yield, PDK, export controls, and foundry economics.
+
+## Technical Term Definition Standard
+
+When a technical term first appears in a daily note, define it immediately in the next line. Do not only put all definitions at the end. The goal is that the note itself teaches the term at the point where it is needed.
+
+Use this format:
+
+```markdown
+Term: EUV lithography
+Definition: EUV lithography is a chip-patterning method that uses 13.5 nm extreme-ultraviolet light to print very small features on advanced wafers. It matters because shorter wavelength light can pattern smaller structures with fewer multi-patterning steps than older DUV flows, but EUV tools are extremely complex, expensive, and export-controlled because they are critical for leading-edge logic manufacturing. Source: https://www.asml.com/en/technology/lithography-principles
+```
+
+Good definitions should include:
+
+- What the term means in plain language.
+- What physical, circuit, manufacturing, business, or policy problem it solves.
+- Why it matters in today's news.
+- One example or comparison when useful, such as EUV vs DUV, HBM vs ordinary DRAM, or CoWoS vs EMIB.
+- A citation from a reliable source. Prefer primary sources and standards bodies; use technical explainers only when primary sources are not readable.
 
 Images should live under `images/YYYY-MM-DD/`. From a daily page such as `2026-06-17/README.md`, link an image like this:
 
