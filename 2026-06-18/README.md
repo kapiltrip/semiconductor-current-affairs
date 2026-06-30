@@ -2,6 +2,10 @@
 
 Date: 2026-06-18
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -18,11 +22,19 @@ Current screenshot status: captured.
 
 ![Intel Foundry leadership and Seok-Hee Lee](../images/2026-06-18/news-01-intel-seok-hee-lee.png)
 
+Image-linked study note: This image anchors Intel Foundry's backend leadership shift. The important point is that Intel needs process technology plus advanced packaging, system integration, back-end development, and high-volume manufacturing discipline to compete as an external foundry.
+
 ![SK hynix 12-stack HBM4E samples](../images/2026-06-18/news-02-sk-hynix-hbm4e.png)
+
+Image-linked study note: This image is the HBM roadmap anchor. Customer sampling matters because AI accelerator roadmaps depend on memory capacity, bandwidth, package height, power, thermal limits, and qualification timing, not just peak compute performance.
 
 ![Amazon Trainium external sales report](../images/2026-06-18/news-03-amazon-trainium.png)
 
+Image-linked study note: This image links hyperscaler infrastructure to merchant silicon competition. If Trainium moves outside AWS, the story becomes cloud-house ASICs competing with GPUs and other accelerators through software ecosystem, cost, availability, and workload fit.
+
 ![Apple-Intel reported US chipmaking signal](../images/2026-06-18/news-04-apple-intel-reported.png)
+
+Image-linked study note: This image should be treated as a reported signal, not a confirmed manufacturing deal. Its value is in showing why large customer rumors matter for foundries: one premium customer can change perceptions about node credibility, domestic manufacturing, and supply-chain politics.
 
 ## Source Snippets
 

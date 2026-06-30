@@ -8,6 +8,16 @@ Source:
 
 URL:
 
+## Editorial Coverage Rule
+
+If this is a related editorial, include the relevant image/screenshot if available, then cover it fully in original study language: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and revision questions. Keep the source link for the original article.
+
+## Image
+
+```markdown
+![News/editorial image](../images/YYYY-MM-DD/news-01.png)
+```
+
 ## Summary
 
 One paragraph. What happened?

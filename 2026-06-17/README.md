@@ -2,6 +2,10 @@
 
 Date: 2026-06-17
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -18,13 +22,23 @@ Current screenshot status: captured.
 
 ![TSMC-Amkor advanced packaging source listing](../images/2026-06-17/news-01-tsmc-amkor-spn.png)
 
+Image-linked study note: This image is the discovery anchor for the TSMC-Amkor packaging story. Use it to connect the headline to the larger backend bottleneck: advanced nodes are not enough if packaging, testing, substrates, and US-based backend capacity cannot scale with AI demand.
+
 ![TSMC-Amkor Business Wire release](../images/2026-06-17/news-02-tsmc-amkor-businesswire.png)
+
+Image-linked study note: This source gives the formal partnership signal. The key study point is that foundry supply chains now include wafer fabrication plus advanced packaging and test as one strategic package, especially when governments want trusted domestic capacity.
 
 ![Financial Times Huawei export-controls headline](../images/2026-06-17/news-03-huawei-export-controls.png)
 
+Image-linked study note: This image anchors the export-control discussion. The lesson is that restrictions can slow access to advanced tools and chips, but they can also push domestic substitution, chip stacking, software workarounds, and system-level optimization.
+
 ![Barron's Intel market reaction](../images/2026-06-17/news-04-intel-market-reaction.png)
 
+Image-linked study note: This image connects technical roadmap news with investor reaction. For study, separate market optimism from engineering proof: a stock move may reflect expectations, but the technical test is yield, customer tape-outs, packaging readiness, and delivery dates.
+
 ![SEMICON India 2026](../images/2026-06-17/news-05-semicon-india-2026.png)
+
+Image-linked study note: This image is the India ecosystem anchor. Use it to track where India is trying to participate: design talent, OSAT/ATMP, trusted supply chains, skilling, compound semiconductors, state incentives, and partnerships with global tool and chip companies.
 
 ## Source Snippets
 

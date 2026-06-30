@@ -2,6 +2,10 @@
 
 Date:
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## Editorial / News Images
 
 Store images in:
@@ -15,6 +19,8 @@ Add image links here:
 ```markdown
 ![News Screenshot 1](../images/YYYY-MM-DD/news-01.png)
 ```
+
+Every important image should appear here before the related discussion.
 
 Track screenshot filenames and URLs in:
 

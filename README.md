@@ -2,7 +2,7 @@
 
 This repository is for tracking semiconductor, VLSI, chip-design, fabrication, packaging, equipment, policy, and market current affairs.
 
-The main goal is to create a daily study notebook: every date gets one Markdown file with newspaper/editorial images, source snippets, discussion notes, concept review, VLSI relevance, and interview-ready questions.
+The main goal is to create a daily study notebook: every date gets one Markdown file with embedded newspaper/editorial reference images, source snippets, full original editorial-style analysis, concept review, VLSI relevance, and interview-ready questions.
 
 The goal is not to collect every article. The goal is to build discussion-ready knowledge: what happened, why it matters, which companies or countries are affected, and what technical or business question it raises.
 
@@ -11,10 +11,10 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 ### Daily, 20-30 minutes
 
 1. Create or open today's folder at `YYYY-MM-DD/README.md`.
-2. Put news screenshots, editorials, or snippets in `images/YYYY-MM-DD/`.
+2. Put news screenshots, related editorial reference images, or snippets in `images/YYYY-MM-DD/`.
 3. Add every screenshot filename and source URL to `images/YYYY-MM-DD/links.md`.
-4. Add the image links at the top of the daily file.
-5. Write the discussion below the images:
+4. Embed the relevant image links at the top of the daily file, before the explanation.
+5. Write the full original discussion below the images:
    - What happened?
    - Why does it matter?
    - Is it local/India news, international news, or both?
@@ -115,6 +115,15 @@ trackers/
 | 2026-06-19 | [2026-06-19/README.md](2026-06-19/README.md) | [images/2026-06-19/links.md](images/2026-06-19/links.md) | VLSI scaling paths, TSMC A16, Samsung 3D stacked FET, 2D materials, InP photonics, MLPerf |
 | 2026-06-20 | [2026-06-20/README.md](2026-06-20/README.md) | [images/2026-06-20/links.md](images/2026-06-20/links.md) | Memory crunch, ASML/EUV export-control dispute, Intel packaging reset, SK hynix HBM4E, SEMICON India |
 | 2026-06-21 | [2026-06-21/README.md](2026-06-21/README.md) | [images/2026-06-21/links.md](images/2026-06-21/links.md) | ASML/EUV China concern, AMD-Samsung foundry report, Intel packaging, memory crunch, SEMICON India |
+| 2026-06-22 | [2026-06-22/README.md](2026-06-22/README.md) | [images/2026-06-22/links.md](images/2026-06-22/links.md) | Micron AI-memory expectations, AMD-Samsung foundry report, ASML China concern |
+| 2026-06-23 | [2026-06-23/README.md](2026-06-23/README.md) | [images/2026-06-23/links.md](images/2026-06-23/links.md) | Memory-stock selloff, AI-chip slump, AMD-Samsung and ASML follow-ups |
+| 2026-06-24 | [2026-06-24/README.md](2026-06-24/README.md) | [images/2026-06-24/links.md](images/2026-06-24/links.md) | Micron earnings watch, Cerebras earnings, Korea memory rebound, SEMICON India |
+| 2026-06-25 | [2026-06-25/README.md](2026-06-25/README.md) | [images/2026-06-25/links.md](images/2026-06-25/links.md) | Micron record quarter, Qualcomm Dragonfly, OpenAI/Broadcom Jalapeno, Pax Silica |
+| 2026-06-26 | [2026-06-26/README.md](2026-06-26/README.md) | [images/2026-06-26/links.md](images/2026-06-26/links.md) | IBM nanostack, Micron-Qualcomm rally, SK hynix ADR, Pax Silica, TSMC price pressure |
+| 2026-06-27 | [2026-06-27/README.md](2026-06-27/README.md) | [images/2026-06-27/links.md](images/2026-06-27/links.md) | Apple memory-price pass-through, semiconductor inflation, AI inference-memory follow-up |
+| 2026-06-28 | [2026-06-28/README.md](2026-06-28/README.md) | [images/2026-06-28/links.md](images/2026-06-28/links.md) | HBM-led memory supercycle, HBM4E packaging, MR-MUF, thermal/yield constraints |
+| 2026-06-29 | [2026-06-29/README.md](2026-06-29/README.md) | [images/2026-06-29/links.md](images/2026-06-29/links.md) | Korea chip hub, Nvidia China pressure, AI-chip share rally, BCD-on-SOI power electronics |
+| 2026-06-30 | [2026-06-30/README.md](2026-06-30/README.md) | [images/2026-06-30/links.md](images/2026-06-30/links.md) | Korea capex-cycle risk, AI-server MLCCs, Jewar PCB/ISM catch-up, June systems synthesis |
 
 ## Note Quality Standard
 
@@ -134,9 +143,9 @@ Each daily file should follow this shape:
 
 ```text
 Title and date
-Images / newspaper snippets
+Embedded source images / screenshots
 Source links
-Discussion
+Full original editorial/news discussion
 Technical terms / deep cited definitions
 News coverage mix: local / international
 VLSI relevance
@@ -182,10 +191,14 @@ Images should live under `images/YYYY-MM-DD/`. From a daily page such as `2026-0
 ![News Screenshot 1](../images/2026-06-17/news-01.png)
 ```
 
-## Screenshot Rule
+## Screenshot And Editorial Coverage Rule
 
-Screenshots should capture the headline, date, source name, and short visible snippet only. Do not save full article pages or full newspaper/editorial text. The daily note should contain your own summary and discussion, with the source link for reading.
+Include the relevant images/screenshots directly in the daily note before the explanation, so the visual source and study discussion stay together.
+
+Saved screenshots should stay focused on source identification: headline, date, source name, and a short visible snippet.
+
+Related editorials are welcome and should get complete original coverage in the daily note: explain the thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and discussion questions. The note should be original study writing with the source link for reading, not a pasted article body or paywalled page capture.
 
 ## Current Status
 
-Daily notes are created through 2026-06-21, with source manifests and screenshots captured through today.
+Daily notes are created through 2026-06-30, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. The June 30 note uses verified text sources because the optional screenshot-capture dependency was unavailable.

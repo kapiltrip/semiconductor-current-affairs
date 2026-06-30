@@ -2,6 +2,10 @@
 
 Date: 2026-06-21
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -18,15 +22,27 @@ Current screenshot status: captured.
 
 ![TechCrunch ASML China EUV concern](../images/2026-06-21/news-01-bloomberg-asml-china.png)
 
+Image-linked study note: This image anchors the reported ASML-China concern. The useful study habit is to label what is confirmed, what is reported, and what is denied, because export-control news often mixes technical facts, government concern, and market interpretation.
+
 ![ASML EUV denial](../images/2026-06-21/news-02-asml-denial-toms.png)
+
+Image-linked study note: This image gives the counterweight to the reported concern. For revision, separate an EUV scanner, EUV-specific components, DUV tools, service access, and know-how; each has a different meaning for leading-edge manufacturing capability.
 
 ![AMD Samsung foundry talks](../images/2026-06-21/news-03-amd-samsung-foundry-pcgamer.png)
 
+Image-linked study note: This source anchors supply diversification. If AMD explores Samsung Foundry, the issue is not only price; it is capacity, node maturity, design portability, PDK changes, packaging availability, yield risk, and dependence on TSMC for high-end wafers.
+
 ![Intel advanced packaging leadership](../images/2026-06-21/news-04-intel-packaging-toms.png)
+
+Image-linked study note: This image keeps Intel's packaging reset in focus. Advanced packaging is now a foundry selling point because AI/HPC customers need chiplets, HBM integration, substrates, test, thermal handling, and system-in-package execution.
 
 ![Micron earnings AI memory watch](../images/2026-06-21/news-05-memory-crunch-webull.png)
 
+Image-linked study note: This image links market reporting to technical supply. Micron earnings can become a proxy for whether AI memory demand is strong enough to sustain DRAM pricing, HBM investment, and broader semiconductor investor confidence.
+
 ![SEMICON India 2026](../images/2026-06-21/news-06-semicon-india.png)
+
+Image-linked study note: This image keeps the local ecosystem visible even on an international-heavy day. Use it to ask what India can learn from global bottlenecks: packaging capacity, trusted supply chains, talent development, design-to-system thinking, and long-term policy consistency.
 
 ## Source Snippets
 

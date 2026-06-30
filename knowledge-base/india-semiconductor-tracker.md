@@ -29,6 +29,13 @@ India has a strong electronics demand base and a large chip-design talent pool. 
 |---|---|---|---|---:|---|---|
 | 2026-05-05 | Two more semiconductor manufacturing units approved | Gujarat | Compound semiconductor / OSAT / manufacturing | More than Rs. 3,900 crore cumulative | Approved | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2258119 |
 | 2026-05-29 | ISM Investors Support portal / approved projects reference | India | Policy / ecosystem | Not listed here | Track | https://www.ism.gov.in/investment/details |
+| 2026-06-27 | Jewar electronics projects and PCB manufacturing cluster | Jewar, Uttar Pradesh | Multilayer PCB / electronics manufacturing | About ₹6,750 crore across announced projects; EMC estimated at about ₹417 crore | Foundation stones laid; track construction, production start, qualification, and output | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2278446&lang=2&reg=48 |
+
+## June 2026 Official Programme Snapshot
+
+PIB reported 12 approved semiconductor manufacturing projects with an investment pipeline of approximately ₹1.64 lakh crore: one semiconductor fabrication unit, two compound-semiconductor fabrication units, and nine packaging units. It also reported 24 supported design projects, EDA-tool access for 105 companies, and 23 completed tape-outs.
+
+Treat these as programme and pipeline indicators. An approval is not an operating facility, a tape-out is not a qualified commercial chip, and an announced investment is not expenditure already completed. Track each project through construction, tool installation, first silicon, yield learning, customer qualification, and production volume.
 
 ## Career-Relevant Interpretation
 

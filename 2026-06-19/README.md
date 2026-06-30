@@ -2,6 +2,10 @@
 
 Date: 2026-06-19
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -18,15 +22,27 @@ Current screenshot status: captured.
 
 ![Semiconductor Engineering weekly roundup](../images/2026-06-19/news-01-semiengineering-week-review.png)
 
+Image-linked study note: This image is the synthesis anchor for the week. Use it to connect individual headlines into one semiconductor scaling picture: process nodes, backside power, HBM, packaging, photonics, benchmarks, policy funding, and supply-chain localization all interact.
+
 ![TSMC A16 and Super Power Rail](../images/2026-06-19/news-02-tsmc-a16.png)
+
+Image-linked study note: This image anchors the backside-power discussion. A16 and Super Power Rail matter because advanced chips are limited not only by transistor switching, but also by power delivery, routing congestion, IR drop, signal routing resources, and design enablement.
 
 ![Samsung GAA to 3D stacked FET](../images/2026-06-19/news-03-samsung-3d-stacked-fet.png)
 
+Image-linked study note: This image is the transistor-scaling anchor. The move from planar to FinFET to GAA and then toward stacked FETs shows that scaling is becoming three-dimensional when simple lateral shrinking becomes too difficult.
+
 ![imec ASML TSMC 2D material transistors](../images/2026-06-19/news-04-imec-2d-material-transistors.png)
+
+Image-linked study note: This source anchors the post-silicon-channel direction. The key point is not only that 2D materials are promising, but that industry-ready progress must happen on 300mm wafers with lithography, integration, variability, and yield constraints.
 
 ![NIST CHIPS Coherent InP photonics](../images/2026-06-19/news-05-nist-coherent-inp.png)
 
+Image-linked study note: This image links semiconductor policy with photonics. InP matters because high-speed optical communication and photonic components can reduce data-movement bottlenecks in AI data centers, networking, sensing, and future chip-to-chip links.
+
 ![MLCommons MLPerf Training v6.0](../images/2026-06-19/news-06-mlcommons-training-v6.png)
+
+Image-linked study note: This image anchors the benchmarking angle. MLPerf is useful because AI hardware must be judged as a full system: accelerator, memory, networking, software stack, sparsity support, scaling efficiency, and training throughput together.
 
 ## Source Snippets
 

@@ -2,6 +2,10 @@
 
 Date: 2026-06-20
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -18,15 +22,27 @@ Current screenshot status: captured.
 
 ![WSJ memory crunch](../images/2026-06-20/news-01-wsj-memory-crunch.png)
 
+Image-linked study note: This image anchors the memory-supply bottleneck. The study point is that AI demand can pull DRAM capacity toward HBM and server memory, creating pressure elsewhere; memory cycles are shaped by capex discipline, product mix, qualification time, and customer allocation.
+
 ![ASML EUV China export-control denial](../images/2026-06-20/news-02-asml-euv-denial-toms.png)
+
+Image-linked study note: This image anchors the EUV/export-control story. EUV tools are geopolitically sensitive because they are critical to leading-edge logic, so the note should separate reported concern, vendor denial, tool category, component category, and what China could or could not do with access.
 
 ![Intel Foundry leadership appointment](../images/2026-06-20/news-03-intel-foundry-lee.png)
 
+Image-linked study note: This source connects Intel's foundry plan to advanced packaging. The important revision angle is that a modern foundry must offer customer-ready process nodes, packaging technologies, test flows, thermal/power integration, and credible execution management.
+
 ![SK hynix HBM4E samples](../images/2026-06-20/news-04-sk-hynix-hbm4e.png)
+
+Image-linked study note: This image keeps HBM4E in the weekend follow-up. Sampling does not mean mass production is complete; it means key AI customers can validate capacity, bandwidth, stack height, thermal behavior, package integration, and system-level reliability.
 
 ![SEMICON India 2026](../images/2026-06-20/news-05-semicon-india-2026.png)
 
+Image-linked study note: This image is the India checkpoint for the day. Use it to connect global bottlenecks with India's realistic participation areas: design services, verification, embedded systems, OSAT/ATMP, materials support, skilling, and policy-backed ecosystem building.
+
 ![SIA latest semiconductor news](../images/2026-06-20/news-06-sia-latest.png)
+
+Image-linked study note: This image anchors the market and policy baseline. SIA-style sources are useful for connecting daily headlines to broader sales data, US policy context, AI data-center demand, and the semiconductor value chain rather than treating each article as isolated.
 
 ## Source Snippets
 
@@ -159,4 +175,3 @@ June 20 ka simple point: AI is eating the semiconductor supply chain from multip
 - Intel packaging reset: updated. Seok-Hee Lee appointment confirms packaging/system integration is now a focused Intel Foundry leadership area.
 - HBM4E samples: updated. SK hynix confirmed sampling, but named customers and qualification status remain undisclosed.
 - India: still pending. Watch for SEMICON India 2026 agenda, exhibitor list, and state/company participation updates.
-

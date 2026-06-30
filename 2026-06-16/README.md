@@ -2,6 +2,10 @@
 
 Date: 2026-06-16
 
+## Editorial Coverage Rule
+
+Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -18,11 +22,19 @@ Current screenshot status: captured.
 
 ![Intel 18A-P risk production](../images/2026-06-16/news-01-intel-18a-p.png)
 
+Image-linked study note: This screenshot anchors the process-node execution story. The learning point is not only that Intel announced 18A-P risk production; it is whether Intel can convert RibbonFET/PowerVia roadmap claims into manufacturable foundry service, with PDK readiness, yield learning, and customer confidence.
+
 ![TSMC CoWoS vs CoPoS](../images/2026-06-16/news-02-tsmc-cowos-copos.png)
+
+Image-linked study note: This image anchors the packaging-scaling debate. CoWoS versus CoPoS is not simply old packaging versus new packaging; the real question is when panel-level approaches can beat mature silicon-interposer style packaging on package size, warpage control, routing density, yield, and AI-accelerator economics.
 
 ![AMD-MEXT memory wall](../images/2026-06-16/news-03-amd-mext-eetimes.png)
 
+Image-linked study note: This source is the memory-wall anchor for the day. Treat it as a reminder that adding compute is not enough when model weights and activations cannot move fast enough; revise bandwidth, latency, memory pooling, CXL-style expansion, HBM, and how software sees memory tiers.
+
 ![SiMa physical AI](../images/2026-06-16/news-04-sima-physical-ai.png)
+
+Image-linked study note: This image links edge AI hardware with the developer workflow. The important point is that physical AI products need chips, compilers, model deployment tools, sensor integration, and power-aware runtime support, not just a standalone accelerator block.
 
 ## Source Snippets
 

@@ -11,6 +11,6 @@ Chrome screenshot status: captured.
 
 ## Notes
 
-- Prefer screenshots showing the headline and date only.
-- Do not screenshot full article text.
+- Prefer screenshots showing the headline, source, date, and a short visible snippet only.
+- Embed captured images in the daily note before explanation; cover related editorials fully using original study writing and source links.
 - After screenshots are added, update `Status` to `Captured`.
