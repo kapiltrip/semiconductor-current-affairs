@@ -124,6 +124,7 @@ trackers/
 | 2026-06-28 | [2026-06-28/README.md](2026-06-28/README.md) | [images/2026-06-28/links.md](images/2026-06-28/links.md) | HBM-led memory supercycle, HBM4E packaging, MR-MUF, thermal/yield constraints |
 | 2026-06-29 | [2026-06-29/README.md](2026-06-29/README.md) | [images/2026-06-29/links.md](images/2026-06-29/links.md) | Korea chip hub, Nvidia China pressure, AI-chip share rally, BCD-on-SOI power electronics |
 | 2026-06-30 | [2026-06-30/README.md](2026-06-30/README.md) | [images/2026-06-30/links.md](images/2026-06-30/links.md) | Korea capex-cycle risk, AI-server MLCCs, Jewar PCB/ISM catch-up, June systems synthesis |
+| 2026-07-01 | [2026-07-01/README.md](2026-07-01/README.md) | [images/2026-07-01/links.md](images/2026-07-01/links.md) | Etched inference ASIC, NIO automotive AI, MEMS timing, SOX market concentration |
 
 ## Note Quality Standard
 
@@ -201,4 +202,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-06-30, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. The June 30 note uses verified text sources because the optional screenshot-capture dependency was unavailable.
+Daily notes are created through 2026-07-01, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. The July 1 note uses verified text sources because in-app image export timed out and the standalone capture dependency was unavailable.
