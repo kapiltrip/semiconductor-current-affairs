@@ -126,6 +126,7 @@ trackers/
 | 2026-06-30 | [2026-06-30/README.md](2026-06-30/README.md) | [images/2026-06-30/links.md](images/2026-06-30/links.md) | Korea capex-cycle risk, AI-server MLCCs, Jewar PCB/ISM catch-up, June systems synthesis |
 | 2026-07-01 | [2026-07-01/README.md](2026-07-01/README.md) | [images/2026-07-01/links.md](images/2026-07-01/links.md) | Etched inference ASIC, NIO automotive AI, MEMS timing, SOX market concentration |
 | 2026-07-02 | [2026-07-02/README.md](2026-07-02/README.md) | [images/2026-07-02/links.md](images/2026-07-02/links.md) | SK hynix NAND/packaging capex, Infineon Dresden fab, Micron-GM memory, Asian chip selloff |
+| 2026-07-03 | [2026-07-03/README.md](2026-07-03/README.md) | [images/2026-07-03/links.md](images/2026-07-03/links.md) | Kioxia 332-layer NAND, FormFactor probe cards, Socionext A14 chiplet, memory equipment spending |
 
 ## Note Quality Standard
 
@@ -203,4 +204,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-07-02, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. The July 2 note uses verified text sources because browser navigation timed out and the standalone capture dependency was unavailable.
+Daily notes are created through 2026-07-03, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. The July 3 note uses verified text sources because browser navigation timed out and the standalone capture dependency was unavailable.
