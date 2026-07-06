@@ -129,6 +129,7 @@ trackers/
 | 2026-07-03 | [2026-07-03/README.md](2026-07-03/README.md) | [images/2026-07-03/links.md](images/2026-07-03/links.md) | Kioxia 332-layer NAND, FormFactor probe cards, Socionext A14 chiplet, memory equipment spending |
 | 2026-07-04 | [2026-07-04/README.md](2026-07-04/README.md) | [images/2026-07-04/links.md](images/2026-07-04/links.md) | CG Semi commercial-production milestone, India OSAT qualification, Infineon digital fab, Cadence verification agents |
 | 2026-07-05 | [2026-07-05/README.md](2026-07-05/README.md) | [images/2026-07-05/links.md](images/2026-07-05/links.md) | CG Semi first shipment, G1/G2 capacity arithmetic, India production count, PQC secure-chip watch |
+| 2026-07-06 | [2026-07-06/README.md](2026-07-06/README.md) | [images/2026-07-06/links.md](images/2026-07-06/links.md) | SK hynix U.S. offering, Samsung profit forecast, TSMC earnings watch, memory-allocation policy |
 
 ## Note Quality Standard
 
@@ -206,4 +207,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-07-05, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 5 includes three verified source-identifying screenshots; the direct Business Wire page rendered blank and is retained as a text link.
+Daily notes are created through 2026-07-06, with source manifests and readable headline/source screenshots captured where browser access allowed. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 6 uses verified text sources because both attempted headline captures timed out.
