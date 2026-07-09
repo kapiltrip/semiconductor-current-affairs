@@ -132,6 +132,7 @@ trackers/
 | 2026-07-06 | [2026-07-06/README.md](2026-07-06/README.md) | [images/2026-07-06/links.md](images/2026-07-06/links.md) | SK hynix U.S. offering, Samsung profit forecast, TSMC earnings watch, memory-allocation policy |
 | 2026-07-07 | [2026-07-07/README.md](2026-07-07/README.md) | [images/2026-07-07/links.md](images/2026-07-07/links.md) | Samsung Q2 guidance, SIA May sales record, TSMC quiet period, India Semicon 2.0, SK hynix offering watch |
 | 2026-07-08 | [2026-07-08/README.md](2026-07-08/README.md) | [images/2026-07-08/links.md](images/2026-07-08/links.md) | Samsung PM1763 PCIe 6.0 SSD, memory-stock volatility, SK hynix ADR demand, TSMC/SIA/ISM watch |
+| 2026-07-09 | [2026-07-09/README.md](2026-07-09/README.md) | [images/2026-07-09/links.md](images/2026-07-09/links.md) | Micron-GlobalWafers wafer supply, SK hynix oversubscription, Apple-Broadcom U.S. chips, Meta Iris watch, TSMC/ISM pending |
 
 ## Note Quality Standard
 
@@ -209,4 +210,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-07-08, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 8 embeds the official Samsung PM1763 press image and records text-link sources for market and policy items where the evidence is primarily reporting, filings, calendars, or official pages rather than durable screenshots.
+Daily notes are created through 2026-07-09, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 9 embeds valid Apple and ISM source screenshots, while Micron, SK hynix, Meta, TSMC, and technical references are recorded as text links where capture was blocked or unnecessary.
