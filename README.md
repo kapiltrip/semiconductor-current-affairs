@@ -1,3 +1,5 @@
+Will start review from 11 july , tomorrow . 
+
 # Semiconductor Current Affairs Daily Notebook
 
 This repository is for tracking semiconductor, VLSI, chip-design, fabrication, packaging, equipment, policy, and market current affairs.
