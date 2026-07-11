@@ -135,6 +135,8 @@ trackers/
 | 2026-07-07 | [2026-07-07/README.md](2026-07-07/README.md) | [images/2026-07-07/links.md](images/2026-07-07/links.md) | Samsung Q2 guidance, SIA May sales record, TSMC quiet period, India Semicon 2.0, SK hynix offering watch |
 | 2026-07-08 | [2026-07-08/README.md](2026-07-08/README.md) | [images/2026-07-08/links.md](images/2026-07-08/links.md) | Samsung PM1763 PCIe 6.0 SSD, memory-stock volatility, SK hynix ADR demand, TSMC/SIA/ISM watch |
 | 2026-07-09 | [2026-07-09/README.md](2026-07-09/README.md) | [images/2026-07-09/links.md](images/2026-07-09/links.md) | Micron-GlobalWafers wafer supply, SK hynix oversubscription, Apple-Broadcom U.S. chips, Meta Iris watch, TSMC/ISM pending |
+| 2026-07-10 | [2026-07-10/README.md](2026-07-10/README.md) | [images/2026-07-10/links.md](images/2026-07-10/links.md) | SK hynix Nasdaq trading launch, SKHYV-to-SKHY mechanics, TSMC June-sales delay, India OSAT/Semicon 2.0 watch |
+| 2026-07-11 | [2026-07-11/README.md](2026-07-11/README.md) | [images/2026-07-11/links.md](images/2026-07-11/links.md) | SK hynix first-day outcome, TSMC/ASML earnings-week setup, India Semicon 2.0 official-watch, follow-up cleanup |
 
 ## Note Quality Standard
 
@@ -212,4 +214,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-07-09, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 9 embeds valid Apple and ISM source screenshots, while Micron, SK hynix, Meta, TSMC, and technical references are recorded as text links where capture was blocked or unnecessary.
+Daily notes are created through 2026-07-11, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 10 embeds valid SK hynix and Nasdaq Trader screenshots, while July 11 embeds a valid ISM policy-watch screenshot and records AP, MarketWatch, IBD, TSMC, and other blocked captures as text links.
