@@ -2,6 +2,10 @@
 
 Date:
 
+## Quick Index
+
+**Page navigation:** [Sources](#source-snippets) · [Discussion](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -34,9 +38,9 @@ images/YYYY-MM-DD/links.md
 |---|---|---|---|---|
 |  |  | Local / International / Both |  |  |
 
-## Technical Terms / Deep Definitions
+## Technical-Term Working Notes
 
-Rule: whenever a technical term first appears in the discussion, define it immediately on the next line in this format:
+Rule: define a technical term at first use when the reader needs it to understand the argument. Also repeat a concise meaning in the page-end technical-term index.
 
 ```markdown
 Term: HBM (High-Bandwidth Memory)
@@ -104,3 +108,13 @@ Write this like you would explain it in a discussion.
 ## Follow-Up
 
 - 
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [HBM](#daily-term-high-bandwidth-memory-hbm)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | Stacked DRAM placed close to an accelerator so data can move at very high bandwidth. |

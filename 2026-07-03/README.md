@@ -14,6 +14,8 @@ Research window: July 3 India evening, plus the nearest July 1-to-July 3 publica
 | 2026-07-03 | Memory equipment spending forecast exceeds US$50 billion | SEMI | Provides the equipment and cycle context behind Kioxia, SK hynix, Samsung, Micron, and packaging expansion. |
 | 2026-07-03 | Pending foundry, export-control, market, and India questions | Prior primary sources, BIS, PIB India | Preserves unresolved items instead of treating plans or reports as completed facts. |
 
+**Page navigation:** [Sources](#source-map) · [Concept review](#concept-review) · [Follow-up](#what-to-follow-next) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Technical Terms / Deep Definitions
 
 Term: 3D NAND flash
@@ -232,3 +234,25 @@ Confirmed: SEMI's forecast and current project database. Analysis: elevated spen
 ## Final Takeaway
 
 July 3 connects three normally separated engineering stages. Kioxia is scaling the memory device and beginning factory production; FormFactor is expanding the hardware that decides whether wafer dies are good; Socionext is preparing a leading-edge test chip to learn before customer production. The common lesson is that a specification, sample, tape-out, factory opening and volume shipment are different milestones. Reliable semiconductor analysis depends on naming the exact gate that has actually been crossed.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [3D NAND flash](#daily-term-3d-nand-flash) · [Bit density](#daily-term-bit-density) · [Chiplet](#daily-term-chiplet) · [CMOS directly Bonded to Array (CBA)](#daily-term-cmos-directly-bonded-to-array-cba) · [Known-good die](#daily-term-known-good-die) · [NAND interface speed](#daily-term-nand-interface-speed) · [Probe card](#daily-term-probe-card) · [Sample shipment](#daily-term-sample-shipment) · [Tape-out](#daily-term-tape-out) · [Triple-Level Cell (TLC)](#daily-term-triple-level-cell-tlc) · [TSMC A14 process](#daily-term-tsmc-a14-process)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-3d-nand-flash"></a>[**3D NAND flash**](../knowledge-base/glossary.md#term-3d-nand-flash) | 3D NAND stores non-volatile bits in vertical strings of memory cells rather than relying only on lateral shrinking across a flat wafer. Vertical stacking solves the cost and density limits that appear when planar flash cells become too small and interfere electrically. |
+| <a id="daily-term-bit-density"></a>[**Bit density**](../knowledge-base/glossary.md#term-bit-density) | Bit density measures how many information bits a memory technology stores per unit die area or wafer area. It solves an economic question: how much sellable capacity can be produced from expensive processed silicon. |
+| <a id="daily-term-chiplet"></a>[**Chiplet**](../knowledge-base/glossary.md#term-chiplet) | A chiplet is a separately manufactured die designed to communicate with other dies inside one package as part of a larger system. It solves reticle-size, yield, reuse, process-choice, and product-variant problems by partitioning a monolithic SoC. |
+| <a id="daily-term-cmos-directly-bonded-to-array-cba"></a>[**CMOS directly Bonded to Array (CBA)**](../knowledge-base/glossary.md#term-cmos-directly-bonded-to-array-cba) | CBA fabricates the NAND memory-cell array and CMOS control circuitry on separate 300 mm wafers under process conditions optimized for each, then joins them face-to-face through dense copper direct bonds. It solves the thermal and area compromises of building both structures sequentially on one wafer. |
+| <a id="daily-term-known-good-die"></a>[**Known-good die**](../knowledge-base/glossary.md#term-known-good-die) | A known-good die is an unpackaged chip that has passed enough electrical screening to be trusted for assembly into a more valuable package. It solves a multiplication-of-yield problem: if several untested chiplets are combined and one is defective, the complete package can be lost. |
+| <a id="daily-term-nand-interface-speed"></a>[**NAND interface speed**](../knowledge-base/glossary.md#term-nand-interface-speed) | NAND interface speed is the transfer rate between raw flash dies and the controller, expressed here per data pin in gigabits per second. It solves the data-movement bottleneck after cells are read internally. |
+| <a id="daily-term-probe-card"></a>[**Probe card**](../knowledge-base/glossary.md#term-probe-card) | A probe card is the precision interface between automatic test equipment and microscopic pads or bumps on dies that are still part of a wafer. Thousands of carefully controlled probe contacts deliver power and high-speed signals, then capture responses to identify defective dies before packaging. |
+| <a id="daily-term-sample-shipment"></a>[**Sample shipment**](../knowledge-base/glossary.md#term-sample-shipment) | A sample shipment supplies pre-production devices so customers can test function, compatibility, performance, power, firmware, and reliability before qualification. It solves the coordination problem between a new component and the customer's controller or system design. |
+| <a id="daily-term-tape-out"></a>[**Tape-out**](../knowledge-base/glossary.md#term-tape-out) | Tape-out is the formal release of a completed physical IC design database to the foundry for mask generation and wafer fabrication. It solves the handoff from design to manufacturing and freezes a specific revision. |
+| <a id="daily-term-triple-level-cell-tlc"></a>[**Triple-Level Cell (TLC)**](../knowledge-base/glossary.md#term-triple-level-cell-tlc) | TLC flash stores three bits in one physical memory cell by distinguishing eight charge or threshold-voltage states. It solves cost-per-bit and density problems by extracting more logical states from each cell. |
+| <a id="daily-term-tsmc-a14-process"></a>[**TSMC A14 process**](../knowledge-base/glossary.md#term-tsmc-a14-process) | A14 is a TSMC leading-edge process platform using nanosheet transistor technology. The name is a commercial node designation, not a guarantee that every physical feature is exactly 1.4 nanometres. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

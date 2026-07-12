@@ -2,6 +2,12 @@
 
 Date: 2026-06-22
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -123,3 +129,18 @@ June 22 ka simple point: AI demand is now being tested through memory stocks and
 - AMD-Samsung: reported, not confirmed by AMD or Samsung.
 - ASML/EUV concern: ASML denial remains the confirmed position.
 - India: watch SEMICON India agenda and exhibitor updates.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Advanced packaging](#daily-term-advanced-packaging) · [EUV lithography](#daily-term-euv-lithography) · [Foundry diversification](#daily-term-foundry-diversification) · [High-Bandwidth Memory (HBM)](#daily-term-high-bandwidth-memory-hbm)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-advanced-packaging"></a>[**Advanced packaging**](../knowledge-base/glossary.md#term-advanced-packaging) | Advanced packaging is the engineering layer after wafer fabrication where multiple dies, memory stacks, substrates, and interconnect bridges become one working product. For AI chips, packaging is where compute dies meet HBM, power, thermals, and test yield. |
+| <a id="daily-term-euv-lithography"></a>[**EUV lithography**](../knowledge-base/glossary.md#term-euv-lithography) | EUV lithography is the advanced chip-patterning method that uses 13.5 nm light to print very small features. It is strategically sensitive because only ASML supplies production EUV scanners, and those scanners are needed for the most advanced logic nodes. |
+| <a id="daily-term-foundry-diversification"></a>[**Foundry diversification**](../knowledge-base/glossary.md#term-foundry-diversification) | Foundry diversification means building a supply chain where a chip company can use more than one manufacturing partner. It is not simple outsourcing: a chip must be redesigned, verified, timed, and qualified against a specific foundry PDK, packaging flow, and yield model. |
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | HBM is stacked DRAM connected near an accelerator through very wide package-level links, so the accelerator can move data with much higher bandwidth and lower energy than ordinary memory modules. In AI, this matters because model weights and activations must move continuously; if memory is slow, more compute units do not help. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

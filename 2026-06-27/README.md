@@ -11,6 +11,8 @@ Date: 2026-06-27
 | 3 | Previous research expansion | Qualcomm, Micron, JEDEC | Adds deeper explanation to the June 25-26 AI-memory and inference-chip research. |
 | 4 | VLSI revision angle | JEDEC, Qualcomm | Memory hierarchy, HBM, LPDDR, NAND, inference cost, and data movement. |
 
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#confirmed-facts) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day are stored in:
@@ -126,3 +128,19 @@ June 27 ka simple point: AI demand is now strong enough that memory shortage is 
 - Track Qualcomm's HBC and AI300 roadmap for whether it reduces memory bandwidth pressure or creates another kind of memory demand.
 - Add a separate glossary note for DRAM, LPDDR, NAND, HBM, and SRAM if this topic keeps appearing.
 
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [AI inference](#daily-term-ai-inference) · [DRAM](#daily-term-dram) · [LPDDR](#daily-term-lpddr) · [Memory wall](#daily-term-memory-wall) · [NAND flash](#daily-term-nand-flash) · [Pass-through inflation](#daily-term-pass-through-inflation)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-ai-inference"></a>[**AI inference**](../knowledge-base/glossary.md#term-ai-inference) | AI inference is the stage where a trained model answers real user requests. Training builds the model; inference runs it repeatedly. |
+| <a id="daily-term-dram"></a>[**DRAM**](../knowledge-base/glossary.md#term-dram) | DRAM, or dynamic random-access memory, stores each bit using a tiny capacitor and transistor cell. Because the capacitor leaks charge, DRAM must be refreshed repeatedly. |
+| <a id="daily-term-lpddr"></a>[**LPDDR**](../knowledge-base/glossary.md#term-lpddr) | LPDDR is low-power DRAM used in mobile devices and thin laptops. It reduces voltage and power draw compared with standard desktop/server DRAM, which helps battery life and thermal design. |
+| <a id="daily-term-memory-wall"></a>[**Memory wall**](../knowledge-base/glossary.md#term-memory-wall) | The memory wall is the performance gap between how quickly compute units can process data and how quickly the memory system can deliver that data. A processor may have many arithmetic units, but if weights, activations, or user-context data arrive too slowly, expensive compute sits idle. |
+| <a id="daily-term-nand-flash"></a>[**NAND flash**](../knowledge-base/glossary.md#term-nand-flash) | NAND flash is non-volatile memory, meaning it keeps data even when power is off. It is used in SSDs, phones, memory cards, and data-center storage. |
+| <a id="daily-term-pass-through-inflation"></a>[**Pass-through inflation**](../knowledge-base/glossary.md#term-pass-through-inflation) | Pass-through inflation happens when a company's higher input cost is passed to buyers through higher product prices. In semiconductors, this can happen when memory, wafers, substrates, packaging, or logistics become expensive enough that device makers cannot absorb the cost inside their margins. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

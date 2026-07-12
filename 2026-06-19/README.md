@@ -2,6 +2,12 @@
 
 Date: 2026-06-19
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -162,3 +168,21 @@ For VLSI study, this is a strong day because it connects device physics, process
 - Add photonics and InP to the glossary.
 - Track MLPerf Training v6.0 submissions to identify which AI accelerators and systems are actually appearing in public benchmarks.
 - Track which of the June 19 device-scaling ideas move from research/demo stage toward customer PDKs or production design enablement.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [2D-material transistor](#daily-term-2d-material-transistor) · [3D stacked FET / CFET](#daily-term-3d-stacked-fet-cfet) · [Backside power delivery](#daily-term-backside-power-delivery) · [GAA](#daily-term-gaa) · [Indium phosphide photonics](#daily-term-indium-phosphide-photonics) · [MLPerf Training](#daily-term-mlperf-training) · [Multiphysics signoff](#daily-term-multiphysics-signoff)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-2d-material-transistor"></a>[**2D-material transistor**](../knowledge-base/glossary.md#term-2d-material-transistor) | A transistor using atomically thin channel materials such as transition-metal dichalcogenides. |
+| <a id="daily-term-3d-stacked-fet-cfet"></a>[**3D stacked FET / CFET**](../knowledge-base/glossary.md#term-3d-stacked-fet-cfet) | Future transistor direction that stacks nFET and pFET devices vertically to reduce footprint. |
+| <a id="daily-term-backside-power-delivery"></a>[**Backside power delivery**](../knowledge-base/glossary.md#term-backside-power-delivery) | Moving power routing to the wafer backside instead of routing only through frontside metal layers. |
+| <a id="daily-term-gaa"></a>[**GAA**](../knowledge-base/glossary.md#term-gaa) | Transistor architecture where the gate surrounds thin channels more completely than FinFET. |
+| <a id="daily-term-indium-phosphide-photonics"></a>[**Indium phosphide photonics**](../knowledge-base/glossary.md#term-indium-phosphide-photonics) | Compound-semiconductor technology useful for high-speed optical and photonic devices. |
+| <a id="daily-term-mlperf-training"></a>[**MLPerf Training**](../knowledge-base/glossary.md#term-mlperf-training) | Standardized benchmark suite for measuring full AI training systems. |
+| <a id="daily-term-multiphysics-signoff"></a>[**Multiphysics signoff**](../knowledge-base/glossary.md#term-multiphysics-signoff) | Verification across electrical, thermal, mechanical, and reliability domains together. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

@@ -2,6 +2,12 @@
 
 Date: 2026-06-20
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -175,3 +181,21 @@ June 20 ka simple point: AI is eating the semiconductor supply chain from multip
 - Intel packaging reset: updated. Seok-Hee Lee appointment confirms packaging/system integration is now a focused Intel Foundry leadership area.
 - HBM4E samples: updated. SK hynix confirmed sampling, but named customers and qualification status remain undisclosed.
 - India: still pending. Watch for SEMICON India 2026 agenda, exhibitor list, and state/company participation updates.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Back-end manufacturing](#daily-term-back-end-manufacturing) · [EMIB](#daily-term-emib) · [EUV lithography](#daily-term-euv-lithography) · [Export controls](#daily-term-export-controls) · [HBM4E](#daily-term-hbm4e) · [High-Bandwidth Memory (HBM)](#daily-term-high-bandwidth-memory-hbm) · [Memory cycle](#daily-term-memory-cycle)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-back-end-manufacturing"></a>[**Back-end manufacturing**](../knowledge-base/glossary.md#term-back-end-manufacturing) | Assembly, packaging, system integration, and test work after wafers are fabricated. |
+| <a id="daily-term-emib"></a>[**EMIB**](../knowledge-base/glossary.md#term-emib) | Intel's Embedded Multi-die Interconnect Bridge packaging technology. |
+| <a id="daily-term-euv-lithography"></a>[**EUV lithography**](../knowledge-base/glossary.md#term-euv-lithography) | Extreme ultraviolet lithography used for advanced chip patterning. |
+| <a id="daily-term-export-controls"></a>[**Export controls**](../knowledge-base/glossary.md#term-export-controls) | Rules and traceability systems controlling where sensitive tools/chips can go. |
+| <a id="daily-term-hbm4e"></a>[**HBM4E**](../knowledge-base/glossary.md#term-hbm4e) | Enhanced next-generation HBM4-class memory for future AI systems. |
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | Stacked DRAM placed close to AI accelerators to deliver very high bandwidth. |
+| <a id="daily-term-memory-cycle"></a>[**Memory cycle**](../knowledge-base/glossary.md#term-memory-cycle) | The boom-bust pattern in memory supply, pricing, and capex. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

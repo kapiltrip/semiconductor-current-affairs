@@ -12,6 +12,8 @@ Date: 2026-06-29
 | 4 | Power electronics / BCD-on-SOI | Soitec / GlobeNewswire | Adds a non-GPU semiconductor angle: AI data centers, EVs, robotics, and power-management chips. |
 | 5 | Previous research follow-up | SK hynix, Micron, Qualcomm | Connects June 25-28 memory research with today's capacity and market signals. |
 
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#confirmed-facts) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day are stored in:
@@ -140,3 +142,20 @@ June 29 ka simple point: AI demand is now big enough that countries are building
 - Track Soitec/ZenSemi production milestones and whether BCD-on-SOI capacity moves beyond announcement.
 - Continue the HBM capacity watch from June 28: HBM4E qualification, packaging yield, thermal performance, and customer commitments.
 
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [BCD-on-SOI](#daily-term-bcd-on-soi) · [Capacity lead time](#daily-term-capacity-lead-time) · [Fab cluster](#daily-term-fab-cluster) · [Local substitution](#daily-term-local-substitution) · [Market concentration](#daily-term-market-concentration) · [Silicon-on-insulator (SOI)](#daily-term-silicon-on-insulator-soi) · [Specialty foundry](#daily-term-specialty-foundry)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-bcd-on-soi"></a>[**BCD-on-SOI**](../knowledge-base/glossary.md#term-bcd-on-soi) | BCD-on-SOI combines Bipolar, CMOS, and DMOS device types on silicon-on-insulator wafers. Bipolar devices can handle analog precision, CMOS handles digital control, and DMOS handles higher-voltage power switching. |
+| <a id="daily-term-capacity-lead-time"></a>[**Capacity lead time**](../knowledge-base/glossary.md#term-capacity-lead-time) | Capacity lead time is the delay between deciding to invest in a fab and actually producing qualified chips. Semiconductor capacity is slow because land, cleanrooms, tools, process qualification, yield learning, and customer certification take years. |
+| <a id="daily-term-fab-cluster"></a>[**Fab cluster**](../knowledge-base/glossary.md#term-fab-cluster) | A fab cluster is a geographic concentration of semiconductor manufacturing facilities, suppliers, utilities, logistics, workers, universities, and service firms. It solves a coordination problem: fabs need water, power, gases, chemicals, equipment maintenance, skilled operators, transport, and nearby partners. |
+| <a id="daily-term-local-substitution"></a>[**Local substitution**](../knowledge-base/glossary.md#term-local-substitution) | Local substitution happens when domestic companies replace foreign suppliers because imports are blocked, restricted, expensive, or politically risky. In semiconductors, export controls can slow access to top chips, but they can also create demand for domestic alternatives. |
+| <a id="daily-term-market-concentration"></a>[**Market concentration**](../knowledge-base/glossary.md#term-market-concentration) | Market concentration means a small number of companies capture a large share of value, supply, or strategic control in a sector. In AI semiconductors, concentration can appear in GPUs, HBM, EUV tools, foundry capacity, and advanced packaging. |
+| <a id="daily-term-silicon-on-insulator-soi"></a>[**Silicon-on-insulator (SOI)**](../knowledge-base/glossary.md#term-silicon-on-insulator-soi) | SOI is a wafer technology where a thin silicon layer sits on an insulating oxide layer. The insulating layer electrically isolates devices, reducing parasitic capacitance and leakage. |
+| <a id="daily-term-specialty-foundry"></a>[**Specialty foundry**](../knowledge-base/glossary.md#term-specialty-foundry) | A specialty foundry manufactures chips that are not necessarily leading-edge CPU/GPU logic, but require specialized processes such as power, analog, RF, display, sensors, MEMS, or embedded non-volatile memory. The problem it solves is process fit: many real-world chips need voltage handling, isolation, reliability, and mixed-signal behavior more than the smallest transistor node. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

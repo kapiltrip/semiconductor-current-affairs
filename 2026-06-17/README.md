@@ -2,6 +2,12 @@
 
 Date: 2026-06-17
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -130,3 +136,20 @@ Huawei/export-control news shows another angle: if one country blocks access to 
 - Create a deep-dive note on CoWoS, CoPoS, and advanced package substrates.
 - Track whether TSMC-Amkor Arizona capacity supports AI/HPC customers or broader advanced packaging demand.
 - Watch for India SEMICON 2026 speaker and agenda updates.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [ATMP](#daily-term-atmp) · [CoPoS](#daily-term-copos) · [CoWoS](#daily-term-cowos) · [Export controls](#daily-term-export-controls) · [OSAT](#daily-term-osat) · [Trusted supply chain](#daily-term-trusted-supply-chain)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-atmp"></a>[**ATMP**](../knowledge-base/glossary.md#term-atmp) | Assembly, testing, marking, and packaging. |
+| <a id="daily-term-copos"></a>[**CoPoS**](../knowledge-base/glossary.md#term-copos) | Chip-on-panel-on-substrate, a panel-level packaging direction intended to improve scaling and cost over time. |
+| <a id="daily-term-cowos"></a>[**CoWoS**](../knowledge-base/glossary.md#term-cowos) | Advanced 2.5D packaging where compute dies and HBM are integrated through an interposer/substrate flow. |
+| <a id="daily-term-export-controls"></a>[**Export controls**](../knowledge-base/glossary.md#term-export-controls) | Government restrictions on selling advanced chips, tools, or technology to specific countries/entities. |
+| <a id="daily-term-osat"></a>[**OSAT**](../knowledge-base/glossary.md#term-osat) | Outsourced semiconductor assembly and test. |
+| <a id="daily-term-trusted-supply-chain"></a>[**Trusted supply chain**](../knowledge-base/glossary.md#term-trusted-supply-chain) | A supply chain designed to reduce geopolitical, security, and concentration risk. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

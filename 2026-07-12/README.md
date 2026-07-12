@@ -8,11 +8,13 @@ Research window: Weekend / catch-up research on July 12 India evening, covering 
 
 | Date | Major Topic | Source Groups | Why To Read |
 |---|---|---|---|
-| 2026-07-12 | India: AI services, semiconductor design talent, and 315 university tool access | PIB / MeitY, Synopsys technical reference | Connects India's IT-services base to chip design, EDA tools, and the VLSI talent pipeline. |
+| 2026-07-12 | India: AI services, semiconductor design talent, and tool access at 315 academic institutions | PIB / MeitY, Synopsys technical reference | Connects India's IT-services base to chip design, EDA tools, and the VLSI talent pipeline. |
 | 2026-07-12 | ASML Q2 results checkpoint | ASML Q2 page, ASML Q1 guidance, ASML lithography reference | Shows why equipment order intake and export-control commentary matter before TSMC's foundry call. |
 | 2026-07-12 | TSMC Monday revenue checkpoint | TSMC financial calendar and monthly revenue page | Keeps the July 13 June-sales release separate from speculation. |
 | 2026-07-12 | SK hynix regular-way transition | Nasdaq Trader and SK hynix prior release | Tracks the listing mechanics after Friday's strong debut. |
 | 2026-07-12 | SEMICON India 2026 ecosystem watch | SEMICON India / SEMI / ISM event page | Preserves India's next public ecosystem milestone and what to verify before September. |
+
+**Page navigation:** [Sources](#source-map) · [Concept review](#concept-review) · [Follow-up](#what-to-watch-next) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
 
 ## Source Images And Manifest
 
@@ -33,6 +35,7 @@ PIB and TSMC were text-verified, but screenshot capture returned access/security
 | Source | Source date | Role | Confidence / limitation |
 |---|---:|---|---|
 | [PIB / MeitY: India's IT industry must pivot to AI as a Service](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2283693&reg=48&lang=2) | 2026-07-11 | Primary official source for Vaishnaw's India AI, semiconductor manufacturing, design-tool, and Hyderabad remarks | Strong official source; screenshot capture was access-denied, so text link only. |
+| [PIB / MeitY: C2S talent and EDA-program detail](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2236290&lang=2&reg=48) | 2026-03-07 | Official background verification for the 315-institution claim, named EDA partners, tool-usage scale, and design-to-test training path | Stronger program detail than the July 11 speech summary; used as background, not presented as July 12 news. |
 | [Synopsys: What is EDA?](https://www.synopsys.com/glossary/what-is-electronic-design-automation.html) | Reference | Technical definition support for EDA and chip design flow | Reputable EDA-company explainer. |
 | [ASML Q2 2026 financial-results page](https://www.asml.com/en/investors/financial-results/q2-2026) | Checked 2026-07-12 | Primary source for July 15 press-release and investor-call timing | Strong official source; screenshot saved. |
 | [ASML Q1 2026 financial-results release](https://www.asml.com/en/news/press-releases/2026/q1-2026-financial-results) | 2026-04-15 | Prior guidance for Q2 net sales, gross margin, AI demand, order intake, and export-control uncertainty | Primary prior-quarter context, not today's result. |
@@ -50,7 +53,7 @@ PIB and TSMC were text-verified, but screenshot capture returned access/security
 
 | News item | Verification status | Strongest evidence | What is analysis, not fact | What to check next |
 |---|---|---|---|---|
-| India AI/semiconductor talent remarks | Verified official statement | PIB / MeitY release dated July 11 | Whether 315-university tool access becomes job-ready VLSI capability | Tool vendors, curriculum depth, lab access, tape-out opportunities, internship conversion, and hiring outcomes. |
+| India AI/semiconductor talent remarks | Verified official statement | PIB / MeitY release dated July 11 | Whether tool access at 315 academic institutions becomes job-ready VLSI capability | Tool vendors, curriculum depth, lab access, tape-out opportunities, internship conversion, and hiring outcomes. |
 | 12 semiconductor plants / 3 producing chips | Official statement, details still need project-level verification | PIB / MeitY release | Which exact plants, product mix, export value, utilization, and recurring-volume quality | ISM/MeitY project updates, company releases, customs/export data, customer names. |
 | ASML July 15 Q2 checkpoint | Verified official calendar/page | ASML Q2 2026 page | Whether orders will beat expectations or export controls will pressure outlook | July 15 release, order intake, gross margin, China/export-control commentary. |
 | TSMC June monthly sales | Still pending | TSMC calendar and monthly revenue page | Any June revenue estimate before July 13 | July 13 official monthly revenue and July 16 Q2 call. |
@@ -63,23 +66,24 @@ PIB reported that Union Minister Ashwini Vaishnaw called for India's IT industry
 Term: AI as a Service
 Definition: AI as a Service means delivering AI capabilities through reusable platforms, APIs, managed models, domain-specific tools, and deployment support instead of only selling headcount-based software projects. It solves the business-scaling problem: a services company can package model access, data pipelines, inference workflows, monitoring, security, and customization into repeatable offerings. In today's news, it matters because the minister is asking Indian IT firms to turn AI capability into productized services while also connecting that software strength to electronics and semiconductor opportunities. Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2283693&reg=48&lang=2
 
-The semiconductor part is the sharper VLSI signal: PIB says the minister stated that 12 semiconductor manufacturing plants are at various development stages, with three already producing chips exported to Japan, Europe, and domestic markets. PIB also says the government has made advanced semiconductor design tools available to 315 universities.
+The semiconductor part is the sharper VLSI signal: PIB says the minister stated that 12 semiconductor manufacturing plants are at various development stages, with three already producing chips exported to Japan, Europe, and domestic markets. PIB also says the government has made advanced semiconductor design tools available at 315 academic institutions. This wording is more precise than calling all 315 locations universities.
 
 Term: Semiconductor design tools
 Definition: Semiconductor design tools are specialized software and hardware systems used to design, simulate, verify, implement, and prepare chips for manufacturing. They solve the complexity problem: modern chips contain millions to billions of transistors, so manual design is impossible beyond small circuits. In today's news, tool access matters because giving universities design tools can expose students to real VLSI flows such as RTL design, simulation, synthesis, place-and-route, timing signoff, physical verification, and DFT. Source: https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
 
 Term: Electronic Design Automation
-Definition: Electronic Design Automation is the software-and-methodology stack used to design electronic systems and integrated circuits, covering architecture exploration, HDL entry, simulation, synthesis, physical design, timing, power, verification, and manufacturing checks. It solves the error-control and productivity problem: without EDA, engineers cannot reliably build complex chips at modern scale. In today's news, EDA matters because tool access at 315 universities can only become a real talent pipeline if students learn the full design flow, not just click through software menus. Source: https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+Definition: Electronic Design Automation is the software-and-methodology stack used to design electronic systems and integrated circuits, covering architecture exploration, HDL entry, simulation, synthesis, physical design, timing, power, verification, and manufacturing checks. It solves the error-control and productivity problem: without EDA, engineers cannot reliably build complex chips at modern scale. In today's news, EDA matters because tool access at 315 academic institutions can only become a real talent pipeline if students learn the full design flow, not just click through software menus. Source: https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
 
 Term: Talent pipeline
-Definition: A talent pipeline is the structured path that turns students into job-ready engineers through curriculum, tools, labs, projects, mentors, internships, assessment, and hiring. It solves the workforce bottleneck in industries where equipment and capital are not enough without trained people. In today's news, the 315-university claim is important only if it produces graduates who can debug timing violations, write verification testbenches, understand PDK constraints, and work with manufacturing/package teams. Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2283693&reg=48&lang=2
+Definition: A talent pipeline is the structured path that turns students into job-ready engineers through curriculum, tools, labs, projects, mentors, internships, assessment, and hiring. It solves the workforce bottleneck in industries where equipment and capital are not enough without trained people. In today's news, the 315-institution claim is important only if it produces graduates who can debug timing violations, write verification testbenches, understand PDK constraints, and work with manufacturing/package teams. Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2283693&reg=48&lang=2
 
 ### Confirmed facts
 
 - PIB dates the release July 11, and it entered this July 12 review window.
 - The statement links India's next growth phase to AI, semiconductor manufacturing, electronics manufacturing, and advanced infrastructure.
 - PIB reports the minister said 12 semiconductor manufacturing plants are at different development stages and three are already producing chips for export/domestic markets.
-- PIB reports advanced semiconductor design tools have been made available to 315 universities.
+- PIB reports advanced semiconductor design tools have been made available at 315 academic institutions.
+- A separate March 7 PIB program release adds useful depth: it names Synopsys, Cadence, Siemens, Renesas, Ansys, and AMD as supporting tool access; reports more than 1.85 crore hours of EDA-tool usage; and says student chips move through fabrication and testing at SCL Mohali. These figures strengthen the training context but still do not, by themselves, prove job placement or commercial tape-out readiness.
 - Hyderabad is framed as a technology-led growth center for semiconductors, AI, electronics, digital public infrastructure, and related innovation.
 
 ### Analysis
@@ -109,7 +113,7 @@ Definition: A system-on-chip is an integrated circuit that combines processors, 
 | Internship and hiring data | Shows whether the programme creates industry-ready engineers. |
 | University lab support | Tools alone fail without servers, licenses, mentors, and project discipline. |
 
-Simple explanation: India is trying to connect its IT strength with AI and chip design. The important part for you is the 315-university design-tool access, but the real test is whether students learn actual VLSI flows deeply enough for jobs.
+Simple explanation: India is trying to connect its IT strength with AI and chip design. The important part for you is design-tool access at 315 academic institutions, but the real test is whether students learn actual VLSI flows deeply enough for jobs.
 
 ## 2. ASML: July 15 Is The Equipment Checkpoint Before TSMC's Foundry Call
 
@@ -229,7 +233,7 @@ Simple explanation: SEMICON India is the next big public checkpoint for India's 
 | Memory | Active | SK hynix remains the key memory-market follow-up. |
 | Foundry | Pending checkpoint | TSMC June sales on July 13 and Q2 call on July 16 are the decisive near-term evidence. |
 | Equipment | Major checkpoint | ASML July 15 results will test orders, margins, EUV/DUV demand, and export-control risk. |
-| EDA / IP | Major India learning item | PIB's 315-university design-tool claim is the day's strongest VLSI-career signal. |
+| EDA / IP | Major India learning item | PIB's 315-academic-institution design-tool claim is the day's strongest VLSI-career signal. |
 | Materials | No new primary item | July 9 Micron-GlobalWafers remains active. |
 | Packaging / test | Active | India OSAT and HBM packaging remain key constraints. |
 | Policy / export controls | Active watch | ASML export-control commentary and India Semicon 2.0 remain pending. |
@@ -246,7 +250,7 @@ Simple explanation: SEMICON India is the next big public checkpoint for India's 
 | TSMC Q2 results | Still pending | Official call July 16; quiet period continues through July 15. |
 | ASML Q2 results | Still pending | Official Q2 page confirms July 15 release/call. |
 | India Semicon 2.0 | Still pending official final policy | No final scheme text closed this in today's research. |
-| India design-tool access | New, active | PIB says advanced tools are available to 315 universities; verify vendors, curriculum, labs, and tape-out pathways. |
+| India design-tool access | New, active | PIB says advanced tools are available at 315 academic institutions; verify vendors, curriculum, labs, and tape-out pathways. |
 | CG Semi recurring output | Still pending | Need customer, product, package mix, yield, utilization, certification, and repeat shipment evidence. |
 | SEMICON India 2026 | Updated | Event page confirms September 17-19; agenda/exhibitors still pending. |
 
@@ -255,7 +259,7 @@ Simple explanation: SEMICON India is the next big public checkpoint for India's 
 | Concept | Key distinction | Why it matters |
 |---|---|---|
 | AI as a Service versus software services | AI services package models, data workflows, deployment, and monitoring; software services often sell project delivery. | India wants IT companies to move up the value chain. |
-| Tool access versus job readiness | Licenses expose students to tools; projects, debugging, and tape-outs build real skill. | The 315-university claim must become VLSI capability. |
+| Tool access versus job readiness | Licenses expose students to tools; projects, debugging, and tape-outs build real skill. | The 315-institution claim must become VLSI capability. |
 | EDA versus fabrication | EDA designs and verifies chips; fabrication manufactures wafers. | India can grow design strength even before many advanced fabs exist. |
 | ASML orders versus ASML revenue | Revenue shows delivered/recognized business; orders show future demand. | July 15 order intake will shape AI capacity expectations. |
 | TSMC monthly sales versus Q2 earnings | Monthly sales give revenue pulse; Q2 call explains margins, customer mix, and capex. | July 13 and July 16 answer different questions. |
@@ -282,8 +286,38 @@ Simple explanation: SEMICON India is the next big public checkpoint for India's 
 3. July 14: SK hynix settlement and offering-close checkpoint.
 4. July 15: ASML Q2 results, order intake, margin, EUV/DUV mix, and export-control comments.
 5. July 16: TSMC Q2 results, AI/HPC demand, advanced packaging, capex, and margin commentary.
-6. India: official Semicon 2.0 policy text, CG Semi recurring-production evidence, and details behind 315-university design-tool access.
+6. India: official Semicon 2.0 policy text, CG Semi recurring-production evidence, and details behind design-tool access at 315 academic institutions.
 
 ## Final Takeaway
 
-July 12 is a disciplined weekend watch note. The strongest India item is official: the government is linking AI services, semiconductor manufacturing, design tools, and university talent. For VLSI learning, the most important phrase is not "AI" but "advanced semiconductor design tools available to 315 universities"; that needs to become real EDA-flow skill. Globally, the next three days matter more than Sunday headlines: TSMC will update June revenue, SK hynix will normalize trading mechanics, and ASML will reveal whether AI demand is still pulling lithography orders despite export-control uncertainty.
+July 12 is a disciplined weekend watch note. The strongest India item is official: the government is linking AI services, semiconductor manufacturing, design tools, and academic talent. For VLSI learning, the most important phrase is not "AI" but "advanced semiconductor design tools available at 315 academic institutions"; that needs to become real EDA-flow skill. Globally, the next three days matter more than Sunday headlines: TSMC will update June revenue, SK hynix will normalize trading mechanics, and ASML will reveal whether AI demand is still pulling lithography orders despite export-control uncertainty.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [AI as a Service](#daily-term-ai-as-a-service) · [American Depositary Receipt (ADR)](#daily-term-american-depositary-receipt-adr) · [Design IP](#daily-term-design-ip) · [EDA](#daily-term-eda) · [EUV lithography](#daily-term-euv-lithography) · [Export controls](#daily-term-export-controls) · [Foundry](#daily-term-foundry) · [High-Bandwidth Memory (HBM)](#daily-term-high-bandwidth-memory-hbm) · [HPC](#daily-term-hpc) · [Lithography equipment](#daily-term-lithography-equipment) · [Monthly sales release](#daily-term-monthly-sales-release) · [Order intake](#daily-term-order-intake) · [OSAT](#daily-term-osat) · [Quiet period](#daily-term-quiet-period) · [Regular-way trading](#daily-term-regular-way-trading) · [Semiconductor ecosystem](#daily-term-semiconductor-ecosystem) · [Settlement](#daily-term-settlement) · [System-on-chip (SoC)](#daily-term-system-on-chip-soc) · [Talent pipeline](#daily-term-talent-pipeline)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-ai-as-a-service"></a>[**AI as a Service**](../knowledge-base/glossary.md#term-ai-as-a-service) | AI as a Service means delivering AI capabilities through reusable platforms, APIs, managed models, domain-specific tools, and deployment support instead of only selling headcount-based software projects. It solves the business-scaling problem: a services company can package model access, data pipelines, inference workflows, monitoring, security, and customization into repeatable offerings. |
+| <a id="daily-term-american-depositary-receipt-adr"></a>[**American Depositary Receipt (ADR)**](../knowledge-base/glossary.md#term-american-depositary-receipt-adr) | An American Depositary Receipt is a U.S.-traded receipt representing shares of a non-U.S. company through a depositary structure. It solves the access problem for U.S. investors by letting them trade foreign-company exposure through U.S. market infrastructure. |
+| <a id="daily-term-design-ip"></a>[**Design IP**](../knowledge-base/glossary.md#term-design-ip) | Design IP is a reusable block of chip design such as a processor core, memory controller, interface, security module, or analog block that can be licensed or reused inside a larger SoC. It solves the time-to-market problem because chip teams do not redesign every block from scratch. |
+| <a id="daily-term-eda"></a>[**EDA**](../knowledge-base/glossary.md#term-eda) | Electronic Design Automation is the software-and-methodology stack used to design electronic systems and integrated circuits, covering architecture exploration, HDL entry, simulation, synthesis, physical design, timing, power, verification, and manufacturing checks. It solves the error-control and productivity problem: without EDA, engineers cannot reliably build complex chips at modern scale. |
+| <a id="daily-term-euv-lithography"></a>[**EUV lithography**](../knowledge-base/glossary.md#term-euv-lithography) | EUV lithography uses 13.5 nm extreme-ultraviolet light to pattern very small chip features with fewer multi-patterning steps than many older DUV flows. It solves the scaling problem for leading-edge chips where smaller transistors, tighter metal pitches, and lower power require extremely precise patterning. |
+| <a id="daily-term-export-controls"></a>[**Export controls**](../knowledge-base/glossary.md#term-export-controls) | Export controls are government restrictions on selling or transferring sensitive goods, software, technology, or services to certain countries, companies, or end uses. They solve national-security and strategic-technology concerns, but they also reshape commercial supply chains. |
+| <a id="daily-term-foundry"></a>[**Foundry**](../knowledge-base/glossary.md#term-foundry) | A foundry manufactures chips for customers that design chips but do not own or use their own high-volume manufacturing fabs. It solves the capital and execution problem for fabless companies by providing process technology, manufacturing capacity, design rules, and yield systems. |
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | HBM, or High-Bandwidth Memory, is stacked DRAM placed close to AI processors through dense package interconnects so data can move at very high bandwidth. It solves the memory bottleneck in AI accelerators, where compute units can sit idle if model data cannot arrive fast enough. |
+| <a id="daily-term-hpc"></a>[**HPC**](../knowledge-base/glossary.md#term-hpc) | HPC means high-performance computing, a market category covering compute-intensive workloads such as AI training, AI inference, cloud acceleration, simulation, and advanced data-center processing. It solves the need for extremely high compute throughput, memory bandwidth, and energy efficiency. |
+| <a id="daily-term-lithography-equipment"></a>[**Lithography equipment**](../knowledge-base/glossary.md#term-lithography-equipment) | Lithography equipment projects circuit patterns onto silicon wafers using light, masks, optics, wafer stages, photoresist, alignment, and process control. It solves the patterning problem: transistors and interconnects are too small and dense to draw mechanically, so fabs use optical systems to print repeated chip layers. |
+| <a id="daily-term-monthly-sales-release"></a>[**Monthly sales release**](../knowledge-base/glossary.md#term-monthly-sales-release) | A monthly sales release is a short revenue disclosure that reports a company's revenue for one month before full quarterly results are published. It solves the timing problem for investors and supply-chain watchers who want a near-real-time demand signal. |
+| <a id="daily-term-order-intake"></a>[**Order intake**](../knowledge-base/glossary.md#term-order-intake) | Order intake is the value of new customer orders booked during a period. It solves the forward-visibility problem for equipment companies: revenue tells you what was delivered or recognized, while orders indicate future demand and backlog strength. |
+| <a id="daily-term-osat"></a>[**OSAT**](../knowledge-base/glossary.md#term-osat) | OSAT means outsourced semiconductor assembly and test, the back-end manufacturing stage where wafer dies are packaged, electrically tested, marked, and prepared for system use. It solves the gap between a fragile bare die and a reliable board-ready component. |
+| <a id="daily-term-quiet-period"></a>[**Quiet period**](../knowledge-base/glossary.md#term-quiet-period) | A quiet period is the pre-results interval when a company limits communication with investors to avoid selective disclosure and speculation before earnings. It solves the fairness problem: all investors should receive material information through official releases, not private updates. |
+| <a id="daily-term-regular-way-trading"></a>[**Regular-way trading**](../knowledge-base/glossary.md#term-regular-way-trading) | Regular-way trading is the ordinary exchange-trading state where the security uses its normal ticker and standard settlement cycle. It solves the transition problem after temporary issuance mechanics such as when-issued trading. |
+| <a id="daily-term-semiconductor-ecosystem"></a>[**Semiconductor ecosystem**](../knowledge-base/glossary.md#term-semiconductor-ecosystem) | A semiconductor ecosystem is the connected set of companies, universities, suppliers, tools, fabs, OSATs, designers, materials providers, equipment vendors, customers, and government institutions needed to turn ideas into shipped chips and systems. It solves the coordination problem: no single fab or design company can build the whole industry alone. |
+| <a id="daily-term-settlement"></a>[**Settlement**](../knowledge-base/glossary.md#term-settlement) | Settlement is the post-trade process where the buyer delivers cash and the seller delivers the security through clearing and market infrastructure. It solves the ownership-transfer problem: a trade execution records the transaction, but settlement completes payment and delivery. |
+| <a id="daily-term-system-on-chip-soc"></a>[**System-on-chip (SoC)**](../knowledge-base/glossary.md#term-system-on-chip-soc) | A system-on-chip is an integrated circuit that combines processors, memory interfaces, accelerators, I/O, security, and control logic on one chip or chiplet-based system. It solves the integration problem by putting many system functions close together for lower power, smaller size, and better performance. |
+| <a id="daily-term-talent-pipeline"></a>[**Talent pipeline**](../knowledge-base/glossary.md#term-talent-pipeline) | A talent pipeline is the structured path that turns students into job-ready engineers through curriculum, tools, labs, projects, mentors, internships, assessment, and hiring. It solves the workforce bottleneck in industries where equipment and capital are not enough without trained people. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

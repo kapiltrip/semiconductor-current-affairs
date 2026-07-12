@@ -2,6 +2,12 @@
 
 Date: 2026-06-24
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -115,3 +121,18 @@ June 24 ka simple point: the market is asking for proof. Micron must prove AI me
 - Cerebras: updated. Revenue beat and stronger guide are positive, but losses and deployment costs remain the risk.
 - Korea memory selloff: partially updated. Rebound happened, but volatility remains.
 - India: still pending. Watch SEMICON India agenda and ISM updates.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Forward guidance](#daily-term-forward-guidance) · [Semiconductor index](#daily-term-semiconductor-index) · [SRAM](#daily-term-sram) · [Wafer-scale engine](#daily-term-wafer-scale-engine)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-forward-guidance"></a>[**Forward guidance**](../knowledge-base/glossary.md#term-forward-guidance) | Forward guidance is the company's forecast and commentary about future demand, supply, margins, and spending. For Micron, guidance matters because investors want to know if HBM and server DRAM demand are strong enough to justify high memory-stock expectations. |
+| <a id="daily-term-semiconductor-index"></a>[**Semiconductor index**](../knowledge-base/glossary.md#term-semiconductor-index) | A semiconductor index groups many chip-related companies into one market measure. It can show broad investor sentiment, but it hides the fact that memory, equipment, foundry, EDA, and AI accelerators have different business cycles. |
+| <a id="daily-term-sram"></a>[**SRAM**](../knowledge-base/glossary.md#term-sram) | SRAM is fast on-chip memory made from transistor latch cells. It avoids refresh and has low latency compared with DRAM, but it consumes much more silicon area per bit, so designers use it for caches and local buffers rather than cheap bulk capacity. |
+| <a id="daily-term-wafer-scale-engine"></a>[**Wafer-scale engine**](../knowledge-base/glossary.md#term-wafer-scale-engine) | A wafer-scale engine is a processor built using a whole wafer-scale piece of silicon instead of many conventional reticle-sized chips. The benefit is very large on-chip compute and memory fabric; the risk is that yield, power, cooling, and deployment cost are much harder than with ordinary packaged chips. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

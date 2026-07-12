@@ -2,6 +2,12 @@
 
 Date: 2026-06-26
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#confirmed-facts) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Technical Terms / Deep Definitions
 
 Term: High Bandwidth Memory (HBM)
@@ -188,3 +194,23 @@ June 26 ka simple point: AI hardware demand is real, but every layer is constrai
 - Track TSMC price-hike confirmation from primary sources.
 - Track Pax Silica concrete outputs: funding, critical minerals, fab/ATMP commitments, and India-specific partnerships.
 - Continue ASML/EUV China, AMD-Samsung foundry, and Cerebras profitability follow-ups.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Advanced node](#daily-term-advanced-node) · [American Depositary Receipt (ADR)](#daily-term-american-depositary-receipt-adr) · [High Bandwidth Compute (HBC)](#daily-term-high-bandwidth-compute-hbc) · [High-Bandwidth Memory (HBM)](#daily-term-high-bandwidth-memory-hbm) · [High-NA EUV](#daily-term-high-na-euv) · [Nanostack transistor architecture](#daily-term-nanostack-transistor-architecture) · [Pax Silica](#daily-term-pax-silica) · [Semiconductor equipment supplier](#daily-term-semiconductor-equipment-supplier) · [Semiconductor IP](#daily-term-semiconductor-ip)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-advanced-node"></a>[**Advanced node**](../knowledge-base/glossary.md#term-advanced-node) | An advanced node is a leading semiconductor manufacturing generation used for high-performance chips, typically described by labels such as 7 nm, 5 nm, 3 nm, or 2 nm. The label is no longer a literal transistor dimension; it is a technology generation combining transistor architecture, wiring density, power, performance, and cost. |
+| <a id="daily-term-american-depositary-receipt-adr"></a>[**American Depositary Receipt (ADR)**](../knowledge-base/glossary.md#term-american-depositary-receipt-adr) | An ADR is a US-traded certificate representing shares of a non-US company held by a depositary bank. The market-access problem it solves is that US investors can buy foreign-company exposure in dollars and through US market infrastructure instead of directly trading on a foreign exchange. |
+| <a id="daily-term-high-bandwidth-compute-hbc"></a>[**High Bandwidth Compute (HBC)**](../knowledge-base/glossary.md#term-high-bandwidth-compute-hbc) | HBC is Qualcomm's data-center memory/compute architecture for inference accelerators. Qualcomm describes it as an integrated memory technology meant to raise effective memory bandwidth and capacity per watt versus conventional accelerator memory approaches. |
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | HBM is DRAM stacked vertically and connected through very short, very wide interconnects inside an advanced package near the processor. The physical problem it solves is data movement: AI accelerators can have enormous compute, but they stall if model weights, activations, and key-value cache data cannot arrive fast enough. |
+| <a id="daily-term-high-na-euv"></a>[**High-NA EUV**](../knowledge-base/glossary.md#term-high-na-euv) | High numerical aperture extreme ultraviolet lithography is the next generation of EUV patterning with higher optical resolution than today's EUV scanners. The fabrication problem it solves is printing extremely small and dense circuit features without repeating many lower-resolution patterning steps. |
+| <a id="daily-term-nanostack-transistor-architecture"></a>[**Nanostack transistor architecture**](../knowledge-base/glossary.md#term-nanostack-transistor-architecture) | Nanostack is IBM's 3D transistor approach that stacks nanosheet-style transistor structures so more logic can fit in the same chip area. The manufacturing problem it tries to solve is that two-dimensional transistor shrink is running into spacing, leakage, wiring, and material limits. |
+| <a id="daily-term-pax-silica"></a>[**Pax Silica**](../knowledge-base/glossary.md#term-pax-silica) | Pax Silica is a US-led trusted-technology and supply-chain initiative focused on AI infrastructure, semiconductors, critical minerals, energy, advanced manufacturing, and investment coordination among partner economies. The policy problem it solves is dependency concentration: AI systems need chips, tools, minerals, power, logistics, and trusted suppliers, and many of those inputs are geopolitically concentrated. |
+| <a id="daily-term-semiconductor-equipment-supplier"></a>[**Semiconductor equipment supplier**](../knowledge-base/glossary.md#term-semiconductor-equipment-supplier) | A semiconductor equipment supplier makes the tools used to fabricate, inspect, package, and test chips. ASML sells lithography tools; Applied Materials sells deposition, etch, inspection, and process equipment. |
+| <a id="daily-term-semiconductor-ip"></a>[**Semiconductor IP**](../knowledge-base/glossary.md#term-semiconductor-ip) | Semiconductor IP is reusable, pre-designed circuit or software/hardware blocks licensed into chips. It solves the design-time problem: companies do not want to reinvent every interface, DSP, NPU, wireless, security, or sensor block from scratch. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

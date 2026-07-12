@@ -11,6 +11,8 @@ Date: 2026-06-28
 | 3 | Previous research expansion | June 25-27 notes | Deepens the earlier Micron, Qualcomm, Apple, and SK hynix research. |
 | 4 | Revision terms | JEDEC, SK hynix | HBM, TSV, MR-MUF, thermal resistance, memory supercycle, strategic customer agreements. |
 
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#confirmed-facts) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day are stored in:
@@ -126,3 +128,19 @@ June 28 ka simple point: AI chips are powerful, but memory decides whether that 
 - Track packaging terms: MR-MUF, hybrid bonding, interposer, substrate, known-good die.
 - Add a dedicated concept note comparing HBM, GDDR, DDR, LPDDR, SRAM, and NAND.
 
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [HBM4E](#daily-term-hbm4e) · [High-Bandwidth Memory (HBM)](#daily-term-high-bandwidth-memory-hbm) · [Memory supercycle](#daily-term-memory-supercycle) · [MR-MUF](#daily-term-mr-muf) · [Thermal resistance](#daily-term-thermal-resistance) · [TSV (Through-Silicon Via)](#daily-term-tsv-through-silicon-via)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-hbm4e"></a>[**HBM4E**](../knowledge-base/glossary.md#term-hbm4e) | HBM4E is an enhanced generation after HBM4, designed to increase bandwidth, capacity, and efficiency for future AI accelerators. The important idea is not only a faster memory chip; it is a more demanding package, stack, thermal, and test problem. |
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | HBM is stacked DRAM placed close to a processor or accelerator inside an advanced package. Instead of a narrow board-level memory channel, HBM uses many short, parallel connections through the stack and package. |
+| <a id="daily-term-memory-supercycle"></a>[**Memory supercycle**](../knowledge-base/glossary.md#term-memory-supercycle) | A memory supercycle is a longer-than-normal period of strong memory demand, tight supply, high pricing, and elevated investment. Ordinary memory cycles often swing between shortages and oversupply. |
+| <a id="daily-term-mr-muf"></a>[**MR-MUF**](../knowledge-base/glossary.md#term-mr-muf) | MR-MUF stands for mass reflow molded underfill. It is a packaging process SK hynix uses to improve heat dissipation and structural stability in HBM stacks. |
+| <a id="daily-term-thermal-resistance"></a>[**Thermal resistance**](../knowledge-base/glossary.md#term-thermal-resistance) | Thermal resistance measures how difficult it is for heat to move from a hot component to a cooler environment. Lower thermal resistance means heat escapes more easily. |
+| <a id="daily-term-tsv-through-silicon-via"></a>[**TSV (Through-Silicon Via)**](../knowledge-base/glossary.md#term-tsv-through-silicon-via) | A TSV is a vertical electrical connection that passes through a silicon die. In stacked memory, TSVs connect multiple DRAM layers so signals can move vertically instead of traveling across long board traces. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

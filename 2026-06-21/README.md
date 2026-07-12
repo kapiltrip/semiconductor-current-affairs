@@ -2,6 +2,12 @@
 
 Date: 2026-06-21
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -167,3 +173,20 @@ June 21 ka simple point: semiconductor companies are trying to reduce dependency
 - Intel packaging reset: still active. Dedicated packaging leadership is confirmed; customer wins remain the real proof point.
 - Memory crunch: still pending. Track Micron earnings and Samsung/SK hynix commentary for allocation and capex evidence.
 - India: still pending. Watch SEMICON India 2026 agenda and ISM updates for concrete ecosystem progress.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Advanced packaging](#daily-term-advanced-packaging) · [Capacity allocation](#daily-term-capacity-allocation) · [Dual sourcing](#daily-term-dual-sourcing) · [EUV traceability](#daily-term-euv-traceability) · [I/O die](#daily-term-i-o-die) · [PDK](#daily-term-pdk)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-advanced-packaging"></a>[**Advanced packaging**](../knowledge-base/glossary.md#term-advanced-packaging) | Integration of logic, memory, bridges/interposers, substrates, thermal handling, and test after wafer fabrication. |
+| <a id="daily-term-capacity-allocation"></a>[**Capacity allocation**](../knowledge-base/glossary.md#term-capacity-allocation) | Deciding which customers/products get limited fab, memory, or packaging capacity. |
+| <a id="daily-term-dual-sourcing"></a>[**Dual sourcing**](../knowledge-base/glossary.md#term-dual-sourcing) | Designing a supply chain so more than one manufacturing source can produce a product or part of it. |
+| <a id="daily-term-euv-traceability"></a>[**EUV traceability**](../knowledge-base/glossary.md#term-euv-traceability) | Ability to track EUV scanner location, operation, parts, and service history. |
+| <a id="daily-term-i-o-die"></a>[**I/O die**](../knowledge-base/glossary.md#term-i-o-die) | A chiplet handling memory interfaces, PCIe/CXL, Infinity Fabric-style links, and other system I/O. |
+| <a id="daily-term-pdk"></a>[**PDK**](../knowledge-base/glossary.md#term-pdk) | Process Design Kit: the rules, models, libraries, and signoff data needed to design for a specific foundry process. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

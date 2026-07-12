@@ -14,6 +14,8 @@ Research window: July 2 India afternoon, plus the nearest July 1-to-July 2 publi
 | 2026-07-02 | Asian chip shares reverse sharply | Investing.com, Reuters-linked market data | Separates changes in investor expectations from changes in factories, contracts, and physical demand. |
 | 2026-07-02 | Open foundry, equipment, design-software, policy, and India items | Prior primary sources, BIS, PIB India | Keeps unresolved claims visible and prevents announcement totals from being confused with operating capacity. |
 
+**Page navigation:** [Sources](#source-map) · [Concept review](#concept-review) · [Follow-up](#what-to-follow-next) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Technical Terms / Deep Definitions
 
 Term: NAND flash memory
@@ -235,3 +237,24 @@ Both can be rational. Companies plan capacity over years; markets continuously r
 ## Final Takeaway
 
 July 2 shows three semiconductor clocks running at different speeds. Factories and automotive platforms are planned over years; packaging and process qualification progress over quarters; markets reprice expectations in hours. Deep current-affairs analysis must keep those clocks separate. SK hynix, Infineon, and Micron announced physical capacity or supply commitments, while investors questioned whether the AI boom will earn enough return to justify its current price and capital intensity.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [300 mm wafer fab](#daily-term-300-mm-wafer-fab) · [Advanced packaging](#daily-term-advanced-packaging) · [Analog and mixed-signal integrated circuit](#daily-term-analog-and-mixed-signal-integrated-circuit) · [LPDRAM](#daily-term-lpdram) · [NAND flash](#daily-term-nand-flash) · [NOR flash](#daily-term-nor-flash) · [Power semiconductor](#daily-term-power-semiconductor) · [Strategic Customer Agreement](#daily-term-strategic-customer-agreement) · [UFS NAND](#daily-term-ufs-nand) · [Valuation reset](#daily-term-valuation-reset)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-300-mm-wafer-fab"></a>[**300 mm wafer fab**](../knowledge-base/glossary.md#term-300-mm-wafer-fab) | A 300 mm fab processes circular silicon wafers about 300 millimetres in diameter. Compared with a 200 mm wafer, the larger area can yield more dies per wafer and improve manufacturing economics when process volumes, automation, and tool utilization justify the much higher factory and equipment cost. |
+| <a id="daily-term-advanced-packaging"></a>[**Advanced packaging**](../knowledge-base/glossary.md#term-advanced-packaging) | An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. |
+| <a id="daily-term-analog-and-mixed-signal-integrated-circuit"></a>[**Analog and mixed-signal integrated circuit**](../knowledge-base/glossary.md#term-analog-and-mixed-signal-integrated-circuit) | An analog IC processes continuously varying electrical quantities such as voltage, current, temperature, or radio signals. A mixed-signal IC combines analog blocks with digital logic, for example an ADC, sensor interface, control loop, and digital communication block on one chip. |
+| <a id="daily-term-lpdram"></a>[**LPDRAM**](../knowledge-base/glossary.md#term-lpdram) | Low-power DRAM is volatile working memory engineered to reduce active and standby energy while providing high bandwidth. It stores bits in capacitors that must be refreshed, so it loses data when power is removed. |
+| <a id="daily-term-nand-flash"></a>[**NAND flash**](../knowledge-base/glossary.md#term-nand-flash) | NAND flash is non-volatile semiconductor storage: it retains bits after power is removed. Cells are arranged so many bits can be stored densely and written or erased in blocks, which lowers cost per bit but makes random byte-level updates more complex than DRAM. |
+| <a id="daily-term-nor-flash"></a>[**NOR flash**](../knowledge-base/glossary.md#term-nor-flash) | NOR flash is non-volatile memory optimized for reliable random reads and execute-in-place operation, allowing a processor to fetch firmware directly from the device. It solves the need to store boot code, safety software, and configuration data that must remain available without power. |
+| <a id="daily-term-power-semiconductor"></a>[**Power semiconductor**](../knowledge-base/glossary.md#term-power-semiconductor) | A power semiconductor switches, controls, or converts electrical energy rather than mainly processing information. Examples include MOSFETs, IGBTs, diodes, and power-management ICs. |
+| <a id="daily-term-strategic-customer-agreement"></a>[**Strategic Customer Agreement**](../knowledge-base/glossary.md#term-strategic-customer-agreement) | A Strategic Customer Agreement is a long-term commercial arrangement that aligns supply commitments, demand visibility, product qualification, and technical roadmaps between a supplier and customer. It solves the planning mismatch between semiconductor factories, which require years of investment and qualification, and customers that need predictable supply across product lifecycles. |
+| <a id="daily-term-ufs-nand"></a>[**UFS NAND**](../knowledge-base/glossary.md#term-ufs-nand) | Universal Flash Storage combines NAND flash with a controller and standardized high-speed serial interface in a managed package. The controller hides raw NAND complexity by handling wear leveling, error correction, bad blocks, and command scheduling. |
+| <a id="daily-term-valuation-reset"></a>[**Valuation reset**](../knowledge-base/glossary.md#term-valuation-reset) | A valuation reset is a rapid reduction in the price investors are willing to pay for expected future earnings or cash flow. It can occur without an immediate change in a company's factories or current orders when assumptions about growth, interest rates, competition, or capital spending change. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

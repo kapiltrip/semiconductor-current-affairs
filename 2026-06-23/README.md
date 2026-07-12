@@ -2,6 +2,12 @@
 
 Date: 2026-06-23
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -115,3 +121,17 @@ June 23 ka simple point: memory stocks got hit because investors started asking 
 - Memory ETF volatility: new watch item.
 - ASML/EUV allegation: still pending; ASML denies.
 - AMD-Samsung: still reported, not confirmed.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Capacity allocation](#daily-term-capacity-allocation) · [DRAM](#daily-term-dram) · [Memory ETF](#daily-term-memory-etf)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-capacity-allocation"></a>[**Capacity allocation**](../knowledge-base/glossary.md#term-capacity-allocation) | Capacity allocation is how fabs and memory makers decide which product lines receive limited production capacity. In today's market, AI/HBM can crowd out lower-margin consumer memory, while investor fear rises if pricing or demand looks overheated. |
+| <a id="daily-term-dram"></a>[**DRAM**](../knowledge-base/glossary.md#term-dram) | DRAM is volatile semiconductor memory that stores data in capacitor cells and needs periodic refresh. AI demand stresses DRAM supply because HBM uses DRAM dies in complex stacks close to accelerators, competing for wafer and packaging capacity. |
+| <a id="daily-term-memory-etf"></a>[**Memory ETF**](../knowledge-base/glossary.md#term-memory-etf) | A memory ETF is a basket of memory and storage stocks that trades like one security. It can make it easier for investors to buy the AI-memory theme, but it can also create crowded trades where many investors exit at the same time. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

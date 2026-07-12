@@ -2,6 +2,12 @@
 
 Date: 2026-06-25
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#confirmed-facts) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## News Images
 
 Screenshots for this day should be stored in:
@@ -159,3 +165,21 @@ June 25 ka simple point: AI chips are moving from "who has the fastest GPU" to "
 - Track SK hynix ADR filing/listing details and impact on memory-stock liquidity.
 - Track India Pax Silica outcomes and whether any funding or materials commitments become concrete.
 - Continue ASML/EUV China and AMD-Samsung foundry follow-ups until there is primary-source closure.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [AI ASIC](#daily-term-ai-asic) · [AI inference](#daily-term-ai-inference) · [Hardware-agnostic software stack](#daily-term-hardware-agnostic-software-stack) · [High-Bandwidth Memory (HBM)](#daily-term-high-bandwidth-memory-hbm) · [Pax Silica](#daily-term-pax-silica) · [Performance per watt](#daily-term-performance-per-watt) · [Strategic Customer Agreement](#daily-term-strategic-customer-agreement)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-ai-asic"></a>[**AI ASIC**](../knowledge-base/glossary.md#term-ai-asic) | An AI ASIC is an application-specific integrated circuit designed for targeted AI workloads instead of broad general-purpose computing. It can reduce data movement, improve utilization, and lower energy per token, but it is less flexible than GPUs and depends heavily on software, model roadmap stability, packaging, memory, and networking. |
+| <a id="daily-term-ai-inference"></a>[**AI inference**](../knowledge-base/glossary.md#term-ai-inference) | AI inference is the running phase of AI: a trained model receives a new prompt, image, request, or data stream and generates an answer or prediction. It matters today because inference volume scales with usage; every real customer interaction consumes latency-sensitive compute, memory bandwidth, networking, and energy. |
+| <a id="daily-term-hardware-agnostic-software-stack"></a>[**Hardware-agnostic software stack**](../knowledge-base/glossary.md#term-hardware-agnostic-software-stack) | A hardware-agnostic software stack lets developers run or optimize models across CPUs, GPUs, NPUs, and custom ASICs without rewriting everything for one vendor's accelerator. The business problem is lock-in: Nvidia CUDA is powerful partly because developers already use it. |
+| <a id="daily-term-high-bandwidth-memory-hbm"></a>[**High-Bandwidth Memory (HBM)**](../knowledge-base/glossary.md#term-high-bandwidth-memory-hbm) | HBM is stacked DRAM built for very high bandwidth near a processor package. It matters because AI accelerators are often limited by how quickly model data can move, not only by raw arithmetic. |
+| <a id="daily-term-pax-silica"></a>[**Pax Silica**](../knowledge-base/glossary.md#term-pax-silica) | Pax Silica is a coalition-style supply-chain and technology-security effort focused on trusted semiconductor inputs, critical minerals, rare earths, and partner-country funding. For India, it matters because fabs and ATMP projects need not only subsidies but also trusted suppliers, equipment access, raw materials, and strategic capital. |
+| <a id="daily-term-performance-per-watt"></a>[**Performance per watt**](../knowledge-base/glossary.md#term-performance-per-watt) | Performance per watt asks how much useful computation a system delivers for each watt of electrical power. In AI data centers, this is not just an engineering metric; it controls capex, cooling, utility availability, and cost per token. |
+| <a id="daily-term-strategic-customer-agreement"></a>[**Strategic Customer Agreement**](../knowledge-base/glossary.md#term-strategic-customer-agreement) | A Strategic Customer Agreement is a long-term supply agreement that can reserve capacity, volumes, or commercial terms between a chipmaker and a major customer. In memory, this matters because customers need guaranteed HBM/DRAM/NAND supply while suppliers need confidence before spending billions on fabs, packaging, tooling, and inventory. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

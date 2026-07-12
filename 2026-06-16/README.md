@@ -2,6 +2,12 @@
 
 Date: 2026-06-16
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -127,3 +133,20 @@ June 16 ka simple point: the semiconductor race is now about solving bottlenecks
 - Create a concept note on risk production, yield, and PDK maturity.
 - Create a concept note on CoWoS vs CoPoS.
 - Create a concept note on HBM and memory wall.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Backside power delivery](#daily-term-backside-power-delivery) · [CoWoS](#daily-term-cowos) · [GAA](#daily-term-gaa) · [Memory wall](#daily-term-memory-wall) · [MLSoC](#daily-term-mlsoc) · [Risk production](#daily-term-risk-production)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-backside-power-delivery"></a>[**Backside power delivery**](../knowledge-base/glossary.md#term-backside-power-delivery) | Routing power from the backside of the wafer instead of only the frontside metal stack. |
+| <a id="daily-term-cowos"></a>[**CoWoS**](../knowledge-base/glossary.md#term-cowos) | Chip-on-Wafer-on-Substrate, an advanced packaging approach used for large AI accelerators and HBM integration. |
+| <a id="daily-term-gaa"></a>[**GAA**](../knowledge-base/glossary.md#term-gaa) | Gate-all-around transistor architecture where the gate surrounds the channel more fully than FinFET. |
+| <a id="daily-term-memory-wall"></a>[**Memory wall**](../knowledge-base/glossary.md#term-memory-wall) | The gap between compute capability and memory bandwidth/capacity/data movement. |
+| <a id="daily-term-mlsoc"></a>[**MLSoC**](../knowledge-base/glossary.md#term-mlsoc) | Machine-learning system-on-chip for edge or physical AI workloads. |
+| <a id="daily-term-risk-production"></a>[**Risk production**](../knowledge-base/glossary.md#term-risk-production) | Early manufacturing phase before full high-volume production. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

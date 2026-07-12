@@ -2,6 +2,12 @@
 
 Date: 2026-06-18
 
+## Quick Index
+
+Use the page navigation below to jump directly to evidence, explanation, revision, or definitions.
+
+**Page navigation:** [Sources](#source-snippets) · [Main analysis](#discussion) · [Concept review](#concept-review) · [Follow-up](#follow-up) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Editorial Coverage Rule
 
 Embed each relevant image/screenshot before its explanation. For any related editorial, write full original study coverage in this note: thesis, main arguments, evidence, counterpoints, semiconductor/VLSI relevance, India angle, and questions to revise. Keep the source link for the original article.
@@ -149,3 +155,20 @@ For VLSI, the lesson is clear: do not study only RTL or transistor scaling. Also
 - Track whether Amazon officially announces external Trainium sales or only keeps Trainium inside AWS.
 - Treat Apple-Intel as reported/unconfirmed until Apple or Intel publishes a direct confirmation.
 - Create a deep-dive note on HBM stack structure, TSVs, thermal limits, and controller/PHY validation.
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [12-layer HBM](#daily-term-12-layer-hbm) · [Advanced packaging](#daily-term-advanced-packaging) · [Foundry customer qualification](#daily-term-foundry-customer-qualification) · [HBM4E](#daily-term-hbm4e) · [Hyperscaler ASIC](#daily-term-hyperscaler-asic) · [Merchant silicon](#daily-term-merchant-silicon)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-12-layer-hbm"></a>[**12-layer HBM**](../knowledge-base/glossary.md#term-12-layer-hbm) | A vertical stack of 12 DRAM dies in one HBM package. |
+| <a id="daily-term-advanced-packaging"></a>[**Advanced packaging**](../knowledge-base/glossary.md#term-advanced-packaging) | Package-level integration of compute, memory, interconnect, substrate, and thermal structures. |
+| <a id="daily-term-foundry-customer-qualification"></a>[**Foundry customer qualification**](../knowledge-base/glossary.md#term-foundry-customer-qualification) | The process by which external chip customers validate a foundry's PDK, yield, schedule, reliability, and packaging ecosystem. |
+| <a id="daily-term-hbm4e"></a>[**HBM4E**](../knowledge-base/glossary.md#term-hbm4e) | Future enhanced HBM4-class high-bandwidth memory generation for AI/HPC accelerators. |
+| <a id="daily-term-hyperscaler-asic"></a>[**Hyperscaler ASIC**](../knowledge-base/glossary.md#term-hyperscaler-asic) | A custom accelerator designed by a cloud-scale company for its own workloads. |
+| <a id="daily-term-merchant-silicon"></a>[**Merchant silicon**](../knowledge-base/glossary.md#term-merchant-silicon) | Chips sold broadly to external customers rather than used only internally. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

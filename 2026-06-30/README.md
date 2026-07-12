@@ -11,6 +11,8 @@ Date: 2026-06-30
 | 3 | India electronics-manufacturing catch-up | PIB India | Adds a missed official update on Jewar PCB manufacturing and gives a quantified June 2026 snapshot of ISM projects and design activity. |
 | 4 | Month-end synthesis | Primary and strong secondary sources | Connects June's stories into one systems view: compute, memory, packaging, power delivery, boards, capital, and policy. |
 
+**Page navigation:** [Sources](#source-map) · [Concept review](#concept-review) · [Follow-up](#what-to-follow-next) · [Technical terms](#technical-terms-used-today) · [Master glossary](../knowledge-base/glossary.md)
+
 ## Source Images And Manifest
 
 Source manifest:
@@ -207,3 +209,22 @@ The month's news supported five durable conclusions:
 ## Final Takeaway
 
 June 30 closes the month with a useful correction to the usual AI-chip narrative. The industry is not scaling one component. It is attempting to scale an interconnected production system whose limits include memory cycles, packaging yield, power integrity, passive components, PCBs, infrastructure, and policy execution. The best current-affairs habit is therefore to ask three questions for every announcement: **what physical output is being added, when does it become qualified, and which upstream or downstream constraint then becomes the bottleneck?**
+
+## Technical Terms Used Today
+
+[Back to quick index](#quick-index) · [Open the master A-Z glossary](../knowledge-base/glossary.md)
+
+**Term index:** [Capital expenditure (capex)](#daily-term-capital-expenditure-capex) · [Decoupling capacitor](#daily-term-decoupling-capacitor) · [Memory cycle](#daily-term-memory-cycle) · [Multilayer ceramic capacitor (MLCC)](#daily-term-multilayer-ceramic-capacitor-mlcc) · [Power integrity](#daily-term-power-integrity) · [Printed circuit board (PCB)](#daily-term-printed-circuit-board-pcb) · [Qualified capacity](#daily-term-qualified-capacity) · [Tape-out](#daily-term-tape-out)
+
+| Term | Meaning |
+|---|---|
+| <a id="daily-term-capital-expenditure-capex"></a>[**Capital expenditure (capex)**](../knowledge-base/glossary.md#term-capital-expenditure-capex) | Capex is money committed to long-lived productive assets such as land, cleanrooms, utilities, lithography tools, deposition and etch systems, assembly lines, and test equipment. In semiconductors, an announced multi-year capex envelope is not the same as money already spent or wafers already shipping. |
+| <a id="daily-term-decoupling-capacitor"></a>[**Decoupling capacitor**](../knowledge-base/glossary.md#term-decoupling-capacitor) | A decoupling capacitor is placed close to an IC power pin to reduce local supply-voltage disturbance. When current demand rises suddenly, the capacitor supplies charge locally; when the transient ends, it recharges from the power-delivery network. |
+| <a id="daily-term-memory-cycle"></a>[**Memory cycle**](../knowledge-base/glossary.md#term-memory-cycle) | The memory cycle is the recurring movement between shortage and oversupply in DRAM and NAND. Suppliers invest when prices and margins are high, but new capacity arrives after a long delay. |
+| <a id="daily-term-multilayer-ceramic-capacitor-mlcc"></a>[**Multilayer ceramic capacitor (MLCC)**](../knowledge-base/glossary.md#term-multilayer-ceramic-capacitor-mlcc) | An MLCC is a passive component made from many alternating ceramic dielectric and metal-electrode layers. Connecting those layers in parallel creates useful capacitance in a very small package. |
+| <a id="daily-term-power-integrity"></a>[**Power integrity**](../knowledge-base/glossary.md#term-power-integrity) | Power integrity is the ability of the complete power-delivery network—from rack input and voltage regulators through planes, vias, packages, bumps, and on-die distribution—to keep every supply rail within its allowed voltage and noise limits under changing load. It is a system property. |
+| <a id="daily-term-printed-circuit-board-pcb"></a>[**Printed circuit board (PCB)**](../knowledge-base/glossary.md#term-printed-circuit-board-pcb) | A PCB is the patterned mechanical and electrical platform that connects packaged chips, passive components, connectors, and power-delivery elements. A multilayer PCB uses stacked copper-routing and insulating layers to separate high-speed signals, reference planes, power distribution, and control routes. |
+| <a id="daily-term-qualified-capacity"></a>[**Qualified capacity**](../knowledge-base/glossary.md#term-qualified-capacity) | Qualified capacity is production capacity that can repeatedly manufacture a product within required electrical, reliability, yield, and volume targets and has been accepted by the customer. A completed building is therefore not usable capacity by itself. |
+| <a id="daily-term-tape-out"></a>[**Tape-out**](../knowledge-base/glossary.md#term-tape-out) | Tape-out is the release of a completed IC design database to a foundry for mask preparation and fabrication. It is an important design milestone, but it does not prove that the resulting silicon works, yields economically, passes qualification, or has reached mass production. |
+
+This page-end index covers the specialist terms central to this day's study. The fuller explanation, news context, and source remain at first use; the master glossary combines repeated terms across all days.

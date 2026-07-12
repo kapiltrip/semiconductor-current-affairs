@@ -1,5 +1,3 @@
-Will start review from 11 july , tomorrow . 
-
 # Semiconductor Current Affairs Daily Notebook
 
 This repository is for tracking semiconductor, VLSI, chip-design, fabrication, packaging, equipment, policy, and market current affairs.
@@ -7,6 +5,14 @@ This repository is for tracking semiconductor, VLSI, chip-design, fabrication, p
 The main goal is to create a daily study notebook: every date gets one Markdown file with embedded newspaper/editorial reference images, source snippets, full original editorial-style analysis, concept review, VLSI relevance, and interview-ready questions.
 
 The goal is not to collect every article. The goal is to build discussion-ready knowledge: what happened, why it matters, which companies or countries are affected, and what technical or business question it raises.
+
+## Study Navigation
+
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-12.
+- [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
+- [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
+- [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
+- [Running news log](trackers/news-log.md): scan the chronological evidence ledger.
 
 ## How To Use This Repo
 
@@ -22,7 +28,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
    - Is it local/India news, international news, or both?
    - Which semiconductor segment is involved?
    - What VLSI concept should I revise?
-   - Which technical terms need next-line definitions?
+   - Which technical terms need an inline explanation and a page-end glossary entry?
    - What question could someone ask me?
 6. Add only the most important items to `trackers/news-log.md`.
 
@@ -42,58 +48,14 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 ## Repo Structure
 
 ```text
-images/
-  README.md
-  2026-06-16/
-    links.md
-  2026-06-17/
-    links.md
-  2026-06-18/
-    links.md
-  2026-06-19/
-    links.md
-  2026-06-20/
-    links.md
-  2026-06-21/
-    links.md
-
-2026-06-16/
-  README.md
-
-2026-06-17/
-  README.md
-
-2026-06-18/
-  README.md
-
-2026-06-19/
-  README.md
-
-2026-06-20/
-  README.md
-
-2026-06-21/
-  README.md
-
-briefings/
-  2026/
-    2026-06-17-weekly-brief.md
-
-knowledge-base/
-  glossary.md
-  india-semiconductor-tracker.md
-  industry-map.md
-
-sources/
-  semiconductor-news-sources.md
-
-templates/
-  daily-note.md
-  news-note.md
-  weekly-brief.md
-
-trackers/
-  news-log.md
+YYYY-MM-DD/README.md          Daily study page with quick links and page-end term index
+images/YYYY-MM-DD/            Saved source images and links.md manifest
+knowledge-base/glossary.md    Master A-Z technical-term index
+knowledge-base/               Industry map and India semiconductor tracker
+briefings/2026/               Weekly synthesis
+trackers/news-log.md           Chronological evidence ledger
+templates/                     Reusable daily, story, and weekly formats
+scripts/                       Index-maintenance utilities
 ```
 
 ## What To Track
@@ -148,7 +110,7 @@ Every good note should answer:
 3. Is this local/India, international, or both?
 4. Which part of the semiconductor value chain is affected?
 5. What technical concept should I learn from this?
-6. What technical terms appeared, and were they defined deeply on the next line?
+6. What technical terms appeared, and can I jump to their meanings from the page index?
 7. What definition, example, and question should I revise later?
 
 ## Daily File Format
@@ -182,7 +144,7 @@ Use this section for concepts like HBM, CoWoS, OSAT, ATMP, GAA, EUV, DFT, STA, R
 
 ## Technical Term Definition Standard
 
-When a technical term first appears in a daily note, define it immediately in the next line. Do not only put all definitions at the end. The goal is that the note itself teaches the term at the point where it is needed.
+When a technical term first appears in a daily note, define it inline when the surrounding argument needs the meaning immediately. Every daily note must also finish with a clickable `Technical Terms Used Today` section, and every entry must link to the master A-Z glossary. This gives both context while reading and fast revision at the end.
 
 Use this format:
 
@@ -215,4 +177,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-07-12, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 12 embeds valid ASML and SEMICON India screenshots, while PIB and TSMC blocked screenshots are recorded as text-only links.
+Daily notes are reviewed through 2026-07-12. All 27 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots or official source images are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 12 embeds valid ASML and SEMICON India screenshots, while PIB and TSMC blocked screenshots are recorded as text-only links.
