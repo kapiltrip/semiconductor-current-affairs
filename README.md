@@ -137,6 +137,7 @@ trackers/
 | 2026-07-09 | [2026-07-09/README.md](2026-07-09/README.md) | [images/2026-07-09/links.md](images/2026-07-09/links.md) | Micron-GlobalWafers wafer supply, SK hynix oversubscription, Apple-Broadcom U.S. chips, Meta Iris watch, TSMC/ISM pending |
 | 2026-07-10 | [2026-07-10/README.md](2026-07-10/README.md) | [images/2026-07-10/links.md](images/2026-07-10/links.md) | SK hynix Nasdaq trading launch, SKHYV-to-SKHY mechanics, TSMC June-sales delay, India OSAT/Semicon 2.0 watch |
 | 2026-07-11 | [2026-07-11/README.md](2026-07-11/README.md) | [images/2026-07-11/links.md](images/2026-07-11/links.md) | SK hynix first-day outcome, TSMC/ASML earnings-week setup, India Semicon 2.0 official-watch, follow-up cleanup |
+| 2026-07-12 | [2026-07-12/README.md](2026-07-12/README.md) | [images/2026-07-12/links.md](images/2026-07-12/links.md) | India AI-semiconductor design talent, ASML Q2 checkpoint, TSMC July 13 revenue watch, SK hynix settlement, SEMICON India |
 
 ## Note Quality Standard
 
@@ -214,4 +215,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are created through 2026-07-11, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 10 embeds valid SK hynix and Nasdaq Trader screenshots, while July 11 embeds a valid ISM policy-watch screenshot and records AP, MarketWatch, IBD, TSMC, and other blocked captures as text links.
+Daily notes are created through 2026-07-12, with source manifests and readable headline/source screenshots or official source images captured where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 12 embeds valid ASML and SEMICON India screenshots, while PIB and TSMC blocked screenshots are recorded as text-only links.
