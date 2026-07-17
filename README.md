@@ -8,7 +8,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 
 ## Study Navigation
 
-- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-12.
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-17.
 - [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
 - [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
 - [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
@@ -100,6 +100,11 @@ scripts/                       Index-maintenance utilities
 | 2026-07-10 | [2026-07-10/README.md](2026-07-10/README.md) | [images/2026-07-10/links.md](images/2026-07-10/links.md) | SK hynix Nasdaq trading launch, SKHYV-to-SKHY mechanics, TSMC June-sales delay, India OSAT/Semicon 2.0 watch |
 | 2026-07-11 | [2026-07-11/README.md](2026-07-11/README.md) | [images/2026-07-11/links.md](images/2026-07-11/links.md) | SK hynix first-day outcome, TSMC/ASML earnings-week setup, India Semicon 2.0 official-watch, follow-up cleanup |
 | 2026-07-12 | [2026-07-12/README.md](2026-07-12/README.md) | [images/2026-07-12/links.md](images/2026-07-12/links.md) | India AI-semiconductor design talent, ASML Q2 checkpoint, TSMC July 13 revenue watch, SK hynix settlement, SEMICON India |
+| 2026-07-13 | [2026-07-13/README.md](2026-07-13/README.md) | [images/2026-07-13/links.md](images/2026-07-13/links.md) | TSMC June revenue, India USD 350B consumption forecast, helium materials risk, SK hynix regular-way trading |
+| 2026-07-14 | [2026-07-14/README.md](2026-07-14/README.md) | [images/2026-07-14/links.md](images/2026-07-14/links.md) | Intel Leixlip capacity, Submer MP liquid cooling/data centers, Nvidia compliance, China IC export-value interpretation |
+| 2026-07-15 | [2026-07-15/README.md](2026-07-15/README.md) | [images/2026-07-15/links.md](images/2026-07-15/links.md) | ASML Q2 results, EUV/DUV capacity plans, India Semicon 2.0, design/materials/ATMP/talent pillars |
+| 2026-07-16 | [2026-07-16/README.md](2026-07-16/README.md) | [images/2026-07-16/links.md](images/2026-07-16/links.md) | TSMC Q2 results, 2 nm revenue share, Q3 guidance, Arizona/capex expansion, market expectations risk |
+| 2026-07-17 | [2026-07-17/README.md](2026-07-17/README.md) | [images/2026-07-17/links.md](images/2026-07-17/links.md) | Global AI/chip-stock selloff, SOX drawdown, memory volatility, capex-intensity debate, Semicon 2.0 follow-up |
 
 ## Note Quality Standard
 
@@ -177,4 +182,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are reviewed through 2026-07-12. All 27 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots or official source images are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 12 embeds valid ASML and SEMICON India screenshots, while PIB and TSMC blocked screenshots are recorded as text-only links.
+Daily notes are reviewed through 2026-07-17. All 32 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots or official source images are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 13-17 embeds valid Economic Times, Intel, Times of India, ASML, and ISM screenshots; TSMC, AP, FT, MarketWatch, and other blocked or paywalled captures are recorded as text-only links.

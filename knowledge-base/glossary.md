@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-12**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-17**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -21,6 +21,17 @@ Start with the short meaning on a daily page. Use this master entry when the ter
 A vertical stack of 12 DRAM dies in one HBM package.
 
 **Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-12-layer-hbm)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-2-nm-process-technology"></a>
+## 2 nm process technology
+
+2 nm process technology is a leading-edge semiconductor manufacturing generation using newer transistor, interconnect, patterning, and design-rule advances to improve power, performance, and density. The node label is a technology-generation name rather than a literal two-nanometer dimension. In today's news, TSMC's 2 nm share matters because it shows the steep ramp has started contributing to revenue before becoming the dominant mix.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-2-nm-process-technology)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
 
 [Back to A-Z index](#a-z-index)
 
@@ -109,6 +120,17 @@ An advanced packaging and test facility turns fabricated dies into qualified mul
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-advanced-technologies"></a>
+## Advanced technologies
+
+In TSMC's reporting, advanced technologies are process nodes at 7 nm and more advanced. The category solves the mix-analysis problem by grouping the most economically important leading-edge nodes. In today's news, advanced technologies at 77% of wafer revenue show that TSMC's revenue is heavily weighted toward high-value process generations used by AI, HPC, smartphone, and networking customers.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-advanced-technologies)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-agentic-eda"></a>
 ## Agentic EDA
 
@@ -142,6 +164,17 @@ An AI ASIC is an application-specific integrated circuit optimized for AI worklo
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-data-center"></a>
+## AI data center
+
+An AI data center is a facility optimized for training or serving AI models using accelerators, high-bandwidth memory, fast networking, dense power delivery, cooling, storage, and orchestration software. It solves the compute-scale problem: AI models need many chips working together under tight power, thermal, and networking constraints. In today's news, MP's reported Submer investment matters because semiconductor demand is increasingly tied to data-center power and cooling infrastructure.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-ai-data-center)
+
+**Reference:** https://timesofindia.indiatimes.com/business/india-business/spains-submer-to-invest-2-billion-in-madhya-pradesh-semiconductor-sector-may-create-5000-jobs/articleshow/132362019.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ai-inference"></a>
 ## AI inference
 
@@ -153,12 +186,23 @@ AI inference is the stage where a trained model answers real user requests. Trai
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-trade"></a>
+## AI trade
+
+The AI trade is the market positioning around companies expected to benefit from AI infrastructure, including GPUs, HBM, foundries, equipment, networking, power, cooling, and data-center operators. It solves a market-basket problem by grouping many different value-chain exposures into one investment theme. In today's news, TSMC and chip-stock weakness shows that the AI trade can correct even while underlying semiconductor demand remains strong.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-ai-trade)
+
+**Reference:** https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-thursday-july-16-2026-12020417
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-american-depositary-receipt-adr"></a>
 ## American Depositary Receipt (ADR)
 
 An ADS is the U.S.-traded ownership interest representing shares of a non-U.S. company held through a U.S. depositary bank; an ADR is the negotiable certificate evidencing that ADS interest. Market participants often use ADS and ADR interchangeably. The structure solves currency, settlement, custody, and market-access friction by letting U.S. investors trade in dollars through U.S. systems. For SK hynix, ten U.S. depositary shares represent one Korean common share, so each U.S. unit corresponds to one-tenth of a Korean share.
 
-**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-american-depositary-receipt-adr), [2026-07-06](../2026-07-06/README.md#daily-term-american-depositary-receipt-adr), [2026-07-07](../2026-07-07/README.md#daily-term-american-depositary-receipt-adr), [2026-07-08](../2026-07-08/README.md#daily-term-american-depositary-receipt-adr), [2026-07-09](../2026-07-09/README.md#daily-term-american-depositary-receipt-adr), [2026-07-10](../2026-07-10/README.md#daily-term-american-depositary-receipt-adr), [2026-07-11](../2026-07-11/README.md#daily-term-american-depositary-receipt-adr), [2026-07-12](../2026-07-12/README.md#daily-term-american-depositary-receipt-adr)
+**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-american-depositary-receipt-adr), [2026-07-06](../2026-07-06/README.md#daily-term-american-depositary-receipt-adr), [2026-07-07](../2026-07-07/README.md#daily-term-american-depositary-receipt-adr), [2026-07-08](../2026-07-08/README.md#daily-term-american-depositary-receipt-adr), [2026-07-09](../2026-07-09/README.md#daily-term-american-depositary-receipt-adr), [2026-07-10](../2026-07-10/README.md#daily-term-american-depositary-receipt-adr), [2026-07-11](../2026-07-11/README.md#daily-term-american-depositary-receipt-adr), [2026-07-12](../2026-07-12/README.md#daily-term-american-depositary-receipt-adr), [2026-07-13](../2026-07-13/README.md#daily-term-american-depositary-receipt-adr)
 
 **Reference:** https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-88
 
@@ -211,9 +255,31 @@ An application-specific integrated circuit is a chip built for a defined workloa
 
 ATMP means assembly, testing, marking, and packaging. It overlaps strongly with OSAT terminology and describes the back-end steps that make a bare semiconductor die usable, traceable, and reliable in a customer system. It solves mechanical protection, electrical connection, thermal path, quality screening, and product-identification needs. In today's news, ATMP matters because India's earliest production wins are mostly in back-end semiconductor manufacturing, where commercial ramp is more achievable before leading-edge wafer fabrication. Example: a die without ATMP is like an engine without housing, connectors, and quality checks.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-atmp), [2026-07-07](../2026-07-07/README.md#daily-term-atmp)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-atmp), [2026-07-07](../2026-07-07/README.md#daily-term-atmp), [2026-07-15](../2026-07-15/README.md#daily-term-atmp)
 
 **Reference:** https://ism.gov.in/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-authorized-customer-list"></a>
+## Authorized customer list
+
+An authorized customer list is a supplier-controlled roster of buyers allowed to purchase certain products after checks on identity, business purpose, compliance risk, and sometimes end use. It solves the channel-control problem when products are scarce, regulated, or strategically sensitive. In today's news, a narrower Nvidia buyer list would mean legal access becomes more selective even if demand remains high.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-authorized-customer-list)
+
+**Reference:** https://www.tomshardware.com/tech-industry/big-tech/nvidia-slashes-list-of-authorized-customers-in-asia-in-a-bid-to-reduce-ai-chip-smuggling-report-claims-company-sent-field-inspectors-called-customers-to-check-if-business-is-genuine-after-pressure-from-washington
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-automated-material-handling-system"></a>
+## Automated material handling system
+
+An automated material handling system moves wafer carriers between tools, bays, storage buffers, and process modules using controlled tracks, vehicles, and scheduling software. It solves the cycle-time and contamination problem: wafers must move quickly and safely without manual handling errors. In today's news, Intel's automated track expansion matters because high-volume fabs are logistics systems as much as process-tool collections.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-automated-material-handling-system)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
@@ -225,6 +291,17 @@ An automotive-grade system-on-chip combines CPU, AI acceleration, image processi
 **Appears in:** [2026-07-01](../2026-07-01/README.md#daily-term-automotive-grade-system-on-chip)
 
 **Reference:** https://www.nio.com/nl_NL/news/BaanbrekendeinnovatiesonthuldtijdensNIOIN
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-average-selling-price"></a>
+## Average selling price
+
+Average selling price is revenue divided by the relevant unit base, such as chips, wafers, bits, or modules. It solves the pricing question when volume and mix are changing. In today's news, ASP matters because export value can rise fast if memory prices rise, even when shipment volume grows much more slowly.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-average-selling-price)
+
+**Reference:** https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026
 
 [Back to A-Z index](#a-z-index)
 
@@ -268,6 +345,17 @@ BCD-on-SOI combines Bipolar, CMOS, and DMOS device types on silicon-on-insulator
 **Appears in:** [2026-06-29](../2026-06-29/README.md#daily-term-bcd-on-soi)
 
 **Reference:** https://www.globenewswire.com/news-release/2026/06/29/3318663/0/en/soitec-and-zensemi-partner-to-scale-300mm-bcd-on-soi-production-for-next-generation-power-electronics.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-bear-market"></a>
+## Bear market
+
+A bear market is commonly described as a decline of about 20% or more from a recent high. It solves a market-classification problem by distinguishing a normal pullback from a more severe downturn. In today's news, reports that semiconductor stocks are near bear-market territory matter because investor risk appetite is changing even though chip demand evidence remains strong.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-bear-market)
+
+**Reference:** https://www.marketwatch.com/story/semiconductor-stocks-are-on-the-verge-of-a-bear-market-is-the-thrill-in-the-chips-trade-gone-592eded7
 
 [Back to A-Z index](#a-z-index)
 
@@ -340,12 +428,34 @@ Capacity utilization is actual output divided by the output a facility could pro
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-capex-intensity"></a>
+## Capex intensity
+
+Capex intensity is capital expenditure measured relative to revenue, cash flow, or expected future demand. It solves the investment-efficiency question: how much future capacity must a company fund to generate each unit of sales? In today's news, TSMC's higher capex and Arizona expansion raise capex-intensity questions even while demand is strong.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-capex-intensity)
+
+**Reference:** https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-capex-support"></a>
+## Capex support
+
+Capex support is financial assistance tied to capital expenditure such as fabs, tools, buildings, utilities, and manufacturing equipment. It solves the entry-barrier problem in semiconductors because upfront investment is extremely high before revenue appears. In today's news, ISM says CMOS silicon fabs can receive 40% capex support on a pari-passu basis, while other fabs and packaging categories have separate support levels.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-capex-support)
+
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-capital-expenditure-capex"></a>
 ## Capital expenditure (capex)
 
 Capital expenditure is money spent on long-lived productive assets such as fabs, cleanrooms, EUV scanners, deposition tools, etch systems, test equipment, packaging lines, and data-center infrastructure. It solves future capacity and technology needs, but it is not the same as current production. In today's news, capex matters because Samsung's profits and SK hynix's offering are both linked to future memory supply, yet capex only becomes shipped chips after installation, process qualification, yield learning, and customer qualification. Example: buying a lithography tool is not equal to shipping a qualified HBM stack.
 
-**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex)
+**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex)
 
 **Reference:** https://www.semi.org/en/semi-press-release/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-dollars-in-2026
 
@@ -373,6 +483,17 @@ The CHIPS Act is U.S. legislation that provides incentives for domestic semicond
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-cleanroom"></a>
+## Cleanroom
+
+A cleanroom is a highly controlled manufacturing space where airborne particles, humidity, temperature, vibration, chemical contamination, and human procedures are tightly managed. It solves the contamination problem in semiconductor fabrication: a microscopic particle can destroy a transistor layer or create yield loss. In today's news, existing cleanroom utilization matters because Intel can expand output faster by upgrading and equipping qualified space than by only building new empty shells.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-cleanroom)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-cmos-directly-bonded-to-array-cba"></a>
 ## CMOS directly Bonded to Array (CBA)
 
@@ -395,6 +516,28 @@ Commercial production means a manufacturing line is producing goods intended for
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-consolidated-net-revenue"></a>
+## Consolidated net revenue
+
+Consolidated net revenue is revenue from the whole company group after combining subsidiaries and removing internal transactions. It solves the accounting problem of showing the economic revenue of the business as one entity instead of double-counting intercompany sales. In today's news, it matters because TSMC reports consolidated monthly revenue, giving a group-level demand signal rather than a narrow single-site number.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-consolidated-net-revenue)
+
+**Reference:** https://pr.tsmc.com/english/news/3323
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-contract-pricing"></a>
+## Contract pricing
+
+Contract pricing is pre-negotiated pricing between suppliers and customers for future deliveries, often used in memory and component supply. It solves the planning problem by giving both sides more visibility than daily spot prices. In today's news, contract pricing matters because memory-stock weakness should be checked against actual DRAM, NAND, and HBM contract-price trends before concluding demand has weakened.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-contract-pricing)
+
+**Reference:** https://www.jedec.org/standards-documents/focus/memory-interfaces
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-copos"></a>
 ## CoPoS
 
@@ -410,6 +553,17 @@ Chip-on-panel-on-substrate, a panel-level packaging direction intended to improv
 Chip-on-Wafer-on-Substrate, an advanced packaging approach used for large AI accelerators and HBM integration.
 
 **Appears in:** [2026-06-16](../2026-06-16/README.md#daily-term-cowos), [2026-06-17](../2026-06-17/README.md#daily-term-cowos)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-crowded-trade"></a>
+## Crowded trade
+
+A crowded trade occurs when many investors hold similar positions based on the same theme, making prices vulnerable if sentiment turns. It solves the market-structure explanation for why good news can still lead to selling: when everyone already owns the trade, there may be fewer incremental buyers. In today's news, AI infrastructure and memory exposure appear crowded after a powerful rally.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-crowded-trade)
+
+**Reference:** https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb
 
 [Back to A-Z index](#a-z-index)
 
@@ -457,6 +611,17 @@ Demand elasticity measures how much quantity demanded changes when price changes
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-demand-elasticity)
 
 **Reference:** https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms?from=mdr
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-deployment-linked-incentive"></a>
+## Deployment-linked incentive
+
+A deployment-linked incentive supports eligible chip or IP projects when they reach deployment milestones, rather than only promising design activity. It solves the commercialization gap: many designs can be started, but fewer reach tape-out, validation, and customer use. In today's news, this matters because Semicon 2.0 aims to offset higher tape-out costs for startups/MSMEs and Indian/OCI-owned companies.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-deployment-linked-incentive)
+
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
 
 [Back to A-Z index](#a-z-index)
 
@@ -513,6 +678,17 @@ A digital twin is a structured virtual representation of a physical factory, mac
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-diluted-earnings-per-share"></a>
+## Diluted earnings per share
+
+Diluted earnings per share divides net income by the share count after considering potential dilution from instruments such as options, convertible securities, or other equity-linked claims. It solves the ownership-share problem: investors need to know profit per share after possible dilution, not only total profit. In today's news, TSMC's NT$27.25 diluted EPS shows how much of record net income translated into per-share earnings.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-diluted-earnings-per-share)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-direct-to-chip-cooling"></a>
 ## Direct-to-chip cooling
 
@@ -535,6 +711,17 @@ DLI is India's incentive and infrastructure-support scheme for semiconductor des
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-domestic-value-addition"></a>
+## Domestic value addition
+
+Domestic value addition is the share of a product's value created inside the country through local design, manufacturing, packaging, materials, labor, tooling, logistics, and services. It solves the policy-quality problem: a country may consume many chips but create little value locally unless it builds capabilities across the chain. In today's news, Semicon 2.0 matters because India wants demand growth to translate into more local value, not only more imports.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-domestic-value-addition)
+
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-dram"></a>
 ## DRAM
 
@@ -546,12 +733,34 @@ DRAM, or dynamic random-access memory, stores each bit using a tiny capacitor an
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-drawdown"></a>
+## Drawdown
+
+A drawdown is the percentage decline from a recent peak to a later lower value. It solves the risk-measurement problem by showing how much value has been lost from the high point, not only the latest daily move. In today's news, chip-index drawdown matters because the semiconductor sector can move toward bear-market territory even while ASML and TSMC report strong fundamentals.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-drawdown)
+
+**Reference:** https://www.marketwatch.com/story/semiconductor-stocks-are-on-the-verge-of-a-bear-market-is-the-thrill-in-the-chips-trade-gone-592eded7
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-dual-sourcing"></a>
 ## Dual sourcing
 
 Designing a supply chain so more than one manufacturing source can produce a product or part of it.
 
 **Appears in:** [2026-06-21](../2026-06-21/README.md#daily-term-dual-sourcing)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-duv-immersion-lithography"></a>
+## DUV immersion lithography
+
+DUV immersion lithography uses deep-ultraviolet light with a liquid medium between the final lens and wafer to improve resolution compared with dry exposure. It solves the mature-and-advanced patterning problem across many chip layers and nodes, including layers where EUV is not used. In today's news, DUV immersion matters because advanced fabs still need many DUV steps, so AI capacity growth is not only an EUV story.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-duv-immersion-lithography)
+
+**Reference:** https://www.asml.com/en/technology/lithography-principles
 
 [Back to A-Z index](#a-z-index)
 
@@ -589,6 +798,17 @@ Earnings guidance is a company estimate of expected financial results before the
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ecosystem-development"></a>
+## Ecosystem development
+
+Ecosystem development means building the connected suppliers, talent, tools, fabs, materials, packaging, design firms, customers, finance, and policy systems needed for an industry to operate repeatedly. It solves the single-project problem: one fab or one OSAT cannot create a resilient semiconductor sector alone. In today's news, Semicon 2.0 explicitly frames India around ecosystem depth instead of isolated chip projects.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-ecosystem-development)
+
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-eda"></a>
 ## EDA
 
@@ -606,6 +826,17 @@ Electronic Design Automation is the software-and-methodology stack used to desig
 Intel's Embedded Multi-die Interconnect Bridge packaging technology.
 
 **Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-emib)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-end-user-verification"></a>
+## End-user verification
+
+End-user verification checks who will actually receive and use a controlled product, not merely who placed the purchase order. It solves the shell-company and diversion problem: a listed buyer may be a front for a restricted destination. In today's news, reported site inspections and interviews matter because AI servers can be routed through regional buyers unless suppliers and regulators verify the real user.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-end-user-verification)
+
+**Reference:** https://www.tomshardware.com/tech-industry/big-tech/nvidia-slashes-list-of-authorized-customers-in-asia-in-a-bid-to-reduce-ai-chip-smuggling-report-claims-company-sent-field-inspectors-called-customers-to-check-if-business-is-genuine-after-pressure-from-washington
 
 [Back to A-Z index](#a-z-index)
 
@@ -640,12 +871,34 @@ Ability to track EUV scanner location, operation, parts, and service history.
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-expectations-risk"></a>
+## Expectations risk
+
+Expectations risk is the chance that a stock falls despite good results because investors had already priced in even better outcomes. It solves the gap between business performance and market reaction: prices move against expectations, not only against absolute results. In today's news, TSMC can report record profit and still see pressure if investors worry about capex, valuation, or AI-demand sustainability.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-expectations-risk)
+
+**Reference:** https://www.marketwatch.com/story/tsmc-posts-record-quarter-but-expectations-are-now-exceptionally-high-says-fund-manager-145cd3ab
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-export-ban"></a>
+## Export ban
+
+An export ban is a government restriction that prevents a product, material, or technology from being sold abroad. It solves a domestic-security or supply-protection objective for the exporting country, but it can transmit shortages to global customers. In today's news, the reported helium halt matters because it shows how geopolitics can affect fab inputs that are not chips themselves.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-export-ban)
+
+**Reference:** https://apnews.com/article/china-helium-export-iran-war-chips-346d8806f8ba410d81de6ced150acb87
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-export-controls"></a>
 ## Export controls
 
 An export control is a legal restriction on transferring specified goods, software, technology, or technical assistance to particular destinations, entities, or end uses. It solves national-security and foreign-policy concerns by making some transactions require authorization or become prohibited. In semiconductors, controls can cover AI accelerators, manufacturing equipment, design software, and know-how. No new semiconductor rule was verified in the July 4 window, so the existing US Export Administration Regulations remain the policy baseline rather than a fresh event.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-export-controls), [2026-06-20](../2026-06-20/README.md#daily-term-export-controls), [2026-07-04](../2026-07-04/README.md#daily-term-export-controls), [2026-07-05](../2026-07-05/README.md#daily-term-export-controls), [2026-07-12](../2026-07-12/README.md#daily-term-export-controls)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-export-controls), [2026-06-20](../2026-06-20/README.md#daily-term-export-controls), [2026-07-04](../2026-07-04/README.md#daily-term-export-controls), [2026-07-05](../2026-07-05/README.md#daily-term-export-controls), [2026-07-12](../2026-07-12/README.md#daily-term-export-controls), [2026-07-14](../2026-07-14/README.md#daily-term-export-controls)
 
 **Reference:** https://www.bis.gov/regulations/ear
 
@@ -749,6 +1002,17 @@ A0 is the first fabricated revision of a new chip design. "First-pass success" m
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-fiscal-outlay"></a>
+## Fiscal outlay
+
+Fiscal outlay is the amount of public budget support allocated for a scheme or programme. It solves the policy-commitment question by showing the financial envelope available for incentives, support, and implementation. In today's news, the INR 1,27,500 crore Semicon 2.0 outlay matters because semiconductor projects require large upfront capital and long payback periods.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-fiscal-outlay)
+
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-form-f-1"></a>
 ## Form F-1
 
@@ -785,11 +1049,11 @@ Forward guidance is the company's forecast and commentary about future demand, s
 <a id="term-foundry"></a>
 ## Foundry
 
-A foundry manufactures chips designed by other companies, using its process nodes, fabs, design rules, PDKs, and manufacturing services. It solves the problem that fabless companies can design advanced chips without owning multi-billion-dollar wafer fabs. In this news, TSMC matters because AI accelerators, custom ASICs, CPUs, networking chips, and many advanced packages depend on TSMC capacity and yield. Example: Nvidia may design an accelerator, but TSMC manufactures the wafer on an advanced process.
+A foundry manufactures chips for customers that design chips but do not own or use their own high-volume manufacturing fabs. It solves the capital-intensity problem for fabless chip companies: they can focus on design while the foundry supplies process technology, capacity, yield learning, and manufacturing execution. In today's news, TSMC's revenue is a foundry signal because it reflects demand from AI accelerator, smartphone, HPC, automotive, and networking customers that buy wafer manufacturing services.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-foundry), [2026-07-09](../2026-07-09/README.md#daily-term-foundry), [2026-07-10](../2026-07-10/README.md#daily-term-foundry), [2026-07-11](../2026-07-11/README.md#daily-term-foundry), [2026-07-12](../2026-07-12/README.md#daily-term-foundry)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-foundry), [2026-07-09](../2026-07-09/README.md#daily-term-foundry), [2026-07-10](../2026-07-10/README.md#daily-term-foundry), [2026-07-11](../2026-07-11/README.md#daily-term-foundry), [2026-07-12](../2026-07-12/README.md#daily-term-foundry), [2026-07-13](../2026-07-13/README.md#daily-term-foundry)
 
-**Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
@@ -827,12 +1091,23 @@ A gate-all-around transistor places the gate around the channel on multiple side
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-gigafab"></a>
+## Gigafab
+
+A gigafab is a very large semiconductor manufacturing campus or cluster with multiple fab modules, shared infrastructure, high automation, and massive wafer capacity. It solves scale and coordination problems by concentrating utilities, talent, logistics, suppliers, and process learning. In today's news, TSMC's Arizona expansion matters because geopolitical supply-chain strategy increasingly favors large regional fab clusters rather than isolated single factories.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-gigafab)
+
+**Reference:** https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-gross-margin"></a>
 ## Gross margin
 
 Gross margin is revenue minus cost of goods sold, divided by revenue. It solves the question of how much profit remains after direct production costs before R&D, sales, administration, interest, and taxes. In today's news, TSMC's high guided gross margin matters because it signals pricing power, strong utilization, advanced-node mix, and manufacturing efficiency. Example: a foundry can grow revenue but hurt gross margin if overseas ramp costs, depreciation, or low utilization rise faster than wafer pricing.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
@@ -883,6 +1158,17 @@ HBM4E is an enhanced generation after HBM4, designed to increase bandwidth, capa
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-helium"></a>
+## Helium
+
+Helium is an inert, extremely light gas used in high-technology supply chains for cooling, leak detection, controlled atmospheres, and some manufacturing support roles. It solves thermal and chemical-stability problems because it does not easily react and can support very cold or clean processes. In today's news, helium matters because a geopolitical supply squeeze can raise cost and risk for chipmaking even when wafer demand remains strong.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-helium)
+
+**Reference:** https://apnews.com/article/china-helium-export-iran-war-chips-346d8806f8ba410d81de6ced150acb87
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-high-bandwidth-compute-hbc"></a>
 ## High Bandwidth Compute (HBC)
 
@@ -899,9 +1185,20 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 
 HBM is stacked DRAM placed very close to a processor through advanced package interconnects so data can move through a very wide, energy-efficient path. It solves the memory-bandwidth bottleneck in AI accelerators, where compute units can sit idle if data cannot arrive fast enough. In this news, HBM matters because Samsung's memory profitability and valuation depend partly on how much premium AI-memory supply it can qualify and ship against SK hynix and Micron. Example: ordinary DIMM memory is like a narrower road outside the chip package; HBM is like a much wider road built next to the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.synopsys.com/glossary/what-is-high-bandwitdth-memory-3.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-high-beta-stock"></a>
+## High-beta stock
+
+A high-beta stock tends to move more sharply than the broader market, especially when investor risk appetite changes. It solves the sensitivity question: some stocks amplify market moves because expectations, leverage to earnings, or positioning are high. In today's news, memory stocks can act high-beta because earnings are sensitive to DRAM/NAND pricing, HBM allocation, and AI capex sentiment.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-high-beta-stock)
+
+**Reference:** https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
 
 [Back to A-Z index](#a-z-index)
 
@@ -979,6 +1276,17 @@ An integrated device manufacturer designs and manufactures at least some of its 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-import-dependence"></a>
+## Import dependence
+
+Import dependence is the share of inputs, equipment, materials, components, or finished goods that must be bought from abroad. It solves a policy measurement problem: a country can see where local value addition is weak and where supply-chain risk is concentrated. In today's news, import dependence matters because even a fast-growing Indian chip market may still rely on imported tools, wafers, gases, chemicals, substrates, and finished chips unless domestic ecosystem depth improves.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-import-dependence)
+
+**Reference:** https://ism.gov.in/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-indium-phosphide-photonics"></a>
 ## Indium phosphide photonics
 
@@ -994,6 +1302,39 @@ Compound-semiconductor technology useful for high-speed optical and photonic dev
 An inference application-specific integrated circuit is a chip whose data paths, memory movement, arithmetic units, and control are optimized for running already-trained AI models. "Application-specific" means it spends less silicon and power on unrelated work than a general-purpose GPU, but it also accepts greater software and model-architecture risk. This matters because Etched is betting that specialization can improve tokens per second, latency, energy, and system cost for frontier-model serving. A GPU is a programmable multi-tool; an inference ASIC is closer to a production machine designed for a narrower operation. Sources: [Etched](https://www.etched.com/) and [company release](https://www.globenewswire.com/news-release/2026/06/30/3319922/0/en/Etched-Emerges-From-Stealth-With-Working-Chip-800M-Raised-and-Over-1B-in-Customer-Contracts.html)
 
 **Appears in:** [2026-07-01](../2026-07-01/README.md#daily-term-inference-asic)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-installed-base-management"></a>
+## Installed Base Management
+
+Installed Base Management is ASML's revenue from service and field options for tools already installed at customer fabs. It solves the lifecycle problem: lithography tools need upgrades, maintenance, performance tuning, parts, and support after initial sale. In today's news, higher-than-expected Installed Base Management sales helped ASML beat guidance, showing that existing tools are being maintained and upgraded intensely, not just new tools ordered.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-installed-base-management)
+
+**Reference:** https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-integrated-circuit-export-value"></a>
+## Integrated circuit export value
+
+Integrated circuit export value is the monetary value of ICs recorded as exported by customs, regardless of whether the chips were locally designed, locally fabricated, imported for packaging, or re-exported after processing. It solves a trade-accounting problem, but it can mislead if read as domestic leading-edge capability. In today's news, China's high IC export value matters because price inflation and processing trade can lift export dollars without proving a breakthrough in advanced AI chips.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-integrated-circuit-export-value)
+
+**Reference:** https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-intel-3"></a>
+## Intel 3
+
+Intel 3 is an Intel process technology generation used for high-performance products such as server processors, building on Intel's recent process roadmap. It solves a product-performance and manufacturing-competitiveness problem for Intel: Xeon products need a process that can deliver density, power, performance, and yield at volume. In today's news, Intel 3 matters because the Leixlip investment is tied directly to Xeon 6 and next-generation Xeon output.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-intel-3)
+
+**Reference:** https://newsroom.intel.com/intel-foundry/intel-invests-5-billion-euro-to-expand-manufacturing-in-europe
 
 [Back to A-Z index](#a-z-index)
 
@@ -1036,6 +1377,28 @@ The KOSPI Market is the main stock market of the Korea Exchange for many of Sout
 <a id="letter-l"></a>
 # L
 
+<a id="term-leading-edge-manufacturing-capacity"></a>
+## Leading-edge manufacturing capacity
+
+Leading-edge manufacturing capacity is qualified wafer-processing capability on advanced process technologies used for high-performance logic, AI, and data-center chips. It solves the supply problem for products that need dense transistors, high performance per watt, and tight process control. In today's news, Intel's Leixlip investment matters because AI and HPC demand is being converted into tool installs, cleanroom use, and Intel 3 output plans in Europe.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-leading-edge-manufacturing-capacity)
+
+**Reference:** https://newsroom.intel.com/intel-foundry/intel-invests-5-billion-euro-to-expand-manufacturing-in-europe
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-liquid-cooling"></a>
+## Liquid cooling
+
+Liquid cooling removes heat from servers, accelerators, or data-center racks using liquid loops, cold plates, immersion tanks, heat exchangers, or related thermal systems. It solves the thermal-density problem: AI accelerators can produce too much heat for air cooling alone at high rack power. In today's news, liquid cooling matters because AI chip demand creates a parallel need for data-center infrastructure that can feed and cool those chips reliably.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-liquid-cooling)
+
+**Reference:** https://timesofindia.indiatimes.com/business/india-business/spains-submer-to-invest-2-billion-in-madhya-pradesh-semiconductor-sector-may-create-5000-jobs/articleshow/132362019.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-lithography"></a>
 ## Lithography
 
@@ -1075,6 +1438,17 @@ An LTA commits a buyer and supplier to quantities, capacity reservations, pricin
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-long-term-purchase-agreement-lta)
 
 **Reference:** https://www.tomshardware.com/tech-industry/sk-hynix-samsung-micron-among-semiconductor-industry-group-lobbying-against-government-intervention-on-domestic-memory-chip-supply-says-move-would-worsen-situation-suggests-tax-deductions-on-consumer-electronics-instead
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-low-na-euv"></a>
+## Low-NA EUV
+
+Low-NA EUV refers to current mainstream EUV lithography systems with a lower numerical aperture than newer High-NA EUV tools, using 13.5 nm light to pattern very small chip features. It solves the leading-edge patterning problem with fewer multi-patterning steps than many DUV-only flows. In today's news, low-NA EUV matters because ASML's stated 2026 capacity baseline and 2027 expansion plan show how scarce advanced lithography output may scale.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-low-na-euv)
+
+**Reference:** https://www.asml.com/en/technology/lithography-principles
 
 [Back to A-Z index](#a-z-index)
 
@@ -1185,7 +1559,7 @@ An MOU is a formal written statement of intent between parties before or alongsi
 
 The memory cycle is the recurring movement between shortage and oversupply in DRAM and NAND. Suppliers invest when prices and margins are high, but new capacity arrives after a long delay. If demand growth weakens just as that capacity becomes productive, prices and utilization can fall sharply because memory products are relatively standardized and fixed fab costs are high. AI and HBM change the product mix and may support stronger demand, but they do not abolish this economic mechanism.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-memory-cycle), [2026-06-30](../2026-06-30/README.md#daily-term-memory-cycle)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-memory-cycle), [2026-06-30](../2026-06-30/README.md#daily-term-memory-cycle), [2026-07-17](../2026-07-17/README.md#daily-term-memory-cycle)
 
 **Reference:** https://whtc.com/2026/06/30/samsung-sk-hynix-mega-south-korea-chips-gamble-tests-optimism-of-ai-cycle/
 
@@ -1259,6 +1633,17 @@ Standardized benchmark suite for measuring full AI training systems.
 Machine-learning system-on-chip for edge or physical AI workloads.
 
 **Appears in:** [2026-06-16](../2026-06-16/README.md#daily-term-mlsoc)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-monthly-revenue"></a>
+## Monthly revenue
+
+Monthly revenue is a company disclosure showing sales recognized in one month before the full quarterly earnings package is published. It solves the timing problem for investors and supply-chain watchers: they can see demand direction earlier than quarterly margins, capex, and product-mix detail. In today's news, TSMC's June figure matters because it closes the delayed July 10 sales checkpoint and confirms strong foundry demand before the July 16 earnings call.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-monthly-revenue)
+
+**Reference:** https://pr.tsmc.com/english/news/3323
 
 [Back to A-Z index](#a-z-index)
 
@@ -1360,12 +1745,34 @@ Nasdaq Global Select Market is Nasdaq's top listing tier, with quantitative and 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-net-profit-margin"></a>
+## Net profit margin
+
+Net profit margin is net income divided by revenue. It solves the total-profitability question after operating costs, non-operating items, tax, and other expenses. In today's news, TSMC's 55.6% net profit margin shows unusually strong profitability for a manufacturing-heavy business, driven by advanced-node demand, pricing, utilization, and mix.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-net-profit-margin)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-node"></a>
 ## Node
 
 A process node is the name for a semiconductor manufacturing generation, such as 5 nm, 3 nm, or 2 nm. Modern node numbers are comparative technology labels rather than the direct measurement of one transistor feature.
 
 **Reference:** https://irds.ieee.org/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-node-mix"></a>
+## Node mix
+
+Node mix is the distribution of revenue, wafers, or products across process technology generations such as 7 nm, 5 nm, 3 nm, and 2 nm. It solves the business-quality question: the same total revenue can mean different profitability and capacity pressure depending on which nodes drive it. In today's news, node mix matters because 2 nm and 3 nm carry different prices, customers, yields, and ramp risks than mature nodes.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-node-mix)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
 
 [Back to A-Z index](#a-z-index)
 
@@ -1377,6 +1784,17 @@ NOR flash is non-volatile memory optimized for reliable random reads and execute
 **Appears in:** [2026-07-02](../2026-07-02/README.md#daily-term-nor-flash)
 
 **Reference:** https://investors.micron.com/news-releases/news-release-details/micron-and-general-motors-sign-strategic-agreement-secure-supply
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-numerical-aperture"></a>
+## Numerical aperture
+
+Numerical aperture measures an optical system's ability to collect and focus light at high angles, affecting resolution. It solves a patterning-resolution problem: higher NA can print smaller features, but it raises complexity in optics, masks, stages, process windows, and cost. In today's news, distinguishing low-NA and High-NA EUV matters because ASML is discussing capacity additions for the current production workhorse, while High-NA adoption remains a separate roadmap.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-numerical-aperture)
+
+**Reference:** https://www.asml.com/en/technology/lithography-principles
 
 [Back to A-Z index](#a-z-index)
 
@@ -1393,6 +1811,17 @@ NVMe is the standard host-software interface for communicating with non-volatile
 
 <a id="letter-o"></a>
 # O
+
+<a id="term-oem-and-odm"></a>
+## OEM and ODM
+
+An OEM sells branded equipment or systems, while an ODM designs and manufactures products that may be sold under another company's brand. This solves the scaling problem in hardware ecosystems: specialized suppliers can integrate cooling, server, and rack designs into repeatable products. In today's news, Submer's stated OEM/ODM partnership direction matters because liquid-cooling adoption depends on server makers, rack integrators, chip vendors, and operators working together.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-oem-and-odm)
+
+**Reference:** https://timesofindia.indiatimes.com/business/india-business/spains-submer-to-invest-2-billion-in-madhya-pradesh-semiconductor-sector-may-create-5000-jobs/articleshow/132362019.cms
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-offering-price"></a>
 ## Offering price
@@ -1416,6 +1845,17 @@ One Virtual Fab is Infineon's operating model for coordinating geographically se
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-operating-margin"></a>
+## Operating margin
+
+Operating margin is operating income divided by revenue, measuring profitability from core operations before interest and some non-operating items. It solves the question of how efficiently the actual business operation converts sales into operating profit. In today's news, TSMC's 60.3% operating margin shows that its core foundry operations were highly profitable in Q2.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-operating-margin)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-operating-profit"></a>
 ## Operating profit
 
@@ -1432,7 +1872,7 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 Order intake is the value of new customer orders booked during a period. It solves the forward-demand visibility problem for equipment suppliers: revenue shows what shipped or was recognized, while orders indicate future tool demand. In today's news, ASML order intake will be watched because AI customers may be accelerating capacity plans, but export controls and customer digestion can change the mix.
 
-**Appears in:** [2026-07-11](../2026-07-11/README.md#daily-term-order-intake), [2026-07-12](../2026-07-12/README.md#daily-term-order-intake)
+**Appears in:** [2026-07-11](../2026-07-11/README.md#daily-term-order-intake), [2026-07-12](../2026-07-12/README.md#daily-term-order-intake), [2026-07-15](../2026-07-15/README.md#daily-term-order-intake)
 
 **Reference:** https://www.asml.com/en/news/press-releases/2026/q1-2026-financial-results
 
@@ -1543,7 +1983,7 @@ Phase jitter is short-term variation in the timing of clock edges from their ide
 
 SOX is a modified market-capitalization-weighted index of 30 major US-listed semiconductor design, manufacturing, distribution, and equipment companies. It is a sector thermometer, not the semiconductor industry's revenue statement: share prices combine expected future earnings, interest rates, risk appetite, and valuation. The reported roughly 94% first-half 2026 gain signals powerful AI expectations, but it also raises concentration and correction risk because prices can move much faster than fabs, qualified capacity, or cash flow.
 
-**Appears in:** [2026-07-01](../2026-07-01/README.md#daily-term-phlx-semiconductor-sector-index-sox)
+**Appears in:** [2026-07-01](../2026-07-01/README.md#daily-term-phlx-semiconductor-sector-index-sox), [2026-07-17](../2026-07-17/README.md#daily-term-phlx-semiconductor-sector-index-sox)
 
 **Reference:** https://indexes.nasdaq.com/Index/Overview/SOX
 
@@ -1655,6 +2095,28 @@ Process stabilization is the work of making a manufacturing flow repeatably oper
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-processing-trade"></a>
+## Processing trade
+
+Processing trade means imported inputs are processed, assembled, packaged, or tested in a country and then re-exported. It solves global manufacturing specialization, but it complicates origin analysis because exported value may include foreign-made inputs. In today's news, it matters because some Chinese IC exports may reflect packaging/test and re-export flows rather than fully domestic design and fabrication.
+
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-processing-trade)
+
+**Reference:** https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-profit-taking"></a>
+## Profit-taking
+
+Profit-taking is selling after a large price rise to lock in gains. It solves a portfolio-risk problem for investors who do not want one winning theme to dominate exposure. In today's news, profit-taking matters because many semiconductor and memory stocks had already rallied sharply before the July 17 correction.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-profit-taking)
+
+**Reference:** https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-q"></a>
 # Q
 
@@ -1710,9 +2172,31 @@ An earnings quiet period is a pre-results window when management limits investor
 
 Regular-way trading is the normal exchange-trading state where trades follow the standard settlement cycle and security identifiers. It solves the operational problem of moving from temporary issuance mechanics into ordinary secondary-market trading. In today's news, July 13 is the date to watch because `SKHY` becomes the standard Nasdaq ticker after the temporary `SKHYV` phase.
 
-**Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-regular-way-trading), [2026-07-12](../2026-07-12/README.md#daily-term-regular-way-trading)
+**Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-regular-way-trading), [2026-07-12](../2026-07-12/README.md#daily-term-regular-way-trading), [2026-07-13](../2026-07-13/README.md#daily-term-regular-way-trading)
 
 **Reference:** https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-11
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-return-on-invested-capital"></a>
+## Return on invested capital
+
+Return on invested capital measures how effectively a company turns invested capital into operating profit. It solves the quality-of-growth problem: revenue growth is less valuable if it requires too much capital for too little return. In today's news, investors are asking whether massive AI-related fabs, tools, packages, power, and data centers will earn strong enough returns.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-return-on-invested-capital)
+
+**Reference:** https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-revenue-guidance"></a>
+## Revenue guidance
+
+Revenue guidance is management's forecast range for future revenue based on current orders, demand visibility, capacity, pricing, and risk assumptions. It solves the market-expectation problem by giving a forward-looking planning range, not a guaranteed result. In today's news, TSMC's Q3 guidance matters because it points to continued strong demand after an already large Q2.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-revenue-guidance)
+
+**Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
 [Back to A-Z index](#a-z-index)
 
@@ -1724,6 +2208,17 @@ An RF, or radio-frequency, component processes signals in frequency ranges used 
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-rf-component)
 
 **Reference:** https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-risk-capital"></a>
+## Risk capital
+
+Risk capital is funding that accepts high uncertainty in exchange for the possibility of high future value, often used by startups for product development, tape-outs, hiring, and market entry. It solves the early-stage financing problem when banks may not fund technical risk. In today's news, risk capital matters because chip startups face expensive EDA, IP, prototyping, packaging, and validation before revenue.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-risk-capital)
+
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
 
 [Back to A-Z index](#a-z-index)
 
@@ -1786,7 +2281,7 @@ A secure element is a tamper-resistant chip subsystem that stores secret keys an
 
 Semicon 2.0 is the reported next phase of India's semiconductor policy support, intended to broaden incentives beyond only wafer fabs and packaging plants toward design startups, materials, gases, chemicals, equipment, talent, and research. It solves the ecosystem gap: a fab cannot run alone without suppliers, trained engineers, design demand, utilities, test infrastructure, and local know-how. In today's news, it matters because India is trying to move from isolated project approvals toward a wider value-chain base. Example: building a fab without chemical, gas, equipment-service, design, and packaging support is like building a hospital without diagnostics, staff, and supply logistics.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-semicon-2-0), [2026-07-11](../2026-07-11/README.md#daily-term-semicon-2-0)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-semicon-2-0), [2026-07-11](../2026-07-11/README.md#daily-term-semicon-2-0), [2026-07-15](../2026-07-15/README.md#daily-term-semicon-2-0)
 
 **Reference:** https://economictimes.indiatimes.com/industry/cons-products/electronics/india-finalising-semicon-2-0-to-expand-chip-incentives-beyond-fabs/articleshow/132232886.cms?from=mdr
 
@@ -1798,6 +2293,17 @@ Semicon 2.0 is the reported next phase of India's semiconductor policy support, 
 A semiconductor is a material whose electrical conductivity can be controlled, enabling devices such as diodes and transistors. In this project the word also refers broadly to the industry that designs, fabricates, packages, tests, and supplies integrated circuits.
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-consumption-market"></a>
+## Semiconductor consumption market
+
+A semiconductor consumption market measures the value of chips and semiconductor-containing components used by a country or region, regardless of where those chips were designed, fabricated, packaged, or tested. It solves the demand-sizing problem: policymakers and investors can estimate how large the local electronics pull could become. In today's news, it matters because India's USD 350 billion forecast is about demand absorption, not proof that India will manufacture that value domestically.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-semiconductor-consumption-market)
+
+**Reference:** https://economictimes.indiatimes.com/tech/technology/govt-sops-key-as-indias-chip-market-set-to-explode-to-350-billion-by-2035/articleshow/132355783.cms?from=mdr
 
 [Back to A-Z index](#a-z-index)
 
@@ -1853,6 +2359,17 @@ Semiconductor IP is reusable, pre-designed circuit or software/hardware blocks l
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-ip)
 
 **Reference:** https://www.prnewswire.com/news-releases/ceva-ceo-amir-panush-named-artificial-intelligence-company-ceo-of-the-year-in-2026-ai-breakthrough-awards-program-302810369.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-subsidy"></a>
+## Semiconductor subsidy
+
+A semiconductor subsidy is public financial support, such as capex reimbursement, tax support, grants, infrastructure aid, or production-linked incentives, used to attract or deepen semiconductor activity. It solves the competitiveness problem created by very high fab, ATMP, material, and equipment costs. In today's news, subsidy continuity matters because the India forecast is explicitly conditional on ongoing government support.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-semiconductor-subsidy)
+
+**Reference:** https://ism.gov.in/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1919,6 +2436,17 @@ A specialty foundry manufactures chips that are not necessarily leading-edge CPU
 **Appears in:** [2026-06-29](../2026-06-29/README.md#daily-term-specialty-foundry)
 
 **Reference:** https://www.globenewswire.com/news-release/2026/06/29/3318663/0/en/soitec-and-zensemi-partner-to-scale-300mm-bcd-on-soi-production-for-next-generation-power-electronics.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-specialty-gas"></a>
+## Specialty gas
+
+A specialty gas is a high-purity industrial gas used for tightly controlled manufacturing steps or tool support, often with strict impurity, moisture, and particle limits. It solves the contamination problem in fabs: tiny impurities can ruin films, etches, plasmas, sensors, or process stability. In today's news, specialty-gas risk matters because chip supply chains are constrained by upstream materials as much as by headline processors.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-specialty-gas)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
@@ -2044,6 +2572,17 @@ A three-month moving average smooths a data series by averaging the latest three
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-total-net-sales"></a>
+## Total net sales
+
+Total net sales are the revenue recognized from products and services after returns, discounts, and relevant deductions. It solves the business-measurement problem of showing how much commercial activity became recognized sales in the period. In today's news, ASML total net sales matter because lithography and installed-base revenue are upstream indicators of how aggressively chipmakers are preparing future capacity.
+
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-total-net-sales)
+
+**Reference:** https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-triple-level-cell-tlc"></a>
 ## Triple-Level Cell (TLC)
 
@@ -2134,6 +2673,28 @@ V-NAND is vertically stacked NAND flash, where memory cells are arranged in many
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-valuation-multiple"></a>
+## Valuation multiple
+
+A valuation multiple compares a company's market value with a financial metric such as earnings, sales, or cash flow. It solves the pricing problem of asking how much investors are paying for each unit of business output. In today's news, valuation multiples matter because AI chip stocks can fall if investors decide the price already assumed too much future growth.
+
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-valuation-multiple)
+
+**Reference:** https://www.marketwatch.com/story/semiconductor-stocks-are-on-the-verge-of-a-bear-market-is-the-thrill-in-the-chips-trade-gone-592eded7
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-valuation-premium"></a>
+## Valuation premium
+
+A valuation premium is the extra price investors pay for one security relative to another comparable claim on the same or similar business. It solves a market-pricing comparison question: are investors paying more because of liquidity, access, momentum, scarcity, or expectations? In today's news, any ADR/local-share premium must be read as a capital-market signal, not as direct evidence of stronger memory output.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-valuation-premium)
+
+**Reference:** https://www.businessinsider.com/sk-hynix-stock-kospi-price-skhy-adr-samsung-korea-markets-2026-7
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-valuation-reset"></a>
 ## Valuation reset
 
@@ -2163,6 +2724,17 @@ Very-large-scale integration is the design and manufacture of integrated circuit
 A wafer is a thin, polished disc of semiconductor material on which many chip dies are fabricated in parallel. Its diameter, crystal quality, defect density, and process uniformity strongly affect manufacturing cost and yield.
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wafer-revenue"></a>
+## Wafer revenue
+
+Wafer revenue is the revenue a foundry earns from manufacturing processed wafers for customers, before downstream systems are sold. It solves the foundry-measurement problem because TSMC sells manufacturing services, not finished phones or AI servers. In today's news, wafer revenue by node shows where customer demand is concentrated across 2 nm, 3 nm, 5 nm, and 7 nm processes.
+
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-wafer-revenue)
+
+**Reference:** https://pr.tsmc.com/english/news/3326
 
 [Back to A-Z index](#a-z-index)
 
@@ -2230,6 +2802,17 @@ WSTS means World Semiconductor Trade Statistics. A three-month moving average sm
 
 <a id="letter-y"></a>
 # Y
+
+<a id="term-year-over-year-growth"></a>
+## Year-over-year growth
+
+Year-over-year growth compares a metric with the same period one year earlier. It solves the seasonality problem: June compared with June is cleaner than June compared with December for businesses with calendar effects. In today's news, TSMC's 67.9% June year-over-year increase shows how much stronger demand was than the same month in 2025, but it still needs the Q2 call to explain margin and customer mix.
+
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-year-over-year-growth)
+
+**Reference:** https://pr.tsmc.com/english/news/3323
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-yield"></a>
 ## Yield
