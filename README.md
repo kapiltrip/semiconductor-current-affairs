@@ -8,7 +8,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 
 ## Study Navigation
 
-- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-17.
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-18.
 - [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
 - [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
 - [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
@@ -105,6 +105,7 @@ scripts/                       Index-maintenance utilities
 | 2026-07-15 | [2026-07-15/README.md](2026-07-15/README.md) | [images/2026-07-15/links.md](images/2026-07-15/links.md) | ASML Q2 results, EUV/DUV capacity plans, India Semicon 2.0, design/materials/ATMP/talent pillars |
 | 2026-07-16 | [2026-07-16/README.md](2026-07-16/README.md) | [images/2026-07-16/links.md](images/2026-07-16/links.md) | TSMC Q2 results, 2 nm revenue share, Q3 guidance, Arizona/capex expansion, market expectations risk |
 | 2026-07-17 | [2026-07-17/README.md](2026-07-17/README.md) | [images/2026-07-17/links.md](images/2026-07-17/links.md) | Global AI/chip-stock selloff, SOX drawdown, memory volatility, capex-intensity debate, Semicon 2.0 follow-up |
+| 2026-07-18 | [2026-07-18/README.md](2026-07-18/README.md) | [images/2026-07-18/links.md](images/2026-07-18/links.md) | Weekend synthesis: TSMC A14 roadmap, chip-index bear market, Moonshot Kimi K3, Semicon 2.0/MPMS Telangana follow-up |
 
 ## Note Quality Standard
 
@@ -182,4 +183,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are reviewed through 2026-07-17. All 32 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots or official source images are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 13-17 embeds valid Economic Times, Intel, Times of India, ASML, and ISM screenshots; TSMC, AP, FT, MarketWatch, and other blocked or paywalled captures are recorded as text-only links.
+Daily notes are reviewed through 2026-07-18. All 33 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots or official source images are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 13-17 embeds valid Economic Times, Intel, Times of India, ASML, and ISM screenshots.

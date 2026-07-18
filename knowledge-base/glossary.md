@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-17**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-18**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -100,6 +100,17 @@ Future transistor direction that stacks nFET and pFET devices vertically to redu
 <a id="letter-a"></a>
 # A
 
+<a id="term-a14-process-technology"></a>
+## A14 process technology
+
+A14 process technology is TSMC's next cutting-edge logic process after its 2 nm-class roadmap, intended to improve power, performance, and area for advanced AI, HPC, and other leading products. It solves the scaling-continuity problem: customers need a path beyond N2/A16 for future processors without relying only on packaging or architecture. In today's news, A14 matters because TSMC's strong Q2 result is being connected to the next production roadmap rather than only current 2 nm revenue.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-a14-process-technology)
+
+**Reference:** https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-advanced-node"></a>
 ## Advanced node
 
@@ -183,6 +194,17 @@ AI inference is the stage where a trained model answers real user requests. Trai
 **Appears in:** [2026-06-25](../2026-06-25/README.md#daily-term-ai-inference), [2026-06-27](../2026-06-27/README.md#daily-term-ai-inference)
 
 **Reference:** https://www.nvidia.com/en-us/glossary/ai-inference/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-infrastructure-demand-sensitivity"></a>
+## AI infrastructure demand sensitivity
+
+AI infrastructure demand sensitivity is how strongly chip, memory, networking, storage, cooling, and data-center demand responds to changes in model efficiency, user growth, pricing, and workload mix. It solves the forecasting problem: more efficient models can reduce compute per task, while more adoption can increase total compute. In today's news, Kimi K3 matters because investors are asking whether better models reduce the amount of hardware needed or expand usage enough to keep hardware demand rising.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-ai-infrastructure-demand-sensitivity)
+
+**Reference:** https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792
 
 [Back to A-Z index](#a-z-index)
 
@@ -356,6 +378,17 @@ A bear market is commonly described as a decline of about 20% or more from a rec
 **Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-bear-market)
 
 **Reference:** https://www.marketwatch.com/story/semiconductor-stocks-are-on-the-verge-of-a-bear-market-is-the-thrill-in-the-chips-trade-gone-592eded7
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-bear-market-territory"></a>
+## Bear-market territory
+
+Bear-market territory usually means a decline of about 20% or more from a recent high. It solves a market-classification problem by separating a severe drawdown from a routine pullback. In today's news, the semiconductor index entering bear-market territory matters because it signals a major repricing of AI-chip expectations, not necessarily a collapse in fab orders.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-bear-market-territory)
+
+**Reference:** https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-chip-index-enters-bear-market-is-the-ai-bubble-finally-going-bust/articleshow/132473946.cms
 
 [Back to A-Z index](#a-z-index)
 
@@ -689,6 +722,17 @@ Diluted earnings per share divides net income by the share count after consideri
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-dimensional-scaling"></a>
+## Dimensional scaling
+
+Dimensional scaling improves chip density and electrical behavior by reducing or redesigning device and interconnect dimensions while maintaining manufacturability. It solves the classic Moore's-law pressure to fit more useful circuitry into a given area, but it becomes harder because variability, resistance, capacitance, heat, and patterning limits rise. In today's news, A14 matters because TSMC describes it as achieving PPA through dimensional scaling, not only packaging.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-dimensional-scaling)
+
+**Reference:** https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-direct-to-chip-cooling"></a>
 ## Direct-to-chip cooling
 
@@ -817,6 +861,28 @@ Electronic Design Automation is the software-and-methodology stack used to desig
 **Appears in:** [2026-07-12](../2026-07-12/README.md#daily-term-eda)
 
 **Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-eda-tool-training"></a>
+## EDA-tool training
+
+EDA-tool training teaches students and engineers to use electronic design automation flows for RTL design, simulation, synthesis, verification, physical design, timing, power, DFT, and signoff. It solves the skill-conversion problem: semiconductor design jobs require tool fluency and debugging discipline, not just electronics theory. In today's news, Telangana's mention of training across universities matters because India must convert tool access into real tape-out and job capability.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-eda-tool-training)
+
+**Reference:** https://www.newindianexpress.com/states/telangana/2026/Jul/18/semicon-20-mpms-will-prove-beneficial-for-states-youth-minister-kishan
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-electronic-manufacturing-cluster"></a>
+## Electronic Manufacturing Cluster
+
+An Electronic Manufacturing Cluster is a geographically concentrated infrastructure zone for electronics manufacturing, often including roads, power, water, common facilities, testing support, logistics, suppliers, and incentives. It solves the coordination problem for hardware manufacturing: companies need reliable shared infrastructure and supplier proximity to scale. In today's news, Telangana EMC funding matters because fabs, ATMP, design centers, and electronics plants all need local infrastructure beyond policy announcements.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-electronic-manufacturing-cluster)
+
+**Reference:** https://www.newindianexpress.com/states/telangana/2026/Jul/18/semicon-20-mpms-will-prove-beneficial-for-states-youth-minister-kishan
 
 [Back to A-Z index](#a-z-index)
 
@@ -1077,6 +1143,17 @@ Foundry diversification means building a supply chain where a chip company can u
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-full-node-ppa"></a>
+## Full-node PPA
+
+Full-node PPA means a process generation aims to deliver a meaningful step in power, performance, and area rather than a small derivative improvement. It solves the customer-value problem: chip designers need a node transition to justify expensive redesign, IP migration, validation, masks, and software bring-up. In today's news, A14's PPA positioning matters because advanced-node customers will compare it with N2, A16, and future alternatives before committing designs.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-full-node-ppa)
+
+**Reference:** https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-g"></a>
 # G
 
@@ -1241,6 +1318,17 @@ A hyperscaler is a company running enormous cloud or internet infrastructure, su
 A custom accelerator designed by a cloud-scale company for its own workloads.
 
 **Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-hyperscaler-asic)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-hyperscaler-capex"></a>
+## Hyperscaler capex
+
+Hyperscaler capex is capital expenditure by large cloud and platform companies such as Microsoft, Amazon, Alphabet, Meta, and others for data centers, servers, networking, power, cooling, storage, and AI accelerators. It solves the infrastructure-scaling problem for AI and cloud services, but it raises return-on-investment risk when spending accelerates faster than monetization. In today's news, hyperscaler capex matters because investors are questioning whether massive AI spending will produce enough revenue to justify chip and data-center valuations.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-hyperscaler-capex)
+
+**Reference:** https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-chip-index-enters-bear-market-is-the-ai-bubble-finally-going-bust/articleshow/132473946.cms
 
 [Back to A-Z index](#a-z-index)
 
@@ -1636,6 +1724,28 @@ Machine-learning system-on-chip for edge or physical AI workloads.
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-mobile-phone-manufacturing-scheme"></a>
+## Mobile Phone Manufacturing Scheme
+
+The Mobile Phone Manufacturing Scheme is a policy support framework aimed at scaling mobile phone production, employment, supply-chain localization, and electronics manufacturing value addition. It solves the ecosystem-pull problem: high-volume electronics manufacturing can create demand for semiconductors, PCBs, displays, camera modules, batteries, chargers, connectors, test, logistics, and repair ecosystems. In today's news, MPMS matters because India semiconductor policy is tied to downstream electronics demand, not only fabs.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-mobile-phone-manufacturing-scheme)
+
+**Reference:** https://www.newindianexpress.com/states/telangana/2026/Jul/18/semicon-20-mpms-will-prove-beneficial-for-states-youth-minister-kishan
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-model-weights"></a>
+## Model weights
+
+Model weights are the learned numerical parameters inside an AI model that encode patterns from training. They solve the representation problem: instead of storing rules manually, the model uses weight values to transform inputs into useful outputs. In today's news, the planned Kimi K3 weight release matters because actual downloadable weights would let others run or adapt the model, changing software competition and potentially compute-demand patterns.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-model-weights)
+
+**Reference:** https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-monthly-revenue"></a>
 ## Monthly revenue
 
@@ -1720,6 +1830,17 @@ NAND interface speed is the transfer rate between raw flash dies and the control
 **Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-nand-interface-speed)
 
 **Reference:** https://www.kioxia.com/en-jp/about/news/2026/20260703-1.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-nanosheet-transistor"></a>
+## Nanosheet transistor
+
+A nanosheet transistor is a gate-all-around style transistor where the gate wraps around thin horizontal channel sheets, improving electrostatic control compared with older FinFET geometry. It solves short-channel leakage and power-control problems as transistor dimensions shrink. In today's news, second-generation nanosheet commentary matters because A14 performance and power claims depend on device architecture, not just marketing node names.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-nanosheet-transistor)
+
+**Reference:** https://economictimes.indiatimes.com/tech/technology/tsmc-projects-mass-production-of-advanced-a14-chips-by-2028/articleshow/132460002.cms
 
 [Back to A-Z index](#a-z-index)
 
@@ -1842,6 +1963,17 @@ One Virtual Fab is Infineon's operating model for coordinating geographically se
 **Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-one-virtual-fab)
 
 **Reference:** https://www.infineon.com/de/press-release/2026/ifxpr202607-117
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-open-weight-ai-model"></a>
+## Open-weight AI model
+
+An open-weight AI model makes trained model parameters available for developers to download, inspect, fine-tune, or deploy under the model's license terms. It solves an access and customization problem compared with closed hosted models, but it does not remove the need for compute to train, serve, or fine-tune the model. In today's news, Kimi K3 matters because an open-weight frontier-style model can shift AI competition and make investors question proprietary AI economics and hardware demand.
+
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-open-weight-ai-model)
+
+**Reference:** https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738
 
 [Back to A-Z index](#a-z-index)
 
@@ -2332,11 +2464,11 @@ A semiconductor equipment supplier makes the tools used to fabricate, inspect, p
 <a id="term-semiconductor-index"></a>
 ## Semiconductor index
 
-A semiconductor index groups many chip-related companies into one market measure. It can show broad investor sentiment, but it hides the fact that memory, equipment, foundry, EDA, and AI accelerators have different business cycles.
+A semiconductor index tracks a basket of listed chip-related companies, often across logic, memory, foundry, equipment, EDA, and suppliers. It solves the market-benchmark problem by showing sector-level equity performance rather than one company. In today's news, the index matters because it shows broad investor stress across the AI chip trade even though ASML and TSMC recently reported strong company fundamentals.
 
-**Appears in:** [2026-06-24](../2026-06-24/README.md#daily-term-semiconductor-index)
+**Appears in:** [2026-06-24](../2026-06-24/README.md#daily-term-semiconductor-index), [2026-07-18](../2026-07-18/README.md#daily-term-semiconductor-index)
 
-**Reference:** https://www.nasdaq.com/solutions/phlx-semiconductor-sector-index
+**Reference:** https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-chip-index-enters-bear-market-is-the-ai-bubble-finally-going-bust/articleshow/132473946.cms
 
 [Back to A-Z index](#a-z-index)
 
