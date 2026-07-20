@@ -37,6 +37,7 @@ Examples:
 What to track:
 
 - Design automation for AI chips
+- Agentic design orchestration and signoff governance
 - Verification complexity
 - 3D-IC and chiplet design flows
 - IP licensing and Arm ecosystem changes
@@ -61,6 +62,7 @@ What to track:
 - Yield
 - Customer wins
 - Advanced packaging integration
+- Geographic process transfer and overseas-fab execution
 
 ## 4. Memory
 

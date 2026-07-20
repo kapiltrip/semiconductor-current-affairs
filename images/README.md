@@ -1,6 +1,6 @@
 # Images Index
 
-This folder stores dated screenshots for daily semiconductor current-affairs notes.
+This folder stores dated screenshots, official source images, and clearly labeled source-reference cards for daily semiconductor current-affairs notes.
 
 Use one folder per date:
 
@@ -16,6 +16,8 @@ Each date folder must contain a `links.md` manifest with:
 - source date
 - topic
 - screenshot status
+
+When a clean webpage screenshot cannot be captured, a generated reference card may preserve verified source identity, date, headline, and a short original summary. The card must state that it is not a webpage screenshot, and the manifest must retain the full source URL.
 
 Screenshot and editorial coverage policy:
 
@@ -62,3 +64,5 @@ Screenshot and editorial coverage policy:
 | 2026-07-16 | [2026-07-16/links.md](2026-07-16/links.md) | [../2026-07-16/README.md](../2026-07-16/README.md) |
 | 2026-07-17 | [2026-07-17/links.md](2026-07-17/links.md) | [../2026-07-17/README.md](../2026-07-17/README.md) |
 | 2026-07-18 | [2026-07-18/links.md](2026-07-18/links.md) | [../2026-07-18/README.md](../2026-07-18/README.md) |
+| 2026-07-19 | [2026-07-19/links.md](2026-07-19/links.md) | [../2026-07-19/README.md](../2026-07-19/README.md) |
+| 2026-07-20 | [2026-07-20/links.md](2026-07-20/links.md) | [../2026-07-20/README.md](../2026-07-20/README.md) |

@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-18**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-20**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -147,7 +147,7 @@ In TSMC's reporting, advanced technologies are process nodes at 7 nm and more ad
 
 Agentic electronic-design automation uses AI software agents to plan and execute connected chip-design tasks, inspect tool results, revise the plan, and escalate decisions instead of only answering isolated prompts. It solves workflow fragmentation across simulation, formal checking, debugging, coverage, and reporting. Cadence describes its ChipStack AI Super Agent as operating verification tools autonomously, but engineers still guide goals and own final signoff. The comparison is a scripted tool flow that follows predefined commands versus an agent that chooses actions from intermediate evidence.
 
-**Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-agentic-eda)
+**Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-agentic-eda), [2026-07-20](../2026-07-20/README.md#daily-term-agentic-eda)
 
 **Reference:** https://www.cadence.com/ko_KR/home/company/newsroom/press-releases/pr/2026/cadence-unveils-industrys-first-fully-autonomous-virtual.html
 
@@ -302,6 +302,17 @@ An automated material handling system moves wafer carriers between tools, bays, 
 **Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-automated-material-handling-system)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-automatic-test-equipment-ate"></a>
+## Automatic test equipment (ATE)
+
+Automatic test equipment is hardware and software that drives precise electrical patterns into a semiconductor device, measures responses, applies timing and voltage conditions, and classifies devices at wafer sort or final test. It solves the production-scale screening problem: millions of devices cannot be tested manually. In today's agenda, ATE appears with packetized scan and scalable reusable hardware because test bandwidth, channel count, accuracy and test time directly affect cost.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-automatic-test-equipment-ate)
+
+**Reference:** https://itctestweekindia.org/agenda
 
 [Back to A-Z index](#a-z-index)
 
@@ -494,6 +505,17 @@ Capital expenditure is money spent on long-lived productive assets such as fabs,
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-chipflation"></a>
+## Chipflation
+
+Chipflation is the pass-through of rising semiconductor costs into more expensive electronic systems or reduced specifications and margins. It solves an explanatory problem: a shortage is not confined to chip vendors if memory, controllers or processors become a larger share of a PC, phone, server or vehicle bill of materials. In today's news, the warning matters because sustained memory scarcity could weaken downstream demand even while memory suppliers initially enjoy higher prices.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-chipflation)
+
+**Reference:** https://www.koreajoongangdaily.com/business/sk-chief-says-us-plants-are-in-the-works-to-address-abnormal-prices-with-bolstered-supply/12779938
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-chiplet"></a>
 ## Chiplet
 
@@ -680,6 +702,28 @@ A depositary ratio states how many U.S. depositary shares represent one underlyi
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-design-closure"></a>
+## Design closure
+
+Design closure is the convergence of implementation and verification so a chip satisfies timing, power, area, signal-integrity, physical-verification, reliability and functional requirements at the required corners and modes. It solves the final-convergence problem: optimizing one metric is insufficient if another signoff check fails. In today's news, agentic orchestration is valuable only when it helps reach valid closure rather than producing faster intermediate runs.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-design-closure)
+
+**Reference:** https://www.cadence.com/en_US/home/tools/digital-design-and-signoff.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-design-for-testability-dft"></a>
+## Design for testability (DFT)
+
+Design for testability adds structures and operating modes—such as scan chains, test access, compression and built-in self-test—so manufacturing defects can be controlled, observed and diagnosed after fabrication. It solves the controllability and observability problem: internal sequential states are otherwise difficult to set and inspect through normal chip pins. In today's news, DFT is central because the ITC India agenda connects low-cost MCU testing, packetized scan, in-system test and the limits of scan coverage.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-design-for-testability-dft)
+
+**Reference:** https://itctestweekindia.org/agenda
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-design-ip"></a>
 ## Design IP
 
@@ -688,6 +732,28 @@ Design IP is a reusable block of chip design such as a processor core, memory co
 **Appears in:** [2026-07-12](../2026-07-12/README.md#daily-term-design-ip)
 
 **Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-design-orchestration"></a>
+## Design orchestration
+
+Design orchestration is the coordination of dependent EDA stages, data, constraints, compute resources and decision loops across a chip project. It solves the handoff problem where an improvement in synthesis can worsen placement, timing, power, routing or verification later. In today's news, InnoStack plus Raads is positioned to coordinate tasks from early architecture through implementation and signoff rather than acting as an isolated optimizer.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-design-orchestration)
+
+**Reference:** https://newsroom.cadence.com/press-releases/press-release-details/2026/Rapidus-and-Cadence-Partner-on-Agentic-AI-for-Advanced-SoC-Design/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-design-turnaround-time-tat"></a>
+## Design turnaround time (TAT)
+
+Design turnaround time is the elapsed time required to complete a defined design iteration or workflow and obtain actionable results. It solves the productivity measurement problem: advanced chips require many expensive loops before closure. In today's news, the up-to-2X TAT target matters only if the comparison fixes design scope, compute budget, quality, PPA, verification completeness and signoff criteria.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-design-turnaround-time-tat)
+
+**Reference:** https://newsroom.cadence.com/press-releases/press-release-details/2026/Rapidus-and-Cadence-Partner-on-Agentic-AI-for-Advanced-SoC-Design/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -917,6 +983,17 @@ An enterprise SSD is a solid-state drive built for server and data-center worklo
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-equipment-move-in"></a>
+## Equipment move-in
+
+Equipment move-in is the stage when fabrication tools are installed inside a completed and qualified cleanroom and connected to power, gases, chemicals, vacuum, cooling, automation and process-control systems. It solves the transition from an empty fab shell to a process-capable factory. In today's news, the second Arizona fab approaching tool move-in is meaningful progress, but recipes, integration, qualification and yield ramp still follow.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-equipment-move-in)
+
+**Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-euv-lithography"></a>
 ## EUV lithography
 
@@ -990,6 +1067,28 @@ A fab cluster is a geographic concentration of semiconductor manufacturing facil
 **Appears in:** [2026-06-29](../2026-06-29/README.md#daily-term-fab-cluster)
 
 **Reference:** https://apnews.com/article/22352d95c7a821c5f4548b2d1a4ebde8
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-fab-lead-time"></a>
+## Fab lead time
+
+Fab lead time is the elapsed time required to plan, permit, build, equip, qualify and ramp a semiconductor factory or expansion. It solves the capacity-timing question: an investment announcement today cannot relieve a shortage tomorrow. In today's news, Chey's urgency reflects that site choice, utilities, tool delivery, process transfer, hiring and yield ramp can take years before mass production.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-fab-lead-time)
+
+**Reference:** https://www.koreajoongangdaily.com/business/sk-chief-says-us-plants-are-in-the-works-to-address-abnormal-prices-with-bolstered-supply/12779938
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-fab-ramp"></a>
+## Fab ramp
+
+A fab ramp is the controlled increase from early process lots to stable high-volume manufacturing. It solves the scale-up problem by improving tool matching, process windows, cycle time, defect density, yield, staffing and output without losing quality. In today's news, separate Arizona phases matter because an operating first fab does not mean later fabs, nodes and package lines are already qualified.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-fab-ramp)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
@@ -1165,6 +1264,17 @@ A gate-all-around transistor places the gate around the channel on multiple side
 **Appears in:** [2026-06-16](../2026-06-16/README.md#daily-term-gaa), [2026-06-19](../2026-06-19/README.md#daily-term-gaa)
 
 **Reference:** https://www.samsung.com/semiconductor/minisite/tech/gate-all-around/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-geographic-process-transfer"></a>
+## Geographic process transfer
+
+Geographic process transfer is the controlled replication of a semiconductor process from a reference development or production fab into another site. It solves regional capacity and supply-resilience goals, but requires matched tools, recipes, metrology, materials, data systems, training and engineering response. In today's news, TSMC's Taiwan-first sequence reflects the lower risk of stabilizing a leading process beside the R&D team before copying it overseas.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-geographic-process-transfer)
+
+**Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
 
 [Back to A-Z index](#a-z-index)
 
@@ -1573,6 +1683,17 @@ MES is factory software that dispatches work, enforces process routes, records e
 **Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-manufacturing-execution-system-mes)
 
 **Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2161666
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-manufacturing-infrastructure-constraint"></a>
+## Manufacturing infrastructure constraint
+
+A manufacturing infrastructure constraint is a physical resource that limits construction or production even when capital and customer demand exist. Examples include skilled trades, power, water, roads, gas systems, waste treatment, tool service and permitting capacity. It solves the explanation for why funding alone cannot set the fab schedule. In today's news, TSMC explicitly identifies construction-worker and infrastructure availability as Arizona ramp constraints.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-manufacturing-infrastructure-constraint)
+
+**Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
 
 [Back to A-Z index](#a-z-index)
 
@@ -2046,6 +2167,17 @@ Pass-through inflation happens when a company's higher input cost is passed to b
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-patient-capital"></a>
+## Patient capital
+
+Patient capital is funding willing to wait longer for returns because the business needs extended R&D, validation, customer qualification and market development before revenue scales. It solves the time-horizon mismatch between semiconductor product development and investors seeking quick exits. In today's news, patient capital matters because a chip startup may spend years on architecture, RTL, verification, physical design, masks, first silicon, bring-up and qualification before meaningful volume sales.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-patient-capital)
+
+**Reference:** https://www.ndtvprofit.com/economy/govt-to-co-invest-in-chip-startups-to-prevent-acquisition-deals-by-global-giants-meity-secy-11791683/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-pax-silica"></a>
 ## Pax Silica
 
@@ -2140,6 +2272,17 @@ PQC uses algorithms designed to resist attacks from both conventional computers 
 **Appears in:** [2026-07-05](../2026-07-05/README.md#daily-term-post-quantum-cryptography-pqc), [2026-07-08](../2026-07-08/README.md#daily-term-post-quantum-cryptography-pqc)
 
 **Reference:** https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-post-silicon-validation"></a>
+## Post-silicon validation
+
+Post-silicon validation is the process of exercising fabricated chips in real boards, firmware, workloads, interfaces, voltage/temperature corners and system scenarios to find behavior that pre-silicon models or manufacturing tests missed. It solves the reality-gap problem between simulation and physical silicon. In today's news, the dedicated SoC session matters because functional correctness, performance, power, interoperability and customer use cases continue after a die passes production test.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-post-silicon-validation)
+
+**Reference:** https://itctestweekindia.org/agenda
 
 [Back to A-Z index](#a-z-index)
 
@@ -2246,6 +2389,17 @@ Profit-taking is selling after a large price rise to lock in gains. It solves a 
 **Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-profit-taking)
 
 **Reference:** https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-public-private-co-investment"></a>
+## Public-private co-investment
+
+Public-private co-investment is a financing structure in which government capital invests alongside qualified private investors in the same company or project. It solves two problems at once: public money can support strategically important technology, while private investors contribute commercial selection, valuation discipline and follow-on financing. In today's news, the model matters because India wants to support expensive advanced-chip design without making the state the sole selector or funder.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-public-private-co-investment)
+
+**Reference:** https://www.business-standard.com/industry/news/semicon-2-0-equity-norms-to-boost-chip-design-investment-it-secy-126071900129_1.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2397,6 +2551,17 @@ A sample shipment supplies pre-production devices so customers can test function
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-scan-chain"></a>
+## Scan chain
+
+A scan chain connects selected storage elements into shift-register paths during test mode, allowing automatic test equipment to shift in an internal state, apply one or more capture clocks, and shift out the observed response. It solves limited internal access, but adds area, routing, timing, power and security constraints. The July 19 agenda matters because several sessions address scan transport, state extraction and test escapes rather than treating scan as a complete solution.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-scan-chain)
+
+**Reference:** https://blogs.sw.siemens.com/tessent/2017/04/24/scan-insertion-for-better-atpg/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-secure-element"></a>
 ## Secure element
 
@@ -2483,6 +2648,17 @@ SIA is a U.S.-based industry association representing most U.S. semiconductor re
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-semiconductor-intellectual-property-ip"></a>
+## Semiconductor intellectual property (IP)
+
+Semiconductor intellectual property is reusable or protectable chip-design knowledge such as processor cores, interfaces, memory controllers, analog blocks, algorithms, circuit architectures, RTL, layouts and patents. It solves the repeated-design problem by allowing proven building blocks and differentiated inventions to be reused or licensed. In today's news, India wants design companies to retain and commercialise valuable IP instead of being forced into an early acquisition because growth capital is unavailable.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-semiconductor-intellectual-property-ip)
+
+**Reference:** https://www.ndtvprofit.com/economy/govt-to-co-invest-in-chip-startups-to-prevent-acquisition-deals-by-global-giants-meity-secy-11791683/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-semiconductor-ip"></a>
 ## Semiconductor IP
 
@@ -2546,6 +2722,17 @@ Dilution is the reduction in an existing shareholder's proportional ownership an
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-shareholder-dilution)
 
 **Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/convertible-securities
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-signoff"></a>
+## Signoff
+
+Signoff is the formal set of final engineering checks and approvals before releasing a chip design for tape-out. It solves the risk-control problem by requiring validated timing, power, physical rules, extraction, signal integrity and other foundry/customer criteria. In today's news, Cadence says the integrated flow spans signoff; that does not mean an AI agent can waive the rules or accept unverified results.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-signoff)
+
+**Reference:** https://www.cadence.com/en_US/home/tools/digital-design-and-signoff.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2615,6 +2802,17 @@ A Strategic Customer Agreement is a long-term commercial arrangement that aligns
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-structural-demand"></a>
+## Structural demand
+
+Structural demand is demand expected to persist because of a long-term change in technology or industry behavior rather than a short inventory cycle. It solves the forecasting distinction between a temporary order spike and a durable workload shift. In today's news, TSMC uses multi-year structural AI demand to justify large fab and packaging commitments, but the thesis must still be checked against customer capex, utilization and product revenue over time.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-structural-demand)
+
+**Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-supply-agreement"></a>
 ## Supply agreement
 
@@ -2632,6 +2830,17 @@ A supply agreement is a commercial contract that sets terms for purchasing input
 Supply allocation is the rule used to divide scarce output among customers, products, countries, or end uses. It solves an immediate shortage but creates opportunity costs because supplying one segment reduces availability elsewhere. A political priority for automotive chips may protect vehicle production while delaying servers, consumer devices, networking, or medical equipment. The U.S. debate matters because memory capacity cannot be redirected instantly across HBM, conventional DRAM, NAND, package types, qualifications, and customer contracts. Sources: [Industry coalition letter](https://tiaonline.org/wp-content/uploads/2026/06/Industry-Coalition-Letter-re-Memory-Shortage.pdf) and [Senator Moreno release](https://www.moreno.senate.gov/press-releases/moreno-calls-to-restrict-sale-of-memory-chips-abroad-until-us-auto-industry-fully-supplied/)
 
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-supply-allocation)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-supply-elasticity"></a>
+## Supply elasticity
+
+Supply elasticity describes how much output can increase when price or demand rises. Semiconductor supply is inelastic over short periods because cleanrooms, power, tools, process recipes, trained teams, yield learning and customer qualification cannot be added instantly. In today's news, memory prices can stay elevated even when producers intend to expand because new saleable bits arrive only after a long engineering and construction chain.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-supply-elasticity)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
@@ -2679,6 +2888,17 @@ TDISP, or TEE Device Interface Security Protocol, is a PCIe security architectur
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-tdisp)
 
 **Reference:** https://pcisig.com/PCI%20Express/ECN/Base/TEEDeviceInterfaceSecurityProtocol
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-test-escape"></a>
+## Test escape
+
+A test escape is a defective device that passes the applied manufacturing tests and reaches the customer or next production stage. It solves no problem; it is the residual risk left by incomplete fault models, insufficient patterns, marginal conditions, analog defects or system interactions not reproduced during test. The agenda explicitly studies scan limitations because high structural coverage does not guarantee zero defective-parts-per-million.
+
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-test-escape)
+
+**Reference:** https://itctestweekindia.org/agenda
 
 [Back to A-Z index](#a-z-index)
 
@@ -2954,6 +3174,17 @@ Yield is the percentage of manufactured dies or wafers that meet required electr
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-yield)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-yield-parity"></a>
+## Yield parity
+
+Yield parity means two manufacturing locations or lines produce comparable shares of good output under a defined product, process and measurement basis. It solves the transfer-quality question: can an overseas fab reproduce the economic output of the reference fab? In today's news, TSMC's statement that Arizona yield is as good as Taiwan is encouraging, but a rigorous comparison would need the same node, design mix, maturity, test limits and time window.
+
+**Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-yield-parity)
+
+**Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
 
 [Back to A-Z index](#a-z-index)
 

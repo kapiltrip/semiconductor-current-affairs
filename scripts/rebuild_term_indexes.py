@@ -289,6 +289,8 @@ def daily_glossary(terms: list[tuple[str, str, str]]) -> str:
 def build_master(
     definitions: dict[str, tuple[str, str]], appearances: dict[str, set[str]]
 ) -> str:
+    latest_day = max((day for days in appearances.values() for day in days), default="unknown")
+
     def group_key(term: str) -> str:
         return term[0].upper() if term and term[0].isalpha() else "0-9"
 
@@ -300,7 +302,7 @@ def build_master(
         "# Semiconductor Technical-Term Index",
         "",
         "This is the master A-Z glossary for every specialist term indexed in the daily notes through "
-        "**2026-07-12**. Each entry gives a usable meaning, an authoritative reference when available, "
+        f"**{latest_day}**. Each entry gives a usable meaning, an authoritative reference when available, "
         "and backlinks to the days where the term is taught in context.",
         "",
         "[Notebook home](../README.md) · [Daily index](../README.md#daily-index)",

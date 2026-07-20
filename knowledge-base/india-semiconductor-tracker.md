@@ -37,6 +37,22 @@ PIB reported 12 approved semiconductor manufacturing projects with an investment
 
 Treat these as programme and pipeline indicators. An approval is not an operating facility, a tape-out is not a qualified commercial chip, and an announced investment is not expenditure already completed. Track each project through construction, tool installation, first silicon, yield learning, customer qualification, and production volume.
 
+## July 2026 Semicon 2.0 Design-Financing Update
+
+| Date | Policy signal | Reported mechanism | Why it matters | Evidence still required | Source |
+|---|---|---|---|---|---|
+| 2026-07-15 | Semicon 2.0 approved with INR 1,27,500 crore outlay | Six pillars covering design, machines/materials, fabs, ATMP/OSAT, R&D and talent | Moves India policy beyond isolated fab and packaging projects toward a fuller ecosystem | Final guidelines, application windows, pillar allocations, approvals and disbursements | https://ism.gov.in/schemes/semicon2.0/index |
+| 2026-07-19 | Larger support for Indian advanced-chip design | Reported mix of grants, possible equity or royalty-linked support, and government co-investment alongside whitelisted venture funds | Advanced product companies need patient capital across IP, tape-out, first silicon, qualification and customer design-in | Fund whitelist, conflicts policy, valuation, ownership limits, milestone gates, IP conditions, exit rules and first investments | https://www.business-standard.com/industry/news/semicon-2-0-equity-norms-to-boost-chip-design-investment-it-secy-126071900129_1.html |
+
+The reported count of 105 startups is a pipeline indicator, not a success metric. Track the funnel explicitly:
+
+```text
+supported team -> owned IP -> tape-out -> working silicon -> qualification
+-> customer design-in -> repeat production -> revenue / exports
+```
+
+This distinction is especially important because India can build internationally valuable design IP before domestic leading-edge manufacturing is available. A chip may be designed by an Indian product company, fabricated overseas, packaged in India or elsewhere, and still create domestic IP value; the policy should disclose which layer it is measuring.
+
 ## Career-Relevant Interpretation
 
 Near-term India opportunities are likely to be strongest in:
