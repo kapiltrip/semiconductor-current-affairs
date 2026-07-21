@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-20**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-21**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -189,11 +189,11 @@ An AI data center is a facility optimized for training or serving AI models usin
 <a id="term-ai-inference"></a>
 ## AI inference
 
-AI inference is the stage where a trained model answers real user requests. Training builds the model; inference runs it repeatedly. The engineering problem is not only peak compute. Inference must control latency, memory bandwidth, networking, power, and cost per token. It matters today because Qualcomm, OpenAI/Broadcom, and other players are designing chips around cheaper inference, while memory demand keeps rising.
+AI inference is the execution phase where a trained model uses input data to produce outputs such as text, code, images, rankings or decisions. It solves the deployment problem after training: the model must respond to real user or application requests with acceptable latency, throughput, cost and reliability. In today's news, Microsoft says AMD Helios will support frontier-model inference in Azure, which means the business question is serving cost and fleet capacity, not only training headline performance. Example: training is like creating the model's learned parameters; inference is using those parameters millions of times per day.
 
-**Appears in:** [2026-06-25](../2026-06-25/README.md#daily-term-ai-inference), [2026-06-27](../2026-06-27/README.md#daily-term-ai-inference)
+**Appears in:** [2026-06-25](../2026-06-25/README.md#daily-term-ai-inference), [2026-06-27](../2026-06-27/README.md#daily-term-ai-inference), [2026-07-21](../2026-07-21/README.md#daily-term-ai-inference)
 
-**Reference:** https://www.nvidia.com/en-us/glossary/ai-inference/
+**Reference:** https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/
 
 [Back to A-Z index](#a-z-index)
 
@@ -269,6 +269,17 @@ Analyst consensus aggregates independent forecasts into a market expectation aga
 An application-specific integrated circuit is a chip built for a defined workload rather than general-purpose programming. Specialization can improve performance and energy efficiency, but raises design cost and reduces flexibility.
 
 **Reference:** https://www.arm.com/glossary/asic
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-assembly-manufacturing"></a>
+## Assembly manufacturing
+
+Assembly manufacturing is the post-wafer process of turning individual dies into packaged, handled, connected and testable semiconductor products through steps such as die attach, wire bonding or flip-chip attach, molding, substrate attach, marking and inspection. It solves the physical-product problem: a wafer die cannot be sold as a usable chip until it is protected, connected and qualified. In today's news, SEMI's device and assembly manufacturing course is a reminder that India and global ecosystems need back-end process skills as much as design slogans.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-assembly-manufacturing)
+
+**Reference:** https://www.semi.org/en/semiconductor-resource-hub
 
 [Back to A-Z index](#a-z-index)
 
@@ -505,14 +516,25 @@ Capital expenditure is money spent on long-lived productive assets such as fabs,
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-centre-of-excellence-coe"></a>
+## Centre of Excellence (CoE)
+
+A Centre of Excellence is a focused institution or industry-academic hub that concentrates people, tools, labs, training and applied R&D around a technical domain. It solves capability-building problems when private firms alone cannot justify expensive training, metrology or prototype infrastructure early in an ecosystem's development. In today's news, ETElectronics reports global equipment makers working with Indian local players and CoEs, which makes CoE quality and industry relevance a real policy execution checkpoint.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-centre-of-excellence-coe)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/supply-chain-trade/semicon-2-0-scheme-can-create-5-billion-equipment-components-ecosystem-kas-groups-md/132513467
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-chipflation"></a>
 ## Chipflation
 
-Chipflation is the pass-through of rising semiconductor costs into more expensive electronic systems or reduced specifications and margins. It solves an explanatory problem: a shortage is not confined to chip vendors if memory, controllers or processors become a larger share of a PC, phone, server or vehicle bill of materials. In today's news, the warning matters because sustained memory scarcity could weaken downstream demand even while memory suppliers initially enjoy higher prices.
+Chipflation is the pass-through of higher semiconductor prices into more expensive cloud services, servers, PCs, phones, vehicles or other electronics. It solves the macro/business explanation for why a chip shortage is not only a supplier-profit story: higher logic, memory, energy and infrastructure costs can eventually pressure buyers' return on investment. In today's news, Business Insider frames AI-related logic and memory price increases as a test for hyperscalers because expensive chips can both prove strong demand and weaken adoption if customers cannot monetize AI fast enough.
 
-**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-chipflation)
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-chipflation), [2026-07-21](../2026-07-21/README.md#daily-term-chipflation)
 
-**Reference:** https://www.koreajoongangdaily.com/business/sk-chief-says-us-plants-are-in-the-works-to-address-abnormal-prices-with-bolstered-supply/12779938
+**Reference:** https://www.businessinsider.com/ai-chip-prices-chipflation-semiconductors-memory-stocks-kospi-ny-life-2026-7
 
 [Back to A-Z index](#a-z-index)
 
@@ -614,11 +636,11 @@ Chip-on-Wafer-on-Substrate, an advanced packaging approach used for large AI acc
 <a id="term-crowded-trade"></a>
 ## Crowded trade
 
-A crowded trade occurs when many investors hold similar positions based on the same theme, making prices vulnerable if sentiment turns. It solves the market-structure explanation for why good news can still lead to selling: when everyone already owns the trade, there may be fewer incremental buyers. In today's news, AI infrastructure and memory exposure appear crowded after a powerful rally.
+A crowded trade is a market position where many investors own the same theme or stocks, making prices vulnerable to sharp reversals when expectations wobble. It solves the explanation for why good company fundamentals can coexist with falling share prices. In today's news, analysts cited by Korea Times say Korean semiconductor names remain fundamentally strong but may be crowded after a sharp rally, while China names attract fresh inflows.
 
-**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-crowded-trade)
+**Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-crowded-trade), [2026-07-21](../2026-07-21/README.md#daily-term-crowded-trade)
 
-**Reference:** https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb
+**Reference:** https://www.koreatimes.co.kr/amp/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china
 
 [Back to A-Z index](#a-z-index)
 
@@ -646,6 +668,17 @@ Customer qualification is the controlled evidence-building process through which
 
 <a id="letter-d"></a>
 # D
+
+<a id="term-data-processing-unit-dpu"></a>
+## Data processing unit (DPU)
+
+A data processing unit is a programmable infrastructure processor that offloads networking, storage, security, packet processing and telemetry tasks from the host CPU. It solves the cloud-infrastructure overhead problem: at hyperscale, general CPUs should not spend too much time doing packet steering, encryption, virtualization and storage plumbing. In today's news, AMD says Microsoft will broaden deployment of Pensando DPUs and integrate AMD silicon with Azure Boost, so the accelerator story includes the network and host-infrastructure layer too.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-data-processing-unit-dpu)
+
+**Reference:** https://newsroom.amd.com/news/microsoft-azure-ai-infrastructure/
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-decoupling-capacitor"></a>
 ## Decoupling capacitor
@@ -843,6 +876,17 @@ DRAM, or dynamic random-access memory, stores each bit using a tiny capacitor an
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-dram-wafer-capacity"></a>
+## DRAM wafer capacity
+
+DRAM wafer capacity is the number of wafer starts or wafer outputs a memory manufacturer can process for DRAM production over a period, usually discussed monthly. It solves the scale question: market share and pricing depend not only on technology, but on how many wafers can be processed, yielded and converted into qualified memory products. In today's news, reported CXMT capacity targets matter because extra Chinese wafer capacity could increase global DRAM supply, but wafer capacity alone does not prove high-yield HBM or leading-edge product parity.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-dram-wafer-capacity)
+
+**Reference:** https://www.koreatimes.co.kr/amp/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-drawdown"></a>
 ## Drawdown
 
@@ -941,6 +985,17 @@ EDA-tool training teaches students and engineers to use electronic design automa
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-electronic-design-automation-eda-cloud-workload"></a>
+## Electronic design automation (EDA) cloud workload
+
+An EDA cloud workload is a chip-design computation such as RTL simulation, verification, synthesis, physical implementation, timing analysis, extraction or signoff running on cloud infrastructure instead of only on local data-center servers. It solves burst-capacity and schedule-pressure problems because chip teams need thousands of CPU cores and large memory pools during peak design iterations. In today's news, Microsoft's HXv2 VMs are explicitly positioned for silicon design and technical computing, so AI infrastructure is feeding back into the design tools used to create the next chips.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-electronic-design-automation-eda-cloud-workload)
+
+**Reference:** https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electronic-manufacturing-cluster"></a>
 ## Electronic Manufacturing Cluster
 
@@ -994,6 +1049,17 @@ Equipment move-in is the stage when fabrication tools are installed inside a com
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-etching-and-deposition-equipment"></a>
+## Etching and deposition equipment
+
+Etching equipment removes selected material from a wafer, while deposition equipment adds thin films such as dielectrics, metals, barriers or semiconductor layers. Together they solve the build-and-remove problem at the heart of chip manufacturing: every transistor and interconnect layer is created by repeatedly adding, patterning and removing materials with nanometer-level control. In today's news, Indian custom equipment work in etching and deposition shows why machines/materials policy is technically deep, not just an import-substitution slogan.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-etching-and-deposition-equipment)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-euv-lithography"></a>
 ## EUV lithography
 
@@ -1011,6 +1077,17 @@ EUV lithography uses 13.5 nm extreme-ultraviolet light and reflective optics to 
 Ability to track EUV scanner location, operation, parts, and service history.
 
 **Appears in:** [2026-06-21](../2026-06-21/README.md#daily-term-euv-traceability)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-exchange-traded-fund-etf"></a>
+## Exchange-traded fund (ETF)
+
+An exchange-traded fund is an investment fund traded on an exchange that usually tracks a basket of securities, index or theme. It solves access and diversification problems for investors who want exposure to a sector without buying each stock separately. In today's news, Korea Times uses ETF performance to show market rotation toward Chinese semiconductor exposure, but ETF price movement is sentiment and positioning evidence, not manufacturing proof.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-exchange-traded-fund-etf)
+
+**Reference:** https://www.koreatimes.co.kr/amp/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china
 
 [Back to A-Z index](#a-z-index)
 
@@ -1109,6 +1186,17 @@ Failure analysis is the disciplined process of locating a defect, reproducing th
 **Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-failure-analysis)
 
 **Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280619&lang=1&reg=48
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-failure-and-yield-analysis"></a>
+## Failure and yield analysis
+
+Failure and yield analysis is the engineering discipline of finding why devices fail tests or why fewer good dies/packages are produced than expected. It solves the feedback-loop problem between design, process, equipment, package, test patterns and customer returns. In today's news, SEMI's upcoming failure/yield course and ITC India's test programme show the practical skills needed after tape-out: diagnose, isolate, correct and prevent defects.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-failure-and-yield-analysis)
+
+**Reference:** https://www.semi.org/en/semiconductor-resource-hub
 
 [Back to A-Z index](#a-z-index)
 
@@ -1242,6 +1330,17 @@ Foundry diversification means building a supply chain where a chip company can u
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-fp4-and-fp8-arithmetic"></a>
+## FP4 and FP8 arithmetic
+
+FP4 and FP8 are low-precision floating-point number formats that use fewer bits than FP16 or FP32 to represent values. They solve the throughput and energy problem in AI workloads by allowing more multiply-accumulate operations and less data movement per watt when model accuracy can tolerate lower precision. In today's news, AMD quotes rack-level FP4 and FP8 peak performance for Helios, but these are precision-specific peak numbers, not guaranteed real-world application throughput. A simple comparison: FP32 is useful for high numerical precision, while FP4 is useful when AI model serving can trade precision for scale and efficiency.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-fp4-and-fp8-arithmetic)
+
+**Reference:** https://www.amd.com/content/dam/amd/en/documents/solutions/ai/amd-helios-bro.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-full-node-ppa"></a>
 ## Full-node PPA
 
@@ -1286,6 +1385,17 @@ A gigafab is a very large semiconductor manufacturing campus or cluster with mul
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-gigafab)
 
 **Reference:** https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-global-value-chain-gvc"></a>
+## Global value chain (GVC)
+
+A global value chain is the international network of companies, countries and process steps that design, source, manufacture, test, package, sell and service a product. It solves the specialization problem by allowing each region to contribute where it has capability, cost, talent or scale advantages. In today's news, India's goal is not only domestic consumption; Semicon 2.0 must help Indian equipment, materials and component suppliers qualify into the global semiconductor GVC.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-global-value-chain-gvc)
+
+**Reference:** https://www.oecd.org/en/topics/sub-issues/global-value-and-supply-chains.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1334,6 +1444,17 @@ Hardware/software co-design develops silicon architecture, compilers, runtimes, 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-hbm-competitiveness"></a>
+## HBM competitiveness
+
+HBM competitiveness is a supplier's ability to deliver high-bandwidth memory stacks that meet customer requirements for bandwidth, capacity, power, thermal behavior, yield, package integration, reliability and qualification with accelerator partners. It solves the difference between producing commodity DRAM bits and winning AI-accelerator sockets. In today's news, analysts still identify HBM as the decisive gap for CXMT because AI accelerators need advanced stacked memory, not only more conventional DRAM wafers.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-hbm-competitiveness)
+
+**Reference:** https://www.koreatimes.co.kr/amp/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-hbm4e"></a>
 ## HBM4E
 
@@ -1375,6 +1496,17 @@ HBM is stacked DRAM placed very close to a processor through advanced package in
 **Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.synopsys.com/glossary/what-is-high-bandwitdth-memory-3.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-high-bandwidth-memory-4-hbm4"></a>
+## High-Bandwidth Memory 4 (HBM4)
+
+High-Bandwidth Memory 4 is a next-generation stacked DRAM memory technology placed very close to an accelerator through advanced packaging to provide extremely high bandwidth and capacity per package. It solves the memory-wall problem: AI accelerators can contain huge arithmetic units, but those units sit idle if model weights and activations cannot be supplied fast enough. In today's news, AMD Helios lists up to 31 TB of HBM4 per rack and 432 GB per MI455X GPU, making HBM4 availability a core constraint for AMD, Microsoft and memory suppliers. Compared with ordinary DDR memory on a server motherboard, HBM trades higher packaging complexity and cost for much higher bandwidth near the compute die.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-high-bandwidth-memory-4-hbm4)
+
+**Reference:** https://www.amd.com/content/dam/amd/en/documents/solutions/ai/amd-helios-bro.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -1796,6 +1928,17 @@ A memory supercycle is a longer-than-normal period of strong memory demand, tigh
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-memory-supply-allocation"></a>
+## Memory supply allocation
+
+Memory supply allocation is the process of deciding which customers and end markets receive limited DRAM, NAND or HBM output when total demand exceeds available qualified supply. It solves shortage triage, but it can strain customer relationships and redirect capacity away from lower-margin markets. In today's news, Micron says AI-driven data-center growth is outpacing industry supply and may affect some customers and end markets, which means the AI boom can create winners and losers inside the same supplier's customer base.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-memory-supply-allocation)
+
+**Reference:** https://www.sec.gov/Archives/edgar/data/723125/000072312526000015/mu-20260528.htm
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-memory-wall"></a>
 ## Memory wall
 
@@ -2087,6 +2230,17 @@ One Virtual Fab is Infineon's operating model for coordinating geographically se
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-open-accelerator-interconnect"></a>
+## Open accelerator interconnect
+
+An open accelerator interconnect is a standards-based connection approach for linking accelerators, CPUs and networking devices without depending entirely on one vendor's proprietary fabric. It solves vendor lock-in and ecosystem-fragmentation problems by giving hyperscalers, OEMs and component vendors a common target for scale-up or scale-out designs. In today's news, AMD positions Helios around OCP Open Rack Wide, UALink and Ultra Ethernet Consortium specifications, making openness part of its challenge to Nvidia's vertically integrated rack platforms.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-open-accelerator-interconnect)
+
+**Reference:** https://www.amd.com/en/products/rackscale-solutions/helios.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-open-weight-ai-model"></a>
 ## Open-weight AI model
 
@@ -2253,6 +2407,17 @@ SOX is a modified market-capitalization-weighted index of 30 major US-listed sem
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-photoresist-coating-equipment"></a>
+## Photoresist coating equipment
+
+Photoresist coating equipment applies a uniform light-sensitive polymer layer onto a wafer before lithography. It solves the pattern-transfer preparation problem: if resist thickness, uniformity, edge bead, bake conditions or contamination are wrong, the lithography image will distort and downstream etch will fail. In today's news, India's mention of coating equipment is important because lithography quality depends on many support tools, not only the exposure scanner.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-photoresist-coating-equipment)
+
+**Reference:** https://www.asml.com/en/technology/lithography-principles
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-policy-notification"></a>
 ## Policy notification
 
@@ -2325,6 +2490,17 @@ Preliminary earnings guidance is management's early estimate before a full earni
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-preliminary-earnings-guidance)
 
 **Reference:** https://www.samsung.com/global/ir/reports-disclosures/public-disclosure-view.84695/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-price-band"></a>
+## Price band
+
+A price band sets a minimum and maximum price range for a product over a contract term. It solves both sides of pricing risk: customers avoid unlimited upside if spot prices spike, while suppliers avoid selling below an agreed floor if the cycle turns down. In today's news, Micron says most strategic agreements are fixed-price or subject to minimum and maximum pricing, with large agreements generally using a ceiling near second-calendar-quarter 2026 market prices and a floor through the term.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-price-band)
+
+**Reference:** https://www.sec.gov/Archives/edgar/data/723125/000072312526000015/mu-20260528.htm
 
 [Back to A-Z index](#a-z-index)
 
@@ -2453,6 +2629,17 @@ An earnings quiet period is a pre-results window when management limits investor
 <a id="letter-r"></a>
 # R
 
+<a id="term-rack-scale-ai-infrastructure"></a>
+## Rack-scale AI infrastructure
+
+Rack-scale AI infrastructure is a complete rack-level system that integrates accelerators, host CPUs, memory, power distribution, cooling, networking, management, security and software into one deployable unit. It solves the scaling problem that appears when many accelerators must act like one machine rather than isolated PCIe cards. In today's news, AMD Helios matters because Microsoft is treating it as Azure infrastructure for frontier-model inference, not merely as a GPU announcement. Compared with buying a single accelerator card, a rack-scale design answers the harder questions: how data moves, how heat leaves, how GPUs synchronize and how operators service failures.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-rack-scale-ai-infrastructure)
+
+**Reference:** https://www.amd.com/en/products/rackscale-solutions/helios.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-regular-way-trading"></a>
 ## Regular-way trading
 
@@ -2461,6 +2648,17 @@ Regular-way trading is the normal exchange-trading state where trades follow the
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-regular-way-trading), [2026-07-12](../2026-07-12/README.md#daily-term-regular-way-trading), [2026-07-13](../2026-07-13/README.md#daily-term-regular-way-trading)
 
 **Reference:** https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-11
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-remaining-performance-obligation-rpo"></a>
+## Remaining performance obligation (RPO)
+
+A remaining performance obligation is contracted revenue a company expects to recognize in the future for goods or services it has not yet delivered, measured according to accounting rules. It solves the visibility question by separating already recognized revenue from contractual future commitments. In today's news, Micron's filing discloses about USD 5 billion allocated to remaining performance obligations as of May 28, 2026, while prepared remarks discuss much larger minimum-price contract value over the full term; the difference shows why accounting RPO and headline contract value are not the same measure.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-remaining-performance-obligation-rpo)
+
+**Reference:** https://www.sec.gov/Archives/edgar/data/723125/000072312526000015/mu-20260528.htm
 
 [Back to A-Z index](#a-z-index)
 
@@ -2615,6 +2813,17 @@ A semiconductor ecosystem is the full set of companies, institutions, suppliers,
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-semiconductor-equipment-component"></a>
+## Semiconductor equipment component
+
+A semiconductor equipment component is a specialized part, module or subsystem used inside fab, packaging or test equipment, such as chambers, pumps, valves, gas-delivery parts, robot handlers, wet-process modules, precision stages, sensors, heaters, power supplies or chemical-delivery systems. It solves the localization problem below the tool level: a country may not build an entire lithography or deposition tool immediately, but it can enter the supply chain through qualified components. In today's news, India's Semicon 2.0 machines/materials pillar matters because equipment components are a realistic path into global semiconductor value chains if suppliers meet contamination, precision, reliability and documentation standards.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-semiconductor-equipment-component)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/supply-chain-trade/semicon-2-0-scheme-can-create-5-billion-equipment-components-ecosystem-kas-groups-md/132513467
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-semiconductor-equipment-supplier"></a>
 ## Semiconductor equipment supplier
 
@@ -2667,6 +2876,17 @@ Semiconductor IP is reusable, pre-designed circuit or software/hardware blocks l
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-ip)
 
 **Reference:** https://www.prnewswire.com/news-releases/ceva-ceo-amir-panush-named-artificial-intelligence-company-ceo-of-the-year-in-2026-ai-breakthrough-awards-program-302810369.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-self-sufficiency"></a>
+## Semiconductor self-sufficiency
+
+Semiconductor self-sufficiency is a country's ability to supply strategically important chip design, manufacturing, equipment, materials, packaging and talent needs domestically or through trusted local ecosystems. It solves national-security and supply-resilience concerns, but it is segment-specific: success in memory wafers does not automatically mean success in EUV tools, EDA, HBM, analog, packaging or leading-edge logic. In today's news, China's push for self-sufficiency supports sentiment around CXMT, while export controls and HBM complexity still shape the real technology boundary.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-semiconductor-self-sufficiency)
+
+**Reference:** https://www.csis.org/analysis/countering-chinas-challenge-american-ai-leadership
 
 [Back to A-Z index](#a-z-index)
 
@@ -2802,6 +3022,17 @@ A Strategic Customer Agreement is a long-term commercial arrangement that aligns
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-strategic-customer-agreement-sca"></a>
+## Strategic customer agreement (SCA)
+
+A strategic customer agreement is a multi-year commercial contract between a semiconductor supplier and important customers that can define committed supply, volumes, deposits, pricing bands, technology access and business obligations. It solves the planning problem created by shortage: customers need supply assurance, while suppliers need revenue visibility before funding expensive capacity. In today's news, Micron's SCAs are the verified foundation under the broader debate about whether AI supply contracts make the memory cycle less volatile.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-strategic-customer-agreement-sca)
+
+**Reference:** https://investors.micron.com/static-files/631b1a32-5537-46ae-8f40-82e42fc79dfe
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-structural-demand"></a>
 ## Structural demand
 
@@ -2857,6 +3088,17 @@ A system-on-chip is an integrated circuit that combines processors, memory inter
 
 <a id="letter-t"></a>
 # T
+
+<a id="term-take-or-pay-agreement"></a>
+## Take-or-pay agreement
+
+A take-or-pay agreement requires a customer either to take a committed volume of product or pay according to the contract even if the customer later needs less product. It solves supplier investment risk by making demand more bankable before the supplier commits fab capacity, tools and inventory. In today's news, Micron says its SCAs are structured as take-or-pay agreements with binding volume commitments, but investors still need to watch enforcement, renegotiation and customer relationship risk if AI demand weakens.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-take-or-pay-agreement)
+
+**Reference:** https://www.sec.gov/Archives/edgar/data/723125/000072312526000015/mu-20260528.htm
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-talent-pipeline"></a>
 ## Talent pipeline
@@ -3109,6 +3351,17 @@ A wafer-scale engine is a processor built using a whole wafer-scale piece of sil
 **Appears in:** [2026-06-24](../2026-06-24/README.md#daily-term-wafer-scale-engine)
 
 **Reference:** https://www.cerebras.ai/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wet-bench"></a>
+## Wet bench
+
+A wet bench is semiconductor process equipment used for wet chemical cleaning, etching, stripping or surface preparation of wafers or substrates under controlled contamination and safety conditions. It solves the surface-preparation problem: tiny residues, particles, oxides or films can destroy yield if not removed or processed uniformly. In today's news, KAS Group mentions wet benches as part of Indian custom equipment capability, which matters because even mature wet-process tools require chemical compatibility, flow control, safety, automation and particle control.
+
+**Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-wet-bench)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/supply-chain-trade/semicon-2-0-scheme-can-create-5-billion-equipment-components-ecosystem-kas-groups-md/132513467
 
 [Back to A-Z index](#a-z-index)
 
