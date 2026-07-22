@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-21**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-22**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -131,6 +131,17 @@ An advanced packaging and test facility turns fabricated dies into qualified mul
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-advanced-semiconductor-packaging"></a>
+## Advanced semiconductor packaging
+
+Advanced semiconductor packaging is the set of post-wafer technologies that connect one or more dies, memory stacks, interposers, substrates, heat spreaders, and electrical/thermal interfaces into a high-performance package. It solves the scaling problem that pure transistor shrinking cannot solve alone: modern chips need more memory bandwidth, more I/O, more power delivery, and multi-die integration. In today's news, the phrase matters because Paras is proposing an advanced packaging OSAT, which is more strategic than a simple low-pin-count assembly line if it actually reaches qualified capability. Example: a basic package may protect one die; an advanced package may connect compute dies, HBM, and substrates with very dense interconnect.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-advanced-semiconductor-packaging)
+
+**Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-advanced-technologies"></a>
 ## Advanced technologies
 
@@ -186,6 +197,17 @@ An AI data center is a facility optimized for training or serving AI models usin
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-factory"></a>
+## AI factory
+
+An AI factory is a data-center-style industrial facility that turns electricity, chips, networking, memory, software, and data into AI outputs such as tokens, model training steps, inference responses, simulations, or recommendations. It solves the business framing problem for AI infrastructure: the output is not a physical good, but compute service at industrial scale. In today's news, NVIDIA and Wistron use the language of AI factories because the manufactured systems are meant to become the production equipment of AI services. A comparison: a steel mill uses energy and machinery to produce steel; an AI factory uses energy and accelerated computing to produce model outputs.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory)
+
+**Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ai-inference"></a>
 ## AI inference
 
@@ -197,6 +219,17 @@ AI inference is the execution phase where a trained model uses input data to pro
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-infrastructure-conference"></a>
+## AI infrastructure conference
+
+An AI infrastructure conference is an industry event where chip vendors, cloud providers, OEMs, developers, and enterprise customers present hardware roadmaps, software stacks, deployment methods, benchmark claims, and partner ecosystems for AI workloads. It solves the coordination problem in a platform business: accelerators need software, systems, channels, and customer confidence before they can challenge an incumbent. In today's news, AMD Advancing AI matters because the July 22 agenda sets up developer and customer sessions before the July 23 Lisa Su keynote. Compared with a simple product launch, this kind of event tries to prove an ecosystem.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-infrastructure-conference)
+
+**Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ai-infrastructure-demand-sensitivity"></a>
 ## AI infrastructure demand sensitivity
 
@@ -205,6 +238,17 @@ AI infrastructure demand sensitivity is how strongly chip, memory, networking, s
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-ai-infrastructure-demand-sensitivity)
 
 **Reference:** https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-systems-manufacturing"></a>
+## AI systems manufacturing
+
+AI systems manufacturing is the factory process of building complete AI computing systems from many parts: accelerator modules, CPUs, memory, networking cards, power supplies, cooling hardware, cables, firmware, test fixtures, racks, and logistics workflows. It solves the scale problem that appears after a chip is designed and fabricated: customers need tested systems that can be installed in data centers, not loose dies or boards. In today's news, Wistron's Fort Worth plant matters because NVIDIA's AI platform supply now depends on high-volume board and system production in the U.S., not only on TSMC wafers or Nvidia GPU design. A simple comparison: a wafer fab makes the silicon; system manufacturing turns silicon into shippable AI machines.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-systems-manufacturing)
+
+**Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
 
 [Back to A-Z index](#a-z-index)
 
@@ -425,6 +469,17 @@ Bit density measures how many information bits a memory technology stores per un
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-board-level-assembly-and-test"></a>
+## Board-level assembly and test
+
+Board-level assembly and test is the manufacturing stage where packaged chips and other components are mounted on printed circuit boards, connected, inspected, powered, programmed, and electrically tested before moving into larger systems. It solves the manufacturability problem between packaged silicon and working servers: even a perfect chip can fail at system level because of solder defects, signal-integrity problems, power-delivery faults, firmware issues, or thermal interfaces. In today's news, NVIDIA's "tens of thousands of boards per month" language makes board output a direct capacity metric. Example: TSMC wafer output is upstream; Wistron board output is downstream evidence that AI silicon is becoming deployable infrastructure.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-board-level-assembly-and-test)
+
+**Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-bookbuilding"></a>
 ## Bookbuilding
 
@@ -510,7 +565,7 @@ Capex support is financial assistance tied to capital expenditure such as fabs, 
 
 Capital expenditure is money spent on long-lived productive assets such as fabs, cleanrooms, EUV scanners, deposition tools, etch systems, test equipment, packaging lines, and data-center infrastructure. It solves future capacity and technology needs, but it is not the same as current production. In today's news, capex matters because Samsung's profits and SK hynix's offering are both linked to future memory supply, yet capex only becomes shipped chips after installation, process qualification, yield learning, and customer qualification. Example: buying a lithography tool is not equal to shipping a qualified HBM stack.
 
-**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex)
+**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex), [2026-07-22](../2026-07-22/README.md#daily-term-capital-expenditure-capex)
 
 **Reference:** https://www.semi.org/en/semi-press-release/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-dollars-in-2026
 
@@ -530,11 +585,11 @@ A Centre of Excellence is a focused institution or industry-academic hub that co
 <a id="term-chipflation"></a>
 ## Chipflation
 
-Chipflation is the pass-through of higher semiconductor prices into more expensive cloud services, servers, PCs, phones, vehicles or other electronics. It solves the macro/business explanation for why a chip shortage is not only a supplier-profit story: higher logic, memory, energy and infrastructure costs can eventually pressure buyers' return on investment. In today's news, Business Insider frames AI-related logic and memory price increases as a test for hyperscalers because expensive chips can both prove strong demand and weaken adoption if customers cannot monetize AI fast enough.
+Chipflation is the pass-through of higher semiconductor costs into more expensive servers, cloud services, PCs, phones, cars, networking equipment, or industrial electronics. It solves the macro/business explanation for why a chip bottleneck affects buyers outside the chip industry. In today's news, TSMC pricing reports and memory-stock movements make chipflation a live question: AI demand can raise wafer, HBM, packaging, power, and system costs faster than customers expected. Compared with ordinary inflation, chipflation is concentrated in the electronic supply chain but can still appear in consumer-device prices and cloud bills.
 
-**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-chipflation), [2026-07-21](../2026-07-21/README.md#daily-term-chipflation)
+**Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-chipflation), [2026-07-21](../2026-07-21/README.md#daily-term-chipflation), [2026-07-22](../2026-07-22/README.md#daily-term-chipflation)
 
-**Reference:** https://www.businessinsider.com/ai-chip-prices-chipflation-semiconductors-memory-stocks-kospi-ny-life-2026-7
+**Reference:** https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7
 
 [Back to A-Z index](#a-z-index)
 
@@ -705,9 +760,9 @@ Demand elasticity measures how much quantity demanded changes when price changes
 <a id="term-deployment-linked-incentive"></a>
 ## Deployment-linked incentive
 
-A deployment-linked incentive supports eligible chip or IP projects when they reach deployment milestones, rather than only promising design activity. It solves the commercialization gap: many designs can be started, but fewer reach tape-out, validation, and customer use. In today's news, this matters because Semicon 2.0 aims to offset higher tape-out costs for startups/MSMEs and Indian/OCI-owned companies.
+A deployment-linked incentive is a policy benefit tied to getting a design or product deployed into real use rather than only funding early development. It solves the commercialization gap in chip design: a startup can complete RTL and tape-out but still fail to win customers because prototypes, masks, validation, and ecosystem entry are expensive. In today's news, ISM's deployment-linked design support matters because India wants chip IP and SoCs to move into products, not remain academic demonstrations. A comparison: a grant can fund an attempt; a deployment-linked incentive rewards evidence that the design reaches market or strategic use.
 
-**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-deployment-linked-incentive)
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-deployment-linked-incentive), [2026-07-22](../2026-07-22/README.md#daily-term-deployment-linked-incentive)
 
 **Reference:** https://ism.gov.in/schemes/semicon2.0/index
 
@@ -807,6 +862,17 @@ A digital twin is a structured virtual representation of a physical factory, mac
 **Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-digital-twin)
 
 **Reference:** https://www.infineon.com/regional/dresden/smart-power-fab
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-digital-twin-factory"></a>
+## Digital twin factory
+
+A digital twin factory is a virtual model of a physical factory used to simulate layout, material flow, worker procedures, equipment interaction, bottlenecks, safety, energy use, and throughput before or during real operation. It solves the ramp-risk problem: a complex factory can lose months if layout, automation, staffing, or process steps are wrong after equipment arrives. In today's news, Wistron says it used NVIDIA Omniverse, Nemotron, Cosmos, and Metropolis to optimize factory design and operations before scaling D1. Compared with a static CAD layout, a digital twin can model dynamic flows and train workers before the physical line is fully active.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-digital-twin-factory)
+
+**Reference:** https://www.wistron.com/en/Newsroom/2026-07-22
 
 [Back to A-Z index](#a-z-index)
 
@@ -1330,6 +1396,17 @@ Foundry diversification means building a supply chain where a chip company can u
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-foundry-price-increase"></a>
+## Foundry price increase
+
+A foundry price increase is a higher wafer-manufacturing price charged by a contract chipmaker to customers that design chips but do not own that manufacturing line. It solves the supplier-margin problem when demand is strong, tools and materials become expensive, overseas fabs cost more, and customers compete for limited advanced capacity. In today's news, reported TSMC 2027 increases matter because TSMC supplies many AI, smartphone, networking, and HPC chips, so wafer cost can move through Nvidia, AMD, Apple, Qualcomm, Broadcom, and cloud economics. Compared with memory spot pricing, foundry pricing is usually negotiated customer-by-customer and node-by-node.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-foundry-price-increase)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/tsmc-to-increase-chip-prices-by-up-to-10-starting-2027/132535618
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-fp4-and-fp8-arithmetic"></a>
 ## FP4 and FP8 arithmetic
 
@@ -1402,9 +1479,9 @@ A global value chain is the international network of companies, countries and pr
 <a id="term-gross-margin"></a>
 ## Gross margin
 
-Gross margin is revenue minus cost of goods sold, divided by revenue. It solves the question of how much profit remains after direct production costs before R&D, sales, administration, interest, and taxes. In today's news, TSMC's high guided gross margin matters because it signals pricing power, strong utilization, advanced-node mix, and manufacturing efficiency. Example: a foundry can grow revenue but hurt gross margin if overseas ramp costs, depreciation, or low utilization rise faster than wafer pricing.
+Gross margin is revenue minus cost of goods sold, expressed as a percentage of revenue. It solves the profitability question before operating expenses: how much money remains after direct manufacturing and service costs. In today's news, TSMC's 67.7% Q2 gross margin shows extremely strong foundry economics, while reported price increases may be partly about protecting margins as overseas fabs, materials, equipment, packaging, and energy costs rise. Example: a high revenue number with weak gross margin can still be a poor manufacturing business; TSMC has both high revenue and high gross margin in the latest official quarter.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
@@ -1452,6 +1529,17 @@ HBM competitiveness is a supplier's ability to deliver high-bandwidth memory sta
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-hbm-competitiveness)
 
 **Reference:** https://www.koreatimes.co.kr/amp/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-hbm-demand-signal"></a>
+## HBM demand signal
+
+An HBM demand signal is evidence that customers need more high-bandwidth memory for AI accelerators, servers, or custom chips, such as signed supply agreements, deposits, sold-out capacity, capex, tool orders, customer qualification, or sustained price strength. It solves the difference between stock-market enthusiasm and actual physical demand. In today's news, memory stocks rebounding ahead of Big Tech earnings is a market signal, but the stronger evidence still comes from supplier filings, HBM allocation, and equipment commitments. Example: a 10% stock rise is sentiment; a take-or-pay contract or qualified HBM stack shipment is operational evidence.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-hbm-demand-signal)
+
+**Reference:** https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-5c384a21
 
 [Back to A-Z index](#a-z-index)
 
@@ -1529,6 +1617,17 @@ High numerical aperture extreme ultraviolet lithography is the next generation o
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-high-na-euv)
 
 **Reference:** https://www.asml.com/en/technology/lithography-principles
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-high-performance-computing-order-surcharge"></a>
+## High-performance computing order surcharge
+
+A high-performance computing order surcharge is an extra price premium charged when a customer requests more HPC chip volume than its original forecast or allocation. It solves the foundry allocation problem when demand exceeds planned capacity: the supplier uses pricing to prioritize scarce wafers and compensate for disruption. In today's news, MK reports possible 10%-15% surcharges for forecast-beating HPC orders, which would mean urgent AI capacity costs more than planned capacity. A comparison: booked airline seats are cheaper than last-minute seats when capacity is tight.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-high-performance-computing-order-surcharge)
+
+**Reference:** https://www.mk.co.kr/en/business/12104103
 
 [Back to A-Z index](#a-z-index)
 
@@ -1884,6 +1983,17 @@ A market-moving signal is information that changes investor expectations enough 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-mature-node"></a>
+## Mature node
+
+A mature node is an older, proven semiconductor process technology such as 28 nm, 16 nm, 12 nm, 40 nm, or larger generations that still manufactures high-volume chips for automotive, industrial, display, power-management, RF, connectivity, and consumer electronics. It solves the cost, reliability, qualification, and longevity problem: many products do not need the smallest transistor and prefer stable supply and proven yields. In today's news, mature nodes matter because reported TSMC increases are not limited to cutting-edge AI chips; price pressure could reach controllers, display drivers, connectivity chips, and industrial parts. Example: a smartphone application processor may use an advanced node, while its power-management or display-driver chips may use mature nodes.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-mature-node)
+
+**Reference:** https://www.mk.co.kr/en/business/12104103
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-memorandum-of-understanding-mou"></a>
 ## Memorandum of understanding (MOU)
 
@@ -1892,6 +2002,17 @@ An MOU is a formal written statement of intent between parties before or alongsi
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-memorandum-of-understanding-mou)
 
 **Reference:** https://investors.micron.com/news-releases/news-release-details/micron-announces-3-billion-strategic-investment-strengthen-us
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-memorandum-of-understanding-mou"></a>
+## Memorandum of Understanding (MoU)
+
+A Memorandum of Understanding is a formal document recording intent, cooperation areas, proposed obligations, or facilitation between parties before a final binding investment, financing, supply, or project execution agreement is complete. It solves the coordination problem at the early stage of a project: government and company can reserve land, signal seriousness, and begin approvals without proving that every commercial detail is final. In today's news, the Paras MoU is important evidence but not the same as a completed OSAT facility. A comparison: an MoU is a signed plan to explore/build; a purchase order, construction milestone, and qualified shipment prove execution.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-memorandum-of-understanding-mou)
+
+**Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -2002,11 +2123,11 @@ The Mobile Phone Manufacturing Scheme is a policy support framework aimed at sca
 <a id="term-model-weights"></a>
 ## Model weights
 
-Model weights are the learned numerical parameters inside an AI model that encode patterns from training. They solve the representation problem: instead of storing rules manually, the model uses weight values to transform inputs into useful outputs. In today's news, the planned Kimi K3 weight release matters because actual downloadable weights would let others run or adapt the model, changing software competition and potentially compute-demand patterns.
+Model weights are the learned numerical parameters inside an AI model that encode how the model transforms inputs into outputs after training. They solve the "knowledge storage" problem in machine learning: the model's capability is largely represented in billions or trillions of numbers rather than in ordinary source code. In today's news, model weights matter because if a foreign user can download them, the capability can travel even without exporting GPUs. A comparison: source code tells a program what steps to run; model weights are the trained values that make the model behave intelligently.
 
-**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-model-weights)
+**Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-model-weights), [2026-07-22](../2026-07-22/README.md#daily-term-model-weights)
 
-**Reference:** https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738
+**Reference:** https://theedgemalaysia.com/node/811465
 
 [Back to A-Z index](#a-z-index)
 
@@ -2049,6 +2170,17 @@ MR-MUF stands for mass reflow molded underfill. It is a packaging process SK hyn
 An MLCC is a passive component made from many alternating ceramic dielectric and metal-electrode layers. Connecting those layers in parallel creates useful capacitance in a very small package. Near a processor, MLCCs temporarily supply charge when load current changes faster than the upstream voltage regulator can respond, and they shunt high-frequency noise away from sensitive power rails. AI servers need large numbers of MLCCs because high-power processors, memory, networking, and voltage-conversion stages create many rails and fast current transients. Sources: https://en.yna.co.kr/view/AEN20260630005900320 and https://samsungsem.com/global/newsroom/news/view.do?id=9003
 
 **Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-multilayer-ceramic-capacitor-mlcc)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-multipath-reliable-connection"></a>
+## Multipath Reliable Connection
+
+Multipath Reliable Connection is a network-transport approach that spreads traffic over multiple paths while maintaining reliability, using techniques such as packet spraying, adaptive failover, congestion signaling, and multi-plane Ethernet architecture. It solves the hot-spot and failure problem in huge AI clusters: one congested path should not stall a collective operation across thousands of accelerators. In today's news, AMD's session says MRC can overcome RoCEv2 limits, so this becomes a technical follow-up for AMD's open AI infrastructure pitch. Example: one highway route can jam; multipath transport can use many routes while keeping delivery correct.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-multipath-reliable-connection)
+
+**Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2141,6 +2273,17 @@ Net profit margin is net income divided by revenue. It solves the total-profitab
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-network-transport"></a>
+## Network transport
+
+Network transport is the layer that moves data reliably and efficiently between machines, accelerators, storage, and software services across a network. It solves the cluster-scaling problem: an AI model split across many accelerators can slow down if packets arrive late, congested, reordered, or dropped. In today's news, AMD's session on network transport matters because AI-rack performance depends on communication, not only accelerator arithmetic. A comparison: adding more GPUs without better transport is like adding more lanes to a factory but leaving one narrow loading dock.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-network-transport)
+
+**Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-node"></a>
 ## Node
 
@@ -2219,6 +2362,17 @@ The offering price is the price at which securities are sold to investors in the
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-offshore-foundry-restriction"></a>
+## Offshore foundry restriction
+
+An offshore foundry restriction is a rule that limits whether a chip designed in one country can be manufactured by a foundry in another country. It solves the strategic-leakage problem: an advanced chip design may reveal architecture, IP, performance targets, security functions, or customer relationships when handed to a foreign manufacturer. In today's news, reported Chinese discussions could restrict TSMC or Qualcomm-related overseas production of advanced China-designed chips. Compared with a normal fabless model where design can move to any qualified foundry, this would make design origin a policy-controlled variable.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-offshore-foundry-restriction)
+
+**Reference:** https://theedgemalaysia.com/node/811465
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-one-virtual-fab"></a>
 ## One Virtual Fab
 
@@ -2274,6 +2428,28 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-optoelectronics"></a>
+## Optoelectronics
+
+Optoelectronics is the semiconductor field that converts electricity into light or light into electrical signals using devices such as LEDs, laser diodes, photodiodes, image sensors, optical modules, and some display or communication components. It solves the interface problem between electronic circuits and the optical world. In today's news, Seoul Semiconductor matters because LED and optoelectronic manufacturing is a realistic semiconductor-adjacent capability for India, especially in automotive lighting, smart cities, displays, agriculture, and industrial systems. Compared with a CPU or GPU, an optoelectronic device is judged by light output, wavelength, efficiency, thermal behavior, reliability, and packaging.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-optoelectronics)
+
+**Reference:** https://economictimes.indiatimes.com/tech/technology/seoul-semiconductor-eyes-india-entry-in-talks-with-tamil-nadu-karnataka-gujarat/articleshow/132501007.cms
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-optronic-systems"></a>
+## Optronic systems
+
+Optronic systems are electronic systems that use optical sensing or electro-optical components to detect, image, measure, track, guide, or communicate, often in defence, aerospace, surveillance, navigation, and industrial applications. They solve the problem of converting light or infrared signals into usable electronic information. In today's news, Paras' existing optics and optronics background matters because its semiconductor plan is linked to strategic sensors and high-performance applications rather than only commodity packaging. Example: thermal imaging, periscopes, targeting systems, and EO/IR modules combine optical hardware, detectors, electronics, and software.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-optronic-systems)
+
+**Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-order-intake"></a>
 ## Order intake
 
@@ -2288,11 +2464,11 @@ Order intake is the value of new customer orders booked during a period. It solv
 <a id="term-osat"></a>
 ## OSAT
 
-An OSAT company receives fabricated wafers or individual dies, electrically screens them, assembles good dies into protective packages, connects those packages to external pins or solder balls, and performs final electrical and reliability tests. It solves the back-end manufacturing problem between wafer fabrication and a system-ready component. OSAT is important today because CG Semi is not fabricating transistor layers on blank wafers; it is building the assembly, test, product-engineering, and logistics capability needed to turn customer wafers into qualified chips. A foundry makes dies on a wafer, while an OSAT prepares and verifies those dies for shipment.
+OSAT means outsourced semiconductor assembly and test. It is the business of taking fabricated wafers or dies from a foundry or IDM, packaging them into usable chip products, marking them, electrically testing them, screening reliability, and shipping qualified parts. It solves the back-end manufacturing problem: a chip die is not a commercial product until it is connected, protected, tested, and traceable. In today's news, Paras Semiconductors' proposed MP facility matters because India can build semiconductor capability through packaging and test before it has many high-volume wafer fabs. Compared with a front-end fab, an OSAT is usually less capital-intensive but still needs strict process control, test engineering, yield, and customer qualification.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat)
 
-**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280619&lang=1&reg=48
+**Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -2715,6 +2891,17 @@ Early manufacturing phase before full high-volume production.
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-rocev2"></a>
+## RoCEv2
+
+RoCEv2 means RDMA over Converged Ethernet version 2, a way to perform remote direct memory access over routable Ethernet/IP networks so one machine can read or write memory on another with lower CPU overhead and lower latency than ordinary software networking. It solves the high-throughput cluster communication problem, especially for storage, HPC, and AI training or inference clusters. In today's news, AMD names RoCEv2 limits in a session about multipath reliable connection, meaning the performance debate is about packet delivery, congestion, and multi-plane Ethernet, not just GPU count. Compared with TCP socket traffic, RDMA aims to bypass more software overhead and move data closer to memory-speed behavior.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-rocev2)
+
+**Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-rtl"></a>
 ## RTL
 
@@ -2774,11 +2961,11 @@ A secure element is a tamper-resistant chip subsystem that stores secret keys an
 <a id="term-semicon-2-0"></a>
 ## Semicon 2.0
 
-Semicon 2.0 is the reported next phase of India's semiconductor policy support, intended to broaden incentives beyond only wafer fabs and packaging plants toward design startups, materials, gases, chemicals, equipment, talent, and research. It solves the ecosystem gap: a fab cannot run alone without suppliers, trained engineers, design demand, utilities, test infrastructure, and local know-how. In today's news, it matters because India is trying to move from isolated project approvals toward a wider value-chain base. Example: building a fab without chemical, gas, equipment-service, design, and packaging support is like building a hospital without diagnostics, staff, and supply logistics.
+Semicon 2.0 is the second phase of India's Semicon India Programme, approved with a fiscal outlay of Rs 1,27,500 crore to build a resilient semiconductor ecosystem across design, machines/materials, fabs, ATMP/OSAT, R&D, and talent. It solves the policy-depth problem: a semiconductor ecosystem needs tools, gases, chemicals, packaging, suppliers, design IP, trained engineers, and fabs, not only one flagship plant. In today's news, Semicon 2.0 matters because both Paras and Seoul-style opportunities should be judged against the programme's actual incentive pillars and future approvals. Example: design support may help a fabless startup, while advanced packaging support may help an OSAT project.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-semicon-2-0), [2026-07-11](../2026-07-11/README.md#daily-term-semicon-2-0), [2026-07-15](../2026-07-15/README.md#daily-term-semicon-2-0)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-semicon-2-0), [2026-07-11](../2026-07-11/README.md#daily-term-semicon-2-0), [2026-07-15](../2026-07-15/README.md#daily-term-semicon-2-0), [2026-07-22](../2026-07-22/README.md#daily-term-semicon-2-0)
 
-**Reference:** https://economictimes.indiatimes.com/industry/cons-products/electronics/india-finalising-semicon-2-0-to-expand-chip-incentives-beyond-fabs/articleshow/132232886.cms?from=mdr
+**Reference:** https://ism.gov.in/schemes/semicon2.0/index
 
 [Back to A-Z index](#a-z-index)
 
@@ -3044,6 +3231,17 @@ Structural demand is demand expected to persist because of a long-term change in
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-superchip"></a>
+## Superchip
+
+A superchip is a high-performance semiconductor module or package-level product that combines major compute components into a tightly integrated unit, often including CPU, GPU, accelerator, memory interfaces, coherent links, and package/board-level interconnect. It solves the data-movement problem that appears when separate chips are too slow or power-hungry to communicate through ordinary board traces. In today's news, GB300 and Vera Rubin Superchips matter because Wistron's factory is not doing commodity electronics assembly; it is manufacturing the modules at the center of large AI systems. Compared with a normal standalone processor, a superchip is closer to an integrated compute complex built for bandwidth and system-level scaling.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-superchip)
+
+**Reference:** https://www.wistron.com/en/Newsroom/2026-07-22
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-supply-agreement"></a>
 ## Supply agreement
 
@@ -3070,6 +3268,17 @@ Supply allocation is the rule used to divide scarce output among customers, prod
 Supply elasticity describes how much output can increase when price or demand rises. Semiconductor supply is inelastic over short periods because cleanrooms, power, tools, process recipes, trained teams, yield learning and customer qualification cannot be added instantly. In today's news, memory prices can stay elevated even when producers intend to expand because new saleable bits arrive only after a long engineering and construction chain.
 
 **Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-supply-elasticity)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-system-in-package-sip"></a>
+## System-in-package (SiP)
+
+System-in-package is a package architecture that integrates multiple chips or passive components into one package so the final module behaves like a compact system. It solves size, performance, and integration problems when putting all functions on one monolithic die is too costly, too slow, or technically unsuitable. In today's news, SiP is relevant because strategic sensors and optronic modules often need detectors, analog front ends, processors, memory, power management, and RF/optical interfaces close together. Compared with a system-on-chip, SiP keeps functions on separate dies or components but integrates them inside one package.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-system-in-package-sip)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
 
@@ -3133,6 +3342,17 @@ TDISP, or TEE Device Interface Security Protocol, is a PCIe security architectur
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-technology-export-controls"></a>
+## Technology export controls
+
+Technology export controls are legal restrictions on exporting, transferring, licensing, sharing, or enabling access to sensitive technology, know-how, software, data, equipment, or products across borders. They solve national-security and strategic-competition problems by trying to prevent rivals from acquiring capabilities that could strengthen military, intelligence, surveillance, or industrial power. In today's news, China is reportedly considering tighter controls on AI and semiconductor technologies, which would mirror parts of the U.S. strategy but from China's side. Example: controlling a chip can restrict hardware movement; controlling model weights or design data can restrict knowledge movement.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-technology-export-controls)
+
+**Reference:** https://theedgemalaysia.com/node/811465
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-test-escape"></a>
 ## Test escape
 
@@ -3166,6 +3386,17 @@ A three-month moving average smooths a data series by averaging the latest three
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-total-cost-per-token"></a>
+## Total cost per token
+
+Total cost per token is a serving-economics measure that estimates the full cost of generating AI output tokens, including accelerator cost, HBM, server/rack cost, power, cooling, networking, software efficiency, utilization, amortization, and operational overhead. It solves the business comparison problem between AI platforms: the winner is not always the chip with the highest theoretical peak FLOPS. In today's news, AMD's event matters because customers will judge Helios and competing systems by deployment economics, not keynote performance alone. Example: a lower-priced accelerator can still be expensive if utilization, software, or networking is poor.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-total-cost-per-token)
+
+**Reference:** https://www.amd.com/en/products/rackscale-solutions/helios.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-total-net-sales"></a>
 ## Total net sales
 
@@ -3174,6 +3405,17 @@ Total net sales are the revenue recognized from products and services after retu
 **Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-total-net-sales)
 
 **Reference:** https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-training-data-transfer"></a>
+## Training-data transfer
+
+Training-data transfer is the movement or sharing of datasets used to train or fine-tune AI models across companies, borders, cloud regions, or legal jurisdictions. It solves the model-development problem by giving developers access to examples the model can learn from, but it creates security, privacy, competitive, and export-control risk when the data is strategic. In today's news, reported Chinese limits on transferring key training data overseas show that AI policy is not only about finished chips; it is also about data flows. Example: a model trained on restricted domestic industrial data could reveal capability even if the hardware stays inside China.
+
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-training-data-transfer)
+
+**Reference:** https://theedgemalaysia.com/node/811465
 
 [Back to A-Z index](#a-z-index)
 
