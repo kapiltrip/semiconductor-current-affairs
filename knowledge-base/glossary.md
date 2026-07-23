@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-22**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-23**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -32,6 +32,17 @@ A vertical stack of 12 DRAM dies in one HBM package.
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-2-nm-process-technology)
 
 **Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-2-5d-3d-advanced-packaging"></a>
+## 2.5D/3D advanced packaging
+
+2.5D/3D advanced packaging connects multiple dies with very dense interconnect either side-by-side on an interposer or bridge-like structure, often called 2.5D, or stacked vertically, called 3D. It solves the bandwidth and integration problem by moving dies closer together than ordinary PCB routing can. In today's news, Paras' process target matters because AI accelerators, HBM, chiplets, sensors, and high-performance modules increasingly depend on 2.5D/3D packaging. Example: HBM beside a GPU on an interposer is a 2.5D-style idea; die-on-die stacking is a 3D-style idea.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-2-5d-3d-advanced-packaging)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
 
 [Back to A-Z index](#a-z-index)
 
@@ -74,6 +85,17 @@ A 300mm fab uses circular silicon wafers about 300 millimeters in diameter, and 
 **Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-300mm-fab-equipment-investment)
 
 **Reference:** https://www.semi.org/en/semi-press-release/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-dollars-in-2026
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-3d-heterogeneous-integration"></a>
+## 3D heterogeneous integration
+
+3D heterogeneous integration is packaging technology that stacks or closely connects different types of dies, such as logic, memory, analog, RF, sensors, or photonics, in a three-dimensional structure. It solves the scaling problem when one monolithic die is too large, too expensive, or technologically unsuitable for all functions. In today's news, Paras naming 3D heterogeneous integration signals an ambition beyond simple packaging, but the real proof would be qualified process flows, bonding yield, thermal control, and customer products. A comparison: one large SoC puts functions on one die; heterogeneous integration lets multiple specialized dies work as one system.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-3d-heterogeneous-integration)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
 
 [Back to A-Z index](#a-z-index)
 
@@ -164,6 +186,17 @@ Agentic electronic-design automation uses AI software agents to plan and execute
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-accelerator"></a>
+## AI accelerator
+
+An AI accelerator is a processor or compute system optimized for machine-learning workloads, especially matrix multiplication, attention, inference, training, and high-bandwidth data movement. It solves the efficiency problem of running AI on general-purpose CPUs alone: specialized parallel hardware can produce more model work per watt and per dollar. In today's news, AMD's event matters because accelerator competition is shifting from single-chip peak performance toward rack-scale deployment, software maturity, network transport, and cloud availability. Example: a GPU, TPU, or custom inference ASIC can all be AI accelerators when designed for model workloads.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-ai-accelerator)
+
+**Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ai-as-a-service"></a>
 ## AI as a Service
 
@@ -202,7 +235,7 @@ An AI data center is a facility optimized for training or serving AI models usin
 
 An AI factory is a data-center-style industrial facility that turns electricity, chips, networking, memory, software, and data into AI outputs such as tokens, model training steps, inference responses, simulations, or recommendations. It solves the business framing problem for AI infrastructure: the output is not a physical good, but compute service at industrial scale. In today's news, NVIDIA and Wistron use the language of AI factories because the manufactured systems are meant to become the production equipment of AI services. A comparison: a steel mill uses energy and machinery to produce steel; an AI factory uses energy and accelerated computing to produce model outputs.
 
-**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory)
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory), [2026-07-23](../2026-07-23/README.md#daily-term-ai-factory)
 
 **Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
 
@@ -216,6 +249,17 @@ AI inference is the execution phase where a trained model uses input data to pro
 **Appears in:** [2026-06-25](../2026-06-25/README.md#daily-term-ai-inference), [2026-06-27](../2026-06-27/README.md#daily-term-ai-inference), [2026-07-21](../2026-07-21/README.md#daily-term-ai-inference)
 
 **Reference:** https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-infrastructure-capex"></a>
+## AI infrastructure capex
+
+AI infrastructure capex is capital spending on long-lived assets used to produce AI compute, including data centers, accelerators, custom ASICs, CPUs, HBM, storage, networking, power systems, cooling, land, buildings, and grid connections. It solves the future-capacity problem: an AI service cannot serve more users or train larger models unless the company builds physical compute capacity before the revenue fully arrives. In today's news, Alphabet's AI infrastructure funding signal matters because one hyperscaler's budget can become demand for foundry wafers, advanced packaging, memory, SSDs, network chips, optics, power components, and equipment. A comparison: software operating expense can be changed quickly; capex becomes a multi-year hardware commitment.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-ai-infrastructure-capex)
+
+**Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -238,6 +282,17 @@ AI infrastructure demand sensitivity is how strongly chip, memory, networking, s
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-ai-infrastructure-demand-sensitivity)
 
 **Reference:** https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-server-integrator"></a>
+## AI server integrator
+
+An AI server integrator designs, assembles, validates, and ships complete server or rack systems around accelerators, CPUs, memory, storage, networking, power, cooling, firmware, and management software. It solves the deployment problem between semiconductor components and usable data-center infrastructure: customers do not buy only chips; they need qualified systems that survive power, thermal, signal-integrity, reliability, and service requirements. In today's news, Supermicro matters because its preliminary update is a downstream read on AI server demand and margin mix. A comparison: TSMC fabricates wafers; an AI server integrator turns packaged chips into deployable AI machines.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-ai-server-integrator)
+
+**Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -307,12 +362,34 @@ Analyst consensus aggregates independent forecasts into a market expectation aga
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-api-token-throughput"></a>
+## API token throughput
+
+API token throughput is the rate at which an AI service processes pieces of text or other model units through an application programming interface. It solves the scale-measurement problem for AI services: user count alone does not show how much compute is being consumed, while token volume better reflects inference workload. In today's news, Alphabet's 22B Gemini API tokens per minute is important because tokens become accelerator cycles, HBM bandwidth, networking traffic, storage reads, and power draw. A comparison: website page views measure web traffic; token throughput measures part of the AI compute workload.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-api-token-throughput)
+
+**Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-asic"></a>
 ## ASIC
 
 An application-specific integrated circuit is a chip built for a defined workload rather than general-purpose programming. Specialization can improve performance and energy efficiency, but raises design cost and reduces flexibility.
 
 **Reference:** https://www.arm.com/glossary/asic
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-assembly-and-packaging-equipment"></a>
+## Assembly and packaging equipment
+
+Assembly and packaging equipment connects dies to substrates, interposers, redistribution layers, bumps, wires, mold compounds, heat spreaders, and final package structures. It solves the interconnection and protection problem: chips must be mechanically protected, electrically connected, thermally managed, and manufacturable at volume. In today's news, SEMI projects assembly/packaging equipment sales growth because AI and HBM devices rely heavily on advanced and heterogeneous packaging. A comparison: transistor scaling improves one die; packaging equipment lets many dies and memory stacks work together.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-assembly-and-packaging-equipment)
+
+**Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
 
 [Back to A-Z index](#a-z-index)
 
@@ -407,6 +484,17 @@ Average selling price is product revenue divided by the relevant unit base, such
 <a id="letter-b"></a>
 # B
 
+<a id="term-back-end-equipment"></a>
+## Back-end equipment
+
+Back-end equipment is semiconductor manufacturing equipment used after front-end wafer processing, including assembly, packaging, bonding, bumping, singulation, marking, burn-in, test handling, and reliability-screening tools. It solves the commercialization problem after wafer fabrication: a die must be connected, protected, tested, and qualified before shipment. In today's news, SEMI's back-end growth matters because AI and HBM devices need advanced packaging and high-reliability test capacity. A comparison: front-end tools build the die; back-end tools turn dies into qualified products.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-back-end-equipment)
+
+**Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-back-end-manufacturing"></a>
 ## Back-end manufacturing
 
@@ -466,6 +554,17 @@ Bit density measures how many information bits a memory technology stores per un
 **Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-bit-density)
 
 **Reference:** https://www.kioxia.com/en-jp/about/news/2026/20260703-1.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-bluefield-dpu"></a>
+## BlueField DPU
+
+A BlueField DPU is NVIDIA's data processing unit used to offload and accelerate networking, storage, security, virtualization, and infrastructure tasks that would otherwise consume CPU cycles. It solves the data-center overhead problem: AI servers should spend more power and time on model work instead of infrastructure housekeeping. In today's news, BlueField matters because the Noetra stack is described as co-designed silicon, systems, and software, including DPUs, to reduce token cost and scale frontier training. A comparison: a CPU is the general manager; a DPU is a specialized infrastructure processor for data movement and security work.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-bluefield-dpu)
+
+**Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
 
 [Back to A-Z index](#a-z-index)
 
@@ -604,6 +703,17 @@ A chiplet is a separately manufactured die designed to communicate with other di
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-chiplet-integration"></a>
+## Chiplet integration
+
+Chiplet integration is the assembly of multiple smaller dies into one package or system so they act like a larger chip. It solves yield, cost, reuse, and technology-mix problems: each die can be made on the node best suited to its function, then connected through package interconnect. In today's news, Paras listing chiplet integration is important because India's packaging ambition would be much more strategic if it can handle multi-die products, not only single-die assembly. Example: one chiplet may contain compute, another I/O, another memory interface, and the package makes them work together.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-chiplet-integration)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-chips-act"></a>
 ## CHIPS Act
 
@@ -707,6 +817,17 @@ Custom silicon means chips or chip components designed for a specific company's 
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-custom-silicon)
 
 **Reference:** https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-customer-and-product-mix"></a>
+## Customer and product mix
+
+Customer and product mix is the blend of buyers and product types that make up a company's revenue. It solves the explanation problem when total revenue alone does not show profitability: one customer or system configuration can carry a higher margin than another. In today's news, Supermicro says customer/product mix primarily explains the higher margin estimate, which means the market should ask whether the mix is repeatable or a one-quarter effect. Example: a custom high-value liquid-cooled AI rack can carry different economics from a more commoditized server.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-customer-and-product-mix)
+
+**Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -996,6 +1117,17 @@ Deep-ultraviolet lithography uses 193 nm or 248 nm light to transfer circuit pat
 <a id="letter-e"></a>
 # E
 
+<a id="term-earnings-catalyst"></a>
+## Earnings catalyst
+
+An earnings catalyst is a scheduled financial disclosure or management call that can change investor expectations about revenue, margin, capex, product demand, roadmap execution, or risk. It solves the evidence-timing problem: markets often trade on expectations before the company gives the official numbers. In today's news, Intel's Q2 release is a catalyst because it can confirm or weaken the market's view of data-center CPUs, AI participation, foundry losses, 18A progress, and cash discipline. A comparison: a rumor can move sentiment, but an earnings release gives company-owned numbers and guidance.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-earnings-catalyst)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-earnings-conference"></a>
 ## Earnings conference
 
@@ -1051,6 +1183,17 @@ EDA-tool training teaches students and engineers to use electronic design automa
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-eda-ip"></a>
+## EDA/IP
+
+EDA/IP combines electronic design automation software and reusable semiconductor intellectual property blocks such as CPU cores, memory controllers, PCIe/CXL blocks, SerDes, standard cells, SRAM compilers, verification IP, and design kits. It solves the complexity problem in chip design: teams cannot manually design and verify billion-transistor chips from scratch every time. In today's news, exact-date EDA/IP news was limited, but AMD/Intel roadmaps, Alphabet custom compute, NVIDIA systems, and Paras advanced packaging all depend on EDA/IP flows for design, package co-design, verification, and signoff.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-eda-ip)
+
+**Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electronic-design-automation-eda-cloud-workload"></a>
 ## Electronic design automation (EDA) cloud workload
 
@@ -1093,6 +1236,17 @@ End-user verification checks who will actually receive and use a controlled prod
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-enterprise-ai-infrastructure"></a>
+## Enterprise AI infrastructure
+
+Enterprise AI infrastructure is the cloud and data-center stack that companies use to train, tune, deploy, secure, monitor, and scale AI systems for business workloads. It solves the production problem after a model demo works: enterprises need reliable compute, storage, networking, identity, data governance, APIs, observability, and uptime. In today's news, Google Cloud's 82% growth matters because enterprise AI infrastructure is where semiconductor demand becomes recurring server, accelerator, networking, and storage demand. Example: a chatbot demo can run on a small cluster, but enterprise AI across search, customer support, code, documents, analytics, and agents needs industrial-scale infrastructure.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-enterprise-ai-infrastructure)
+
+**Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-enterprise-ssd"></a>
 ## Enterprise SSD
 
@@ -1112,6 +1266,17 @@ Equipment move-in is the stage when fabrication tools are installed inside a com
 **Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-equipment-move-in)
 
 **Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-equity-capital-raise"></a>
+## Equity capital raise
+
+An equity capital raise is a financing action where a company sells ownership-linked securities, such as common stock or preferred stock, to obtain cash. It solves the funding problem when a company wants capital without relying only on operating cash flow or debt. In today's news, Alphabet's large equity proceeds matter because AI infrastructure is becoming capital intensive enough that even a highly profitable hyperscaler is actively strengthening funding capacity. Compared with debt, equity does not require fixed interest payments, but it can dilute existing shareholders or change future claim structure.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-equity-capital-raise)
+
+**Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -1187,6 +1352,17 @@ An export control is a legal restriction on transferring specified goods, softwa
 **Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-export-controls), [2026-06-20](../2026-06-20/README.md#daily-term-export-controls), [2026-07-04](../2026-07-04/README.md#daily-term-export-controls), [2026-07-05](../2026-07-05/README.md#daily-term-export-controls), [2026-07-12](../2026-07-12/README.md#daily-term-export-controls), [2026-07-14](../2026-07-14/README.md#daily-term-export-controls)
 
 **Reference:** https://www.bis.gov/regulations/ear
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-export-control-review"></a>
+## Export-control review
+
+An export-control review is an internal, external, or regulator-facing examination of whether products, services, shipments, customers, end users, transactions, or support violated rules restricting sensitive technology flows. It solves the compliance problem in semiconductors: advanced AI hardware can have national-security restrictions, and companies must prove that channels, customers, geography, and end use were legal. In today's news, Supermicro's review is material because strong AI-server margins are less valuable if compliance findings later affect results, shipments, or customer trust. A comparison: a clean revenue beat is one thing; a revenue beat under unresolved compliance review carries more risk.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-export-control-review)
+
+**Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -1266,6 +1442,17 @@ Failure and yield analysis is the engineering discipline of finding why devices 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-fan-out-packaging"></a>
+## Fan-out packaging
+
+Fan-out packaging redistributes a die's tiny input/output pads outward through redistribution layers so the package can connect to boards or other components without a traditional laminate substrate in some designs. It solves the I/O density, thinness, and package-size problem for high-performance or compact devices. In today's news, ultra-high-density fan-out matters because it can support chiplet, mobile, RF, and some accelerator-adjacent packages if the OSAT has strong lithography, molding, warpage, and reliability control. A comparison: fan-in keeps connections within the die footprint; fan-out spreads them beyond it.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-fan-out-packaging)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-fbar-filter"></a>
 ## FBAR filter
 
@@ -1329,6 +1516,17 @@ Fiscal outlay is the amount of public budget support allocated for a scheme or p
 **Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-fiscal-outlay)
 
 **Reference:** https://ism.gov.in/schemes/semicon2.0/index
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-flip-chip-assembly"></a>
+## Flip-chip assembly
+
+Flip-chip assembly mounts a die face-down so solder bumps or copper pillars connect directly to the package substrate or interposer. It solves the performance and I/O problem of wire bonding by shortening electrical paths, supporting more connections, and improving high-speed or high-power behavior. In today's news, flip-chip capability would be a core building block for advanced Indian packaging if Paras executes the project. Example: many high-performance processors use flip-chip rather than long peripheral wire bonds.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-flip-chip-assembly)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
 
 [Back to A-Z index](#a-z-index)
 
@@ -1407,6 +1605,17 @@ A foundry price increase is a higher wafer-manufacturing price charged by a cont
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-foundry-update"></a>
+## Foundry update
+
+A foundry update is company commentary on process-node progress, manufacturing readiness, customer wins, packaging capability, capacity, yield, cost, or operating losses in a contract-manufacturing business. It solves the credibility problem for a foundry: external customers need proof that a process is manufacturable, predictable, supported by EDA/IP flows, and commercially reliable. In today's news, Intel's call matters because investors need more than restructuring language; they need evidence on Intel Foundry execution, 18A/18A-P, customer engagement, packaging, and losses. A comparison: saying a node exists is weaker than showing customer tape-outs, yield, and volume.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-foundry-update)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-fp4-and-fp8-arithmetic"></a>
 ## FP4 and FP8 arithmetic
 
@@ -1440,6 +1649,17 @@ A gate-all-around transistor places the gate around the channel on multiple side
 **Appears in:** [2026-06-16](../2026-06-16/README.md#daily-term-gaa), [2026-06-19](../2026-06-19/README.md#daily-term-gaa)
 
 **Reference:** https://www.samsung.com/semiconductor/minisite/tech/gate-all-around/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-gate-all-around-high-volume-manufacturing"></a>
+## Gate-all-around high-volume manufacturing
+
+Gate-all-around high-volume manufacturing is the production ramp of nanosheet or similar transistor architectures where the gate surrounds the channel more completely than in FinFETs, improving electrostatic control at very small nodes. It solves the leakage and scaling problem as planar and FinFET devices become harder to shrink efficiently. In today's news, SEMI connects future foundry/logic equipment growth to movement toward 2 nm GAA high-volume manufacturing, meaning tool demand is linked to the next transistor architecture shift. A comparison: FinFETs raised the channel like a fin; GAA wraps the gate around stacked channels.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-gate-all-around-high-volume-manufacturing)
+
+**Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
 
 [Back to A-Z index](#a-z-index)
 
@@ -1481,7 +1701,7 @@ A global value chain is the international network of companies, countries and pr
 
 Gross margin is revenue minus cost of goods sold, expressed as a percentage of revenue. It solves the profitability question before operating expenses: how much money remains after direct manufacturing and service costs. In today's news, TSMC's 67.7% Q2 gross margin shows extremely strong foundry economics, while reported price increases may be partly about protecting margins as overseas fabs, materials, equipment, packaging, and energy costs rise. Example: a high revenue number with weak gross margin can still be a poor manufacturing business; TSMC has both high revenue and high gross margin in the latest official quarter.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
@@ -1579,11 +1799,11 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 <a id="term-high-bandwidth-memory-hbm"></a>
 ## High-Bandwidth Memory (HBM)
 
-HBM is stacked DRAM placed very close to a processor through advanced package interconnects so data can move through a very wide, energy-efficient path. It solves the memory-bandwidth bottleneck in AI accelerators, where compute units can sit idle if data cannot arrive fast enough. In this news, HBM matters because Samsung's memory profitability and valuation depend partly on how much premium AI-memory supply it can qualify and ship against SK hynix and Micron. Example: ordinary DIMM memory is like a narrower road outside the chip package; HBM is like a much wider road built next to the compute die.
+High-Bandwidth Memory is stacked DRAM connected with dense vertical and package-level interconnect so an accelerator can access memory with far more bandwidth and lower energy per bit than many ordinary off-package memory paths. It solves the AI memory-wall problem: accelerators can perform many operations, but they slow down if data cannot reach compute fast enough. In today's news, HBM matters because Alphabet cloud demand, Supermicro AI server mix, NVIDIA Japan systems, and SEMI DRAM equipment growth all depend on high-bandwidth memory capacity and packaging. A comparison: ordinary server DRAM is like a wider road outside the city; HBM is like building short, wide roads directly beside the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm)
 
-**Reference:** https://www.synopsys.com/glossary/what-is-high-bandwitdth-memory-3.html
+**Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
 
 [Back to A-Z index](#a-z-index)
 
@@ -1639,6 +1859,17 @@ HPC means high-performance computing, a market category covering compute-intensi
 **Appears in:** [2026-07-12](../2026-07-12/README.md#daily-term-hpc)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-hybrid-bonding"></a>
+## Hybrid bonding
+
+Hybrid bonding is a fine-pitch wafer or die bonding method that directly connects metal pads and dielectric surfaces, creating very dense electrical interconnect and strong mechanical attachment without large solder bumps. It solves the interconnect-density and signal-distance problem in advanced packages and 3D stacks. In today's news, hybrid bonding is important because it is a high-skill, high-precision process; listing it in an OSAT plan is ambitious, but execution depends on cleanliness, alignment, surface preparation, metrology, and yield. Compared with solder bump bonding, hybrid bonding can enable much finer pitch.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-hybrid-bonding)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
 
 [Back to A-Z index](#a-z-index)
 
@@ -2173,6 +2404,17 @@ An MLCC is a passive component made from many alternating ceramic dielectric and
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-multimodal-foundation-model"></a>
+## Multimodal foundation model
+
+A multimodal foundation model is a large AI model trained to work across more than one data type, such as text, images, video, audio, 3D geometry, sensor streams, robot states, or simulation data. It solves the real-world understanding problem because physical systems rarely produce one clean data type. In today's news, NVIDIA says the project will create open multimodal foundation models for AI agents, digital twins, robotics, and physical AI. A comparison: a text-only model can answer a written prompt; a multimodal model can combine a camera feed, instructions, and sensor state.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-multimodal-foundation-model)
+
+**Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-multipath-reliable-connection"></a>
 ## Multipath Reliable Connection
 
@@ -2278,7 +2520,7 @@ Net profit margin is net income divided by revenue. It solves the total-profitab
 
 Network transport is the layer that moves data reliably and efficiently between machines, accelerators, storage, and software services across a network. It solves the cluster-scaling problem: an AI model split across many accelerators can slow down if packets arrive late, congested, reordered, or dropped. In today's news, AMD's session on network transport matters because AI-rack performance depends on communication, not only accelerator arithmetic. A comparison: adding more GPUs without better transport is like adding more lanes to a factory but leaving one narrow loading dock.
 
-**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-network-transport)
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-network-transport), [2026-07-23](../2026-07-23/README.md#daily-term-network-transport)
 
 **Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
 
@@ -2359,6 +2601,17 @@ The offering price is the price at which securities are sold to investors in the
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-offering-price), [2026-07-11](../2026-07-11/README.md#daily-term-offering-price)
 
 **Reference:** https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-official-earnings-calendar"></a>
+## Official earnings calendar
+
+An official earnings calendar is the company-published schedule for when financial results and conference calls will be released. It solves the verification problem in market coverage: analyst previews and media expectations should not be treated as reported results before the company releases numbers. In today's news, SK hynix's official IR page points to July 29 for FY2026 Q2 earnings, so memory earnings remain pending today. A comparison: a market preview is a forecast; an official earnings release is primary evidence.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-official-earnings-calendar)
+
+**Reference:** https://www.skhynix.com/ir/UI-FR-IR06/
 
 [Back to A-Z index](#a-z-index)
 
@@ -2466,7 +2719,7 @@ Order intake is the value of new customer orders booked during a period. It solv
 
 OSAT means outsourced semiconductor assembly and test. It is the business of taking fabricated wafers or dies from a foundry or IDM, packaging them into usable chip products, marking them, electrically testing them, screening reliability, and shipping qualified parts. It solves the back-end manufacturing problem: a chip die is not a commercial product until it is connected, protected, tested, and traceable. In today's news, Paras Semiconductors' proposed MP facility matters because India can build semiconductor capability through packaging and test before it has many high-volume wafer fabs. Compared with a front-end fab, an OSAT is usually less capital-intensive but still needs strict process control, test engineering, yield, and customer qualification.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
 
@@ -2594,6 +2847,17 @@ Photoresist coating equipment applies a uniform light-sensitive polymer layer on
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-physical-ai"></a>
+## Physical AI
+
+Physical AI is AI used to understand, simulate, control, or optimize real-world physical systems such as robots, factories, vehicles, logistics networks, medical devices, and industrial equipment. It solves the gap between text or image intelligence and action in the physical world, where models must handle geometry, timing, sensors, safety, and feedback. In today's news, Japan's project matters because NVIDIA frames the AI infrastructure around robotics, digital twins, manufacturing, logistics, healthcare, and telecommunications. Example: a chatbot predicts words; physical AI may guide a robot arm or simulate a factory line.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai)
+
+**Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-policy-notification"></a>
 ## Policy notification
 
@@ -2655,6 +2919,17 @@ In large-language-model inference, prefill processes the complete input prompt a
 **Appears in:** [2026-07-01](../2026-07-01/README.md#daily-term-prefill-and-decode)
 
 **Reference:** https://www.etched.com/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-preliminary-business-update"></a>
+## Preliminary business update
+
+A preliminary business update is an early company disclosure issued before final financial statements are complete. It solves the market-communication problem when management wants to update investors quickly, but it carries more uncertainty than final reported results. In today's news, Supermicro's update matters because the margin signal is large, but the company explicitly says final results may vary. Example: a preliminary margin estimate can move a stock price today, while audited or reviewed financials later can still revise the evidence.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-preliminary-business-update)
+
+**Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -2824,6 +3099,17 @@ Regular-way trading is the normal exchange-trading state where trades follow the
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-regular-way-trading), [2026-07-12](../2026-07-12/README.md#daily-term-regular-way-trading), [2026-07-13](../2026-07-13/README.md#daily-term-regular-way-trading)
 
 **Reference:** https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-11
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-reliability-testing"></a>
+## Reliability testing
+
+Reliability testing stresses semiconductor devices or packages under heat, humidity, voltage, current, mechanical, thermal-cycle, and operating conditions to estimate whether they will survive their required lifetime. It solves the field-failure problem: a chip can pass a basic electrical test and still fail early in real use if packaging, materials, interfaces, or process margins are weak. In today's news, Paras listing testing and reliability is important because strategic packages need qualification evidence, not just assembly capability. A comparison: a prototype that works once is not the same as a qualified automotive, defense, or data-center part.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-reliability-testing)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
 
 [Back to A-Z index](#a-z-index)
 
@@ -3066,6 +3352,17 @@ Semiconductor IP is reusable, pre-designed circuit or software/hardware blocks l
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-semiconductor-manufacturing-equipment-oem-sales"></a>
+## Semiconductor manufacturing equipment OEM sales
+
+Semiconductor manufacturing equipment OEM sales are sales of original equipment manufacturer tools used to make, inspect, assemble, package, or test semiconductors. They solve the capacity-measurement problem upstream: before a fab can ship more chips, it needs tools for lithography, deposition, etch, cleaning, metrology, inspection, packaging, and test. In today's news, SEMI's forecast matters because AI demand is now visible as expected tool spending across front-end and back-end manufacturing. A comparison: chip revenue is output; equipment sales are part of the factory-building input.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-semiconductor-manufacturing-equipment-oem-sales)
+
+**Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-semiconductor-self-sufficiency"></a>
 ## Semiconductor self-sufficiency
 
@@ -3096,6 +3393,28 @@ These are ultra-pure inputs used in wafer fabrication and packaging, including p
 **Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-semiconductor-grade-chemicals-gases-and-materials)
 
 **Reference:** https://www.semi.org/en/connect/events/strategic-materials-conference-smc
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-senior-unsecured-notes"></a>
+## Senior unsecured notes
+
+Senior unsecured notes are debt securities that rank ahead of subordinated debt but are not backed by specific collateral. They solve the large-company borrowing problem by letting a creditworthy issuer raise long-term money without pledging one exact asset, while investors rely on the issuer's overall ability to pay. In today's news, Alphabet's note issuance matters because AI compute expansion can require both equity and debt financing even for leading cloud platforms. A comparison: a secured loan is tied to collateral; unsecured notes depend more on the issuer's credit strength.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-senior-unsecured-notes)
+
+**Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-server-cpu"></a>
+## Server CPU
+
+A server CPU is a central processor designed for data-center workloads such as cloud services, databases, virtualization, storage, networking, and coordination of accelerator-heavy systems. It solves the general-control and system-management problem around specialized accelerators: even GPU-heavy servers still need CPUs for orchestration, memory management, I/O, security, and many non-AI workloads. In today's news, Intel's server CPU commentary matters because AI data centers still depend on CPU platforms, PCIe/CXL lanes, memory channels, and platform reliability. Example: an accelerator may run matrix math, while the server CPU schedules work and manages the system.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-server-cpu)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -3154,6 +3473,17 @@ SOI is a wafer technology where a thin silicon layer sits on an insulating oxide
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-sovereign-ai-infrastructure"></a>
+## Sovereign AI infrastructure
+
+Sovereign AI infrastructure is domestically anchored compute, data, model, software, and governance capacity that a country or region can use for strategic AI workloads under its own policy control. It solves the dependency problem: a country that relies entirely on foreign cloud compute, models, or suppliers may lack control over security, language, industrial data, availability, and economic capture. In today's news, Japan's Noetra project matters because sovereign AI is being tied to specific accelerator counts, power capacity, industrial partners, and national robotics goals. A comparison: cloud access is rented capacity; sovereign infrastructure aims to create national control points.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-sovereign-ai-infrastructure)
+
+**Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-specialty-foundry"></a>
 ## Specialty foundry
 
@@ -3173,6 +3503,17 @@ A specialty gas is a high-purity industrial gas used for tightly controlled manu
 **Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-specialty-gas)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-spectrum-x-ethernet"></a>
+## Spectrum-X Ethernet
+
+Spectrum-X Ethernet is NVIDIA's Ethernet networking platform for accelerated AI data centers, combining switches, network adapters, software, congestion control, and telemetry to improve AI cluster communication. It solves the distributed-training and inference problem where GPUs can sit idle if the network cannot move data fast and predictably. In today's news, Spectrum-X matters because sovereign AI infrastructure needs networking and scheduling efficiency, not just GPUs. A comparison: adding more accelerators without high-performance networking is like adding factories without roads.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-spectrum-x-ethernet)
+
+**Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
 
 [Back to A-Z index](#a-z-index)
 
@@ -3353,6 +3694,28 @@ Technology export controls are legal restrictions on exporting, transferring, li
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-technology-export-control-catalogue"></a>
+## Technology export-control catalogue
+
+A technology export-control catalogue is an official list or regulatory framework identifying technologies whose export, transfer, licensing, or overseas use is prohibited or restricted. It solves the policy-enforcement problem by turning broad national-security concerns into specific controlled items or approval processes. In today's news, reported Chinese AI/chip controls remain pending because no final rule text or catalogue update was verified in today's evidence. A comparison: a news report can warn of possible policy; a catalogue entry makes the control administrable.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-technology-export-control-catalogue)
+
+**Reference:** https://theedgemalaysia.com/node/811465
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-test-equipment"></a>
+## Test equipment
+
+Test equipment electrically measures wafers, dies, packages, boards, or systems to determine whether they meet functional, performance, timing, power, and reliability requirements. It solves the quality problem: without test, defective or weak parts can escape into expensive systems. In today's news, SEMI projects test equipment sales up 31.0% to $15.3B in 2026, showing that complex AI/HBM devices require more screening and validation. Example: testing a simple controller is not the same as testing a high-bandwidth HBM stack or AI accelerator package.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-test-equipment)
+
+**Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-test-escape"></a>
 ## Test escape
 
@@ -3495,6 +3858,17 @@ Underlying shares are the actual company shares that economically support anothe
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-unrealized-equity-gain"></a>
+## Unrealized equity gain
+
+An unrealized equity gain is an accounting increase in the value of securities a company still holds, rather than cash earned from selling products or services. It solves fair-value reporting by marking investments closer to market value, but it can distort net income if treated like ordinary operating profit. In today's news, Alphabet's large other-income gain should not be confused with semiconductor demand; the chip-relevant evidence is cloud AI demand, token usage, and infrastructure financing. A comparison: a cloud server rented to customers creates operating revenue; a stock holding rising in value creates a paper gain until sold.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-unrealized-equity-gain)
+
+**Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-v"></a>
 # V
 
@@ -3542,6 +3916,17 @@ A valuation reset is a rapid reduction in the price investors are willing to pay
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-vera-rubin-nvl72"></a>
+## Vera Rubin NVL72
+
+Vera Rubin NVL72 is NVIDIA's rack-scale AI system concept around its Vera CPU and Rubin GPU generation, packaged as a high-density, networked, power-and-cooling-aware rack architecture. It solves the scaling problem where AI performance depends on many accelerators acting as one system rather than one chip operating alone. In today's news, the NVL72 rack detail matters because the Japan project is measured in CPU/GPU counts and data-center power, not only in a chip-name announcement. A comparison: a single accelerator is a component; an NVL72 rack is a deployable compute unit inside an AI factory.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-vera-rubin-nvl72)
+
+**Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-vlsi"></a>
 ## VLSI
 
@@ -3560,6 +3945,28 @@ Very-large-scale integration is the design and manufacture of integrated circuit
 A wafer is a thin, polished disc of semiconductor material on which many chip dies are fabricated in parallel. Its diameter, crystal quality, defect density, and process uniformity strongly affect manufacturing cost and yield.
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wafer-bumping"></a>
+## Wafer bumping
+
+Wafer bumping forms tiny conductive bumps or pillars on wafer pads before dies are separated, allowing the die to be flip-chip attached or connected into advanced packages. It solves the dense electrical-connection problem between a die and its package or substrate. In today's news, wafer bumping matters because any advanced OSAT that wants flip-chip, fan-out, or chiplet work needs controlled bump height, pitch, metallurgy, adhesion, and defect screening. A comparison: wire bonding connects pads with wires after singulation; bumping prepares dense direct connections at wafer level.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-bumping)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wafer-fabrication-equipment-wfe"></a>
+## Wafer fabrication equipment (WFE)
+
+Wafer fabrication equipment is the set of front-end tools used to create chips on wafers, including lithography, deposition, etch, ion implantation, cleaning, chemical mechanical planarization, metrology, inspection, and process-control systems. It solves the physical manufacturing problem: a chip design cannot become silicon without hundreds of controlled wafer-processing steps. In today's news, WFE matters because SEMI's foundry/logic forecast is driven by advanced-node builds for AI accelerators, HPC, and premium mobile. A comparison: EDA tools create the design database; WFE tools create the physical transistor layers.
+
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-fabrication-equipment-wfe)
+
+**Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
 
 [Back to A-Z index](#a-z-index)
 
