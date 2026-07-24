@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-23**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-24**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -21,6 +21,17 @@ Start with the short meaning on a daily page. Use this master entry when the ter
 A vertical stack of 12 DRAM dies in one HBM package.
 
 **Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-12-layer-hbm)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-18a-p-risk-production"></a>
+## 18A-P risk production
+
+18A-P risk production is an early manufacturing stage for Intel's enhanced 18A process where wafers are built before full mature high-volume release to validate process readiness, yield learning, customer design interaction, and manufacturing control. It solves the transition problem between development and volume production: customers need silicon evidence before betting full product ramps on a node. In today's news, Intel says 18A-P entered risk production, which is a milestone but not yet proof of high-volume external foundry success. A comparison: risk production is like a serious pilot line; mature high-volume manufacturing is the proven factory run.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-18a-p-risk-production)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -116,6 +127,17 @@ A 300mm fab uses circular silicon wafers about 300 millimeters in diameter, and 
 Future transistor direction that stacks nFET and pFET devices vertically to reduce footprint.
 
 **Appears in:** [2026-06-19](../2026-06-19/README.md#daily-term-3d-stacked-fet-cfet)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-3d-stacking-workaround"></a>
+## 3D stacking workaround
+
+A 3D stacking workaround is the use of vertical chip/package integration to improve performance, bandwidth, or density when front-end transistor scaling is constrained. It solves part of the performance gap when a country or company cannot access the best lithography or process node. In today's news, reported Huawei-style workarounds matter because advanced packaging can partially compensate for weaker process technology, though not for every power, yield, or cost gap. A comparison: if each floor of a building is smaller than a competitor's, stacking more floors can help, but elevators, heat, and structure become harder.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-3d-stacking-workaround)
+
+**Reference:** https://www.wsj.com/world/china/china-ai-chips-race-949050d0
 
 [Back to A-Z index](#a-z-index)
 
@@ -315,6 +337,17 @@ The AI trade is the market positioning around companies expected to benefit from
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-ai-trade)
 
 **Reference:** https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-thursday-july-16-2026-12020417
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-amd-helios"></a>
+## AMD Helios
+
+AMD Helios is AMD's rack-scale AI infrastructure platform built around multiple Instinct GPUs, EPYC CPUs, Pensando networking, and ROCm software. It solves the deployment problem for customers that need a complete AI system with compute, host CPUs, networking, memory capacity, and software aligned rather than separate parts integrated from scratch. In today's news, Helios is the center of AMD's attempt to convert accelerator roadmaps into real cloud and AI-lab deployments. Example: AMD says a Helios rack uses 72 MI455X GPUs and 18 6th Gen EPYC Venice CPUs, making it a rack architecture rather than a single accelerator announcement.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-amd-helios)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
 
 [Back to A-Z index](#a-z-index)
 
@@ -725,6 +758,17 @@ The CHIPS Act is U.S. legislation that provides incentives for domestic semicond
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-clean-room-space"></a>
+## Clean room space
+
+Clean room space is highly controlled manufacturing area where airborne particles, humidity, temperature, vibration, chemicals, airflow, and contamination are tightly managed for semiconductor processing. It solves the defect-control problem: microscopic contamination can ruin wafer yield or package reliability. In today's news, Intel increasing clean room investment means the company is preparing physical capacity, not only announcing demand. A comparison: buying tools without clean room capacity is like buying machines without a factory floor.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-clean-room-space)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-cleanroom"></a>
 ## Cleanroom
 
@@ -842,8 +886,30 @@ Customer qualification is the controlled evidence-building process through which
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-customer-validation"></a>
+## Customer validation
+
+Customer validation is evidence that a named customer is testing, qualifying, deploying, or committing to a product under real workload and operational constraints. It solves the credibility problem in hardware launches: vendor specifications are weaker than proof that serious customers can use the system. In today's news, OpenAI, Anthropic, Meta and cloud/OEM names make AMD's story stronger than a chip-only launch, but validation is not the same as volume revenue until systems are deployed, used, and paid for. Example: a lab demo proves functionality; a cloud rollout proves operational adoption.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-customer-validation)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-d"></a>
 # D
+
+<a id="term-data-center-and-ai-dcai"></a>
+## Data Center and AI (DCAI)
+
+Data Center and AI is Intel's business segment for server and AI-oriented compute products, including CPUs and related data-center platforms. It solves the business-segmentation problem by separating data-center demand from client PCs and foundry services. In today's news, DCAI revenue of $6.3B, up 59%, is the clearest Intel product signal that AI-driven compute demand is lifting server platforms, not only GPUs. A comparison: AI accelerators run the matrix-heavy work, but server CPUs still feed, schedule, secure, and orchestrate many workloads.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-data-center-and-ai-dcai)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-data-processing-unit-dpu"></a>
 ## Data processing unit (DPU)
@@ -853,6 +919,17 @@ A data processing unit is a programmable infrastructure processor that offloads 
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-data-processing-unit-dpu)
 
 **Reference:** https://newsroom.amd.com/news/microsoft-azure-ai-infrastructure/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-decode-stage"></a>
+## Decode stage
+
+The decode stage in language-model inference is the step where the model generates output tokens sequentially after prompt/context processing. It solves the response-generation problem, but it is often latency-sensitive because many applications wait for tokens to appear one after another. In today's news, Cerebras is being positioned as the fast token-generation engine, while AMD Helios is the high-throughput prompt and context engine. A comparison: reading the user's long input is one stage; producing each next word in real time is another.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-decode-stage)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution
 
 [Back to A-Z index](#a-z-index)
 
@@ -1019,6 +1096,17 @@ Dimensional scaling improves chip density and electrical behavior by reducing or
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-direct-employment"></a>
+## Direct employment
+
+Direct employment means jobs created inside the company or project itself, rather than indirect jobs at suppliers, logistics firms, contractors, restaurants, housing, or local services. It solves the impact-measurement problem: policymakers need to distinguish between workers hired by the OSAT facility and wider ecosystem job estimates. In today's news, TOI reports the Paras MP OSAT project is expected to create more than 2,500 direct jobs, which is useful but still a projection. A comparison: an OSAT engineer on the payroll is direct employment; a nearby supplier hiring truck drivers is indirect employment.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-direct-employment)
+
+**Reference:** https://timesofindia.indiatimes.com/city/bhopal/mp-secures-proposed-rs-6200cr-semiconductor-investment/articleshow/132589604.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-direct-to-chip-cooling"></a>
 ## Direct-to-chip cooling
 
@@ -1030,6 +1118,17 @@ Direct-to-chip cooling moves heat from a component into a cold plate or liquid-c
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-disaggregated-inference"></a>
+## Disaggregated inference
+
+Disaggregated inference is an AI-serving architecture that separates different parts of the inference workflow across different compute engines or system pools instead of running every stage on one homogeneous cluster. It solves the mismatch problem in AI serving: prompt processing, long-context attention, decode/token generation, batching, latency-sensitive agents, and throughput-heavy requests can stress hardware differently. In today's news, AMD and Cerebras are splitting work between AMD Helios and the Cerebras Wafer-Scale Engine to optimize both throughput and low latency. A comparison: one factory line doing every job can bottleneck; specialized stations can optimize different steps.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-disaggregated-inference)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-dli"></a>
 ## DLI
 
@@ -1038,6 +1137,17 @@ DLI is India's incentive and infrastructure-support scheme for semiconductor des
 **Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-dli)
 
 **Reference:** https://ism.gov.in/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-domestic-substitution"></a>
+## Domestic substitution
+
+Domestic substitution is a strategy where a country replaces foreign suppliers with local companies for strategically important products, components, software, or manufacturing services. It solves a dependency problem under sanctions, export controls, or geopolitical risk, but it can increase cost and reduce performance if domestic alternatives lag. In today's news, WSJ reports China's push to reduce reliance on U.S. AI chips and expand domestic capability, making domestic substitution a core semiconductor policy theme. A comparison: buying Nvidia chips is import dependence; building Huawei/Cambricon/SMIC/CXMT alternatives is domestic substitution.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-domestic-substitution)
+
+**Reference:** https://www.wsj.com/world/china/china-ai-chips-race-949050d0
 
 [Back to A-Z index](#a-z-index)
 
@@ -1194,6 +1304,17 @@ EDA/IP combines electronic design automation software and reusable semiconductor
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-eda-ip-dependency"></a>
+## EDA/IP dependency
+
+EDA/IP dependency is the reliance of chip and package programs on electronic design automation software plus reusable IP blocks, verification IP, standard cells, memory compilers, physical-design flows, packaging models, and signoff tools. It solves the complexity problem in modern semiconductors: no team can manually design, verify and close timing/power/reliability for billion-transistor chips and advanced packages without toolchains and reusable IP. In today's news, EDA/IP has no major exact-date headline, but it underlies AMD's roadmap, Intel Foundry, Tesla's fab ambition, and Paras packaging.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-eda-ip-dependency)
+
+**Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electronic-design-automation-eda-cloud-workload"></a>
 ## Electronic design automation (EDA) cloud workload
 
@@ -1291,6 +1412,17 @@ Etching equipment removes selected material from a wafer, while deposition equip
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-euv-chokepoint"></a>
+## EUV chokepoint
+
+An EUV chokepoint is a strategic dependency on extreme-ultraviolet lithography tools for the most advanced chip manufacturing nodes. It solves the geopolitical explanation for why one tool category can slow a whole country's leading-edge progress: without EUV, a fab must use harder, more expensive multi-patterning or stay behind in density, power, and yield. In today's news, China's lack of EUV access remains one reason domestic AI chips may improve but still lag leading Nvidia-class hardware. A comparison: DUV workarounds can keep progress moving, but EUV is the shorter road for many leading-edge patterns.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-euv-chokepoint)
+
+**Reference:** https://www.wsj.com/world/china/china-ai-chips-race-949050d0
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-euv-lithography"></a>
 ## EUV lithography
 
@@ -1352,6 +1484,17 @@ An export control is a legal restriction on transferring specified goods, softwa
 **Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-export-controls), [2026-06-20](../2026-06-20/README.md#daily-term-export-controls), [2026-07-04](../2026-07-04/README.md#daily-term-export-controls), [2026-07-05](../2026-07-05/README.md#daily-term-export-controls), [2026-07-12](../2026-07-12/README.md#daily-term-export-controls), [2026-07-14](../2026-07-14/README.md#daily-term-export-controls)
 
 **Reference:** https://www.bis.gov/regulations/ear
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-export-control-enforcement"></a>
+## Export-control enforcement
+
+Export-control enforcement is the practical work of preventing restricted chips, tools, software, technology, or know-how from reaching prohibited users or destinations through direct shipments, resellers, cloud access, smuggling, or shell companies. It solves the gap between written rules and real-world movement of technology. In today's news, enforcement matters because Chinese AI-chip progress is shaped both by domestic capability and by how porous U.S.-led controls are. A comparison: a legal ban is the rulebook; enforcement is whether the gate actually stops the item.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-export-control-enforcement)
+
+**Reference:** https://www.wsj.com/world/china/china-ai-chips-race-949050d0
 
 [Back to A-Z index](#a-z-index)
 
@@ -1652,6 +1795,17 @@ A gate-all-around transistor places the gate around the channel on multiple side
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-gaap-loss"></a>
+## GAAP loss
+
+A GAAP loss is a net loss under generally accepted accounting principles, including operating results and required accounting for non-operating items, taxes, impairments, interest and other items. It solves the formal financial-reporting problem by applying standard accounting rules, even when the result differs sharply from management's adjusted measures. In today's news, Intel's GAAP EPS of $(2.16) means the quarter cannot be described as simply profitable; the operating improvement and accounting loss must both be understood. A comparison: a company can beat on adjusted EPS while still reporting a GAAP net loss.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-gaap-loss)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-gate-all-around-high-volume-manufacturing"></a>
 ## Gate-all-around high-volume manufacturing
 
@@ -1682,6 +1836,17 @@ A gigafab is a very large semiconductor manufacturing campus or cluster with mul
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-gigafab)
 
 **Reference:** https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-global-capability-centre-gcc"></a>
+## Global capability centre (GCC)
+
+A global capability centre is an offshore or regional office where a company performs engineering, software, operations, analytics, finance, design, support, or shared-service work for global business units. It solves the talent-distribution problem by letting companies use specialized skills in different locations. In today's news, the MP Tech Growth Conclave context matters because semiconductors, data centers, and GCCs can reinforce each other if India converts engineering talent into chip design, validation, packaging, and operations capability. A comparison: a GCC may design or validate systems; an OSAT physically packages and tests chips.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-global-capability-centre-gcc)
+
+**Reference:** https://timesofindia.indiatimes.com/city/bhopal/mp-secures-proposed-rs-6200cr-semiconductor-investment/articleshow/132589604.cms
 
 [Back to A-Z index](#a-z-index)
 
@@ -1832,11 +1997,11 @@ A high-beta stock tends to move more sharply than the broader market, especially
 <a id="term-high-na-euv"></a>
 ## High-NA EUV
 
-High numerical aperture extreme ultraviolet lithography is the next generation of EUV patterning with higher optical resolution than today's EUV scanners. The fabrication problem it solves is printing extremely small and dense circuit features without repeating many lower-resolution patterning steps. Fewer patterning steps can improve yield because each extra exposure and etch adds alignment risk. It matters today because IBM says sub-1 nm nanostack production depends on High-NA EUV process capability from ASML-class tools.
+High-NA EUV is a next-generation extreme-ultraviolet lithography platform with higher numerical aperture optics, enabling finer patterning resolution than today's standard EUV systems. It solves the patterning problem at very advanced nodes where smaller features and tighter overlay become harder with existing exposure tools. In today's news, Intel mentioning ASML EXE High NA EUV for Panther Lake high-volume manufacturing is strategically important because High-NA adoption is a key tool and process-learning frontier. A comparison: standard EUV opened the 7 nm/5 nm/3 nm era; High-NA EUV is meant to support later, denser patterning with fewer compromises.
 
-**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-high-na-euv)
+**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-high-na-euv), [2026-07-24](../2026-07-24/README.md#daily-term-high-na-euv)
 
-**Reference:** https://www.asml.com/en/technology/lithography-principles
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -1998,6 +2163,17 @@ Intel 3 is an Intel process technology generation used for high-performance prod
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-intel-foundry"></a>
+## Intel Foundry
+
+Intel Foundry is Intel's contract manufacturing business that aims to make chips for internal and external customers using Intel process technology, packaging, IP, and manufacturing services. It solves Intel's strategic problem of turning fabs from internal-product assets into a broader manufacturing platform, but it requires customer trust, competitive nodes, design enablement, yield, and economics. In today's news, Foundry revenue of $5.8B up 31% is encouraging, but the note must remember that segment revenues include intersegment transactions.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-intel-foundry)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-k"></a>
 # K
 
@@ -2087,6 +2263,17 @@ Local substitution happens when domestic companies replace foreign suppliers bec
 **Appears in:** [2026-06-29](../2026-06-29/README.md#daily-term-local-substitution)
 
 **Reference:** https://apnews.com/article/1ae6228c4928ddbb43f984e9b38f49dd
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-logic-chip"></a>
+## Logic chip
+
+A logic chip is an integrated circuit built primarily to compute, control, process signals, or run instructions, such as CPUs, GPUs, AI accelerators, microcontrollers, image processors, or custom ASICs. It solves the decision and computation problem in electronic systems. In today's news, Tesla's need for logic chips is tied to vehicles, robotaxis, humanoid robots, AI data centers, control systems, and inference workloads. A comparison: logic chips think and control; memory chips store the data they work on.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-logic-chip)
+
+**Reference:** https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -2244,6 +2431,28 @@ A Memorandum of Understanding is a formal document recording intent, cooperation
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-memorandum-of-understanding-mou)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-memory-allocation"></a>
+## Memory allocation
+
+Memory allocation is the process by which memory suppliers decide which customers receive limited DRAM, HBM, NAND, or specialty memory output under contracts, forecasts, deposits, pricing, qualification, and strategic priority. It solves the scarcity problem when demand exceeds qualified supply. In today's news, memory allocation remains central because AMD Helios, Intel AI servers, Tesla AI/robotics, Alphabet cloud, and Nvidia/Japan AI factories all compete for high-performance memory. A comparison: a price quote tells cost; allocation decides whether the customer gets the parts at all.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-memory-allocation)
+
+**Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-memory-chip"></a>
+## Memory chip
+
+A memory chip stores data or instructions for short-term working use, long-term nonvolatile storage, or high-bandwidth AI data movement. It solves the data-availability problem: compute cannot operate efficiently unless data is close enough, fast enough, and large enough. In today's news, Tesla explicitly names memory supply as part of its long-term chipmaking concern, reflecting the broader AI-era memory shortage and HBM/DRAM allocation pressure. A comparison: a processor is a worker; memory is the workspace and material supply.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-memory-chip)
+
+**Reference:** https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -2546,6 +2755,17 @@ Node mix is the distribution of revenue, wafers, or products across process tech
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-non-gaap-eps"></a>
+## Non-GAAP EPS
+
+Non-GAAP EPS is earnings per share calculated after excluding selected items that management believes reduce comparability, such as restructuring, certain mark-to-market items, acquisition effects, or other adjustments. It solves the operating-comparison problem, but it can also make results look cleaner than statutory GAAP if the excluded costs are economically important. In today's news, Intel reported non-GAAP EPS of $0.42 while GAAP EPS was negative, so the two must be discussed separately. A comparison: GAAP is the formal accounting result; non-GAAP is management's adjusted operating lens.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-non-gaap-eps)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-nor-flash"></a>
 ## NOR flash
 
@@ -2612,6 +2832,17 @@ An official earnings calendar is the company-published schedule for when financi
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-official-earnings-calendar)
 
 **Reference:** https://www.skhynix.com/ir/UI-FR-IR06/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-official-latest-news-check"></a>
+## Official latest-news check
+
+An official latest-news check is the review of a company's own newsroom or investor page to see whether a new primary-source announcement exists. It solves the verification problem when market reports circulate before company confirmation. In today's news, TSMC's latest-news page still showed July 16 Q2 results and July 13 monthly revenue as newest releases, so reported 2027 pricing remains pending primary confirmation.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-official-latest-news-check)
+
+**Reference:** https://pr.tsmc.com/english/latest-news
 
 [Back to A-Z index](#a-z-index)
 
@@ -3008,6 +3239,17 @@ Processing trade means imported inputs are processed, assembled, packaged, or te
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-product-roadmap-cadence"></a>
+## Product roadmap cadence
+
+Product roadmap cadence is the planned rhythm at which a semiconductor company introduces new CPU, GPU, networking, software, and platform generations. It solves the customer-planning problem: hyperscalers and OEMs need to plan power, cooling, data-center layout, procurement, software migration, and depreciation years ahead. In today's news, AMD's MI500/MI600 and Helios 500/600 roadmap matters because AI infrastructure buyers are making multi-year commitments, not one-quarter purchases. A comparison: a one-time chip launch is a point event; a roadmap cadence is a supply and architecture planning promise.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-product-roadmap-cadence)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-profit-taking"></a>
 ## Profit-taking
 
@@ -3088,6 +3330,17 @@ Rack-scale AI infrastructure is a complete rack-level system that integrates acc
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-rack-scale-ai-infrastructure)
 
 **Reference:** https://www.amd.com/en/products/rackscale-solutions/helios.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-rack-scale-ai-solution"></a>
+## Rack-scale AI solution
+
+A rack-scale AI solution is a complete compute system designed at the rack level rather than as a loose collection of servers, combining accelerators, CPUs, memory, networking, power delivery, cooling, firmware, and software into one deployable unit. It solves the cluster-building problem: modern AI performance depends on many accelerators acting together with predictable power, thermal, networking, and software behavior. In today's news, AMD Helios matters because AMD is competing against Nvidia at the AI factory rack level, not only at the GPU chip level. A comparison: a GPU card is one component; a rack-scale solution is closer to a packaged production machine for AI workloads.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-rack-scale-ai-solution)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
 
 [Back to A-Z index](#a-z-index)
 
@@ -3185,6 +3438,17 @@ RoCEv2 means RDMA over Converged Ethernet version 2, a way to perform remote dir
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-rocev2)
 
 **Reference:** https://www.amd.com/en/corporate/events/advancing-ai.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-rocm"></a>
+## ROCm
+
+ROCm is AMD's open software platform for GPU computing, including drivers, compilers, libraries, runtime support, and framework integration for AI and HPC workloads. It solves the software-portability problem: accelerator hardware is not useful at scale unless developers can run PyTorch, inference servers, kernels, communication libraries, debugging tools, and performance profilers reliably. In today's news, ROCm matters because AMD's hardware claims depend on whether software can close the gap with Nvidia's CUDA ecosystem for real workloads. A comparison: silicon is the engine; ROCm is part of the control system that lets developers use it efficiently.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-rocm)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
 
 [Back to A-Z index](#a-z-index)
 
@@ -3305,6 +3569,17 @@ A semiconductor equipment supplier makes the tools used to fabricate, inspect, p
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-equipment-supplier)
 
 **Reference:** https://www.semi.org/en
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-fab"></a>
+## Semiconductor fab
+
+A semiconductor fab is a fabrication facility that processes wafers through repeated lithography, deposition, etch, implant, cleaning, metrology, and thermal steps to make integrated circuits. It solves the physical manufacturing problem for chips, but it requires enormous capital, tools, process recipes, engineers, yields, utilities, and supply-chain depth. In today's news, Tesla says its Austin semiconductor fab is in early construction and equipment procurement, which is an important supply-chain signal but not yet working chip output. A comparison: designing an AI chip is one challenge; building a fab that can manufacture it at yield is a much harder manufacturing challenge.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-semiconductor-fab)
+
+**Reference:** https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -3539,6 +3814,17 @@ An SSD controller is the processor and logic subsystem inside the drive that sch
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-state-semiconductor-cluster"></a>
+## State semiconductor cluster
+
+A state semiconductor cluster is a regional ecosystem of fabs, OSAT/ATMP facilities, design centers, equipment and materials suppliers, data centers, universities, logistics, utilities, incentives, and skilled workers. It solves the ecosystem problem: semiconductor manufacturing does not succeed through one isolated factory. In today's news, Madhya Pradesh is using Paras to position itself as a semiconductor and advanced-technology destination, but cluster proof requires more companies, suppliers, training and recurring production. A comparison: one OSAT plant is a seed; a cluster is a network of mutually reinforcing capabilities.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-state-semiconductor-cluster)
+
+**Reference:** https://timesofindia.indiatimes.com/city/bhopal/mp-secures-proposed-rs-6200cr-semiconductor-investment/articleshow/132589604.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-strategic-customer-agreement"></a>
 ## Strategic Customer Agreement
 
@@ -3569,6 +3855,17 @@ Structural demand is demand expected to persist because of a long-term change in
 **Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-structural-demand)
 
 **Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-substrate"></a>
+## Substrate
+
+A substrate is the package foundation that mechanically supports chips and routes electrical connections between dies, memory, power delivery, and the printed circuit board. It solves the interconnect and mechanical-support problem after a die is fabricated. In today's news, Intel's plan to increase substrate investment matters because AI and advanced processors need high-density, reliable package substrates; a wafer fab alone cannot ship usable systems. A comparison: silicon is the active chip; the substrate is the high-performance platform it sits on and connects through.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-substrate)
+
+**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -3749,6 +4046,17 @@ A three-month moving average smooths a data series by averaging the latest three
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-tokens-per-dollar"></a>
+## Tokens per dollar
+
+Tokens per dollar is an AI-serving economics metric that estimates how much model output a system can generate for a given cost, including hardware price, throughput, utilization, energy, software efficiency, and deployment assumptions. It solves the business-comparison problem: AI customers care about useful output per budget, not only peak FLOPS or memory bandwidth. In today's news, AMD says Helios delivers up to 30% more inference tokens per dollar than the competition, but that must be checked against AMD's methodology, pricing assumptions, workload mix, and software maturity. A comparison: miles per gallon compares vehicles; tokens per dollar compares AI infrastructure economics.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-tokens-per-dollar)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-total-cost-per-token"></a>
 ## Total cost per token
 
@@ -3847,6 +4155,17 @@ Universal Flash Storage combines NAND flash with a controller and standardized h
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ultra-low-latency-inference"></a>
+## Ultra-low-latency inference
+
+Ultra-low-latency inference means generating AI responses with very short delay between request and output, especially for coding assistants, live agents, real-time copilots, robotics, and interactive applications. It solves the usefulness problem: even accurate AI can feel unusable if each response stalls. In today's news, AMD and Cerebras are targeting latency-sensitive inference, not just maximum batch throughput. A comparison: batch translation can wait seconds; a real-time coding assistant or robot planner needs fast response.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-ultra-low-latency-inference)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-underlying-shares"></a>
 ## Underlying shares
 
@@ -3927,6 +4246,17 @@ Vera Rubin NVL72 is NVIDIA's rack-scale AI system concept around its Vera CPU an
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-vertical-integration"></a>
+## Vertical integration
+
+Vertical integration is a strategy where a company controls more stages of its value chain, such as design, manufacturing, packaging, software, and deployment, instead of buying each stage from external suppliers. It solves dependency and iteration-speed problems, but it increases capital, execution, and operational risk. In today's news, Tesla's fab language is a vertical-integration signal: it wants more control over logic and memory supply because AI/robotics ambitions may outgrow available external capacity. A comparison: Apple controls chip design but still uses external foundries; Tesla is signaling interest in deeper manufacturing control.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-vertical-integration)
+
+**Reference:** https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q2-2026-Update.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-vlsi"></a>
 ## VLSI
 
@@ -4000,6 +4330,17 @@ A wafer-scale engine is a processor built using a whole wafer-scale piece of sil
 **Appears in:** [2026-06-24](../2026-06-24/README.md#daily-term-wafer-scale-engine)
 
 **Reference:** https://www.cerebras.ai/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wafer-scale-engine"></a>
+## Wafer-Scale Engine
+
+A Wafer-Scale Engine is Cerebras' processor architecture that uses an entire wafer as one very large AI compute device rather than cutting the wafer into many separate chips. It solves a communication and memory-locality problem: keeping many compute cores on one wafer can reduce off-chip communication compared with a cluster of separate accelerators. In today's news, the Cerebras Wafer-Scale Engine is positioned for ultra-low-latency token generation while AMD Helios handles high-throughput rack-scale work. A comparison: ordinary chips are pieces cut from a wafer; wafer-scale computing tries to use the wafer itself as the chip.
+
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-wafer-scale-engine)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution
 
 [Back to A-Z index](#a-z-index)
 
