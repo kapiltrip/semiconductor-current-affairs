@@ -8,7 +8,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 
 ## Study Navigation
 
-- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-24.
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-26.
 - [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
 - [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
 - [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
@@ -112,6 +112,8 @@ scripts/                       Index-maintenance utilities
 | 2026-07-22 | [2026-07-22/README.md](2026-07-22/README.md) | [images/2026-07-22/links.md](images/2026-07-22/links.md) | NVIDIA-Wistron U.S. AI-system manufacturing, AMD Advancing AI setup, TSMC 2027 price reports, China export-control watch, Paras MP OSAT |
 | 2026-07-23 | [2026-07-23/README.md](2026-07-23/README.md) | [images/2026-07-23/links.md](images/2026-07-23/links.md) | Alphabet AI capex, Supermicro AI-server margin signal, AMD/Intel proof-point watch, NVIDIA Japan sovereign AI, SEMI equipment forecast, Paras OSAT process detail |
 | 2026-07-24 | [2026-07-24/README.md](2026-07-24/README.md) | [images/2026-07-24/links.md](images/2026-07-24/links.md) | AMD Helios/MI400 launch, AMD-Cerebras disaggregated inference, Intel Q2/Foundry/equipment signal, Tesla chipmaking, China AI-chip self-reliance, Paras MP OSAT follow-up |
+| 2026-07-25 | [2026-07-25/README.md](2026-07-25/README.md) | [images/2026-07-25/links.md](images/2026-07-25/links.md) | Samsung-Broadcom memory/foundry/packaging MOU, SK-NVIDIA AI factory/HBM, NAVER-NVIDIA-Brookfield Korea AI infrastructure, SK hynix CTI NAND, India Nano semiconductor track |
+| 2026-07-26 | [2026-07-26/README.md](2026-07-26/README.md) | [images/2026-07-26/links.md](images/2026-07-26/links.md) | Sunday catch-up: official TSMC/AMD/Intel checks, Korea AI-stack consolidation, BTS Electro-Semicon, KWIN City semiconductor park, AI-chip cycle watch |
 
 ## Note Quality Standard
 
@@ -189,4 +191,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are reviewed through 2026-07-24. All 39 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-24 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.
+Daily notes are reviewed through 2026-07-26. All 41 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-26 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.

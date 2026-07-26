@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-24**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-26**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -43,6 +43,17 @@ A vertical stack of 12 DRAM dies in one HBM package.
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-2-nm-process-technology)
 
 **Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-2-5d-integration"></a>
+## 2.5D integration
+
+2.5D integration places multiple chips side by side on a silicon interposer or high-density package substrate so they communicate through very fine wires without being stacked directly on top of each other. It solves the bandwidth and yield problem for large AI chips: separate dies and HBM stacks can be manufactured and tested separately, then assembled into one package. In today's news, Samsung's 2.5D reference points to Broadcom-class AI accelerators where memory bandwidth and package routing are core design constraints.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-2-5d-integration)
+
+**Reference:** https://semiconductor.samsung.com/foundry/advanced-package/
 
 [Back to A-Z index](#a-z-index)
 
@@ -171,7 +182,7 @@ An advanced node is a leading semiconductor manufacturing generation used for hi
 
 An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. SK hynix's P&T7 facility matters because HBM capacity can be limited by stacking, package yield, and final test even when front-end DRAM wafers are available. A wafer fab makes transistor layers; packaging and test assemble and validate usable products. Sources: [SK hynix](https://news.skhynix.com/fact-07/) and [Reuters](https://www.marketscreener.com/news/sk-hynix-to-spend-64-billion-on-flash-memory-chip-plants-under-broader-ai-investment-plan-ce7f5fd2df8df626)
 
-**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging)
+**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging)
 
 [Back to A-Z index](#a-z-index)
 
@@ -257,7 +268,7 @@ An AI data center is a facility optimized for training or serving AI models usin
 
 An AI factory is a data-center-style industrial facility that turns electricity, chips, networking, memory, software, and data into AI outputs such as tokens, model training steps, inference responses, simulations, or recommendations. It solves the business framing problem for AI infrastructure: the output is not a physical good, but compute service at industrial scale. In today's news, NVIDIA and Wistron use the language of AI factories because the manufactured systems are meant to become the production equipment of AI services. A comparison: a steel mill uses energy and machinery to produce steel; an AI factory uses energy and accelerated computing to produce model outputs.
 
-**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory), [2026-07-23](../2026-07-23/README.md#daily-term-ai-factory)
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory), [2026-07-23](../2026-07-23/README.md#daily-term-ai-factory), [2026-07-25](../2026-07-25/README.md#daily-term-ai-factory)
 
 **Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
 
@@ -714,6 +725,28 @@ A Centre of Excellence is a focused institution or industry-academic hub that co
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-charge-trap-nitride-isolation-cti"></a>
+## Charge Trap Nitride Isolation (CTI)
+
+CTI is a NAND device/process technique that physically isolates the nitride charge-storage regions between vertically adjacent cells so electrons stored in one cell are less likely to disturb neighboring cells. It solves the interference problem created when 3D NAND layers grow taller and cell pitch shrinks. In today's news, SK hynix says its CTI approach makes 176-layer high-density NAND more manufacturable by reducing interference and improving retention without widening channel holes.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-charge-trap-nitride-isolation-cti)
+
+**Reference:** https://news.skhynix.com/en/research-inside-ep1/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-chip-bust"></a>
+## Chip bust
+
+A chip bust is a semiconductor downturn where demand slows, inventories rise, prices fall, orders are cut and factories become underutilized. It solves a shorthand problem: investors use the phrase to describe the negative phase of the boom-bust cycle common in memory and hardware markets. In today's news, NVIDIA's CEO argues that AI demand delays such a bust, but independent proof must come from customer spending and supplier utilization.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-chip-bust)
+
+**Reference:** https://www.axios.com/2026/07/24/nvidia-chips-ai-boom
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-chipflation"></a>
 ## Chipflation
 
@@ -799,6 +832,17 @@ Commercial production means a manufacturing line is producing goods intended for
 **Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-commercial-production)
 
 **Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280619&lang=1&reg=48
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-commercialization-bridge"></a>
+## Commercialization bridge
+
+A commercialization bridge is the path that turns research, prototypes and lab demonstrations into manufacturable products, qualified suppliers, customers and revenue. It solves the valley-of-death problem between academic research and industry adoption. In today's India item, Bengaluru INDIA NANO is relevant because it explicitly joins tutorials, startups, B2B/B2G meetings, industry roundtables and semiconductor tracks.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-commercialization-bridge)
+
+**Reference:** https://www.bengaluruindianano.in/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1315,6 +1359,17 @@ EDA/IP dependency is the reliance of chip and package programs on electronic des
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-electro-semicon-track"></a>
+## Electro-Semicon track
+
+An Electro-Semicon track is an event/program track focused on electronics and semiconductors, usually connecting chip design, manufacturing, components, embedded systems, supply chains and startups. It solves the ecosystem-convening problem: policy, industry, academia and investors need shared forums before projects become supply chains. In today's India item, Bengaluru Tech Summit's Electro-Semicon track is useful because Karnataka is trying to convert its software/startup base into electronics and semiconductor depth.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-electro-semicon-track)
+
+**Reference:** https://www.bengalurutechsummit.com/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electronic-design-automation-eda-cloud-workload"></a>
 ## Electronic design automation (EDA) cloud workload
 
@@ -1334,6 +1389,17 @@ An Electronic Manufacturing Cluster is a geographically concentrated infrastruct
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-electronic-manufacturing-cluster)
 
 **Reference:** https://www.newindianexpress.com/states/telangana/2026/Jul/18/semicon-20-mpms-will-prove-beneficial-for-states-youth-minister-kishan
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-electronics-system-design-and-manufacturing-esdm"></a>
+## Electronics System Design and Manufacturing (ESDM)
+
+ESDM covers the design, development and manufacturing of electronic systems, including boards, embedded hardware, sensors, modules, telecom equipment, industrial electronics and sometimes semiconductor-linked components. It solves the demand-pull problem for semiconductors: chip manufacturing grows stronger when local electronics products and system integrators consume and validate chips. In today's Karnataka item, semiconductor parks and ESDM investment should be read together because fabs and OSATs need downstream electronics customers.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-electronics-system-design-and-manufacturing-esdm)
+
+**Reference:** https://economictimes.indiatimes.com/tech/technology/karnatakas-200-acre-semiconductor-park-at-kwin-city-to-become-operational-by-december-minister-mb-patil/articleshow/132574955.cms
 
 [Back to A-Z index](#a-z-index)
 
@@ -1440,6 +1506,17 @@ EUV lithography uses 13.5 nm extreme-ultraviolet light and reflective optics to 
 Ability to track EUV scanner location, operation, parts, and service history.
 
 **Appears in:** [2026-06-21](../2026-06-21/README.md#daily-term-euv-traceability)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-evidence-checkpoint"></a>
+## Evidence checkpoint
+
+An evidence checkpoint is a specific future signal that can confirm, update or close an open claim, such as an earnings transcript, 10-Q filing, final investment decision, wafer start, customer qualification, shipment or official rule text. It solves the follow-up problem in daily news study: instead of leaving vague "watch this" notes, each claim gets a concrete proof target. In today's note, SK hynix earnings, TSMC pricing confirmation, AMD Helios deployment and India park tenants are evidence checkpoints.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-evidence-checkpoint)
+
+**Reference:** https://www.sec.gov/edgar
 
 [Back to A-Z index](#a-z-index)
 
@@ -1706,6 +1783,17 @@ Forward guidance is the company's forecast and commentary about future demand, s
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-forward-looking-statement"></a>
+## Forward-looking statement
+
+A forward-looking statement is company language about expected future events such as demand, deployment, investment, performance, availability or benefits. It solves a legal disclosure problem by warning readers that plans may differ from actual results because of risk and uncertainty. In today's news, SK-NVIDIA, NAVER-NVIDIA-Brookfield and Samsung-Broadcom items all need forward-looking discipline because they discuss plans, estimates, expected capacity or future collaboration.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-forward-looking-statement)
+
+**Reference:** https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-foundry"></a>
 ## Foundry
 
@@ -1745,6 +1833,17 @@ A foundry price increase is a higher wafer-manufacturing price charged by a cont
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-foundry-price-increase)
 
 **Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/tsmc-to-increase-chip-prices-by-up-to-10-starting-2027/132535618
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-foundry-process-node"></a>
+## Foundry process node
+
+A foundry process node is a manufacturing technology generation, such as 2 nm, that defines transistor architecture, wiring rules, density, performance, power, design kits and manufacturing constraints used to fabricate chips for customers. It solves the outsourcing problem for fabless companies: Broadcom can design chips while Samsung manufactures them if the process, EDA flow and yield meet requirements. In today's news, Samsung is positioning its 2 nm-and-below process for Broadcom products. A smaller node name does not automatically mean better economics; yield, cost per good die, IP availability and packaging matter.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-foundry-process-node)
+
+**Reference:** https://semiconductor.samsung.com/foundry/process-technology/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1966,7 +2065,7 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 
 High-Bandwidth Memory is stacked DRAM connected with dense vertical and package-level interconnect so an accelerator can access memory with far more bandwidth and lower energy per bit than many ordinary off-package memory paths. It solves the AI memory-wall problem: accelerators can perform many operations, but they slow down if data cannot reach compute fast enough. In today's news, HBM matters because Alphabet cloud demand, Supermicro AI server mix, NVIDIA Japan systems, and SEMI DRAM equipment growth all depend on high-bandwidth memory capacity and packaging. A comparison: ordinary server DRAM is like a wider road outside the city; HBM is like building short, wide roads directly beside the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
 
@@ -2390,6 +2489,17 @@ Market concentration means a small number of companies capture a large share of 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-market-cycle-risk"></a>
+## Market-cycle risk
+
+Market-cycle risk is the chance that semiconductor demand, pricing, inventories or capital spending move from boom to slowdown after customers overbuy or suppliers overbuild. It solves the investor caution problem: semiconductor fundamentals can be excellent and still become dangerous if expectations exceed sustainable demand. In today's market item, Jensen Huang's optimism must be tested against hard data such as hyperscaler capex, HBM pricing, wafer starts and equipment orders.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-market-cycle-risk)
+
+**Reference:** https://www.axios.com/2026/07/24/nvidia-chips-ai-boom
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-market-moving-signal"></a>
 ## Market-moving signal
 
@@ -2431,6 +2541,17 @@ A Memorandum of Understanding is a formal document recording intent, cooperation
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-memorandum-of-understanding-mou)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-memorandum-of-understanding-mou"></a>
+## Memorandum of Understanding (MOU)
+
+An MOU is a formal statement that parties intend to cooperate, but it is usually weaker than a final supply contract or purchase order unless binding terms are explicitly included. It solves the coordination problem when companies need to align roadmaps, capacity planning, technology sharing and commercial intent before final agreements. In today's news, Samsung-Broadcom and Paras-style India project updates should be read as strategic direction, not completed production. Example: an MOU can precede a real HBM or foundry contract, but revenue still depends on price, volume, qualification and delivery.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-memorandum-of-understanding-mou)
+
+**Reference:** https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies
 
 [Back to A-Z index](#a-z-index)
 
@@ -2604,6 +2725,17 @@ MR-MUF stands for mass reflow molded underfill. It is a packaging process SK hyn
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-multi-tenant-ai-factory"></a>
+## Multi-tenant AI factory
+
+A multi-tenant AI factory is an AI compute facility built to serve multiple customers or internal groups rather than one exclusive workload. It solves the utilization problem: large AI infrastructure is too expensive to sit idle, so providers need scheduling, isolation, billing, security and workload management for many users. In today's Korea infrastructure items, NAVER's AI factory plan matters because multi-tenant usage can turn national AI infrastructure into a commercial service.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-multi-tenant-ai-factory)
+
+**Reference:** https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-multilayer-ceramic-capacitor-mlcc"></a>
 ## Multilayer ceramic capacitor (MLCC)
 
@@ -2677,6 +2809,17 @@ NAND interface speed is the transfer rate between raw flash dies and the control
 **Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-nand-interface-speed)
 
 **Reference:** https://www.kioxia.com/en-jp/about/news/2026/20260703-1.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-nanofabrication"></a>
+## Nanofabrication
+
+Nanofabrication is the set of manufacturing techniques used to build structures at nanometer scale, including thin-film deposition, lithography, etching, patterning and metrology. It solves the physical construction problem in semiconductors: circuits and memory cells now depend on features far smaller than visible light wavelengths. In today's India Nano item, nanofabrication links academic materials research to advanced semiconductor manufacturing, packaging and sensing.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-nanofabrication)
+
+**Reference:** https://www.bengaluruindianano.in/
 
 [Back to A-Z index](#a-z-index)
 
@@ -2788,6 +2931,17 @@ Numerical aperture measures an optical system's ability to collect and focus lig
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-nvidia-dsx"></a>
+## NVIDIA DSX
+
+NVIDIA DSX is NVIDIA's full-stack AI factory platform spanning accelerators, systems, software, facility design and partner technologies for large-scale AI infrastructure. It solves deployment complexity: operators need not only GPUs, but also rack design, orchestration, lifecycle management, health automation, network topology and energy-aware scheduling. In today's news, DSX appears in both SK and NAVER Korean AI factory plans, which means NVIDIA is selling a factory architecture, not only a chip.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-nvidia-dsx)
+
+**Reference:** https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-nvme"></a>
 ## NVMe
 
@@ -2841,6 +2995,17 @@ An official earnings calendar is the company-published schedule for when financi
 An official latest-news check is the review of a company's own newsroom or investor page to see whether a new primary-source announcement exists. It solves the verification problem when market reports circulate before company confirmation. In today's news, TSMC's latest-news page still showed July 16 Q2 results and July 13 monthly revenue as newest releases, so reported 2027 pricing remains pending primary confirmation.
 
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-official-latest-news-check)
+
+**Reference:** https://pr.tsmc.com/english/latest-news
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-official-release-check"></a>
+## Official release check
+
+An official release check is a deliberate scan of primary company or regulator pages before accepting a reported claim as confirmed. It solves the verification problem in fast-moving markets where rumors, reposts and paywalled summaries can blur the line between facts and analysis. In today's Sunday note, the official checks keep TSMC pricing, AMD deployment and Intel follow-up items in pending status instead of falsely closing them.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-official-release-check)
 
 **Reference:** https://pr.tsmc.com/english/latest-news
 
@@ -3638,6 +3803,17 @@ Semiconductor manufacturing equipment OEM sales are sales of original equipment 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-semiconductor-park"></a>
+## Semiconductor park
+
+A semiconductor park is a planned industrial zone meant to host semiconductor or electronics companies with shared infrastructure such as land, utilities, roads, clean-room-ready buildings, logistics, testing services, training and supplier access. It solves the cluster problem: semiconductor projects are easier when suppliers, talent, power, water, gases, chemicals and logistics are nearby. In today's India item, KWIN City's 200-acre park is an ecosystem signal, but it becomes real only when tenants, utilities and production activity are visible.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-semiconductor-park)
+
+**Reference:** https://economictimes.indiatimes.com/tech/technology/karnatakas-200-acre-semiconductor-park-at-kwin-city-to-become-operational-by-december-minister-mb-patil/articleshow/132574955.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-semiconductor-self-sufficiency"></a>
 ## Semiconductor self-sufficiency
 
@@ -3753,7 +3929,7 @@ SOI is a wafer technology where a thin silicon layer sits on an insulating oxide
 
 Sovereign AI infrastructure is domestically anchored compute, data, model, software, and governance capacity that a country or region can use for strategic AI workloads under its own policy control. It solves the dependency problem: a country that relies entirely on foreign cloud compute, models, or suppliers may lack control over security, language, industrial data, availability, and economic capture. In today's news, Japan's Noetra project matters because sovereign AI is being tied to specific accelerator counts, power capacity, industrial partners, and national robotics goals. A comparison: cloud access is rented capacity; sovereign infrastructure aims to create national control points.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-sovereign-ai-infrastructure)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-sovereign-ai-infrastructure), [2026-07-25](../2026-07-25/README.md#daily-term-sovereign-ai-infrastructure)
 
 **Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
 
@@ -4043,6 +4219,17 @@ A three-month moving average smooths a data series by averaging the latest three
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-three-month-moving-average)
 
 **Reference:** https://www.semiconductors.org/global-semiconductor-sales-increase-9-2-month-to-month-in-may/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-threshold-voltage-distribution"></a>
+## Threshold voltage distribution
+
+Threshold voltage distribution is the spread of voltage levels at which NAND cells are interpreted as different stored data states. It solves the read-reliability problem: if electron leakage or interference shifts those voltages, the controller may confuse one state for another and read wrong data. In today's news, SK hynix's CTI matters because a tighter threshold-voltage distribution means more reliable high-density NAND.
+
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-threshold-voltage-distribution)
+
+**Reference:** https://news.skhynix.com/en/research-inside-ep1/
 
 [Back to A-Z index](#a-z-index)
 
@@ -4341,6 +4528,17 @@ A Wafer-Scale Engine is Cerebras' processor architecture that uses an entire waf
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-wafer-scale-engine)
 
 **Reference:** https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-weekend-catch-up-research"></a>
+## Weekend catch-up research
+
+Weekend catch-up research is a labeled briefing method used when exact-date news volume is low, so the note uses the nearest 24-72 hour evidence window and explicitly marks older items as catch-up. It solves the continuity problem for a daily notebook: the calendar stays complete without pretending that every date has a new primary announcement. In today's news, July 26 is mostly a synthesis and verification day.
+
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-weekend-catch-up-research)
+
+**Reference:** https://www.intc.com/news-events/press-releases
 
 [Back to A-Z index](#a-z-index)
 
