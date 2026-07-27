@@ -72,3 +72,4 @@ Screenshot and editorial coverage policy:
 | 2026-07-24 | [2026-07-24/links.md](2026-07-24/links.md) | [../2026-07-24/README.md](../2026-07-24/README.md) |
 | 2026-07-25 | [2026-07-25/links.md](2026-07-25/links.md) | [../2026-07-25/README.md](../2026-07-25/README.md) |
 | 2026-07-26 | [2026-07-26/links.md](2026-07-26/links.md) | [../2026-07-26/README.md](../2026-07-26/README.md) |
+| 2026-07-27 | [2026-07-27/links.md](2026-07-27/links.md) | [../2026-07-27/README.md](../2026-07-27/README.md) |

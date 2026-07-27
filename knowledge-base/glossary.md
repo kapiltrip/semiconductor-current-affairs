@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-26**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-27**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -213,7 +213,7 @@ In TSMC's reporting, advanced technologies are process nodes at 7 nm and more ad
 
 Agentic electronic-design automation uses AI software agents to plan and execute connected chip-design tasks, inspect tool results, revise the plan, and escalate decisions instead of only answering isolated prompts. It solves workflow fragmentation across simulation, formal checking, debugging, coverage, and reporting. Cadence describes its ChipStack AI Super Agent as operating verification tools autonomously, but engineers still guide goals and own final signoff. The comparison is a scripted tool flow that follows predefined commands versus an agent that chooses actions from intermediate evidence.
 
-**Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-agentic-eda), [2026-07-20](../2026-07-20/README.md#daily-term-agentic-eda)
+**Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-agentic-eda), [2026-07-20](../2026-07-20/README.md#daily-term-agentic-eda), [2026-07-27](../2026-07-27/README.md#daily-term-agentic-eda)
 
 **Reference:** https://www.cadence.com/ko_KR/home/company/newsroom/press-releases/pr/2026/cadence-unveils-industrys-first-fully-autonomous-virtual.html
 
@@ -763,7 +763,7 @@ Chipflation is the pass-through of higher semiconductor costs into more expensiv
 
 A chiplet is a separately manufactured die designed to communicate with other dies inside one package as part of a larger system. It solves reticle-size, yield, reuse, process-choice, and product-variant problems by partitioning a monolithic SoC. A compute chiplet can be fabricated on an advanced logic node while I/O or analog functions use other technologies. The cost is added package complexity, inter-die latency, power, protocol, test, thermal, and known-good-die requirements. Socionext's A14 device is a validation platform for future CPU and xPU chiplet architectures, not yet a named production processor.
 
-**Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-chiplet)
+**Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-chiplet), [2026-07-27](../2026-07-27/README.md#daily-term-chiplet)
 
 **Reference:** https://www.eu.socionext.com/nextnews/socionext-addresses-datacenter-infrastructure-customer-demands-for-advanced-socs-on-tsmc-a14-technology.html
 
@@ -846,6 +846,17 @@ A commercialization bridge is the path that turns research, prototypes and lab d
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-computer-aided-engineering-cae"></a>
+## Computer-aided engineering (CAE)
+
+CAE uses simulation software to model physical behavior such as thermal, mechanical, electromagnetic or fluid effects before building hardware. It solves the system-design problem that electrical correctness alone is not enough: an AI accelerator package can fail if heat, stress or airflow is wrong. In today's Synopsys-Ansys-NVIDIA news, CAE matters because chip and system design are merging with thermal simulation and digital twins.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-computer-aided-engineering-cae)
+
+**Reference:** https://www.ansys.com/simulation-topics/what-is-computer-aided-engineering
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-consolidated-net-revenue"></a>
 ## Consolidated net revenue
 
@@ -874,6 +885,17 @@ Contract pricing is pre-negotiated pricing between suppliers and customers for f
 Chip-on-panel-on-substrate, a panel-level packaging direction intended to improve scaling and cost over time.
 
 **Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-copos)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-coverage-closure"></a>
+## Coverage closure
+
+Coverage closure is the process of proving that the verification environment has exercised the intended design features, corner cases and state combinations sufficiently. It solves the confidence problem: a simulation can pass many tests while still missing important legal or illegal behaviors. In today's agentic verification news, coverage closure matters because Synopsys says agents can decompose verification goals and drive tests/debug toward better coverage. Comparison: passing one exam question is not mastery; coverage closure is closer to checking that the syllabus has been meaningfully tested.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-coverage-closure)
+
+**Reference:** https://news.synopsys.com/2026-07-26-Synopsys-Showcases-Comprehensive-Autonomous-Engineering-Workflows-from-Silicon-to-Systems%2C-Developed-with-NVIDIA-Technology
 
 [Back to A-Z index](#a-z-index)
 
@@ -1209,11 +1231,11 @@ Domestic value addition is the share of a product's value created inside the cou
 <a id="term-dram"></a>
 ## DRAM
 
-DRAM, or dynamic random-access memory, stores each bit using a tiny capacitor and transistor cell. Because the capacitor leaks charge, DRAM must be refreshed repeatedly. The advantage is density: DRAM can store a lot of data at lower cost per bit than SRAM, so it becomes the main working memory for PCs, phones, servers, and AI systems. It matters today because AI servers, HBM stacks, and consumer products all compete for advanced memory capacity.
+Dynamic random-access memory stores data as charge in tiny capacitors and must be refreshed repeatedly because charge leaks away. It solves the working-memory problem for CPUs, GPUs and AI systems: fast temporary data access while computation is running. In today's CXMT story, DRAM matters because China wants a domestic supplier in a market dominated by Samsung, SK hynix and Micron, while AI demand pushes memory prices and capacity value higher. Comparison: DRAM is working memory, while NAND is persistent storage that keeps data without power.
 
-**Appears in:** [2026-06-23](../2026-06-23/README.md#daily-term-dram), [2026-06-27](../2026-06-27/README.md#daily-term-dram), [2026-07-07](../2026-07-07/README.md#daily-term-dram), [2026-07-09](../2026-07-09/README.md#daily-term-dram)
+**Appears in:** [2026-06-23](../2026-06-23/README.md#daily-term-dram), [2026-06-27](../2026-06-27/README.md#daily-term-dram), [2026-07-07](../2026-07-07/README.md#daily-term-dram), [2026-07-09](../2026-07-09/README.md#daily-term-dram), [2026-07-27](../2026-07-27/README.md#daily-term-dram)
 
-**Reference:** https://www.jedec.org/
+**Reference:** https://www.cxmt.com/en/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1367,6 +1389,17 @@ An Electro-Semicon track is an event/program track focused on electronics and se
 **Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-electro-semicon-track)
 
 **Reference:** https://www.bengalurutechsummit.com/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-electronic-design-automation-eda"></a>
+## Electronic Design Automation (EDA)
+
+EDA is the software and methodology stack used to design, simulate, verify, implement and sign off integrated circuits. It solves the complexity problem: modern chips are too large and timing-sensitive to design reliably by manual drawing. In today's Synopsys/NVIDIA news, EDA matters because AI and accelerated computing are being applied inside chip creation itself, especially verification and simulation. Comparison: CAD for mechanical design helps draw parts; EDA helps prove that billions of transistors will behave correctly before fabrication.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-electronic-design-automation-eda)
+
+**Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1772,6 +1805,17 @@ Form F-6 registers the depositary securities and their deposit agreement. It sol
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-formal-verification"></a>
+## Formal verification
+
+Formal verification mathematically proves properties about a design instead of only trying examples in simulation. It solves the missed-corner-case problem: some bugs appear only in rare state combinations that random or directed tests may not reach. In today's NVIDIA Vera EDA note, formal verification matters because Cadence Jasper is named as a CPU-sensitive workload that benefited in selected early tests. Comparison: simulation asks "did this test pass"; formal asks "can this bad behavior ever happen under the stated assumptions."
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-formal-verification)
+
+**Reference:** https://blogs.nvidia.com/blog/vera-cpu-eda/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-forward-guidance"></a>
 ## Forward guidance
 
@@ -2049,6 +2093,17 @@ Helium is an inert, extremely light gas used in high-technology supply chains fo
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-heterogeneous-integration"></a>
+## Heterogeneous integration
+
+Heterogeneous integration combines separately manufactured dies, chiplets, memory, interposers, bridges or other components into one package or closely coupled system. It solves the scaling problem when one monolithic die becomes too expensive, too large, too low-yielding or too limited by reticle size. In today's DAC session, it matters because AI performance now depends on package-level bandwidth, power delivery, thermal design and interconnects, not just transistor density. Comparison: instead of building one huge city as a single block, heterogeneous integration connects specialized districts with very fast roads.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-heterogeneous-integration)
+
+**Reference:** https://dac.com/2026/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-high-bandwidth-compute-hbc"></a>
 ## High Bandwidth Compute (HBC)
 
@@ -2226,6 +2281,17 @@ Compound-semiconductor technology useful for high-speed optical and photonic dev
 An inference application-specific integrated circuit is a chip whose data paths, memory movement, arithmetic units, and control are optimized for running already-trained AI models. "Application-specific" means it spends less silicon and power on unrelated work than a general-purpose GPU, but it also accepts greater software and model-architecture risk. This matters because Etched is betting that specialization can improve tokens per second, latency, energy, and system cost for frontier-model serving. A GPU is a programmable multi-tool; an inference ASIC is closer to a production machine designed for a narrower operation. Sources: [Etched](https://www.etched.com/) and [company release](https://www.globenewswire.com/news-release/2026/06/30/3319922/0/en/Etched-Emerges-From-Stealth-With-Working-Chip-800M-Raised-and-Over-1B-in-Customer-Contracts.html)
 
 **Appears in:** [2026-07-01](../2026-07-01/README.md#daily-term-inference-asic)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-initial-public-offering-ipo"></a>
+## Initial Public Offering (IPO)
+
+An IPO is the first sale of a company's shares to the public market. The business problem it solves is capital access and liquidity: a private company can raise money, early investors can eventually sell, and public investors can price the company. In today's CXMT news, the IPO matters because a memory manufacturer becomes a visible market instrument for China's semiconductor self-reliance theme. Comparison: an IPO is not the same as production proof; a company can list shares before proving technology parity or durable margins.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-initial-public-offering-ipo)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo
 
 [Back to A-Z index](#a-z-index)
 
@@ -2470,9 +2536,9 @@ Manufacturing yield is the fraction of units that meet specification after a pro
 <a id="term-market-capitalization"></a>
 ## Market capitalization
 
-Market capitalization is the market value of a company implied by its share price multiplied by shares outstanding. It solves a comparison problem by giving investors a rough size measure across companies. In today's news, market value headlines can show investor enthusiasm, but they do not measure wafer starts, package yield, or actual HBM units shipped.
+Market capitalization is share price multiplied by shares outstanding, giving the public market value assigned to a company. It solves a comparison problem for investors: it lets them compare a listed company's market value with peers, expected earnings, assets and growth. In today's CXMT news, the market cap matters because a very high first-day valuation can signal enthusiasm for memory self-reliance, but it can also outrun proof of margins, process capability and cycle durability.
 
-**Appears in:** [2026-07-11](../2026-07-11/README.md#daily-term-market-capitalization)
+**Appears in:** [2026-07-11](../2026-07-11/README.md#daily-term-market-capitalization), [2026-07-27](../2026-07-27/README.md#daily-term-market-capitalization)
 
 **Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/market-capitalization
 
@@ -3382,6 +3448,17 @@ A probe card is the precision interface between automatic test equipment and mic
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-process-control"></a>
+## Process control
+
+Process control uses metrology, inspection and feedback systems to keep wafer manufacturing steps within tight tolerances. It solves the yield problem: tiny variations in film thickness, critical dimension, overlay or defects can make chips fail. In today's earnings queue, KLA matters because it is a major process-control equipment supplier; its results help indicate whether fabs are still buying tools needed to improve yield and ramp advanced processes.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-process-control)
+
+**Reference:** https://ir.kla.com/news-events/press-releases/detail/517/kla-announces-fourth-quarter-fiscal-year-2026-earnings-date
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-process-stabilization"></a>
 ## Process stabilization
 
@@ -3506,6 +3583,17 @@ A rack-scale AI solution is a complete compute system designed at the rack level
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-rack-scale-ai-solution)
 
 **Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-register-transfer-level-rtl"></a>
+## Register-transfer level (RTL)
+
+RTL is a digital design abstraction that describes registers, combinational logic and data transfers on clock edges, commonly written in Verilog, SystemVerilog or VHDL. It solves the design-entry problem by letting engineers specify cycle-by-cycle behavior before synthesis turns the design into gates. In today's Synopsys news, RTL matters because the claimed verification speedup is described as time-to-validated RTL, meaning the design must be checked before layout and masks.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-register-transfer-level-rtl)
+
+**Reference:** https://www.synopsys.com/glossary/what-is-register-transfer-level.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -3913,6 +4001,17 @@ Signoff is the formal set of final engineering checks and approvals before relea
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-silicon-to-systems"></a>
+## Silicon to Systems
+
+Silicon to Systems is a design framing that connects chip design with package, board, thermal, software, data-center and end-application constraints. It solves the boundary problem: AI infrastructure performance is no longer decided only inside the chip die. In today's SEMICON India and DAC sources, the phrase matters because both India ecosystem planning and global EDA events are organizing around full-stack hardware capability.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-silicon-to-systems)
+
+**Reference:** https://www.semiconindia.org/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-silicon-on-insulator-soi"></a>
 ## Silicon-on-insulator (SOI)
 
@@ -3968,6 +4067,17 @@ Spectrum-X Ethernet is NVIDIA's Ethernet networking platform for accelerated AI 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-spice-simulation"></a>
+## SPICE simulation
+
+SPICE simulation numerically analyzes analog transistor-level circuits to predict voltages, currents, timing and device interactions. It solves the analog signoff problem where discrete logic abstractions are not enough, especially for memories, I/O, RF, power and mixed-signal blocks. In today's Synopsys news, SPICE matters because GPU acceleration was highlighted for PrimeSim SPICE, showing that analog/mixed-signal workloads are also being accelerated.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-spice-simulation)
+
+**Reference:** https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-spice.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-sram"></a>
 ## SRAM
 
@@ -3987,6 +4097,17 @@ An SSD controller is the processor and logic subsystem inside the drive that sch
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-ssd-controller)
 
 **Reference:** https://news.samsung.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-star-market"></a>
+## STAR Market
+
+The STAR Market is Shanghai's science-and-technology board for high-growth technology companies. The business problem it solves is giving strategic technology firms a domestic listing channel with investor appetite for long-duration R&D stories. In today's CXMT debut, the board matters because China is using public capital markets to finance a strategic semiconductor supplier. Comparison: it is closer to a Nasdaq-style growth board than a traditional low-volatility utility market.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-star-market)
+
+**Reference:** https://star.sse.com.cn/en/
 
 [Back to A-Z index](#a-z-index)
 
@@ -4084,6 +4205,17 @@ Supply elasticity describes how much output can increase when price or demand ri
 **Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-supply-elasticity)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-system-technology-co-optimization-stco"></a>
+## System Technology Co-Optimization (STCO)
+
+STCO optimizes technology choices across silicon process, package, board, power, cooling, software and system architecture together. It solves the local-optimization problem: a great transistor or package can still underperform if memory bandwidth, power delivery or thermal constraints are mismatched. In today's DAC source, STCO matters because Intel's system-foundry framing treats packaging and interconnects as first-class performance tools.
+
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-system-technology-co-optimization-stco)
+
+**Reference:** https://dac.com/2026/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance
 
 [Back to A-Z index](#a-z-index)
 
@@ -4481,7 +4613,7 @@ Wafer bumping forms tiny conductive bumps or pillars on wafer pads before dies a
 
 Wafer fabrication equipment is the set of front-end tools used to create chips on wafers, including lithography, deposition, etch, ion implantation, cleaning, chemical mechanical planarization, metrology, inspection, and process-control systems. It solves the physical manufacturing problem: a chip design cannot become silicon without hundreds of controlled wafer-processing steps. In today's news, WFE matters because SEMI's foundry/logic forecast is driven by advanced-node builds for AI accelerators, HPC, and premium mobile. A comparison: EDA tools create the design database; WFE tools create the physical transistor layers.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-fabrication-equipment-wfe)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-fabrication-equipment-wfe), [2026-07-27](../2026-07-27/README.md#daily-term-wafer-fabrication-equipment-wfe)
 
 **Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
 
