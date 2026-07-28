@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-27**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-28**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -166,6 +166,17 @@ A14 process technology is TSMC's next cutting-edge logic process after its 2 nm-
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-advanced-manufacturing-investment-credit-section-48d"></a>
+## Advanced Manufacturing Investment Credit (Section 48D)
+
+Section 48D is a U.S. tax credit for qualified semiconductor manufacturing investments under the CHIPS-era incentive framework. It solves a capital-cost problem: fabs, packaging plants, materials plants and tool factories require very large upfront spending, so tax credits can improve project economics. In today's SIA tracker item, it matters because SIA links the credit and grant incentives to more than $920 billion in announced U.S. semiconductor ecosystem investment since 2020.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-advanced-manufacturing-investment-credit-section-48d)
+
+**Reference:** https://www.semiconductors.org/chip-supply-chain-investments/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-advanced-node"></a>
 ## Advanced node
 
@@ -183,6 +194,17 @@ An advanced node is a leading semiconductor manufacturing generation used for hi
 An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. SK hynix's P&T7 facility matters because HBM capacity can be limited by stacking, package yield, and final test even when front-end DRAM wafers are available. A wafer fab makes transistor layers; packaging and test assemble and validate usable products. Sources: [SK hynix](https://news.skhynix.com/fact-07/) and [Reuters](https://www.marketscreener.com/news/sk-hynix-to-spend-64-billion-on-flash-memory-chip-plants-under-broader-ai-investment-plan-ce7f5fd2df8df626)
 
 **Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-advanced-products"></a>
+## Advanced products
+
+In Amkor's reporting, advanced products include flip chip, memory, wafer-level processing and related test services. This solves a packaging-performance problem: high-end chips often need denser interconnects, better electrical paths and more complex test than traditional wirebond packages. In today's Amkor result, advanced products matter because they represented $1.557 billion of Q2 net sales, showing that advanced packaging/test is a major revenue driver.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-advanced-products)
+
+**Reference:** https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-second-quarter-2026
 
 [Back to A-Z index](#a-z-index)
 
@@ -271,6 +293,17 @@ An AI factory is a data-center-style industrial facility that turns electricity,
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory), [2026-07-23](../2026-07-23/README.md#daily-term-ai-factory), [2026-07-25](../2026-07-25/README.md#daily-term-ai-factory)
 
 **Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-for-design"></a>
+## AI for Design
+
+AI for Design means using AI inside the engineering workflow: creating tests, finding bugs, optimizing layouts, exploring architectures, predicting thermal behavior or automating tool runs. It solves the productivity problem in complex VLSI, where verification, place-and-route, signoff and package co-design can consume huge engineer time. In today's Cadence result, it matters because management tied growth to AI-driven solutions and agentic products. Comparison: a GPU accelerator is the product; AI for Design is the assistant or agent helping engineers create that product.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-ai-for-design)
+
+**Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -548,6 +581,17 @@ Assembly, packaging, system integration, and test work after wafers are fabricat
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-backlog"></a>
+## Backlog
+
+Backlog is the value of orders or contracted work that has not yet become revenue. It solves the business-visibility problem by showing work already won but not fully delivered or recognized. In today's Cadence report, the $8.1 billion quarter-end backlog matters because EDA software, IP, hardware emulation and system-design tools often sell through multi-period contracts. Example: a one-year license already delivered may become current revenue, while a multi-year subscription can sit partly in backlog.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-backlog)
+
+**Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-backside-power-delivery"></a>
 ## Backside power delivery
 
@@ -708,7 +752,7 @@ Capex support is financial assistance tied to capital expenditure such as fabs, 
 
 Capital expenditure is money spent on long-lived productive assets such as fabs, cleanrooms, EUV scanners, deposition tools, etch systems, test equipment, packaging lines, and data-center infrastructure. It solves future capacity and technology needs, but it is not the same as current production. In today's news, capex matters because Samsung's profits and SK hynix's offering are both linked to future memory supply, yet capex only becomes shipped chips after installation, process qualification, yield learning, and customer qualification. Example: buying a lithography tool is not equal to shipping a qualified HBM stack.
 
-**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex), [2026-07-22](../2026-07-22/README.md#daily-term-capital-expenditure-capex)
+**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex), [2026-07-22](../2026-07-22/README.md#daily-term-capital-expenditure-capex), [2026-07-28](../2026-07-28/README.md#daily-term-capital-expenditure-capex)
 
 **Reference:** https://www.semi.org/en/semi-press-release/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-dollars-in-2026
 
@@ -1062,6 +1106,17 @@ Design closure is the convergence of implementation and verification so a chip s
 **Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-design-closure)
 
 **Reference:** https://www.cadence.com/en_US/home/tools/digital-design-and-signoff.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-design-for-ai"></a>
+## Design for AI
+
+Design for AI means creating chips, IP, packages and systems that serve AI workloads such as training, inference, networking, memory movement and data-center orchestration. It solves the workload-fit problem: an AI accelerator must be designed around tensor math, memory bandwidth, interconnect, power and software. In today's Cadence report, it matters because customer demand for AI chips pulls demand for EDA, IP, hardware verification and packaging tools. Comparison: Design for AI is building the AI hardware; AI for Design is using AI to build hardware faster.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-design-for-ai)
+
+**Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -1547,7 +1602,7 @@ Ability to track EUV scanner location, operation, parts, and service history.
 
 An evidence checkpoint is a specific future signal that can confirm, update or close an open claim, such as an earnings transcript, 10-Q filing, final investment decision, wafer start, customer qualification, shipment or official rule text. It solves the follow-up problem in daily news study: instead of leaving vague "watch this" notes, each claim gets a concrete proof target. In today's note, SK hynix earnings, TSMC pricing confirmation, AMD Helios deployment and India park tenants are evidence checkpoints.
 
-**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-evidence-checkpoint)
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-evidence-checkpoint), [2026-07-28](../2026-07-28/README.md#daily-term-evidence-checkpoint)
 
 **Reference:** https://www.sec.gov/edgar
 
@@ -2009,7 +2064,7 @@ A global value chain is the international network of companies, countries and pr
 
 Gross margin is revenue minus cost of goods sold, expressed as a percentage of revenue. It solves the profitability question before operating expenses: how much money remains after direct manufacturing and service costs. In today's news, TSMC's 67.7% Q2 gross margin shows extremely strong foundry economics, while reported price increases may be partly about protecting margins as overseas fabs, materials, equipment, packaging, and energy costs rise. Example: a high revenue number with weak gross margin can still be a poor manufacturing business; TSMC has both high revenue and high gross margin in the latest official quarter.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
@@ -2026,6 +2081,17 @@ A hardware accelerator is a dedicated circuit that performs a specific computati
 **Appears in:** [2026-07-05](../2026-07-05/README.md#daily-term-hardware-accelerator)
 
 **Reference:** https://newsroom.st.com/media-center/press-item.html/p4784.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-hardware-emulation"></a>
+## Hardware emulation
+
+Hardware emulation maps a chip design into special-purpose verification hardware so it can run much faster than pure software simulation before silicon exists. It solves the pre-silicon validation problem: large SoCs are too slow to verify only with normal simulators when software, firmware and system behavior must be tested. In today's Cadence report, hardware matters because the company said the hardware business had another record quarter and expanded with hyperscalers and AI innovators.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-hardware-emulation)
+
+**Reference:** https://www.cadence.com/en_US/home/tools/system-design-and-verification/emulation-and-prototyping.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2252,6 +2318,17 @@ IATF 16949 is an automotive-sector quality-management standard aligned with ISO 
 An integrated device manufacturer designs and manufactures at least some of its own semiconductor products. The model provides tighter design-process control but requires sustained investment in fabs, tools, process R&D, yield, and capacity.
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-immersion-duv-lithography"></a>
+## Immersion DUV lithography
+
+Immersion DUV lithography uses deep-ultraviolet light with a liquid layer between the final lens and wafer to improve resolution and pattern small features at high volume. It solves a resolution problem: immersion raises the numerical aperture so scanners can print finer patterns than dry DUV systems. In today's China-equipment story, immersion DUV matters because a credible domestic tool would help Chinese fabs reduce reliance on imported ASML systems for many logic and DRAM layers, even though EUV remains separate and harder.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-immersion-duv-lithography)
+
+**Reference:** https://www.asml.com/en/products/duv-lithography-systems
 
 [Back to A-Z index](#a-z-index)
 
@@ -2842,6 +2919,17 @@ Verification across electrical, thermal, mechanical, and reliability domains tog
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-multiple-patterning"></a>
+## Multiple patterning
+
+Multiple patterning splits one dense circuit pattern across multiple lithography/etch steps so features smaller than a single exposure can be manufactured. It solves a resolution-limit problem when the available lithography wavelength cannot print the full pattern directly. In today's reported China DUV item, multiple patterning matters because DUV can stretch toward smaller nodes, but extra steps increase cost, cycle time, overlay risk and defect opportunity compared with fewer EUV exposures.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-multiple-patterning)
+
+**Reference:** https://www.asml.com/en/technology/lithography-principles
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-n"></a>
 # N
 
@@ -2967,11 +3055,11 @@ Node mix is the distribution of revenue, wafers, or products across process tech
 <a id="term-non-gaap-eps"></a>
 ## Non-GAAP EPS
 
-Non-GAAP EPS is earnings per share calculated after excluding selected items that management believes reduce comparability, such as restructuring, certain mark-to-market items, acquisition effects, or other adjustments. It solves the operating-comparison problem, but it can also make results look cleaner than statutory GAAP if the excluded costs are economically important. In today's news, Intel reported non-GAAP EPS of $0.42 while GAAP EPS was negative, so the two must be discussed separately. A comparison: GAAP is the formal accounting result; non-GAAP is management's adjusted operating lens.
+Non-GAAP earnings per share adjusts standard accounting profit by excluding selected items such as stock compensation, amortization, acquisition costs or one-time charges. It solves an investor-comparison problem when management believes GAAP includes items that obscure operating trend, but it can also make performance look cleaner than statutory accounting. In today's Cadence report, non-GAAP EPS matters because the company raised 2026 guidance to about $8.10 at the midpoint. Comparison: GAAP EPS is the regulated accounting view; non-GAAP EPS is management's adjusted operating view and must be reconciled.
 
-**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-non-gaap-eps)
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-non-gaap-eps), [2026-07-28](../2026-07-28/README.md#daily-term-non-gaap-eps)
 
-**Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+**Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -3181,9 +3269,20 @@ Order intake is the value of new customer orders booked during a period. It solv
 
 OSAT means outsourced semiconductor assembly and test. It is the business of taking fabricated wafers or dies from a foundry or IDM, packaging them into usable chip products, marking them, electrically testing them, screening reliability, and shipping qualified parts. It solves the back-end manufacturing problem: a chip die is not a commercial product until it is connected, protected, tested, and traceable. In today's news, Paras Semiconductors' proposed MP facility matters because India can build semiconductor capability through packaging and test before it has many high-volume wafer fabs. Compared with a front-end fab, an OSAT is usually less capital-intensive but still needs strict process control, test engineering, yield, and customer qualification.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-overlay"></a>
+## Overlay
+
+Overlay is the alignment accuracy between one lithography layer and previously printed layers on the wafer. It solves a physical-registration problem: transistors and interconnects only work if every layer lands in the right place. In today's DUV story, overlay matters because multi-patterning with DUV can require many exposures, and tiny overlay errors can reduce yield or prevent advanced-node scaling. Comparison: stacking transparent circuit drawings works only if every sheet is aligned within nanometers.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-overlay)
+
+**Reference:** https://www.asml.com/en/products/duv-lithography-systems
 
 [Back to A-Z index](#a-z-index)
 
@@ -3403,6 +3502,17 @@ Preliminary earnings guidance is management's early estimate before a full earni
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-preliminary-earnings-guidance)
 
 **Reference:** https://www.samsung.com/global/ir/reports-disclosures/public-disclosure-view.84695/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-preliminary-memorandum-of-terms-pmt"></a>
+## Preliminary Memorandum of Terms (PMT)
+
+A PMT is a non-binding preliminary agreement between a company and the U.S. Commerce Department that precedes final award terms. It solves a process-management problem by defining intended incentives and project direction before due diligence and final contract execution. In today's SIA source, PMT matters because announced CHIPS support still requires milestones and disbursement; it is not the same as cash already paid or capacity already built.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-preliminary-memorandum-of-terms-pmt)
+
+**Reference:** https://www.semiconductors.org/chip-supply-chain-investments/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3627,6 +3737,17 @@ A remaining performance obligation is contracted revenue a company expects to re
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-remaining-performance-obligation-rpo)
 
 **Reference:** https://www.sec.gov/Archives/edgar/data/723125/000072312526000015/mu-20260528.htm
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-remaining-performance-obligations-rpo"></a>
+## Remaining Performance Obligations (RPO)
+
+RPO is contracted revenue that a company has not yet recognized in its income statement. It solves a visibility problem for investors: revenue can be lumpy, but signed obligations show part of the future demand pipeline. In today's Cadence news, RPO matters because Cadence said $4.2 billion of backlog is expected to be recognized over the next 12 months, giving evidence that EDA demand is not only one-quarter noise. Comparison: backlog/RPO is stronger than a sales lead, but weaker than already recognized revenue.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-remaining-performance-obligations-rpo)
+
+**Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -3872,11 +3993,11 @@ Semiconductor intellectual property is reusable or protectable chip-design knowl
 <a id="term-semiconductor-ip"></a>
 ## Semiconductor IP
 
-Semiconductor IP is reusable, pre-designed circuit or software/hardware blocks licensed into chips. It solves the design-time problem: companies do not want to reinvent every interface, DSP, NPU, wireless, security, or sensor block from scratch. Ceva matters because edge AI depends on licensed building blocks that can run inference locally under tight power and latency constraints.
+Semiconductor IP is a reusable design block such as a memory controller, interface PHY, processor core, security block or standard-cell library licensed into a chip. It solves the reuse and time-to-market problem: teams do not redesign every proven block from scratch. In today's Cadence report, IP matters because Cadence said IP revenue grew more than 40% year over year, helped by demand for Star IP and an Intel agreement. Example: buying PCIe or DDR controller IP is like using a qualified engine module instead of designing the entire engine yourself.
 
-**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-ip)
+**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-ip), [2026-07-28](../2026-07-28/README.md#daily-term-semiconductor-ip)
 
-**Reference:** https://www.prnewswire.com/news-releases/ceva-ceo-amir-panush-named-artificial-intelligence-company-ceo-of-the-year-in-2026-ai-breakthrough-awards-program-302810369.html
+**Reference:** https://www.synopsys.com/glossary/what-is-semiconductor-ip.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -4004,9 +4125,9 @@ Signoff is the formal set of final engineering checks and approvals before relea
 <a id="term-silicon-to-systems"></a>
 ## Silicon to Systems
 
-Silicon to Systems is a design framing that connects chip design with package, board, thermal, software, data-center and end-application constraints. It solves the boundary problem: AI infrastructure performance is no longer decided only inside the chip die. In today's SEMICON India and DAC sources, the phrase matters because both India ecosystem planning and global EDA events are organizing around full-stack hardware capability.
+Silicon to Systems is a semiconductor strategy that connects chip design, packaging, board, software, manufacturing, data-center or product-level requirements into one ecosystem. It solves the boundary problem: AI and advanced electronics performance depends on far more than the transistor alone. In today's India follow-up, it matters because SEMICON India uses this phrase for the 2026 theme, matching the idea that India must build design, materials, machines, fabs, OSAT, R&D and talent together.
 
-**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-silicon-to-systems)
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-silicon-to-systems), [2026-07-28](../2026-07-28/README.md#daily-term-silicon-to-systems)
 
 **Reference:** https://www.semiconindia.org/
 
@@ -4205,6 +4326,17 @@ Supply elasticity describes how much output can increase when price or demand ri
 **Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-supply-elasticity)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-supply-chain-resilience"></a>
+## Supply-chain resilience
+
+Supply-chain resilience is the ability of a production network to keep operating despite shocks such as geopolitical restrictions, natural disasters, demand spikes, tool bottlenecks or supplier failures. It solves the dependency problem: a chip can be blocked by one missing wafer, gas, substrate, reticle, tool part or package line. In today's SIA and India-policy items, resilience matters because both the U.S. and India are trying to reduce single-region or single-supplier exposure across the semiconductor value chain.
+
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-supply-chain-resilience)
+
+**Reference:** https://www.semiconductors.org/chip-supply-chain-investments/
 
 [Back to A-Z index](#a-z-index)
 
