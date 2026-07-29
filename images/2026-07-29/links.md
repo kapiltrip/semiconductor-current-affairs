@@ -1,0 +1,23 @@
+# Source Links And Capture Notes - 2026-07-29
+
+Daily note: [../../2026-07-29/README.md](../../2026-07-29/README.md)
+
+The images in this folder are generated source-reference cards, not webpage screenshots. They preserve source identity, source date, headline/topic and a short original summary without reproducing article bodies. Webpage screenshot capture was not attempted because the established July 19-28 workflow uses reference cards when browser capture is unreliable and when full article-body capture would create copyright risk.
+
+| File | Source | Source URL | Source date | Topic | Capture status |
+|---|---|---|---|---|---|
+| `sk-hynix-q2-source.png` | SK hynix Newsroom / IR | https://news.skhynix.com/en/q2-2026-business-results/ and https://www.skhynix.com/ir/UI-FR-IR06/ | 2026-07-29 | Q2 financial results, AI memory demand, HBM4, long-term agreements, capex discipline | Generated source-reference card; not a webpage screenshot. |
+| `nxp-q2-source.png` | NXP Newsroom | https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results | 2026-07-28 | Q2 financial results, automotive, industrial/IoT, physical AI, software-defined vehicles | Generated source-reference card; not a webpage screenshot. |
+| `kla-q4-source.png` | KLA Investor Relations / KLA technical pages | https://ir.kla.com/news-events/press-releases/detail/518/kla-corporation-reports-fiscal-2026-fourth-quarter-and-full; https://www.kla.com/advance/education/chip-manufacturing-101; https://www.kla.com/solutions/advancedpackaging | 2026-07-28 and reviewed 2026-07-29 | Q4/FY2026 results, process control, metrology, advanced packaging, AI infrastructure | Generated source-reference card; not a webpage screenshot. |
+| `lam-samsung-queue-source.png` | Lam Research Investor Relations / Samsung IR | https://investor.lamresearch.com/2026-07-08-Lam-Research-Corporation-Announces-June-Quarter-Financial-Conference-Call; https://www.samsung.com/global/ir/; https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-second-quarter-2026 | Reviewed 2026-07-29 | Lam June-quarter call and Samsung Q2 call/guidance pending checkpoints | Generated source-reference card; not a webpage screenshot. |
+| `intel-eda-source.png` | Cadence / Synopsys / DAC | https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-certifies-ai-driven-reference-flows-for-intel-18a-p-and-intel-14a; https://www.synopsys.com/events/dac-2026.html | 2026-07-27 to 2026-07-29 | Intel 18A-P/14A certified flows, PDKs, signoff, EMIB, DAC EDA sessions | Generated source-reference card; not a webpage screenshot. |
+| `cxmt-policy-source.png` | AP / House Select Committee on the CCP | https://apnews.com/article/9cd8b79866cf4bd5ef7c1cb81215e796; https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban | 2026-07-16 to 2026-07-29 | CXMT listing, Chinese memory procurement, Entity List review request, allied supply-chain risk | Generated source-reference card; not a webpage screenshot. |
+| `india-semicon-source.png` | PIB / ISM / SEMICON India | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284784&lang=1&reg=48; https://www.ism.gov.in/; https://www.semiconindia.org/ | Reviewed 2026-07-29 | India Semicon 2.0 baseline and execution watch | Generated source-reference card; not a webpage screenshot. |
+| `market-reaction-source.png` | AP / MarketWatch / IBD reporting | https://apnews.com/article/stocks-markets-ai-oil-trump-rates-b8bfaf782877957bbaa7196b70a4d725; https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-struggle-to-rally-chips-hynix-oil-up-fed-decision; https://www.investors.com/news/technology/skhy-stock-sk-hynix-q2-2026-earnings/ | 2026-07-29 | Korean chip selloff, AI-trade reset, post-earnings market reaction | Generated source-reference card; not a webpage screenshot. |
+
+## Blocked / Deferred Capture Notes
+
+- Full webpage screenshots were not captured to avoid duplicating copyrighted article bodies and because recent browser capture has been unreliable in this notebook.
+- The Lam Research and Samsung items are intentionally marked as pending because their official events occur after this note's India-time cutoff.
+- The CXMT policy item is intentionally separated into confirmed official pressure and pending formal action. The House letter is primary evidence of lawmakers' requests, not final Commerce/BIS rule text.
+- No new July 29 official India project milestone was found before cutoff; the note uses PIB Semicon 2.0 as the official execution baseline.

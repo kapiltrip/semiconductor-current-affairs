@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-28**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-29**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -193,7 +193,7 @@ An advanced node is a leading semiconductor manufacturing generation used for hi
 
 An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. SK hynix's P&T7 facility matters because HBM capacity can be limited by stacking, package yield, and final test even when front-end DRAM wafers are available. A wafer fab makes transistor layers; packaging and test assemble and validate usable products. Sources: [SK hynix](https://news.skhynix.com/fact-07/) and [Reuters](https://www.marketscreener.com/news/sk-hynix-to-spend-64-billion-on-flash-memory-chip-plants-under-broader-ai-investment-plan-ce7f5fd2df8df626)
 
-**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging)
+**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging), [2026-07-29](../2026-07-29/README.md#daily-term-advanced-packaging)
 
 [Back to A-Z index](#a-z-index)
 
@@ -758,6 +758,17 @@ Capital expenditure is money spent on long-lived productive assets such as fabs,
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-capital-expenditure-discipline"></a>
+## Capital expenditure discipline
+
+Capital expenditure discipline means expanding fabs, cleanrooms, tools and packaging capacity in phases instead of spending without regard to customer demand, return on capital or cycle risk. It solves the memory industry's classic boom-bust problem: overbuilding during a shortage can create oversupply later. In today's SK hynix result, the phrase matters because the company is preparing M15X, Yongin, P&T7, M17 and cluster investments while saying expansion will be phased around demand and investment efficiency. Example: adding capacity after signed AI-memory demand is different from building speculative capacity into a possible downturn.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-capital-expenditure-discipline)
+
+**Reference:** https://news.skhynix.com/en/q2-2026-business-results/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-centre-of-excellence-coe"></a>
 ## Centre of Excellence (CoE)
 
@@ -766,6 +777,17 @@ A Centre of Excellence is a focused institution or industry-academic hub that co
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-centre-of-excellence-coe)
 
 **Reference:** https://electronics.economictimes.indiatimes.com/news/supply-chain-trade/semicon-2-0-scheme-can-create-5-billion-equipment-components-ecosystem-kas-groups-md/132513467
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-channel-inventory"></a>
+## Channel inventory
+
+Channel inventory is the number of weeks of product sitting with distributors or sales-channel partners before end customers consume it. It solves a demand-quality problem: a chipmaker can ship into the channel even when final customer pull is weak, so inventory weeks help test whether revenue is clean. In today's NXP result, channel inventory matters because NXP reported 11 weeks, giving a check on whether automotive and industrial revenue growth is being supported by balanced supply-chain pull. Comparison: selling to a distributor fills the pipe; selling through to customers empties it.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-channel-inventory)
+
+**Reference:** https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -1153,6 +1175,17 @@ Design orchestration is the coordination of dependent EDA stages, data, constrai
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-design-technology-co-optimization-dtco"></a>
+## Design Technology Co-Optimization (DTCO)
+
+DTCO is joint optimization of chip design rules, standard cells, routing, device structures and process technology so a new node works well for real products. It solves a scaling problem: at advanced nodes, process engineers cannot improve silicon alone and design engineers cannot ignore manufacturing constraints. In today's Cadence-Intel item, DTCO matters because Intel 14A enablement depends on tools, IP and process features being co-optimized before customers commit. Example: DTCO is the negotiation between what the fab can print and what the chip architect needs.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-design-technology-co-optimization-dtco)
+
+**Reference:** https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-certifies-ai-driven-reference-flows-for-intel-18a-p-and-intel-14a
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-design-turnaround-time-tat"></a>
 ## Design turnaround time (TAT)
 
@@ -1258,6 +1291,17 @@ DLI is India's incentive and infrastructure-support scheme for semiconductor des
 **Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-dli)
 
 **Reference:** https://ism.gov.in/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-dod-section-1260h-list"></a>
+## DoD Section 1260H list
+
+The DoD Section 1260H list identifies companies the U.S. Department of Defense considers connected to China's military-industrial ecosystem. It solves a national-security screening problem by flagging firms that may support military-civil fusion even if they are not covered by every Commerce Department export restriction. In today's CXMT item, it matters because lawmakers referenced CXMT's 1260H designation while urging tougher procurement and export-control action. Comparison: the DoD list is a warning and contracting/policy signal; the BIS Entity List is the export-licensing mechanism.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-dod-section-1260h-list)
+
+**Reference:** https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban
 
 [Back to A-Z index](#a-z-index)
 
@@ -1436,6 +1480,17 @@ EDA/IP dependency is the reliance of chip and package programs on electronic des
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-edge-intelligence"></a>
+## Edge intelligence
+
+Edge intelligence is AI or decision-making performed near the sensor or device instead of sending every signal to a remote data center. It solves latency, privacy, bandwidth and reliability problems: a car or industrial robot cannot always wait for a cloud round trip. In today's NXP news, edge intelligence matters because NXP's portfolio sits inside vehicles, industrial systems, mobile devices and connected infrastructure where local processing and security are valuable. Example: a factory sensor detecting a machine fault locally is edge intelligence; a remote cloud model analyzing monthly logs is not the same real-time control layer.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-edge-intelligence)
+
+**Reference:** https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electro-semicon-track"></a>
 ## Electro-Semicon track
 
@@ -1491,6 +1546,17 @@ ESDM covers the design, development and manufacturing of electronic systems, inc
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-embedded-multi-die-interconnect-bridge-emib"></a>
+## Embedded Multi-die Interconnect Bridge (EMIB)
+
+EMIB is Intel's package-level bridge technology that connects multiple dies or chiplets with dense local interconnect embedded in the package substrate. It solves the chiplet-communication problem without requiring one very large silicon interposer under the whole package. In today's Cadence-Intel item, EMIB matters because Cadence says the certified packaging reference flow supports EMIB and EMIB-T, which are important for complex multi-chiplet AI, HPC and mobile designs. Comparison: EMIB is like placing a small high-speed bridge only where chiplets need to talk, instead of paving the entire package with a full interposer.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-embedded-multi-die-interconnect-bridge-emib)
+
+**Reference:** https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-certifies-ai-driven-reference-flows-for-intel-18a-p-and-intel-14a
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-emib"></a>
 ## EMIB
 
@@ -1530,6 +1596,17 @@ An enterprise SSD is a solid-state drive built for server and data-center worklo
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-enterprise-ssd)
 
 **Reference:** https://news.samsung.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-entity-list"></a>
+## Entity List
+
+The Entity List is a U.S. export-control tool used by the Bureau of Industry and Security to restrict exports, reexports or transfers involving listed parties when there are national-security or foreign-policy concerns. It solves a control problem: instead of banning an entire country, regulators can impose licensing limits on specific companies or institutions. In today's CXMT policy item, Entity List status matters because lawmakers asked Commerce to review CXMT for possible listing and to strengthen restrictions on YMTC. Example: selling a general chip is different from providing controlled equipment or technology to a listed entity.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list)
+
+**Reference:** https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban
 
 [Back to A-Z index](#a-z-index)
 
@@ -1602,7 +1679,7 @@ Ability to track EUV scanner location, operation, parts, and service history.
 
 An evidence checkpoint is a specific future signal that can confirm, update or close an open claim, such as an earnings transcript, 10-Q filing, final investment decision, wafer start, customer qualification, shipment or official rule text. It solves the follow-up problem in daily news study: instead of leaving vague "watch this" notes, each claim gets a concrete proof target. In today's note, SK hynix earnings, TSMC pricing confirmation, AMD Helios deployment and India park tenants are evidence checkpoints.
 
-**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-evidence-checkpoint), [2026-07-28](../2026-07-28/README.md#daily-term-evidence-checkpoint)
+**Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-evidence-checkpoint), [2026-07-28](../2026-07-28/README.md#daily-term-evidence-checkpoint), [2026-07-29](../2026-07-29/README.md#daily-term-evidence-checkpoint)
 
 **Reference:** https://www.sec.gov/edgar
 
@@ -1968,6 +2045,17 @@ FP4 and FP8 are low-precision floating-point number formats that use fewer bits 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-free-cash-flow"></a>
+## Free cash flow
+
+Free cash flow is cash generated from operations after capital spending needed to run or expand the business. It solves the cash-quality question: accounting profit can be strong while cash generation is weak, especially in capital-intensive sectors. In today's NXP and KLA results, free cash flow matters because both companies returned capital to shareholders while still funding operations and investment. Example: profit is an accounting view; free cash flow asks how much cash remains after the factory/tool/software business keeps itself running.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-free-cash-flow)
+
+**Reference:** https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-full-node-ppa"></a>
 ## Full-node PPA
 
@@ -2137,6 +2225,17 @@ An HBM demand signal is evidence that customers need more high-bandwidth memory 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-hbm4"></a>
+## HBM4
+
+HBM4 is the next generation of high-bandwidth stacked DRAM after HBM3/HBM3E, designed for higher bandwidth, better power efficiency and tighter integration with next-generation accelerators. It solves the next AI-scaling problem: larger models and agentic workloads need more memory bandwidth per watt and more memory close to compute. In today's news, SK hynix said HBM4 met customer-required operating speeds while emphasizing power efficiency and cost competitiveness, so this is a technology proof-point as well as an earnings item. Example: if HBM3E is the current premium AI-memory highway, HBM4 is the wider and more power-efficient highway being qualified for the next accelerator generation.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-hbm4)
+
+**Reference:** https://news.skhynix.com/en/q2-2026-business-results/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-hbm4e"></a>
 ## HBM4E
 
@@ -2186,7 +2285,7 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 
 High-Bandwidth Memory is stacked DRAM connected with dense vertical and package-level interconnect so an accelerator can access memory with far more bandwidth and lower energy per bit than many ordinary off-package memory paths. It solves the AI memory-wall problem: accelerators can perform many operations, but they slow down if data cannot reach compute fast enough. In today's news, HBM matters because Alphabet cloud demand, Supermicro AI server mix, NVIDIA Japan systems, and SEMI DRAM equipment growth all depend on high-bandwidth memory capacity and packaging. A comparison: ordinary server DRAM is like a wider road outside the city; HBM is like building short, wide roads directly beside the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
 
@@ -2519,6 +2618,17 @@ A logic chip is an integrated circuit built primarily to compute, control, proce
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-long-term-agreement-lta"></a>
+## Long-Term Agreement (LTA)
+
+An LTA is a multi-period supply contract where customer and supplier agree on future supply, and often pricing or allocation structure, before all future shipments occur. It solves the planning problem in scarce markets: AI companies need guaranteed memory supply, while memory makers need confidence before spending billions on tools, cleanrooms and packaging lines. In today's SK hynix result, LTAs matter because the company referred to agreements with around 10 key customers, which supports the argument that AI-memory demand is structural rather than only spot-market speculation. Comparison: an LTA is more binding than a forecast, but still weaker than finished products delivered and paid for.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-long-term-agreement-lta)
+
+**Reference:** https://news.skhynix.com/en/q2-2026-business-results/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-long-term-purchase-agreement-lta"></a>
 ## Long-term purchase agreement (LTA)
 
@@ -2795,6 +2905,17 @@ Chips sold broadly to external customers rather than used only internally.
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-metrology"></a>
+## Metrology
+
+Metrology is precision measurement inside semiconductor manufacturing, such as measuring line width, film thickness, overlay, 3D features, wafer shape or package alignment. It solves the "did we build what we intended" problem at nanometer scale. In today's KLA item, metrology matters because leading-edge logic, memory and advanced packaging all require tighter tolerances, and poor measurement slows yield learning. Example: inspection asks whether a defect exists; metrology asks whether a dimension, alignment or material property is inside spec.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-metrology)
+
+**Reference:** https://www.kla.com/advance/education/chip-manufacturing-101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-mlperf-training"></a>
 ## MLPerf Training
 
@@ -3057,7 +3178,7 @@ Node mix is the distribution of revenue, wafers, or products across process tech
 
 Non-GAAP earnings per share adjusts standard accounting profit by excluding selected items such as stock compensation, amortization, acquisition costs or one-time charges. It solves an investor-comparison problem when management believes GAAP includes items that obscure operating trend, but it can also make performance look cleaner than statutory accounting. In today's Cadence report, non-GAAP EPS matters because the company raised 2026 guidance to about $8.10 at the midpoint. Comparison: GAAP EPS is the regulated accounting view; non-GAAP EPS is management's adjusted operating view and must be reconciled.
 
-**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-non-gaap-eps), [2026-07-28](../2026-07-28/README.md#daily-term-non-gaap-eps)
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-non-gaap-eps), [2026-07-28](../2026-07-28/README.md#daily-term-non-gaap-eps), [2026-07-29](../2026-07-29/README.md#daily-term-non-gaap-eps)
 
 **Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
 
@@ -3212,11 +3333,11 @@ An open-weight AI model makes trained model parameters available for developers 
 <a id="term-operating-margin"></a>
 ## Operating margin
 
-Operating margin is operating income divided by revenue, measuring profitability from core operations before interest and some non-operating items. It solves the question of how efficiently the actual business operation converts sales into operating profit. In today's news, TSMC's 60.3% operating margin shows that its core foundry operations were highly profitable in Q2.
+Operating margin is operating profit divided by revenue. It shows how much revenue remains after cost of goods sold and operating expenses, before interest and taxes. It solves a profitability-quality problem: two companies can have the same revenue, but the one with higher operating margin converts more sales into operating profit. In today's SK hynix and KLA results, operating margin matters because high AI-linked demand is visible not only in revenue but also in profit conversion. Comparison: revenue is the size of the engine; operating margin shows how efficiently that engine turns sales into profit.
 
-**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-operating-margin)
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-operating-margin), [2026-07-29](../2026-07-29/README.md#daily-term-operating-margin)
 
-**Reference:** https://pr.tsmc.com/english/news/3326
+**Reference:** https://news.skhynix.com/en/q2-2026-business-results/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3413,7 +3534,7 @@ Photoresist coating equipment applies a uniform light-sensitive polymer layer on
 
 Physical AI is AI used to understand, simulate, control, or optimize real-world physical systems such as robots, factories, vehicles, logistics networks, medical devices, and industrial equipment. It solves the gap between text or image intelligence and action in the physical world, where models must handle geometry, timing, sensors, safety, and feedback. In today's news, Japan's project matters because NVIDIA frames the AI infrastructure around robotics, digital twins, manufacturing, logistics, healthcare, and telecommunications. Example: a chatbot predicts words; physical AI may guide a robot arm or simulate a factory line.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai), [2026-07-29](../2026-07-29/README.md#daily-term-physical-ai)
 
 **Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
 
@@ -3561,11 +3682,22 @@ A probe card is the precision interface between automatic test equipment and mic
 <a id="term-process-control"></a>
 ## Process control
 
-Process control uses metrology, inspection and feedback systems to keep wafer manufacturing steps within tight tolerances. It solves the yield problem: tiny variations in film thickness, critical dimension, overlay or defects can make chips fail. In today's earnings queue, KLA matters because it is a major process-control equipment supplier; its results help indicate whether fabs are still buying tools needed to improve yield and ramp advanced processes.
+Process control is the set of inspection, metrology, monitoring and data-analysis steps that detect defects, measure critical features and keep semiconductor manufacturing steps within acceptable limits. It solves the yield problem: a chip may require more than a thousand process steps, and one unobserved defect can kill a die or package. In today's KLA result, process control matters because AI chips, advanced memory and advanced packaging are becoming more complex, so manufacturers need more measurement and defect-control capability. Comparison: process control is the fab's feedback nervous system, while lithography, etch and deposition are the pattern-making muscles.
 
-**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-process-control)
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-process-control), [2026-07-29](../2026-07-29/README.md#daily-term-process-control)
 
-**Reference:** https://ir.kla.com/news-events/press-releases/detail/517/kla-announces-fourth-quarter-fiscal-year-2026-earnings-date
+**Reference:** https://www.kla.com/advance/education/chip-manufacturing-101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-process-design-kit-pdk"></a>
+## Process Design Kit (PDK)
+
+A PDK is the foundry-provided rule and model package that lets chip designers use a specific manufacturing process in EDA tools. It solves the translation problem between circuit design and manufacturable silicon: designers need device models, design rules, parasitic extraction data and verification decks that match the fab process. In today's Cadence-Intel item, PDKs matter because certified flows on Intel 18A-P and 14A depend on the latest Intel Foundry PDKs. Example: designing without a PDK is like drawing a building without the local construction code and material limits.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-process-design-kit-pdk)
+
+**Reference:** https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-certifies-ai-driven-reference-flows-for-intel-18a-p-and-intel-14a
 
 [Back to A-Z index](#a-z-index)
 
@@ -4122,6 +4254,17 @@ Signoff is the formal set of final engineering checks and approvals before relea
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-signoff-ready-flow"></a>
+## Signoff-ready flow
+
+A signoff-ready flow is an EDA methodology that has been validated for final checks such as timing, power, physical verification, reliability and manufacturability before tapeout. It solves the trust problem in advanced-node design: a chip team needs confidence that the tools, rules and checks are accepted by the foundry and can lead to manufacturable silicon. In today's Intel-foundry item, signoff-ready flows matter because Cadence says its digital and custom flows are certified for Intel 18A-P and 14A. Comparison: a prototype script may produce a layout; a signoff-ready flow is intended for real tapeout closure.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-signoff-ready-flow)
+
+**Reference:** https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-certifies-ai-driven-reference-flows-for-intel-18a-p-and-intel-14a
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-silicon-to-systems"></a>
 ## Silicon to Systems
 
@@ -4141,6 +4284,17 @@ SOI is a wafer technology where a thin silicon layer sits on an insulating oxide
 **Appears in:** [2026-06-29](../2026-06-29/README.md#daily-term-silicon-on-insulator-soi)
 
 **Reference:** https://www.soitec.com/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-software-defined-vehicle-sdv"></a>
+## Software-defined vehicle (SDV)
+
+An SDV is a vehicle whose features, safety behavior, infotainment, diagnostics, driver-assistance and update path are increasingly controlled by software running on centralized compute, networking and secure processors. It solves the vehicle-upgrade and complexity problem: instead of many isolated electronic control units, automakers can use more powerful compute platforms and software updates. In today's NXP result, SDV matters because NXP pointed to software-defined vehicles as a company-specific growth driver. VLSI example: SDVs need MCUs, processors, in-vehicle networking, power management, secure elements, radar and mixed-signal chips.
+
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-software-defined-vehicle-sdv)
+
+**Reference:** https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results
 
 [Back to A-Z index](#a-z-index)
 
