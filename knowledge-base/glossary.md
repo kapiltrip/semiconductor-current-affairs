@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-29**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-30**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -200,9 +200,9 @@ An advanced packaging and test facility turns fabricated dies into qualified mul
 <a id="term-advanced-products"></a>
 ## Advanced products
 
-In Amkor's reporting, advanced products include flip chip, memory, wafer-level processing and related test services. This solves a packaging-performance problem: high-end chips often need denser interconnects, better electrical paths and more complex test than traditional wirebond packages. In today's Amkor result, advanced products matter because they represented $1.557 billion of Q2 net sales, showing that advanced packaging/test is a major revenue driver.
+In Amkor's reporting, advanced products include higher-complexity packaging/test categories such as flip chip, memory, wafer-level processing and related services. It solves the performance-packaging problem: AI, data-center, automotive and high-end mobile chips need dense interconnect, better electrical paths and more test complexity than simple packages. In today's Amkor item, advanced products matter because they represented $1.557 billion of Q2 net sales, showing that packaging complexity is a large revenue pool. Example: a low-pin-count package protects a simple chip; an advanced package can integrate compute, memory, power and high-speed I/O constraints.
 
-**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-advanced-products)
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-advanced-products), [2026-07-30](../2026-07-30/README.md#daily-term-advanced-products)
 
 **Reference:** https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-second-quarter-2026
 
@@ -227,6 +227,17 @@ In TSMC's reporting, advanced technologies are process nodes at 7 nm and more ad
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-advanced-technologies)
 
 **Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-agentic-ai"></a>
+## Agentic AI
+
+Agentic AI refers to AI systems that can plan, call tools, coordinate tasks, keep context and take multi-step actions toward a goal rather than only produce one response. It solves the automation-depth problem: useful enterprise or engineering AI often needs workflow execution, not just text generation. In today's Samsung, Arm and DAC items, agentic AI matters because it raises demand for memory, CPUs, accelerators, data-center infrastructure and AI-assisted chip-design flows. Comparison: a chatbot answers; an agentic system plans and executes a workflow.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-agentic-ai)
+
+**Reference:** https://www.synopsys.com/events/dac-2026.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -447,6 +458,17 @@ API token throughput is the rate at which an AI service processes pieces of text
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-api-token-throughput)
 
 **Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-arm-agi-cpu"></a>
+## Arm AGI CPU
+
+Arm AGI CPU is Arm's production silicon for AI infrastructure, positioned for agentic AI workloads with high-performance, energy-efficient compute at data-center scale. It solves the CPU-side bottleneck in AI systems: accelerators need CPUs to coordinate scheduling, data movement, orchestration, networking and control. In today's Arm result, AGI CPU matters because reported demand and manufacturing-capacity commitments suggest CPUs are becoming part of the AI infrastructure race, not only GPUs and HBM. Example: an accelerator performs dense math; a data-center CPU coordinates the system around it.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-arm-agi-cpu)
+
+**Reference:** https://www.arm.com/products/cloud-datacenter/arm-agi-cpu
 
 [Back to A-Z index](#a-z-index)
 
@@ -1018,6 +1040,17 @@ Customer qualification is the controlled evidence-building process through which
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-customer-support-related-revenue"></a>
+## Customer support-related revenue
+
+Customer support-related revenue is revenue from service, spare parts, upgrades, support and non-leading-edge equipment that keeps installed fab tools productive. It solves the installed-base problem: a fab tool must run, be repaired, upgraded and tuned for years after the initial sale. In today's Lam result, support revenue matters because AI capacity expansion is not only new tool shipments; it also depends on keeping the installed base available and productive. Example: buying an etch tool is the vehicle purchase; spares and service keep it running.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-customer-support-related-revenue)
+
+**Reference:** https://investor.lamresearch.com/2026-07-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-28%2C-2026
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-customer-validation"></a>
 ## Customer validation
 
@@ -1076,6 +1109,17 @@ A decoupling capacitor is placed close to an IC power pin to reduce local supply
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-deferred-revenue"></a>
+## Deferred revenue
+
+Deferred revenue is cash or billing recorded for products or services where revenue recognition is delayed until the company satisfies accounting conditions such as delivery, installation or customer acceptance. It solves an accounting-timing problem: payment or shipment can happen before revenue is fully earned under accounting rules. In today's Lam release, deferred revenue and Japan acceptance treatment matter because they show that equipment demand can be partly hidden in timing differences before revenue is recognized. Comparison: a booked hotel payment is not the same as a completed stay.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-deferred-revenue)
+
+**Reference:** https://investor.lamresearch.com/2026-07-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-28%2C-2026
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-demand-elasticity"></a>
 ## Demand elasticity
 
@@ -1117,6 +1161,17 @@ A depositary ratio states how many U.S. depositary shares represent one underlyi
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-depositary-ratio), [2026-07-07](../2026-07-07/README.md#daily-term-depositary-ratio), [2026-07-09](../2026-07-09/README.md#daily-term-depositary-ratio)
 
 **Reference:** https://www.marketscreener.com/news/south-korea-s-sk-hynix-launching-28-billion-us-listing-to-ride-global-ai-wave-ce7f5edadf88f327
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-deposition"></a>
+## Deposition
+
+Deposition is the wafer-fabrication process that adds controlled thin films such as dielectrics, metals, barriers or semiconductor layers onto a wafer. It solves the construction problem in chips: transistors, capacitors, interconnects and memory structures need many carefully chosen material layers. In today's Lam result, deposition matters because AI-era chips and 3D structures require more film layers and tighter film control. Example: building a chip is not one layer of silicon; it is repeated deposition, patterning, etch and clean.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-deposition)
+
+**Reference:** https://www.lamresearch.com/products/products-overview/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1194,6 +1249,17 @@ Design turnaround time is the elapsed time required to complete a defined design
 **Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-design-turnaround-time-tat)
 
 **Reference:** https://newsroom.cadence.com/press-releases/press-release-details/2026/Rapidus-and-Cadence-Partner-on-Agentic-AI-for-Advanced-SoC-Design/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-device-solutions-ds"></a>
+## Device Solutions (DS)
+
+Samsung's Device Solutions division is the semiconductor-facing business grouping that includes memory, system LSI and foundry activity. It solves a reporting problem: Samsung is a broad electronics company, so investors and engineers need to separate chip economics from phones, displays, appliances and networks. In today's news, DS matters because almost all of Samsung's Q2 operating profit came from semiconductors, and DS reported KRW 127.5 trillion revenue and KRW 89.2 trillion operating profit. Example: Samsung's phone unit can lose money while DS earns record profit because memory and foundry economics are different businesses.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-device-solutions-ds)
+
+**Reference:** https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -1629,6 +1695,17 @@ An equity capital raise is a financing action where a company sells ownership-li
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-equity-capital-raise)
 
 **Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-etch"></a>
+## Etch
+
+Etch is the wafer-fabrication process that selectively removes material from a wafer to form trenches, holes, patterns and device structures. It solves the pattern-transfer problem: after lithography defines where material should remain or disappear, etch creates the physical structure. In today's Lam result, etch matters because 3D memory, advanced logic and advanced packaging need precise material removal with high aspect ratios and tight uniformity. Comparison: deposition adds material; etch carves it away.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-etch)
+
+**Reference:** https://www.lamresearch.com/products/our-processes/etch/
 
 [Back to A-Z index](#a-z-index)
 
@@ -2203,6 +2280,17 @@ Hardware/software co-design develops silicon architecture, compilers, runtimes, 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-hbm-base-die"></a>
+## HBM base die
+
+An HBM base die is the logic/interface die under a stack of DRAM dies that manages physical connections, signaling, test structures and package integration between the memory stack and the accelerator or substrate. It solves the integration problem in stacked memory: vertical DRAM layers need a controlled electrical interface to the outside world. In today's Samsung foundry commentary, base-die demand matters because HBM growth can create foundry demand even when the product being sold is "memory." Comparison: the DRAM dies are the storage floors; the base die is the ground-floor interface that connects the tower to the city.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-hbm-base-die)
+
+**Reference:** https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-hbm-competitiveness"></a>
 ## HBM competitiveness
 
@@ -2302,6 +2390,17 @@ High-Bandwidth Memory 4 is a next-generation stacked DRAM memory technology plac
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-high-bandwidth-memory-4e-hbm4e"></a>
+## High-Bandwidth Memory 4E (HBM4E)
+
+HBM4E is an enhanced version of the HBM4 stacked-memory generation, intended to push bandwidth, capacity, power efficiency and accelerator integration beyond baseline HBM4. It solves the next memory-wall problem: AI accelerators can contain more compute units, but they need enough nearby memory bandwidth and capacity to keep those units fed. In today's Samsung result, HBM4E matters because Samsung says it shipped HBM4E samples to major customers, which means next-generation accelerator platforms are already being planned around that memory roadmap. Comparison: HBM4 is the new highway near the AI chip; HBM4E is the widened and upgraded version being sampled for the next traffic wave.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-high-bandwidth-memory-4e-hbm4e)
+
+**Reference:** https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-high-beta-stock"></a>
 ## High-beta stock
 
@@ -2321,6 +2420,17 @@ High-NA EUV is a next-generation extreme-ultraviolet lithography platform with h
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-high-na-euv), [2026-07-24](../2026-07-24/README.md#daily-term-high-na-euv)
 
 **Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-high-performance-computing-hpc"></a>
+## High-performance computing (HPC)
+
+HPC is the category of workloads and chips that require very high compute throughput, memory bandwidth, interconnect bandwidth and energy efficiency, including AI training/inference, scientific simulation, cloud acceleration and data-center processing. It solves the need to finish huge compute jobs within useful time and power limits. In today's Samsung foundry result, 2nm HPC engagements matter because foundry design wins in AI/HPC can drive advanced-node wafer demand and advanced packaging demand. Comparison: a laptop CPU optimizes for general use; an HPC chip optimizes for massive sustained compute.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-high-performance-computing-hpc)
+
+**Reference:** https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -2471,6 +2581,17 @@ An IPO is the first sale of a company's shares to the public market. The busines
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-input-cost-pressure"></a>
+## Input-cost pressure
+
+Input-cost pressure means the components, materials, services or manufacturing steps needed to make a product become more expensive or constrained. It solves a margin-analysis problem: revenue can be stable while profit falls if the cost base rises faster than prices. In today's Qualcomm result, input-cost pressure matters because Qualcomm explicitly cited rising costs across wafer fabrication, assembly, test, advanced packaging, memory and other materials. Example: a phone chip vendor can be hurt by HBM or DRAM shortages even if it does not sell HBM itself, because memory and packaging costs feed into device economics.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-input-cost-pressure)
+
+**Reference:** https://s204.q4cdn.com/645488518/files/doc_financials/2026/q3/FY2026-3rd-Quarter-Earnings-Presentation_7-29-26_Final.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-installed-base-management"></a>
 ## Installed Base Management
 
@@ -2562,6 +2683,17 @@ Leading-edge manufacturing capacity is qualified wafer-processing capability on 
 **Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-leading-edge-manufacturing-capacity)
 
 **Reference:** https://newsroom.intel.com/intel-foundry/intel-invests-5-billion-euro-to-expand-manufacturing-in-europe
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-licensing-revenue"></a>
+## Licensing revenue
+
+Licensing revenue is money earned when a customer pays for rights to use technology, IP blocks, architecture, designs or tools, often before the customer's final chip ships. It solves the access problem: a chip company can legally use proven IP instead of building every block from scratch. In today's Arm result, licensing revenue matters because it is evidence that customers are committing to future Arm-based designs before royalties fully appear. Comparison: licensing is paying to use the blueprint; royalty revenue appears as products using that blueprint ship.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-licensing-revenue)
+
+**Reference:** https://investors.arm.com/financials/quarterly-annual-results/
 
 [Back to A-Z index](#a-z-index)
 
@@ -2761,6 +2893,17 @@ A market-moving signal is information that changes investor expectations enough 
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-market-moving-signal)
 
 **Reference:** https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-match-act"></a>
+## MATCH Act
+
+The MATCH Act, or Multilateral Alignment of Technology Controls on Hardware Act, is proposed U.S. legislation aimed at aligning export controls on chokepoint semiconductor manufacturing equipment among the United States and allies. It solves a policy loophole problem: controls are weaker if a restricted buyer can purchase similar tools from a less restrictive allied supplier. In today's CXMT/policy watch, the MATCH Act matters because memory and equipment restrictions increasingly depend on allied coordination, not only U.S.-only rules. Comparison: one locked door does little if the same room has an unlocked side entrance.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-match-act)
+
+**Reference:** https://www.foreign.senate.gov/press/rep/release/risch-ricketts-kim-introduce-match-act-level-the-global-playing-field-for-us-tech
 
 [Back to A-Z index](#a-z-index)
 
@@ -3034,9 +3177,11 @@ Multipath Reliable Connection is a network-transport approach that spreads traff
 <a id="term-multiphysics-signoff"></a>
 ## Multiphysics signoff
 
-Verification across electrical, thermal, mechanical, and reliability domains together.
+Multiphysics signoff is final design verification across interacting physical effects such as electrical timing, power integrity, thermal behavior, mechanical stress, electromagnetic effects and package/system interactions. It solves the late-stage failure problem: a chip can pass logic checks but fail because heat, voltage drop, package stress or signal integrity breaks real operation. In today's DAC/EDA context, multiphysics signoff matters because AI chips, 3D ICs and advanced packages behave like systems, not isolated dies. Example: timing closure alone is not enough if the package overheats or the power delivery network droops.
 
-**Appears in:** [2026-06-19](../2026-06-19/README.md#daily-term-multiphysics-signoff)
+**Appears in:** [2026-06-19](../2026-06-19/README.md#daily-term-multiphysics-signoff), [2026-07-30](../2026-07-30/README.md#daily-term-multiphysics-signoff)
+
+**Reference:** https://www.synopsys.com/events/dac-2026.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -3181,6 +3326,17 @@ Non-GAAP earnings per share adjusts standard accounting profit by excluding sele
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-non-gaap-eps), [2026-07-28](../2026-07-28/README.md#daily-term-non-gaap-eps), [2026-07-29](../2026-07-29/README.md#daily-term-non-gaap-eps)
 
 **Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-non-handset-revenue"></a>
+## Non-handset revenue
+
+Non-handset revenue is revenue from markets other than smartphones, such as automotive, industrial IoT, robotics, networking, PCs, data centers and embedded systems. It solves the concentration problem for a chipmaker whose historical business depends heavily on phones. In today's Qualcomm result, non-handset revenue matters because management is trying to prove that automotive, IoT and data-center opportunities can offset handset weakness over time. Comparison: relying only on handsets is one-crop farming; non-handset growth diversifies the field.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-non-handset-revenue)
+
+**Reference:** https://s204.q4cdn.com/645488518/files/doc_financials/2026/q3/FY2026-3rd-Quarter-Earnings-Release.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -3390,7 +3546,7 @@ Order intake is the value of new customer orders booked during a period. It solv
 
 OSAT means outsourced semiconductor assembly and test. It is the business of taking fabricated wafers or dies from a foundry or IDM, packaging them into usable chip products, marking them, electrically testing them, screening reliability, and shipping qualified parts. It solves the back-end manufacturing problem: a chip die is not a commercial product until it is connected, protected, tested, and traceable. In today's news, Paras Semiconductors' proposed MP facility matters because India can build semiconductor capability through packaging and test before it has many high-volume wafer fabs. Compared with a front-end fab, an OSAT is usually less capital-intensive but still needs strict process control, test engineering, yield, and customer qualification.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat), [2026-07-30](../2026-07-30/README.md#daily-term-osat)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
 
@@ -3759,6 +3915,28 @@ Public-private co-investment is a financing structure in which government capita
 <a id="letter-q"></a>
 # Q
 
+<a id="term-qct"></a>
+## QCT
+
+QCT is Qualcomm CDMA Technologies, Qualcomm's semiconductor products business covering chipsets and platforms for handsets, automotive, IoT, compute, connectivity and related markets. It solves a reporting split: Qualcomm has both a chip-selling business and a licensing business. In today's Qualcomm result, QCT matters because automotive grew 61% year over year and IoT grew 9%, while handsets fell 20%, showing diversification and handset pressure at the same time. Example: QCT sells chips and platforms; QTL monetizes patents and licenses.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-qct)
+
+**Reference:** https://s204.q4cdn.com/645488518/files/doc_financials/2026/q3/FY2026-3rd-Quarter-Earnings-Release.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-qtl"></a>
+## QTL
+
+QTL is Qualcomm Technology Licensing, the business that licenses Qualcomm's patent portfolio to device makers and other customers. It solves the intellectual-property monetization problem: Qualcomm can earn revenue from cellular and related patents even when it is not selling every physical chip in a device. In today's Qualcomm result, QTL matters because its revenue and high EBT margin provide a different profit stream from QCT's hardware exposure. Comparison: QCT is selling engines; QTL is licensing the design rights that let others build compliant vehicles.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-qtl)
+
+**Reference:** https://s204.q4cdn.com/645488518/files/doc_financials/2026/q3/FY2026-3rd-Quarter-Earnings-Presentation_7-29-26_Final.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-qualified-capacity"></a>
 ## Qualified capacity
 
@@ -3958,6 +4136,17 @@ ROCm is AMD's open software platform for GPU computing, including drivers, compi
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-royalty-revenue"></a>
+## Royalty revenue
+
+Royalty revenue is money earned when customers use licensed technology or IP in shipped products, often tied to units, value, or contract terms. It solves the scaling problem for IP companies: they can benefit when partners ship chips or devices without manufacturing every chip themselves. In today's Arm result, royalty revenue matters because AI/data-center adoption of Arm-based designs can grow Arm's revenue as partners ship more processors. Example: Arm designs the CPU architecture and IP; partners build chips and pay royalties when products ship.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-royalty-revenue)
+
+**Reference:** https://investors.arm.com/financials/quarterly-annual-results/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-rtl"></a>
 ## RTL
 
@@ -4000,6 +4189,17 @@ A scan chain connects selected storage elements into shift-register paths during
 **Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-scan-chain)
 
 **Reference:** https://blogs.sw.siemens.com/tessent/2017/04/24/scan-insertion-for-better-atpg/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-second-generation-2nm-process"></a>
+## Second-generation 2nm process
+
+A second-generation 2nm process is a refined version of a leading-edge manufacturing node after the first process generation, usually targeting better yield, performance, power, area, reliability or design-rule maturity. It solves the early-ramp problem: the first generation proves the technology, while later generations make it more useful for broader products. In today's Samsung result, the phrase matters because Samsung says foundry will ramp new mobile products on its second-generation 2nm process in H2 2026. Example: a first 2nm node may be the first climb up the mountain; a second-generation 2nm node is the more repeatable route customers can plan around.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-second-generation-2nm-process)
+
+**Reference:** https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -4596,6 +4796,17 @@ A technology export-control catalogue is an official list or regulatory framewor
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-technology-sovereignty"></a>
+## Technology sovereignty
+
+Technology sovereignty means a country has enough domestic capability, trusted partners and supply-chain control to design, source, manufacture or secure critical technologies without unacceptable dependence on one foreign choke point. It solves a resilience and national-security problem: semiconductors power defense, communications, AI, vehicles, healthcare and infrastructure. In today's India and CXMT items, technology sovereignty matters because India is trying to build a trusted ecosystem while China is pushing memory self-sufficiency under export-control pressure. Example: sovereignty does not mean making every tool domestically tomorrow; it means knowing which dependencies are critical and building credible alternatives.
+
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-technology-sovereignty)
+
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284806
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-test-equipment"></a>
 ## Test equipment
 
@@ -4899,7 +5110,7 @@ Wafer bumping forms tiny conductive bumps or pillars on wafer pads before dies a
 
 Wafer fabrication equipment is the set of front-end tools used to create chips on wafers, including lithography, deposition, etch, ion implantation, cleaning, chemical mechanical planarization, metrology, inspection, and process-control systems. It solves the physical manufacturing problem: a chip design cannot become silicon without hundreds of controlled wafer-processing steps. In today's news, WFE matters because SEMI's foundry/logic forecast is driven by advanced-node builds for AI accelerators, HPC, and premium mobile. A comparison: EDA tools create the design database; WFE tools create the physical transistor layers.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-fabrication-equipment-wfe), [2026-07-27](../2026-07-27/README.md#daily-term-wafer-fabrication-equipment-wfe)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-fabrication-equipment-wfe), [2026-07-27](../2026-07-27/README.md#daily-term-wafer-fabrication-equipment-wfe), [2026-07-30](../2026-07-30/README.md#daily-term-wafer-fabrication-equipment-wfe)
 
 **Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
 

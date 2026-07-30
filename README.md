@@ -8,7 +8,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 
 ## Study Navigation
 
-- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-29.
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-07-30.
 - [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
 - [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
 - [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
@@ -117,6 +117,7 @@ scripts/                       Index-maintenance utilities
 | 2026-07-27 | [2026-07-27/README.md](2026-07-27/README.md) | [images/2026-07-27/links.md](images/2026-07-27/links.md) | CXMT Shanghai debut, Synopsys-NVIDIA agentic EDA at DAC, NVIDIA Vera CPU for EDA, DAC heterogeneous integration, earnings checkpoint queue, SEMICON India ecosystem follow-up |
 | 2026-07-28 | [2026-07-28/README.md](2026-07-28/README.md) | [images/2026-07-28/links.md](images/2026-07-28/links.md) | Cadence Q2 EDA results, Amkor Q2 packaging/test results, China DUV/CXMT pressure, SIA U.S. investment tracker, NXP/KLA/Lam/SK hynix evidence queue, India Semicon 2.0 follow-up |
 | 2026-07-29 | [2026-07-29/README.md](2026-07-29/README.md) | [images/2026-07-29/links.md](images/2026-07-29/links.md) | SK hynix Q2 memory/HBM4 result, NXP Q2 physical-AI and SDV recovery, KLA Q4 process-control result, Lam/Samsung pending checkpoints, Intel 18A-P/14A EDA enablement, CXMT policy pressure, India Semicon 2.0 execution watch |
+| 2026-07-30 | [2026-07-30/README.md](2026-07-30/README.md) | [images/2026-07-30/links.md](images/2026-07-30/links.md) | Samsung Q2 memory/foundry checkpoint, Lam June-quarter WFE result, Qualcomm input-cost pressure, Arm AI data-center IP, Amkor packaging/test context, DAC EDA close, CXMT policy watch, SEMICON India execution |
 
 ## Note Quality Standard
 
@@ -194,4 +195,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are reviewed through 2026-07-29. All 44 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-29 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.
+Daily notes are reviewed through 2026-07-30. All 45 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-30 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.
