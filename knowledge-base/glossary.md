@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-30**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-31**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -334,7 +334,7 @@ AI inference is the execution phase where a trained model uses input data to pro
 
 AI infrastructure capex is capital spending on long-lived assets used to produce AI compute, including data centers, accelerators, custom ASICs, CPUs, HBM, storage, networking, power systems, cooling, land, buildings, and grid connections. It solves the future-capacity problem: an AI service cannot serve more users or train larger models unless the company builds physical compute capacity before the revenue fully arrives. In today's news, Alphabet's AI infrastructure funding signal matters because one hyperscaler's budget can become demand for foundry wafers, advanced packaging, memory, SSDs, network chips, optics, power components, and equipment. A comparison: software operating expense can be changed quickly; capex becomes a multi-year hardware commitment.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-ai-infrastructure-capex)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-ai-infrastructure-capex), [2026-07-31](../2026-07-31/README.md#daily-term-ai-infrastructure-capex)
 
 **Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
 
@@ -472,6 +472,28 @@ Arm AGI CPU is Arm's production silicon for AI infrastructure, positioned for ag
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-arm-compute-subsystems-css"></a>
+## Arm Compute Subsystems (CSS)
+
+Arm CSS is a package of pre-integrated Arm IP, subsystem design and implementation support that helps chip teams build processors or SoCs faster than assembling every block manually. It solves the time-to-market and integration-risk problem in advanced chip design. In today's Arm result, CSS matters because Arm linked revenue growth and AI infrastructure adoption to higher-value IP such as Armv9 and Compute Subsystems. Example: buying a CPU core is like buying an engine; CSS is closer to buying the engine plus transmission and integration kit.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-arm-compute-subsystems-css)
+
+**Reference:** https://newsroom.arm.com/news/arm-q1-fye27-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-armv9-architecture"></a>
+## Armv9 architecture
+
+Armv9 is a generation of Arm instruction-set architecture and platform features for modern computing, including performance, security and AI-capable workloads across mobile, cloud and edge devices. It solves the common-platform problem: many chip vendors can build compatible processors while differentiating implementation. In today's Arm result, Armv9 matters because Arm said adoption of technologies with higher royalty rates, such as Armv9 and CSS, supported revenue growth. Comparison: Armv9 is the rulebook; each customer still designs or chooses a processor implementation.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-armv9-architecture)
+
+**Reference:** https://newsroom.arm.com/news/arm-q1-fye27-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-asic"></a>
 ## ASIC
 
@@ -577,6 +599,28 @@ Average selling price is product revenue divided by the relevant unit base, such
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-average-selling-price-asp), [2026-07-07](../2026-07-07/README.md#daily-term-average-selling-price-asp), [2026-07-08](../2026-07-08/README.md#daily-term-average-selling-price-asp)
 
 **Reference:** https://kelo.com/2026/07/06/samsung-estimates-19-fold-rise-in-q2-operating-profit-beating-expectations/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-aws"></a>
+## AWS
+
+AWS, or Amazon Web Services, is Amazon's cloud-computing business that sells compute, storage, databases, AI/ML platforms, networking and enterprise infrastructure services. It solves the scale problem for customers that need on-demand infrastructure without owning the entire physical stack. In today's Amazon result, AWS matters because sales grew 37% year over year to $42.2 billion, making cloud growth a direct signal for AI server and chip demand. Comparison: AWS is a public utility for compute; chips are the generators inside the utility plant.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-aws)
+
+**Reference:** https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-azure"></a>
+## Azure
+
+Azure is Microsoft's cloud platform for compute, storage, databases, networking, AI services and enterprise workloads. It solves the infrastructure-outsourcing problem: customers can rent scalable compute instead of building all data centers themselves. In today's news, Azure matters because Microsoft reported Azure and other cloud services revenue growth of 43%, and said customer demand continues to exceed available capacity. Comparison: Azure is the factory floor where many customers run workloads; semiconductors are the machines inside that factory.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-azure)
+
+**Reference:** https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast
 
 [Back to A-Z index](#a-z-index)
 
@@ -725,6 +769,17 @@ Capacity allocation is how fabs and memory makers decide which product lines rec
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-capacity-constraint"></a>
+## Capacity constraint
+
+A capacity constraint means demand is higher than the amount of usable supply available, whether the bottleneck is chips, memory, data-center space, power, cooling, network gear, tools or qualified labor. It solves the research question of why revenue may be limited even when customers want to buy more. In today's Microsoft result, capacity constraint matters because Azure growth was strong and management still said demand exceeds available capacity. Example: a restaurant may have customers waiting outside, but revenue is capped by seats, chefs and kitchen equipment.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-capacity-constraint)
+
+**Reference:** https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-capacity-lead-time"></a>
 ## Capacity lead time
 
@@ -835,6 +890,17 @@ A chip bust is a semiconductor downturn where demand slows, inventories rise, pr
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-chip-stock-rebound"></a>
+## Chip-stock rebound
+
+A chip-stock rebound is a sharp recovery in semiconductor share prices after a selloff. It solves a market-sentiment measurement problem: investors may quickly reprice expectations when new earnings or capex signals change confidence. In today's market item, the rebound matters because AP and market reporting showed Microsoft-led optimism and semiconductor gains after several difficult July sessions. This is not technology proof; it is evidence of investor expectations changing. Example: a stock can rebound because cloud demand looks better even before any new wafer ships.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-chip-stock-rebound)
+
+**Reference:** https://apnews.com/article/99b5702d93a2b5c6e513fb952ccdcc92
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-chipflation"></a>
 ## Chipflation
 
@@ -876,6 +942,17 @@ The CHIPS Act is U.S. legislation that provides incentives for domestic semicond
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-chips-act)
 
 **Reference:** https://www.nist.gov/news-events/news/2024/07/biden-harris-administration-announces-preliminary-terms-globalwafers
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-chips-to-startup-c2s"></a>
+## Chips to Startup (C2S)
+
+C2S is India's program to provide chip-design tool access, training and project support so students, researchers and startups can gain practical semiconductor design experience. It solves the talent-entry problem: advanced EDA tools are expensive, and without access engineers cannot learn real design flows. In today's PIB release, C2S matters because tool usage exceeded 240 lakh hours, about 68,000 persons were trained and 175 designs were taped out from SCL Mohali. Example: a theory course teaches logic gates; C2S gives access to the tools needed to create a tapeout-ready design.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-chips-to-startup-c2s)
+
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291667
 
 [Back to A-Z index](#a-z-index)
 
@@ -923,6 +1000,17 @@ Commercial production means a manufacturing line is producing goods intended for
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-commercial-remaining-performance-obligation-rpo"></a>
+## Commercial remaining performance obligation (RPO)
+
+Commercial RPO is contracted business that Microsoft has not yet recognized as revenue, including commitments expected to be recognized over future periods. It solves the visibility problem: revenue tells what already happened, while RPO gives evidence of future demand already under contract. In today's Microsoft call, RPO matters because commercial RPO grew 84% to $678 billion, indicating large future cloud/software commitments. Comparison: revenue is food already served; RPO is booked orders still waiting to be cooked and delivered.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-commercial-remaining-performance-obligation-rpo)
+
+**Reference:** https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-commercialization-bridge"></a>
 ## Commercialization bridge
 
@@ -931,6 +1019,17 @@ A commercialization bridge is the path that turns research, prototypes and lab d
 **Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-commercialization-bridge)
 
 **Reference:** https://www.bengaluruindianano.in/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-component-cost-pressure"></a>
+## Component cost pressure
+
+Component cost pressure is the squeeze created when parts such as memory, processors, displays, substrates, batteries, packaging or test services become more expensive or scarce. It solves the profit-margin question in hardware: a company can sell more units but earn less per unit if input costs rise. In today's Apple and Samsung device-side news, component cost pressure matters because AI-driven memory demand is raising costs that can affect phones, Macs, tablets and consumer electronics. Example: if DRAM becomes expensive, a laptop vendor may raise prices even when the CPU has not changed.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-component-cost-pressure)
+
+**Reference:** https://apnews.com/article/94102918cb3592ebc1d2a38c4d7d819a
 
 [Back to A-Z index](#a-z-index)
 
@@ -1010,11 +1109,11 @@ A crowded trade is a market position where many investors own the same theme or 
 <a id="term-custom-silicon"></a>
 ## Custom silicon
 
-Custom silicon means chips or chip components designed for a specific company's products, workloads, or system architecture rather than generic merchant use. It solves performance, power, integration, security, and supply-control problems by tailoring silicon to the product. In today's news, Apple uses custom silicon to control the hardware stack across devices, and Broadcom supplies specialized wireless and connectivity components that fit Apple's design requirements.
+Custom silicon is a chip designed for a specific company, platform or workload rather than a generic merchant chip sold broadly to every customer. It solves the optimization problem: hyperscalers can tune compute, memory, networking, security and software integration for their own fleets. In today's Amazon and Arm items, custom silicon matters because AWS Trainium, Graviton and Microsoft/Azure Cobalt-style platforms show cloud companies pulling more chip design control inside. Comparison: a merchant chip is a mass-market tool; custom silicon is a tool built for one factory's workflow.
 
-**Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-custom-silicon)
+**Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-custom-silicon), [2026-07-31](../2026-07-31/README.md#daily-term-custom-silicon)
 
-**Reference:** https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+**Reference:** https://newsroom.arm.com/news/arm-q1-fye27-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -1926,6 +2025,17 @@ FBAR means film bulk acoustic resonator, a tiny acoustic filter technology used 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-final-bis-action"></a>
+## Final BIS action
+
+Final BIS action means an official, binding Bureau of Industry and Security rule, license policy, Entity List action or regulatory update, not just a letter, bill proposal or media report. It solves the policy-verification problem: semiconductor sourcing decisions should not treat political pressure as already enforceable law. In today's CXMT follow-up, final BIS action matters because lawmaker pressure remains clear but no new July 31 BIS rule or Entity List action was verified before cutoff. Example: a congressional letter is a warning signal; a published BIS rule changes legal obligations.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-final-bis-action)
+
+**Reference:** https://www.bis.gov/news-updates
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-financial-guidance"></a>
 ## Financial guidance
 
@@ -2133,6 +2243,17 @@ Free cash flow is cash generated from operations after capital spending needed t
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-free-cash-flow-outflow"></a>
+## Free cash flow outflow
+
+Free cash flow outflow means a company spent more cash on operations and capital investment than it generated after accounting for those items, producing negative free cash flow. It solves the cash-quality question: high revenue and profit can still coexist with heavy infrastructure spending. In today's Amazon result, free cash flow matters because Amazon reported a trailing-twelve-month outflow of $7.6 billion, driven primarily by a $66.1 billion year-over-year increase in purchases of property and equipment net of proceeds and incentives. Example: a business can be growing fast while cash is consumed by building the next factory.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-free-cash-flow-outflow)
+
+**Reference:** https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-full-node-ppa"></a>
 ## Full-node PPA
 
@@ -2221,6 +2342,17 @@ A global value chain is the international network of companies, countries and pr
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-global-value-chain-gvc)
 
 **Reference:** https://www.oecd.org/en/topics/sub-issues/global-value-and-supply-chains.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-graviton5"></a>
+## Graviton5
+
+Graviton5 is Amazon's Arm-based custom server CPU generation for EC2 cloud instances. It solves the CPU cost/performance and energy-efficiency problem in hyperscale cloud: many workloads need efficient general compute around AI accelerators, databases, web services and microservices. In today's Amazon result, Graviton5 matters because Amazon said it reached general availability and provides up to 25% better compute performance than Graviton4, while Graviton is used by 98% of the top 1,000 EC2 customers. Example: an AI accelerator does matrix math; a Graviton CPU coordinates services, data movement and general-purpose work around it.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-graviton5)
+
+**Reference:** https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -3028,6 +3160,17 @@ The memory wall is the performance gap between how quickly compute units can pro
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-memory-chip-supply-volatility"></a>
+## Memory-chip supply volatility
+
+Memory-chip supply volatility means memory availability and pricing can change sharply because demand, wafer capacity, advanced packaging, product mix and inventory all move unevenly. It solves the margin-risk question: downstream companies can be hurt by memory shortages even if they are not memory suppliers. In today's Amazon and Apple-linked news, memory-chip volatility matters because Amazon listed memory chips among resource/supply risks and AP reported Apple pricing pressure tied to memory-chip shortage. Comparison: a carmaker can be hurt by tire shortages even if it does not make tires.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-memory-chip-supply-volatility)
+
+**Reference:** https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-mems-timing-resonator"></a>
 ## MEMS timing resonator
 
@@ -3235,11 +3378,11 @@ NAND interface speed is the transfer rate between raw flash dies and the control
 <a id="term-nanofabrication"></a>
 ## Nanofabrication
 
-Nanofabrication is the set of manufacturing techniques used to build structures at nanometer scale, including thin-film deposition, lithography, etching, patterning and metrology. It solves the physical construction problem in semiconductors: circuits and memory cells now depend on features far smaller than visible light wavelengths. In today's India Nano item, nanofabrication links academic materials research to advanced semiconductor manufacturing, packaging and sensing.
+Nanofabrication is the set of manufacturing methods used to build structures at nanometer scale, including thin-film deposition, lithography, etching, cleaning, implantation, metrology and process control. It solves the physical-construction problem in semiconductors: modern devices depend on precisely shaped features far smaller than a human hair. In today's India release, nanofabrication matters because ISM's partnership with Lam Research targets process-engineering skills for ATMP and advanced packaging. Comparison: mechanical machining cuts visible parts; nanofabrication shapes materials at transistor and interconnect scale.
 
-**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-nanofabrication)
+**Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-nanofabrication), [2026-07-31](../2026-07-31/README.md#daily-term-nanofabrication)
 
-**Reference:** https://www.bengaluruindianano.in/
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291667
 
 [Back to A-Z index](#a-z-index)
 
@@ -3273,6 +3416,17 @@ Nasdaq Global Select Market is Nasdaq's top listing tier, with quantitative and 
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-nasdaq-global-select-market)
 
 **Reference:** https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-11
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-neoverse"></a>
+## Neoverse
+
+Neoverse is Arm's infrastructure CPU platform family for cloud, data-center, networking and high-performance infrastructure workloads. It solves the server CPU efficiency and scalability problem for hyperscale systems. In today's Arm result, Neoverse matters because Arm said Neoverse shipments surpassed 1.5 billion cores and serve as the foundation for Arm AGI CPU and other AI infrastructure platforms. Example: a smartphone Arm core is tuned for mobile battery life; Neoverse is tuned for servers, clouds and data centers.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-neoverse)
+
+**Reference:** https://newsroom.arm.com/news/arm-q1-fye27-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -3857,6 +4011,17 @@ A PDK is the foundry-provided rule and model package that lets chip designers us
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-process-engineering"></a>
+## Process engineering
+
+Process engineering is the discipline of developing, controlling and improving manufacturing steps such as deposition, etch, clean, lithography, bonding, packaging and test. It solves the repeatability problem: a semiconductor process must produce the same high-quality result across many wafers, lots and tools. In today's India item, process-engineering skills matter because fabs and packaging lines fail without engineers who understand recipes, variation, yield and root cause. Example: a design engineer asks what the chip should do; a process engineer makes sure the manufacturing step can produce it repeatedly.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-process-engineering)
+
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291667
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-process-stabilization"></a>
 ## Process stabilization
 
@@ -3898,6 +4063,17 @@ Profit-taking is selling after a large price rise to lock in gains. It solves a 
 **Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-profit-taking)
 
 **Reference:** https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-property-plant-and-equipment-pp-and-e"></a>
+## Property, plant and equipment (PP&E)
+
+PP&E is the accounting category for long-lived physical assets such as buildings, data centers, servers, networking equipment, power systems, fab tools and facilities. It solves the accounting problem of separating current expenses from durable assets that support operations for years. In today's Microsoft and Amazon results, PP&E matters because large cash spending on physical infrastructure is what turns AI demand into hardware demand. Example: paying engineers is operating expense; building a data center and buying AI servers is PP&E.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-property-plant-and-equipment-pp-and-e)
+
+**Reference:** https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4
 
 [Back to A-Z index](#a-z-index)
 
@@ -4487,6 +4663,28 @@ SOI is a wafer technology where a thin silicon layer sits on an insulating oxide
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-smart-lab"></a>
+## SMART Lab
+
+SMART Lab stands for Skilled Manpower Advanced Research and Training Lab, a training setup mentioned by PIB at NIELIT Calicut for VLSI, embedded systems and IoT. It solves the hands-on-skilling problem: semiconductor manufacturing and design need practical labs, tools, measurements and project exposure, not only lectures. In today's India item, SMART Lab matters because PIB says it has already trained more than 1 lakh candidates. Example: an online lecture can explain layout; a lab can teach tool flow, boards, test setups and debugging behavior.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-smart-lab)
+
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291667
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-socamm2"></a>
+## SOCAMM2
+
+SOCAMM2 is a Samsung memory module/product family named in its Q2 2026 materials as a high-value-added product alongside HBM4 and DDR5 for AI/server-oriented demand. It solves a memory-form-factor problem: different AI and server architectures need memory not only as commodity DIMMs but as modules optimized for density, bandwidth, power and board integration. In today's Samsung slides, SOCAMM2 matters because it shows memory suppliers are differentiating products by platform needs, not only selling generic bits. Comparison: DDR5 RDIMM is a standard server memory path; specialized modules like SOCAMM2 target more specific system integration needs.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-socamm2)
+
+**Reference:** https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_2Q_conference_eng.pdf
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-software-defined-vehicle-sdv"></a>
 ## Software-defined vehicle (SDV)
 
@@ -4755,11 +4953,11 @@ A talent pipeline is the structured path that turns students into job-ready engi
 <a id="term-tape-out"></a>
 ## Tape-out
 
-Tape-out is the formal release of a completed physical IC design database to the foundry for mask generation and wafer fabrication. It solves the handoff from design to manufacturing and freezes a specific revision. It does not mean working silicon, qualification, customer adoption, or volume production. Socionext's planned September 2026 tape-out will test whether its design flow and architecture can be manufactured on A14; first-silicon bring-up and production SoCs are later gates.
+Tapeout is the point where a chip design is finalized and sent to a semiconductor fab or shuttle program for manufacturing. It solves the transition problem between design and silicon: a design must pass verification, physical checks, signoff and data preparation before fabrication. In today's India talent release, tapeout matters because PIB said 175 designs were taped out from SCL Mohali under talent-development efforts, which is stronger evidence than classroom training alone. Comparison: writing RTL is drafting a plan; tapeout is submitting the final manufacturing file.
 
-**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-tape-out), [2026-07-03](../2026-07-03/README.md#daily-term-tape-out), [2026-07-09](../2026-07-09/README.md#daily-term-tape-out)
+**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-tape-out), [2026-07-03](../2026-07-03/README.md#daily-term-tape-out), [2026-07-09](../2026-07-09/README.md#daily-term-tape-out), [2026-07-31](../2026-07-31/README.md#daily-term-tape-out)
 
-**Reference:** https://www.eu.socionext.com/nextnews/socionext-addresses-datacenter-infrastructure-customer-demands-for-advanced-socs-on-tsmc-a14-technology.html
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291667
 
 [Back to A-Z index](#a-z-index)
 
@@ -4906,6 +5104,17 @@ Training-data transfer is the movement or sharing of datasets used to train or f
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-trainium"></a>
+## Trainium
+
+Trainium is Amazon's custom AI accelerator family built for training and running large AI models inside AWS. It solves a cloud-economics problem: relying only on third-party GPUs can be expensive and supply-constrained, so a hyperscaler designs its own accelerator to control cost, performance, availability and software integration. In today's Amazon result, Trainium matters because Amazon said major AI labs including Anthropic and OpenAI made multi-year, multi-gigawatt commitments involving Trainium. Comparison: buying GPUs is renting a standard engine; Trainium is Amazon designing an engine for its own cloud fleet.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-trainium)
+
+**Reference:** https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-triple-level-cell-tlc"></a>
 ## Triple-Level Cell (TLC)
 
@@ -4959,6 +5168,17 @@ A TSV is a vertical electrical connection that passes through a silicon die. In 
 
 <a id="letter-u"></a>
 # U
+
+<a id="term-ufs-5-0"></a>
+## UFS 5.0
+
+UFS 5.0 is a newer Universal Flash Storage generation for high-performance embedded flash storage in mobile and edge devices. It solves the local-storage bandwidth and latency problem: phones, tablets, AI PCs and edge devices need fast non-volatile storage for apps, local AI models, media and system data. In today's Samsung materials, UFS 5.0 matters because Samsung tied it to first-half market penetration, showing that AI-era storage demand is not limited to data-center SSDs. Comparison: eSSD serves servers; UFS serves embedded devices that still need fast storage.
+
+**Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-ufs-5-0)
+
+**Reference:** https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_2Q_conference_eng.pdf
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-ufs-nand"></a>
 ## UFS NAND
