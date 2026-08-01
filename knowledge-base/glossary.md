@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-07-31**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-01**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -152,6 +152,28 @@ A 3D stacking workaround is the use of vertical chip/package integration to impr
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-3d-ic"></a>
+## 3D-IC
+
+A 3D-IC is a three-dimensional integrated circuit or package architecture where dies are stacked or connected vertically with dense interconnects, often using through-silicon vias, hybrid bonding or interposers. It solves the bandwidth, area and power problem by shortening paths between logic, memory and IO blocks compared with spreading every function across a large board. In today's Cadence-Samsung and SkyWater/advanced packaging news, 3D-IC matters because AI and physical-AI systems need more bandwidth and integration than conventional single-die scaling can provide economically. Example: stacking memory close to compute cuts data-movement energy compared with sending everything across a motherboard.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-3d-ic)
+
+**Reference:** https://eps.ieee.org/technology/heterogeneous-integration-roadmap/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-6-inch-wafer-line"></a>
+## 6-inch wafer line
+
+A 6-inch wafer line is a semiconductor manufacturing line built around wafers about 150 mm in diameter, commonly used for older analog, power, discrete, sensor or specialty processes. It solves a legacy-product supply problem because many long-lifecycle chips do not need cutting-edge 300 mm fabs, but the old tools and facilities can become difficult to maintain as suppliers stop supporting them. In today's Renesas news, the 6-inch line matters because Takasaki production is being phased out due to aging equipment, utilities and discontinued support for some materials and maintenance. Comparison: it is like an older but specialized factory line that still makes needed parts, until spare parts and service support disappear.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-6-inch-wafer-line)
+
+**Reference:** https://www.businesswire.com/news/home/20260730948509/en/Renesas-to-Phase-Out-Production-at-Takasaki-Factory-Maintain-and-Strengthen-RD-Functions
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-a"></a>
 # A
 
@@ -193,7 +215,7 @@ An advanced node is a leading semiconductor manufacturing generation used for hi
 
 An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. SK hynix's P&T7 facility matters because HBM capacity can be limited by stacking, package yield, and final test even when front-end DRAM wafers are available. A wafer fab makes transistor layers; packaging and test assemble and validate usable products. Sources: [SK hynix](https://news.skhynix.com/fact-07/) and [Reuters](https://www.marketscreener.com/news/sk-hynix-to-spend-64-billion-on-flash-memory-chip-plants-under-broader-ai-investment-plan-ce7f5fd2df8df626)
 
-**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging), [2026-07-29](../2026-07-29/README.md#daily-term-advanced-packaging)
+**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging), [2026-07-29](../2026-07-29/README.md#daily-term-advanced-packaging), [2026-08-01](../2026-08-01/README.md#daily-term-advanced-packaging)
 
 [Back to A-Z index](#a-z-index)
 
@@ -238,6 +260,17 @@ Agentic AI refers to AI systems that can plan, call tools, coordinate tasks, kee
 **Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-agentic-ai)
 
 **Reference:** https://www.synopsys.com/events/dac-2026.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-agentic-ai-eda-flow"></a>
+## Agentic AI EDA flow
+
+An agentic AI EDA flow uses AI agents to plan and execute parts of chip-design workflows such as RTL checks, constraints, implementation, verification, debug, power optimization, timing closure or signoff under engineer supervision. It solves the productivity and iteration-cost problem: advanced nodes and multi-die systems create too many constraints for manual trial-and-error alone. In today's Cadence-Samsung news, agentic AI EDA matters because Cadence positions AI-assisted implementation, 3D-IC and signoff flows as part of a production-ready Samsung 2nm design ecosystem. Comparison: a script runs fixed commands; an agentic flow can choose next design actions based on goals and feedback, but still must be verified by engineers.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-agentic-ai-eda-flow)
+
+**Reference:** https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/samsung-foundry-and-cadence-expand-infrastructure-and-physical-ai-solution
 
 [Back to A-Z index](#a-z-index)
 
@@ -395,6 +428,17 @@ The AI trade is the market positioning around companies expected to benefit from
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-air-separation-unit-asu"></a>
+## Air separation unit (ASU)
+
+An air separation unit is an industrial plant that separates atmospheric air into gases such as nitrogen, oxygen and argon, often using cryogenic distillation or related separation processes. It solves the bulk-gas supply problem for fabs: high-volume gases must be available continuously near the site instead of being delivered only by cylinders or trucks. In today's Linde news, ASUs matter because Linde plans two new SPECTRA ASUs in Phoenix and additional units in Taiwan to support semiconductor manufacturing and advanced packaging expansion. Example: a fab does not buy nitrogen like a lab bottle; it needs a local utility-scale gas plant.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-air-separation-unit-asu)
+
+**Reference:** https://www.businesswire.com/news/home/20260731307306/en/Linde-to-Invest-%241-Billion-to-Support-Major-U.S.-Semiconductor-Facility-Expansion
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-amd-helios"></a>
 ## AMD Helios
 
@@ -436,6 +480,17 @@ An analog chip processes continuously varying voltages or currents, while a mixe
 **Appears in:** [2026-07-04](../2026-07-04/README.md#daily-term-analog-and-mixed-signal-semiconductor)
 
 **Reference:** https://www.infineon.com/de/press-release/2026/ifxpr202607-117
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-analog-ic"></a>
+## Analog IC
+
+An analog IC is an integrated circuit that processes continuously varying real-world signals such as voltage, current, temperature, pressure, sound, radio frequency or power-control signals. It solves the bridge problem between the physical world and digital systems: sensors, power rails, chargers, automotive electronics and RF front ends need analog behavior even when the main processor is digital. In today's Renesas news, analog ICs matter because Takasaki R&D will be maintained and strengthened for analog IC and power semiconductor work aimed at data-center and automotive applications. Example: a CPU thinks in ones and zeros; an analog IC measures and conditions the messy voltage coming from a sensor.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-analog-ic)
+
+**Reference:** https://www.renesas.com/en/products/analog-products
 
 [Back to A-Z index](#a-z-index)
 
@@ -1033,6 +1088,17 @@ Component cost pressure is the squeeze created when parts such as memory, proces
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-compute-express-link-cxl"></a>
+## Compute Express Link (CXL)
+
+Compute Express Link, or CXL, is an open industry interconnect that runs on the PCIe physical layer and gives CPUs, memory devices and accelerators coherent or memory-semantic communication paths. It solves the memory disaggregation problem: servers often have stranded DRAM in one place and memory shortages in another, while AI workloads need flexible capacity near compute. In today's Montage and XCENA news, CXL matters because vendors are moving from concept to trial-production and production-lineup products for memory expansion, pooling and AI inference. Example: instead of adding a full extra server just to get more memory, a data center can attach CXL memory capacity to the host system.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-compute-express-link-cxl)
+
+**Reference:** https://computeexpresslink.org/resource-library/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-computer-aided-engineering-cae"></a>
 ## Computer-aided engineering (CAE)
 
@@ -1158,6 +1224,17 @@ Customer validation is evidence that a named customer is testing, qualifying, de
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-customer-validation)
 
 **Reference:** https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-cxl-type-3-device"></a>
+## CXL Type 3 device
+
+A CXL Type 3 device is a CXL-attached memory device that provides host-accessible memory capacity without acting primarily as an accelerator with its own cache-coherent compute engine. It solves the server-memory scaling problem by letting memory expansion modules, cards or EDSFF devices add capacity outside ordinary DIMM slots. In today's Montage news, Type 3 matters because the MXC controller is presented as supporting CXL.mem and CXL.io for memory expansion products. Comparison: a Type 1 CXL device is accelerator-like, a Type 2 device combines accelerator and memory behavior, and Type 3 is memory-expansion focused.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-cxl-type-3-device)
+
+**Reference:** https://computeexpresslink.org/resource-library/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1448,6 +1525,17 @@ Disaggregated inference is an AI-serving architecture that separates different p
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-discrete-power-semiconductor"></a>
+## Discrete power semiconductor
+
+A discrete power semiconductor is a single-function power device such as a diode, MOSFET, IGBT or related component used to switch, rectify or control electrical power. It solves the power-conversion problem in cars, chargers, servers, industrial drives and renewable-energy systems where current, voltage, efficiency and heat matter. In today's Renesas news, discrete power semiconductors matter because Renesas is keeping R&D at Takasaki for power devices serving data-center and automotive growth areas. Comparison: an AI server may use advanced processors, but every rack still depends on power semiconductors to convert and deliver electricity safely.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-discrete-power-semiconductor)
+
+**Reference:** https://www.renesas.com/en/products/power-power-management
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-dli"></a>
 ## DLI
 
@@ -1495,11 +1583,11 @@ Domestic value addition is the share of a product's value created inside the cou
 <a id="term-dram"></a>
 ## DRAM
 
-Dynamic random-access memory stores data as charge in tiny capacitors and must be refreshed repeatedly because charge leaks away. It solves the working-memory problem for CPUs, GPUs and AI systems: fast temporary data access while computation is running. In today's CXMT story, DRAM matters because China wants a domestic supplier in a market dominated by Samsung, SK hynix and Micron, while AI demand pushes memory prices and capacity value higher. Comparison: DRAM is working memory, while NAND is persistent storage that keeps data without power.
+DRAM, or dynamic random-access memory, is volatile memory that stores bits as charge in tiny capacitors and must be refreshed repeatedly because charge leaks away. It solves the working-memory problem for CPUs, GPUs and accelerators: systems need fast temporary storage for active code, model weights, activations, buffers and operating-system data. In today's Korea, Apple and CXMT/YMTC news, DRAM matters because AI servers consume very large memory capacity and bandwidth, pushing prices and supply allocation in ways that affect both data centers and consumer devices. Comparison: DRAM is the desk space where active work sits, while NAND flash is the shelf where data remains after power is off.
 
-**Appears in:** [2026-06-23](../2026-06-23/README.md#daily-term-dram), [2026-06-27](../2026-06-27/README.md#daily-term-dram), [2026-07-07](../2026-07-07/README.md#daily-term-dram), [2026-07-09](../2026-07-09/README.md#daily-term-dram), [2026-07-27](../2026-07-27/README.md#daily-term-dram)
+**Appears in:** [2026-06-23](../2026-06-23/README.md#daily-term-dram), [2026-06-27](../2026-06-27/README.md#daily-term-dram), [2026-07-07](../2026-07-07/README.md#daily-term-dram), [2026-07-09](../2026-07-09/README.md#daily-term-dram), [2026-07-27](../2026-07-27/README.md#daily-term-dram), [2026-08-01](../2026-08-01/README.md#daily-term-dram)
 
-**Reference:** https://www.cxmt.com/en/
+**Reference:** https://www.micron.com/products/memory/dram-components
 
 [Back to A-Z index](#a-z-index)
 
@@ -1767,11 +1855,11 @@ An enterprise SSD is a solid-state drive built for server and data-center worklo
 <a id="term-entity-list"></a>
 ## Entity List
 
-The Entity List is a U.S. export-control tool used by the Bureau of Industry and Security to restrict exports, reexports or transfers involving listed parties when there are national-security or foreign-policy concerns. It solves a control problem: instead of banning an entire country, regulators can impose licensing limits on specific companies or institutions. In today's CXMT policy item, Entity List status matters because lawmakers asked Commerce to review CXMT for possible listing and to strengthen restrictions on YMTC. Example: selling a general chip is different from providing controlled equipment or technology to a listed entity.
+The Entity List is a U.S. Bureau of Industry and Security restricted-party list that imposes license requirements on exports, reexports and transfers involving named entities under the Export Administration Regulations. It solves the enforcement problem in export controls: instead of only controlling product categories, the U.S. can restrict transactions with specific organizations of concern. In today's CXMT/YMTC watch, the Entity List matters because political pressure is rising, but no new final BIS Entity List action against CXMT/YMTC was verified before cutoff. Comparison: a congressional letter is pressure; an Entity List rule is an enforceable licensing trigger.
 
-**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list)
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list)
 
-**Reference:** https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban
+**Reference:** https://www.bis.gov/entity-list
 
 [Back to A-Z index](#a-z-index)
 
@@ -2804,6 +2892,17 @@ The KOSPI Market is the main stock market of the Korea Exchange for many of Sout
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-kv-cache"></a>
+## KV cache
+
+KV cache is the stored set of key and value tensors created during transformer inference so the model does not recompute attention information for earlier tokens each time it generates a new token. It solves the latency and compute-waste problem in long-context AI inference: without caching, every generated token would repeatedly revisit the full prior sequence at high cost. In today's XCENA news, KV cache matters because long context windows make memory capacity and bandwidth a first-order bottleneck, so CXL-attached memory is being proposed for KV-cache sharing and offload. Example: for a chatbot conversation, the KV cache is like keeping a working index of earlier words so the model can continue quickly.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache)
+
+**Reference:** https://huggingface.co/docs/transformers/v4.45.2/kv_cache
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-l"></a>
 # L
 
@@ -3127,6 +3226,28 @@ A memory ETF is a basket of memory and storage stocks that trades like one secur
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-memory-export-concentration"></a>
+## Memory export concentration
+
+Memory export concentration means a country's export growth depends heavily on DRAM, NAND, HBM, enterprise SSDs or related memory products rather than being evenly distributed across many sectors. It solves a diagnostic problem for semiconductor current affairs: if Korea's exports rise mainly because memory prices and shipments rise, the data tells us more about the AI memory cycle than about every part of the economy. In today's news it matters because Korea's July exports were led by semiconductor exports above USD 40B, so the macro story is tightly connected to Samsung, SK hynix, Micron-like supply dynamics, AI data centers and memory pricing. Example: a country can report strong total exports while the real driver is one high-value chip category.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-memory-export-concentration)
+
+**Reference:** https://en.yna.co.kr/view/AEN20260801000953320
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-memory-pooling"></a>
+## Memory pooling
+
+Memory pooling is an architecture where memory capacity is treated as a shared resource that can be allocated across hosts, accelerators or workloads rather than being permanently trapped inside one server. It solves the stranded-memory and utilization problem in data centers: one server may sit idle with unused DRAM while another cannot run a larger model because it lacks memory. In today's CXL news, memory pooling matters because both Montage and XCENA position CXL memory products as a way to scale AI infrastructure without always scaling compute one server at a time. Comparison: fixed DRAM is like every room having its own locked water tank; memory pooling is like a building-level reservoir allocated where needed.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-memory-pooling)
+
+**Reference:** https://computeexpresslink.org/webinars/an-overview-of-the-compute-express-link-cxl-2-0-ecns-330/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-memory-supercycle"></a>
 ## Memory supercycle
 
@@ -3358,7 +3479,7 @@ Nameplate capacity is the maximum designed output quoted for a plant under assum
 
 NAND flash is non-volatile semiconductor storage: it retains bits after power is removed. Cells are arranged so many bits can be stored densely and written or erased in blocks, which lowers cost per bit but makes random byte-level updates more complex than DRAM. It solves persistent-storage needs in SSDs, phones, vehicles, and AI data pipelines. SK hynix's M17 plan matters because AI systems need not only HBM and compute but also large storage tiers for datasets, checkpoints, retrieval, logs, and model distribution. Compare NAND with DRAM: NAND is denser and persistent but slower and wears with program/erase cycles.
 
-**Appears in:** [2026-06-27](../2026-06-27/README.md#daily-term-nand-flash), [2026-07-02](../2026-07-02/README.md#daily-term-nand-flash), [2026-07-07](../2026-07-07/README.md#daily-term-nand-flash)
+**Appears in:** [2026-06-27](../2026-06-27/README.md#daily-term-nand-flash), [2026-07-02](../2026-07-02/README.md#daily-term-nand-flash), [2026-07-07](../2026-07-07/README.md#daily-term-nand-flash), [2026-08-01](../2026-08-01/README.md#daily-term-nand-flash)
 
 **Reference:** https://news.skhynix.com/fact-07/
 
@@ -3524,6 +3645,17 @@ NVIDIA DSX is NVIDIA's full-stack AI factory platform spanning accelerators, sys
 **Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-nvidia-dsx)
 
 **Reference:** https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-nvlink-c2c"></a>
+## NVLink-C2C
+
+NVLink-C2C is NVIDIA's chip-to-chip coherent interconnect technology for tightly coupling CPUs, GPUs or other dies in accelerated-computing systems. It solves the bottleneck between high-performance compute blocks that need low-latency, high-bandwidth, coherent communication. In today's Cadence-Samsung news, NVLink-C2C matters because Cadence says its Samsung 2nm platform includes NVLink-C2C-enabled interconnect IP for next-generation AI architectures. Comparison: if PCIe is a general-purpose expansion link, NVLink-C2C is a specialized close-coupling link for accelerator-class systems.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-nvlink-c2c)
+
+**Reference:** https://www.nvidia.com/en-us/data-center/nvlink-c2c/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3700,7 +3832,7 @@ Order intake is the value of new customer orders booked during a period. It solv
 
 OSAT means outsourced semiconductor assembly and test. It is the business of taking fabricated wafers or dies from a foundry or IDM, packaging them into usable chip products, marking them, electrically testing them, screening reliability, and shipping qualified parts. It solves the back-end manufacturing problem: a chip die is not a commercial product until it is connected, protected, tested, and traceable. In today's news, Paras Semiconductors' proposed MP facility matters because India can build semiconductor capability through packaging and test before it has many high-volume wafer fabs. Compared with a front-end fab, an OSAT is usually less capital-intensive but still needs strict process control, test engineering, yield, and customer qualification.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat), [2026-07-30](../2026-07-30/README.md#daily-term-osat)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat), [2026-07-30](../2026-07-30/README.md#daily-term-osat), [2026-08-01](../2026-08-01/README.md#daily-term-osat)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
 
@@ -3770,6 +3902,17 @@ Pax Silica is a US-led trusted-technology and supply-chain initiative focused on
 PCIe 6.0 is a high-speed serial interconnect generation defined by PCI-SIG. It doubles the raw transfer rate versus PCIe 5.0 to 64.0 GT/s and introduces PAM4 signaling, FLIT-based encoding, forward error correction, and CRC mechanisms to keep usable bandwidth high despite tougher signal-integrity conditions. In today's news, PCIe 6.0 matters because an SSD can only deliver extreme throughput if the storage media, controller, firmware, host software, link, retimers, board design, and thermal design work together.
 
 **Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-pcie-6-0)
+
+**Reference:** https://pcisig.com/pci-express-6.0-specification
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-pcie-6-x"></a>
+## PCIe 6.x
+
+PCIe 6.x refers to the sixth generation PCI Express interconnect family, with PCIe 6.0 supporting a 64.0 GT/s raw data rate and up to 256 GB/s in a x16 configuration. It solves the high-speed IO problem between CPUs, accelerators, SSDs, NICs and CXL devices by doubling bandwidth over PCIe 5.0 while adding PAM4 signaling, FEC and FLIT-based encoding. In today's Montage news, PCIe 6.x matters because CXL 3.2 memory devices ride on high-speed PCIe-class physical links, so memory expansion depends on both protocol and signal-integrity engineering. Example: if CXL is the memory-sharing language, PCIe 6.x is the high-speed road carrying the packets.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-pcie-6-x)
 
 **Reference:** https://pcisig.com/pci-express-6.0-specification
 
@@ -4041,6 +4184,17 @@ Processing trade means imported inputs are processed, assembled, packaged, or te
 **Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-processing-trade)
 
 **Reference:** https://www.tomshardware.com/tech-industry/china-claims-chip-exports-nearly-doubled-to-177-billion-in-the-first-half-of-2026
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-procurement-restriction"></a>
+## Procurement restriction
+
+A procurement restriction is a rule limiting what government agencies or contractors may buy, source or include in government-supported supply chains. It solves the trusted-supply problem by preventing public funds or sensitive systems from depending on suppliers considered risky. In today's CXMT/YMTC watch, procurement restriction matters because lawmakers are pushing for memory-sourcing limits, but the current verified evidence still shows pressure and watch items rather than a new final procurement rule for all commercial products. Comparison: export controls restrict selling technology outward; procurement restrictions restrict what the government and covered contractors buy inward.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-procurement-restriction)
+
+**Reference:** https://chinaselectcommittee.house.gov/media/letters/moolenaar-whitesides-to-secretary-lutnick-hold-firm-on-chinese-memory-chips-ban
 
 [Back to A-Z index](#a-z-index)
 
@@ -4379,6 +4533,17 @@ A second-generation 2nm process is a refined version of a leading-edge manufactu
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-section-1260h-list"></a>
+## Section 1260H list
+
+The Section 1260H list is a U.S. Department of Defense list identifying Chinese military companies operating directly or indirectly in the United States under the FY2021 National Defense Authorization Act framework. It solves an identification and procurement-risk problem: the government flags firms it views as linked to China's military-civil fusion or defense industrial base. In today's Apple-CXMT/YMTC pressure story, the 1260H list matters because reported objections to Chinese memory sourcing cite military-company concerns, but 1260H status is not identical to a BIS Entity List ban. Example: 1260H can create reputational and contracting risk even when a separate export-control license rule has not changed.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-section-1260h-list)
+
+**Reference:** https://media.defense.gov/2026/Jun/08/2003945537/-1/-1/1/ENTITIES-IDENTIFIED-AS-CHINESE-MILITARY-COMPANIES-OPERATING-IN-THE-UNITED-STATES-IN-ACCORDANCE-WITH-SECTION-1260H.PDF
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-secure-element"></a>
 ## Secure element
 
@@ -4605,6 +4770,17 @@ The settlement date is the date when the buyer must deliver cash and the seller 
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-settlement-date)
 
 **Reference:** https://www.finra.org/investors/insights/understanding-settlement-cycles
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-sf2p"></a>
+## SF2P
+
+SF2P is Samsung Foundry's performance-enhanced second-generation 2nm-class process platform referenced in Cadence-Samsung collaboration material. It solves the leading-edge process option problem for customers that need very high performance-per-watt for AI, HPC, mobile or physical-AI chips while also requiring an ecosystem of IP, PDKs, signoff tools and packaging flows. In today's Cadence note, SF2P matters because advanced-node competitiveness depends on process technology plus ready design flows, not process naming alone. Example: a 2nm node without verified IP and signoff collateral is hard to adopt, even if transistor targets look good.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-sf2p)
+
+**Reference:** https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-samsung-foundry-deepen-2nm-and-3dic-collaboration-to.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -5126,6 +5302,17 @@ TLC flash stores three bits in one physical memory cell by distinguishing eight 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-trusted-foundry"></a>
+## Trusted Foundry
+
+A Trusted Foundry is a semiconductor manufacturing source accredited or recognized for secure handling of sensitive designs, often relevant to defense, government and critical-infrastructure customers. It solves the supply-chain assurance problem: customers need confidence that design files, masks, wafers, packaging and process information are protected from tampering, leakage or untrusted dependency. In today's IonQ/SkyWater news, Trusted Foundry matters because SkyWater is described as a DMEA-accredited Category 1A Trusted Foundry while continuing U.S.-based foundry services under IonQ ownership. Example: a defense sensor ASIC may care as much about secure manufacturing provenance as about transistor density.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-trusted-foundry)
+
+**Reference:** https://www.businesswire.com/news/home/20260730292524/en/IonQ-Completes-Acquisition-of-SkyWater-Technology
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-trusted-supply-chain"></a>
 ## Trusted supply chain
 
@@ -5169,6 +5356,17 @@ A TSV is a vertical electrical connection that passes through a silicon die. In 
 <a id="letter-u"></a>
 # U
 
+<a id="term-ucie"></a>
+## UCIe
+
+UCIe, or Universal Chiplet Interconnect Express, is an open die-to-die interconnect standard intended to let chiplets communicate inside a package across a common electrical/protocol framework. It solves the chiplet interoperability problem: without shared interfaces, every multi-die system becomes a custom one-off integration project. In today's Cadence-Samsung news, UCIe matters because Cadence lists UCIe 64G IP for chiplet-based integration on advanced Samsung processes. Comparison: PCIe connects devices on boards; UCIe is designed for much shorter die-to-die links inside packages.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-ucie)
+
+**Reference:** https://uciexpress.org/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ufs-5-0"></a>
 ## UFS 5.0
 
@@ -5188,6 +5386,17 @@ Universal Flash Storage combines NAND flash with a controller and standardized h
 **Appears in:** [2026-07-02](../2026-07-02/README.md#daily-term-ufs-nand)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/flash/universal-flash-storage-ufs
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ultra-high-purity-industrial-gases"></a>
+## Ultra-high-purity industrial gases
+
+Ultra-high-purity industrial gases are gases such as nitrogen, oxygen, argon, hydrogen and specialty mixtures produced and delivered with extremely tight contamination limits for semiconductor processing. They solve the contamination-control problem: a few parts-per-billion of the wrong impurity can change film growth, etch chemistry, oxidation, plasma behavior, wafer defects and yield. In today's Linde news, these gases matter because new fabs and advanced packaging sites cannot run reliably without local, redundant and high-purity gas supply. Comparison: a fab's gas system is like clean blood supply for process tools; ordinary industrial gas purity is not enough for advanced wafer manufacturing.
+
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-ultra-high-purity-industrial-gases)
+
+**Reference:** https://www.businesswire.com/news/home/20260731307306/en/Linde-to-Invest-%241-Billion-to-Support-Major-U.S.-Semiconductor-Facility-Expansion
 
 [Back to A-Z index](#a-z-index)
 
