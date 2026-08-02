@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-01**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-02**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -54,6 +54,17 @@ A vertical stack of 12 DRAM dies in one HBM package.
 **Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-2-5d-integration)
 
 **Reference:** https://semiconductor.samsung.com/foundry/advanced-package/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-2-5d-packaging"></a>
+## 2.5D packaging
+
+2.5D packaging places multiple dies side by side on an interposer or advanced substrate so they can communicate through dense, short interconnects without fully stacking active dies on top of each other. It solves the bandwidth and yield problem for large AI/HPC systems: instead of making one huge monolithic die, designers can place compute chiplets and HBM stacks close together. In today's ASIP roadmap, 2.5D matters because reporting says advanced 2.5D capability is targeted later, which would move the facility closer to AI/HPC packaging needs if executed. Example: GPU plus HBM on a silicon interposer is a classic 2.5D pattern.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-2-5d-packaging)
+
+**Reference:** https://eps.ieee.org/technology/heterogeneous-integration-roadmap/
 
 [Back to A-Z index](#a-z-index)
 
@@ -129,6 +140,17 @@ A 300mm fab uses circular silicon wafers about 300 millimeters in diameter, and 
 **Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-3d-nand-flash), [2026-07-04](../2026-07-04/README.md#daily-term-3d-nand-flash)
 
 **Reference:** https://www.kioxia.com/en-jp/about/news/2026/20260703-1.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-3d-packaging"></a>
+## 3D packaging
+
+3D packaging stacks dies vertically or connects them through dense vertical interconnects such as through-silicon vias or hybrid bonding to reduce distance, improve bandwidth and save board area. It solves the data-movement and form-factor problem when side-by-side packaging is not compact or fast enough. In today's ASIP and Bengaluru materials watch, 3D packaging matters because advanced AI, memory and sensor systems increasingly need vertical integration, but it requires difficult thermal, test, alignment and reliability control. Comparison: 2.5D is neighboring apartments on a shared platform; 3D is a high-rise stack with vertical elevators.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-3d-packaging)
+
+**Reference:** https://eps.ieee.org/technology/heterogeneous-integration-roadmap/
 
 [Back to A-Z index](#a-z-index)
 
@@ -585,7 +607,7 @@ Assembly manufacturing is the post-wafer process of turning individual dies into
 
 ATMP means assembly, testing, marking, and packaging. It overlaps strongly with OSAT terminology and describes the back-end steps that make a bare semiconductor die usable, traceable, and reliable in a customer system. It solves mechanical protection, electrical connection, thermal path, quality screening, and product-identification needs. In today's news, ATMP matters because India's earliest production wins are mostly in back-end semiconductor manufacturing, where commercial ramp is more achievable before leading-edge wafer fabrication. Example: a die without ATMP is like an engine without housing, connectors, and quality checks.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-atmp), [2026-07-07](../2026-07-07/README.md#daily-term-atmp), [2026-07-15](../2026-07-15/README.md#daily-term-atmp)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-atmp), [2026-07-07](../2026-07-07/README.md#daily-term-atmp), [2026-07-15](../2026-07-15/README.md#daily-term-atmp), [2026-08-02](../2026-08-02/README.md#daily-term-atmp)
 
 **Reference:** https://ism.gov.in/
 
@@ -1011,6 +1033,17 @@ C2S is India's program to provide chip-design tool access, training and project 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-circular-financing"></a>
+## Circular financing
+
+Circular financing is a market-risk pattern where money appears to flow in loops between suppliers, customers, investors and projects, making revenue growth look strong even though demand may depend on financing support from the same ecosystem. It solves no engineering problem; it is a risk label used to test demand quality and balance-sheet exposure. In today's Nvidia item, circular financing matters because reports describe concerns that Nvidia's investments or backstops may support customers who then buy Nvidia chips. Example: if a chipmaker funds a data-center customer and that customer uses the money to buy the chipmaker's GPUs, investors must ask how durable that demand is.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-circular-financing)
+
+**Reference:** https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-clean-room-space"></a>
 ## Clean room space
 
@@ -1093,7 +1126,7 @@ Component cost pressure is the squeeze created when parts such as memory, proces
 
 Compute Express Link, or CXL, is an open industry interconnect that runs on the PCIe physical layer and gives CPUs, memory devices and accelerators coherent or memory-semantic communication paths. It solves the memory disaggregation problem: servers often have stranded DRAM in one place and memory shortages in another, while AI workloads need flexible capacity near compute. In today's Montage and XCENA news, CXL matters because vendors are moving from concept to trial-production and production-lineup products for memory expansion, pooling and AI inference. Example: instead of adding a full extra server just to get more memory, a data center can attach CXL memory capacity to the host system.
 
-**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-compute-express-link-cxl)
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-compute-express-link-cxl), [2026-08-02](../2026-08-02/README.md#daily-term-compute-express-link-cxl)
 
 **Reference:** https://computeexpresslink.org/resource-library/
 
@@ -1591,6 +1624,17 @@ DRAM, or dynamic random-access memory, is volatile memory that stores bits as ch
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-dram-module"></a>
+## DRAM module
+
+A DRAM module is a board-level memory product, such as a DIMM or SO-DIMM, that combines multiple DRAM chips with electrical routing, control components and sometimes power-management or buffer chips. It solves the system-integration problem: computer and server makers need installable memory units, not loose DRAM dies. In today's Apacer item, modules matter because independent module makers depend on allocations from major DRAM manufacturers; if allocation falls, downstream PC, embedded and industrial supply can tighten. Example: Apacer and similar firms turn DRAM chips into modules for finished systems.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-dram-module)
+
+**Reference:** https://www.jedec.org/standards-documents/focus/memory-modules
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-dram-wafer-capacity"></a>
 ## DRAM wafer capacity
 
@@ -1625,11 +1669,11 @@ Designing a supply chain so more than one manufacturing source can produce a pro
 <a id="term-duv-immersion-lithography"></a>
 ## DUV immersion lithography
 
-DUV immersion lithography uses deep-ultraviolet light with a liquid medium between the final lens and wafer to improve resolution compared with dry exposure. It solves the mature-and-advanced patterning problem across many chip layers and nodes, including layers where EUV is not used. In today's news, DUV immersion matters because advanced fabs still need many DUV steps, so AI capacity growth is not only an EUV story.
+DUV immersion lithography uses deep-ultraviolet light, commonly 193 nm, with liquid between the lens and wafer to improve imaging resolution for semiconductor patterning. It solves the pattern-transfer problem for many advanced and mature chips without using EUV, though it may require multiple patterning for very small features. In today's China equipment story, DUV immersion matters because reported domestic production would reduce some dependence on imported ASML tools, but matching ASML-class yield, overlay, throughput, reliability and service remains much harder than building a small number of tools. Comparison: DUV immersion is a mature but still critical workhorse; EUV is the shorter-wavelength tool used for the most advanced layers.
 
-**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-duv-immersion-lithography)
+**Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-duv-immersion-lithography), [2026-08-02](../2026-08-02/README.md#daily-term-duv-immersion-lithography)
 
-**Reference:** https://www.asml.com/en/technology/lithography-principles
+**Reference:** https://www.asml.com/en/products/duv-lithography-systems
 
 [Back to A-Z index](#a-z-index)
 
@@ -1857,7 +1901,7 @@ An enterprise SSD is a solid-state drive built for server and data-center worklo
 
 The Entity List is a U.S. Bureau of Industry and Security restricted-party list that imposes license requirements on exports, reexports and transfers involving named entities under the Export Administration Regulations. It solves the enforcement problem in export controls: instead of only controlling product categories, the U.S. can restrict transactions with specific organizations of concern. In today's CXMT/YMTC watch, the Entity List matters because political pressure is rising, but no new final BIS Entity List action against CXMT/YMTC was verified before cutoff. Comparison: a congressional letter is pressure; an Entity List rule is an enforceable licensing trigger.
 
-**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list)
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list), [2026-08-02](../2026-08-02/README.md#daily-term-entity-list)
 
 **Reference:** https://www.bis.gov/entity-list
 
@@ -1882,6 +1926,17 @@ An equity capital raise is a financing action where a company sells ownership-li
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-equity-capital-raise)
 
 **Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-erasure-coding"></a>
+## Erasure coding
+
+Erasure coding is a data-protection method that splits data into fragments and adds mathematical parity fragments so the original data can be reconstructed even if some drives or nodes fail. It solves the storage-reliability problem with less capacity overhead than simple full replication. In today's MaxLinear Panther news, erasure coding matters because AI storage systems need durability for large datasets and model states while still controlling cost and bandwidth. Example: instead of keeping three complete copies, a system can keep data plus parity fragments across many drives.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-erasure-coding)
+
+**Reference:** https://www.businesswire.com/news/home/20260729150347/en/MaxLinear-Showcases-Panther-for-AI-Storage-Efficiency-and-AI-Inference-Performance-at-FMS-2026
 
 [Back to A-Z index](#a-z-index)
 
@@ -2190,6 +2245,17 @@ Flip-chip assembly mounts a die face-down so solder bumps or copper pillars conn
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-flip-chip-bga"></a>
+## Flip-chip BGA
+
+Flip-chip BGA means the die is flipped face-down and connected to a ball-grid-array package through solder bumps rather than long wire loops. It solves the higher-pin-count, shorter-interconnect and better-electrical-performance problem for processors, networking chips, memory controllers and higher-speed devices. In today's ASIP item, flip-chip BGA matters because reporting says the facility will start with flip-chip BGA alongside wire-bond, giving India a stronger path toward higher-performance packaging than wire-bond alone. Example: compared with wire-bond, flip-chip shortens signal paths and can improve power delivery and thermal behavior.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-flip-chip-bga)
+
+**Reference:** https://eps.ieee.org/technology/heterogeneous-integration-roadmap/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-form-f-1"></a>
 ## Form F-1
 
@@ -2242,6 +2308,17 @@ A forward-looking statement is company language about expected future events suc
 **Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-forward-looking-statement)
 
 **Reference:** https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-foundation-stone"></a>
+## Foundation stone
+
+A foundation stone is a formal project-launch milestone showing that a government or company has publicly started a physical project, but it is not the same as installed equipment, qualified production or customer shipments. It solves the evidence-classification problem in current-affairs study: you can mark the project as moving from announcement to execution, while still keeping later manufacturing proof open. In today's ASIP news it matters because PIB verifies that the Prime Minister was scheduled to lay the foundation stone for the Visakhapatnam semiconductor project, but the next proof points are tools, process qualification, yield and shipments. Comparison: a foundation stone is like tapeout in chip design: important progress, but not working silicon.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-foundation-stone)
+
+**Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292165&lang=1&reg=48
 
 [Back to A-Z index](#a-z-index)
 
@@ -2593,7 +2670,7 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 
 High-Bandwidth Memory is stacked DRAM connected with dense vertical and package-level interconnect so an accelerator can access memory with far more bandwidth and lower energy per bit than many ordinary off-package memory paths. It solves the AI memory-wall problem: accelerators can perform many operations, but they slow down if data cannot reach compute fast enough. In today's news, HBM matters because Alphabet cloud demand, Supermicro AI server mix, NVIDIA Japan systems, and SEMI DRAM equipment growth all depend on high-bandwidth memory capacity and packaging. A comparison: ordinary server DRAM is like a wider road outside the city; HBM is like building short, wide roads directly beside the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-02](../2026-08-02/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
 
@@ -2897,7 +2974,7 @@ The KOSPI Market is the main stock market of the Korea Exchange for many of Sout
 
 KV cache is the stored set of key and value tensors created during transformer inference so the model does not recompute attention information for earlier tokens each time it generates a new token. It solves the latency and compute-waste problem in long-context AI inference: without caching, every generated token would repeatedly revisit the full prior sequence at high cost. In today's XCENA news, KV cache matters because long context windows make memory capacity and bandwidth a first-order bottleneck, so CXL-attached memory is being proposed for KV-cache sharing and offload. Example: for a chatbot conversation, the KV cache is like keeping a working index of earlier words so the model can continue quickly.
 
-**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache)
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache), [2026-08-02](../2026-08-02/README.md#daily-term-kv-cache)
 
 **Reference:** https://huggingface.co/docs/transformers/v4.45.2/kv_cache
 
@@ -2956,6 +3033,17 @@ Lithography equipment projects circuit patterns onto wafers during chip manufact
 **Appears in:** [2026-07-11](../2026-07-11/README.md#daily-term-lithography-equipment), [2026-07-12](../2026-07-12/README.md#daily-term-lithography-equipment)
 
 **Reference:** https://www.asml.com/en/technology/lithography-principles
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-lithography-tool-throughput"></a>
+## Lithography tool throughput
+
+Lithography tool throughput is the number of wafers a lithography system can expose per hour while meeting required imaging, focus and overlay specifications. It solves the factory-economics problem: a tool that works slowly or needs frequent downtime may be unsuitable for commercial high-volume manufacturing. In today's China DUV item, throughput matters because reported domestic tools must prove not just that they can expose wafers, but that they can do it fast, reliably and with acceptable yield. Comparison: a prototype printer may print one perfect page; a fab tool must print thousands of high-quality pages every day.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-lithography-tool-throughput)
+
+**Reference:** https://www.asml.com/en/products/duv-lithography-systems
 
 [Back to A-Z index](#a-z-index)
 
@@ -3185,11 +3273,11 @@ An MOU is a formal statement that parties intend to cooperate, but it is usually
 <a id="term-memory-allocation"></a>
 ## Memory allocation
 
-Memory allocation is the process by which memory suppliers decide which customers receive limited DRAM, HBM, NAND, or specialty memory output under contracts, forecasts, deposits, pricing, qualification, and strategic priority. It solves the scarcity problem when demand exceeds qualified supply. In today's news, memory allocation remains central because AMD Helios, Intel AI servers, Tesla AI/robotics, Alphabet cloud, and Nvidia/Japan AI factories all compete for high-performance memory. A comparison: a price quote tells cost; allocation decides whether the customer gets the parts at all.
+Memory allocation means the amount of DRAM, HBM, NAND or finished memory products suppliers assign to each customer or channel when demand exceeds available supply. It solves the scarcity-management problem for memory makers, who must decide whether AI servers, cloud customers, module makers, phones, PCs, automotive buyers or industrial customers get priority. In today's Apacer warning, allocation matters because a buyer can have money and still fail to receive enough chips if suppliers reserve capacity for higher-priority AI and server customers. Comparison: price answers "how expensive is it"; allocation answers "can you get it at all."
 
-**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-memory-allocation)
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-memory-allocation), [2026-08-02](../2026-08-02/README.md#daily-term-memory-allocation)
 
-**Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
+**Reference:** https://www.tomshardware.com/pc-components/ram/dram-chip-supply-to-module-makers-could-drop-by-more-than-70-percent-year-on-year-in-2027-says-apacer-ceo-demand-for-hbm-and-server-ram-continues-to-devour-manufacturing-capacity
 
 [Back to A-Z index](#a-z-index)
 
@@ -3496,6 +3584,28 @@ NAND interface speed is the transfer rate between raw flash dies and the control
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-nano-characterisation"></a>
+## Nano-characterisation
+
+Nano-characterisation is the measurement and analysis of structures, films, defects and interfaces at nanometer scale using tools such as electron microscopy, atomic-force microscopy, spectroscopy and other metrology methods. It solves the visibility problem in advanced manufacturing: engineers cannot fix defects, film non-uniformity or interface failures they cannot measure. In today's Bengaluru INDIA NANO watch, nano-characterisation matters because semiconductor materials and process research need proof at the nanoscale before moving toward manufacturable devices. Comparison: ordinary inspection may show a chip works or fails; nano-characterisation helps reveal the physical reason.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-nano-characterisation)
+
+**Reference:** https://www.bengaluruindianano.in/conference.php
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-nanoelectronics"></a>
+## Nanoelectronics
+
+Nanoelectronics is electronics built or engineered at nanometer length scales, where materials, interfaces, quantum effects, defects and surface behavior strongly affect device performance. It solves the miniaturization and material-limit problem for next-generation transistors, sensors, memories, photonics and packaging. In today's Bengaluru INDIA NANO item, nanoelectronics matters because the event explicitly links nanotechnology to semiconductors, advanced materials, nanoscale fabrication and chip architectures. Example: gate-all-around nanosheet transistors and 2D-material devices are nanoelectronics problems, not only layout problems.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-nanoelectronics)
+
+**Reference:** https://www.bengaluruindianano.in/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-nanofabrication"></a>
 ## Nanofabrication
 
@@ -3662,11 +3772,11 @@ NVLink-C2C is NVIDIA's chip-to-chip coherent interconnect technology for tightly
 <a id="term-nvme"></a>
 ## NVMe
 
-NVMe is the standard host-software interface for communicating with non-volatile storage over transports such as PCIe. It solves the old storage-stack problem that interfaces designed for spinning disks do not expose enough parallelism or low-latency command handling for NAND-based SSDs. In today's news, the important point is that a PCIe 6.0 physical link is not enough by itself; the storage command layer, queues, firmware, operating system, virtualization stack, and workload pattern decide how much of the hardware capability reaches the application.
+NVMe, or Non-Volatile Memory Express, is a storage protocol designed for flash and other non-volatile media over PCIe, with queues and command structures built for high parallelism and low latency. It solves the bottleneck created by older storage protocols that were designed for spinning disks, not SSDs and AI data-center workloads. In today's FMS setup, NVMe matters because NVM Express plans feature updates and live demonstrations around live migration, power, platform innovation and telemetry. Comparison: SATA was built for older storage behavior; NVMe is built for many simultaneous SSD operations over PCIe.
 
-**Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-nvme)
+**Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-nvme), [2026-08-02](../2026-08-02/README.md#daily-term-nvme)
 
-**Reference:** https://nvmexpress.org/specifications/
+**Reference:** https://nvmexpress.org/event/future-of-memory-and-storage-fms-2026/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3832,7 +3942,7 @@ Order intake is the value of new customer orders booked during a period. It solv
 
 OSAT means outsourced semiconductor assembly and test. It is the business of taking fabricated wafers or dies from a foundry or IDM, packaging them into usable chip products, marking them, electrically testing them, screening reliability, and shipping qualified parts. It solves the back-end manufacturing problem: a chip die is not a commercial product until it is connected, protected, tested, and traceable. In today's news, Paras Semiconductors' proposed MP facility matters because India can build semiconductor capability through packaging and test before it has many high-volume wafer fabs. Compared with a front-end fab, an OSAT is usually less capital-intensive but still needs strict process control, test engineering, yield, and customer qualification.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat), [2026-07-30](../2026-07-30/README.md#daily-term-osat), [2026-08-01](../2026-08-01/README.md#daily-term-osat)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-osat), [2026-07-04](../2026-07-04/README.md#daily-term-osat), [2026-07-05](../2026-07-05/README.md#daily-term-osat), [2026-07-07](../2026-07-07/README.md#daily-term-osat), [2026-07-09](../2026-07-09/README.md#daily-term-osat), [2026-07-10](../2026-07-10/README.md#daily-term-osat), [2026-07-11](../2026-07-11/README.md#daily-term-osat), [2026-07-12](../2026-07-12/README.md#daily-term-osat), [2026-07-22](../2026-07-22/README.md#daily-term-osat), [2026-07-23](../2026-07-23/README.md#daily-term-osat), [2026-07-28](../2026-07-28/README.md#daily-term-osat), [2026-07-30](../2026-07-30/README.md#daily-term-osat), [2026-08-01](../2026-08-01/README.md#daily-term-osat), [2026-08-02](../2026-08-02/README.md#daily-term-osat)
 
 **Reference:** https://nsearchives.nseindia.com/corporate/PARAS_22072026130104_Press_ReleaseMOU.pdf
 
@@ -3841,11 +3951,11 @@ OSAT means outsourced semiconductor assembly and test. It is the business of tak
 <a id="term-overlay"></a>
 ## Overlay
 
-Overlay is the alignment accuracy between one lithography layer and previously printed layers on the wafer. It solves a physical-registration problem: transistors and interconnects only work if every layer lands in the right place. In today's DUV story, overlay matters because multi-patterning with DUV can require many exposures, and tiny overlay errors can reduce yield or prevent advanced-node scaling. Comparison: stacking transparent circuit drawings works only if every sheet is aligned within nanometers.
+Overlay is the alignment accuracy between successive lithography layers on a wafer. It solves the layer-registration problem: transistors and interconnects only work if each patterned layer lands precisely over the previous layers. In today's China DUV discussion, overlay matters because a lithography tool can print patterns but still fail high-volume manufacturing if layer-to-layer alignment is poor. Example: if a contact hole misses the transistor region underneath, the chip can fail even if the individual pattern looks sharp.
 
-**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-overlay)
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-overlay), [2026-08-02](../2026-08-02/README.md#daily-term-overlay)
 
-**Reference:** https://www.asml.com/en/products/duv-lithography-systems
+**Reference:** https://www.asml.com/en/technology/lithography-principles
 
 [Back to A-Z index](#a-z-index)
 
@@ -3862,6 +3972,17 @@ Oversubscription means investor orders exceed the amount of securities available
 
 <a id="letter-p"></a>
 # P
+
+<a id="term-package-qualification"></a>
+## Package qualification
+
+Package qualification is the controlled reliability and electrical-validation process proving that a packaged chip survives stress such as temperature cycling, humidity, voltage, vibration, board assembly and long-term operating conditions. It solves the trust problem between an OSAT and customers: a device is not commercial just because it was assembled once. In today's ASIP follow-up, package qualification matters because the foundation milestone does not prove customer-approved production; automotive, data-center and telecom customers will need qualification data before volume use. Example: for an automotive chip, qualification can be more important than the initial lab demo because field failures are expensive and safety-critical.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-package-qualification)
+
+**Reference:** https://www.jedec.org/standards-documents/focus/quality-and-reliability
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-pass-through-inflation"></a>
 ## Pass-through inflation
@@ -3935,6 +4056,17 @@ Peak capacity is the highest designed output under stated assumptions, while thr
 **Appears in:** [2026-07-05](../2026-07-05/README.md#daily-term-peak-capacity-and-throughput)
 
 **Reference:** https://www.businesswire.com/news/home/20260704038873/en/CG-Semi-Commences-Commercial-Production-at-Its-G1-OSAT-Facility-in-Sanand-Gujarat
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-peer-to-peer-dma"></a>
+## Peer-to-peer DMA
+
+Peer-to-peer DMA, or direct memory access, lets devices such as SSDs, NICs, GPUs or accelerators move data directly between each other without routing all traffic through host CPU memory. It solves the data-path inefficiency problem in high-throughput systems: every unnecessary CPU copy adds latency, power, cache pollution and bandwidth pressure. In today's MaxLinear item, peer-to-peer DMA matters because Panther demonstrations target direct movement between storage and compute endpoints for AI workloads. Comparison: ordinary CPU-mediated transfer is like every package passing through a central office; peer-to-peer DMA lets two departments exchange it directly.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-peer-to-peer-dma)
+
+**Reference:** https://www.businesswire.com/news/home/20260729150347/en/MaxLinear-Showcases-Panther-for-AI-Storage-Efficiency-and-AI-Inference-Performance-at-FMS-2026
 
 [Back to A-Z index](#a-z-index)
 
@@ -4538,7 +4670,7 @@ A second-generation 2nm process is a refined version of a leading-edge manufactu
 
 The Section 1260H list is a U.S. Department of Defense list identifying Chinese military companies operating directly or indirectly in the United States under the FY2021 National Defense Authorization Act framework. It solves an identification and procurement-risk problem: the government flags firms it views as linked to China's military-civil fusion or defense industrial base. In today's Apple-CXMT/YMTC pressure story, the 1260H list matters because reported objections to Chinese memory sourcing cite military-company concerns, but 1260H status is not identical to a BIS Entity List ban. Example: 1260H can create reputational and contracting risk even when a separate export-control license rule has not changed.
 
-**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-section-1260h-list)
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-section-1260h-list), [2026-08-02](../2026-08-02/README.md#daily-term-section-1260h-list)
 
 **Reference:** https://media.defense.gov/2026/Jun/08/2003945537/-1/-1/1/ENTITIES-IDENTIFIED-AS-CHINESE-MILITARY-COMPANIES-OPERATING-IN-THE-UNITED-STATES-IN-ACCORDANCE-WITH-SECTION-1260H.PDF
 
@@ -4968,6 +5100,17 @@ A state semiconductor cluster is a regional ecosystem of fabs, OSAT/ATMP facilit
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-state-semiconductor-cluster)
 
 **Reference:** https://timesofindia.indiatimes.com/city/bhopal/mp-secures-proposed-rs-6200cr-semiconductor-investment/articleshow/132589604.cms
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-storage-accelerator"></a>
+## Storage accelerator
+
+A storage accelerator is hardware or a subsystem that offloads storage-related work such as compression, encryption, erasure coding, data integrity checks, file-system acceleration or data movement from the host CPU. It solves the CPU-overhead and bandwidth problem in AI systems: feeding GPUs and large models can waste many CPU cycles on moving and transforming data. In today's MaxLinear Panther news, storage acceleration matters because the company claims Panther can improve effective capacity and inference throughput by offloading storage and KV-cache-related work. Example: instead of a CPU spending cycles compressing data, a dedicated accelerator can do it while the CPU runs application logic.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-storage-accelerator)
+
+**Reference:** https://www.businesswire.com/news/home/20260729150347/en/MaxLinear-Showcases-Panther-for-AI-Storage-Efficiency-and-AI-Inference-Performance-at-FMS-2026
 
 [Back to A-Z index](#a-z-index)
 
@@ -5480,6 +5623,17 @@ A valuation reset is a rapid reduction in the price investors are willing to pay
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-vendor-financing"></a>
+## Vendor financing
+
+Vendor financing is when a supplier helps finance a customer's purchase or project through loans, guarantees, equity investment, deferred payment terms or backstop commitments. It solves the adoption-financing problem when the customer's infrastructure is expensive but the supplier wants demand for its products to scale faster. In today's Nvidia reports, vendor financing matters because reported AI data-center structures raise the question of whether chip demand is fully independent customer demand or partly financed by the chip supplier. Comparison: normal demand is a customer paying from its own budget; vendor financing is the seller helping the buyer afford the seller's product.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-vendor-financing)
+
+**Reference:** https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-vera-rubin-nvl72"></a>
 ## Vera Rubin NVL72
 
@@ -5628,6 +5782,17 @@ When-issued trading is trading in a security before the final issuance or distri
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-when-issued-trading), [2026-07-11](../2026-07-11/README.md#daily-term-when-issued-trading)
 
 **Reference:** https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-11
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wire-bond-packaging"></a>
+## Wire-bond packaging
+
+Wire-bond packaging connects a chip die to package leads or substrate pads using fine metal wires, usually gold, copper or aluminum. It solves the low-cost electrical-connection problem for many mature, power, sensor, analog, microcontroller and lower-pin-count products. In today's ASIP follow-up, wire-bond matters because reporting says the Visakhapatnam facility starts with wire-bond capability, which is practical for initial OSAT ramp but not enough for every high-bandwidth AI package. Comparison: wire-bond is like using tiny arched jumper wires; flip-chip is like flipping the die down onto many bumps for shorter, denser connections.
+
+**Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-wire-bond-packaging)
+
+**Reference:** https://asip-tech.com/
 
 [Back to A-Z index](#a-z-index)
 
