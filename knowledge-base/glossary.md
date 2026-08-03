@@ -1,12 +1,12 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-02**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-03**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
 ## A-Z Index
 
-[0-9](#letter-0-9) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [Y](#letter-y)
+[0-9](#letter-0-9) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y)
 
 ## How To Use This Glossary
 
@@ -76,6 +76,17 @@ A vertical stack of 12 DRAM dies in one HBM package.
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-2-5d-3d-advanced-packaging)
 
 **Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-2-5d-3d-5-5d-packaging"></a>
+## 2.5D/3D/5.5D packaging
+
+2.5D packaging places dies side by side on an interposer or advanced substrate, 3D packaging stacks dies vertically, and 5.5D is imec/Socionext language for more advanced combinations that blend interposer, stacking and heterogeneous integration approaches. It solves the data-movement problem by shortening interconnects between logic, memory, sensor and accelerator dies. In today's Socionext item, the term matters because AECP research explicitly targets leading-edge logic plus 2.5D/3D/5.5D packaging for autonomous systems. Comparison: 2.5D is like buildings on a shared platform; 3D is a vertical high-rise; 5.5D points to even more complex mixed layouts.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-2-5d-3d-5-5d-packaging)
+
+**Reference:** https://www.socionext.com/cn/pr/imec_AECP/
 
 [Back to A-Z index](#a-z-index)
 
@@ -237,7 +248,7 @@ An advanced node is a leading semiconductor manufacturing generation used for hi
 
 An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. SK hynix's P&T7 facility matters because HBM capacity can be limited by stacking, package yield, and final test even when front-end DRAM wafers are available. A wafer fab makes transistor layers; packaging and test assemble and validate usable products. Sources: [SK hynix](https://news.skhynix.com/fact-07/) and [Reuters](https://www.marketscreener.com/news/sk-hynix-to-spend-64-billion-on-flash-memory-chip-plants-under-broader-ai-investment-plan-ce7f5fd2df8df626)
 
-**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging), [2026-07-29](../2026-07-29/README.md#daily-term-advanced-packaging), [2026-08-01](../2026-08-01/README.md#daily-term-advanced-packaging)
+**Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging), [2026-07-29](../2026-07-29/README.md#daily-term-advanced-packaging), [2026-08-01](../2026-08-01/README.md#daily-term-advanced-packaging), [2026-08-03](../2026-08-03/README.md#daily-term-advanced-packaging)
 
 [Back to A-Z index](#a-z-index)
 
@@ -249,6 +260,17 @@ In Amkor's reporting, advanced products include higher-complexity packaging/test
 **Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-advanced-products), [2026-07-30](../2026-07-30/README.md#daily-term-advanced-products)
 
 **Reference:** https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-second-quarter-2026
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-advanced-purity-solutions"></a>
+## Advanced purity solutions
+
+Advanced purity solutions are systems, filters, containers, handling methods and materials controls that keep semiconductor chemicals, gases and process fluids extremely clean. They solve the defectivity problem because modern chip features are so small that trace contamination can ruin yield. In today's Entegris context, purity matters because Entegris describes itself as a leader in advanced materials and purity solutions, and AI/HPC manufacturing raises the cost of every defect. Comparison: ordinary industrial cleanliness is not enough for nanometer-scale wafer processing.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-advanced-purity-solutions)
+
+**Reference:** https://www.entegris.com/en/home/about-us/news/news-archive.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -657,6 +679,17 @@ An automotive-grade system-on-chip combines CPU, AI acceleration, image processi
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-autonomous-edge-chiplet-program-aecp"></a>
+## Autonomous Edge Chiplet Program (AECP)
+
+AECP is imec's collaborative research program that expands its Automotive Chiplet Program into autonomous edge domains such as vehicles, robotics and aerospace. It solves the ecosystem problem of making chiplets practical across companies: participants need common architectures, standards, reference designs, packaging rules, reliability targets and verification methods. In today's news, Socionext joining AECP matters because a chipmaker with automotive SoC experience is adding customer-specific chiplet and IP integration expertise to the program. Example: AECP is not a single product; it is a pre-competitive platform-building effort.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-autonomous-edge-chiplet-program-aecp)
+
+**Reference:** https://www.socionext.com/cn/pr/imec_AECP/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-average-selling-price"></a>
 ## Average selling price
 
@@ -992,11 +1025,11 @@ Chipflation is the pass-through of higher semiconductor costs into more expensiv
 <a id="term-chiplet"></a>
 ## Chiplet
 
-A chiplet is a separately manufactured die designed to communicate with other dies inside one package as part of a larger system. It solves reticle-size, yield, reuse, process-choice, and product-variant problems by partitioning a monolithic SoC. A compute chiplet can be fabricated on an advanced logic node while I/O or analog functions use other technologies. The cost is added package complexity, inter-die latency, power, protocol, test, thermal, and known-good-die requirements. Socionext's A14 device is a validation platform for future CPU and xPU chiplet architectures, not yet a named production processor.
+A chiplet is a smaller die that performs a defined function and is integrated with other dies inside an advanced package to form one larger system. It solves the yield, cost and design-reuse problem created by very large monolithic chips: smaller dies can be optimized separately, reused across products and combined through package-level interconnect. In today's Socionext/imec item, chiplets matter because autonomous cars, robots and edge-AI systems need scalable compute without redesigning one huge SoC for every vehicle or machine. Comparison: a monolithic SoC is one large printed book; chiplets are specialized chapters bound together in one package.
 
-**Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-chiplet), [2026-07-27](../2026-07-27/README.md#daily-term-chiplet)
+**Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-chiplet), [2026-07-27](../2026-07-27/README.md#daily-term-chiplet), [2026-08-03](../2026-08-03/README.md#daily-term-chiplet)
 
-**Reference:** https://www.eu.socionext.com/nextnews/socionext-addresses-datacenter-infrastructure-customer-demands-for-advanced-socs-on-tsmc-a14-technology.html
+**Reference:** https://www.synopsys.com/glossary/what-is-ucie.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1124,11 +1157,11 @@ Component cost pressure is the squeeze created when parts such as memory, proces
 <a id="term-compute-express-link-cxl"></a>
 ## Compute Express Link (CXL)
 
-Compute Express Link, or CXL, is an open industry interconnect that runs on the PCIe physical layer and gives CPUs, memory devices and accelerators coherent or memory-semantic communication paths. It solves the memory disaggregation problem: servers often have stranded DRAM in one place and memory shortages in another, while AI workloads need flexible capacity near compute. In today's Montage and XCENA news, CXL matters because vendors are moving from concept to trial-production and production-lineup products for memory expansion, pooling and AI inference. Example: instead of adding a full extra server just to get more memory, a data center can attach CXL memory capacity to the host system.
+Compute Express Link, or CXL, is an industry-supported cache-coherent interconnect for processors, memory expansion devices and accelerators, built to let CPUs and attached devices share memory with less software and hardware duplication. It solves the data-center memory problem where one server lacks memory while another has unused capacity, or where an accelerator needs a larger memory space than local DRAM/HBM can provide. In today's Kioxia news, CXL matters because it is the interface that lets a flash-based module participate closer to the memory hierarchy instead of behaving only like a block SSD. Comparison: PCIe normally connects devices; CXL adds memory/coherency semantics on top of PCIe-style links.
 
-**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-compute-express-link-cxl), [2026-08-02](../2026-08-02/README.md#daily-term-compute-express-link-cxl)
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-compute-express-link-cxl), [2026-08-02](../2026-08-02/README.md#daily-term-compute-express-link-cxl), [2026-08-03](../2026-08-03/README.md#daily-term-compute-express-link-cxl)
 
-**Reference:** https://computeexpresslink.org/resource-library/
+**Reference:** https://computeexpresslink.org/about-cxl/
 
 [Back to A-Z index](#a-z-index)
 
@@ -1205,6 +1238,17 @@ A crowded trade is a market position where many investors own the same theme or 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-custom-ai-accelerator"></a>
+## Custom AI accelerator
+
+A custom AI accelerator is a chip designed for a particular customer's AI training, inference, networking or data-center workload rather than a general market GPU. It solves the efficiency and control problem for hyperscalers that want lower cost per token, better power efficiency, custom memory/networking choices and supply-chain leverage. In today's MediaTek reporting, custom AI accelerators matter because smartphone chipmakers are trying to enter cloud data-center silicon where customer-specific ASICs are a major growth lane. Comparison: Nvidia GPUs are broad platforms; a custom AI accelerator is closer to a tailored engine for one cloud provider's system.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-custom-ai-accelerator)
+
+**Reference:** https://www.mediatek.com/tek-talk-blogs/from-silicon-to-scale-inside-mediateks-ai-data-center-solution
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-custom-silicon"></a>
 ## Custom silicon
 
@@ -1268,6 +1312,17 @@ A CXL Type 3 device is a CXL-attached memory device that provides host-accessibl
 **Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-cxl-type-3-device)
 
 **Reference:** https://computeexpresslink.org/resource-library/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-cxl-compatible-memory-expansion-module"></a>
+## CXL-compatible memory expansion module
+
+A CXL-compatible memory expansion module is a device that attaches through CXL and exposes additional memory capacity to a host platform, usually as slower or differently managed memory than local DRAM. It solves capacity pressure in AI and data-center systems without forcing every server to be built with the maximum possible DRAM from day one. In today's news, Kioxia XL1 matters because it uses XL-FLASH behind CXL, so less frequently accessed data can move to a lower-cost tier while DRAM handles the hottest data. Example: local DRAM is the desk surface; CXL memory expansion is a nearby cabinet that is slower than the desk but much closer than a warehouse.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-cxl-compatible-memory-expansion-module)
+
+**Reference:** https://www.businesswire.com/news/home/20260803920975/en/Kioxia-to-Showcase-CXL-Compatible-Memory-Expansion-Module-KIOXIA-XL1-Series-for-AI-Workloads
 
 [Back to A-Z index](#a-z-index)
 
@@ -1461,6 +1516,17 @@ Design turnaround time is the elapsed time required to complete a defined design
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-design-out"></a>
+## Design-out
+
+Design-out is the strategic removal or replacement of a foreign vendor, tool, IP block, material or component from a product or supply chain. It solves a dependency and sanctions-risk problem for restricted countries or customers, but can also reduce revenue and influence for the original supplier. In today's CSIS item, design-out matters because export controls on EDA may push Chinese firms to replace U.S. design software and IP over time, even if the transition is technically painful. Example: replacing a U.S. EDA tool with a domestic alternative is design-out.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-design-out)
+
+**Reference:** https://www.csis.org/analysis/double-edged-sword-semiconductor-export-controls-electronic-design-automation
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-device-solutions-ds"></a>
 ## Device Solutions (DS)
 
@@ -1566,6 +1632,17 @@ A discrete power semiconductor is a single-function power device such as a diode
 **Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-discrete-power-semiconductor)
 
 **Reference:** https://www.renesas.com/en/products/power-power-management
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-discretionary-financing-budget"></a>
+## Discretionary financing budget
+
+A discretionary financing budget is a board-approved pool of funding that management can use flexibly for long-term growth, investments, capacity support, working capital, acquisitions, prepayments or supply-chain commitments within approved limits. It solves strategic optionality: a company can move quickly if a large customer, supply deal or capacity opportunity appears. In today's MediaTek item, the term matters because reporting says the board approved a USD 5B budget tied partly to AI data-center chip expansion, but the exact uses and primary company documentation were not verified in this run. Example: the budget is permission and capacity to finance; it is not automatically proof that USD 5B has already been spent.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-discretionary-financing-budget)
+
+**Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/mediatek-allocates-5-billion-for-ai-data-center-custom-chips-expansion/132779838
 
 [Back to A-Z index](#a-z-index)
 
@@ -1700,6 +1777,17 @@ An earnings catalyst is a scheduled financial disclosure or management call that
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-earnings-checkpoint"></a>
+## Earnings checkpoint
+
+An earnings checkpoint is a scheduled company financial release and conference call used to convert market expectations into verified revenue, margins, guidance, backlog, segment demand and management commentary. It solves the evidence problem in daily research: speculation is not the same as official numbers. In today's note, onsemi, Advanced Energy and AMD are checkpoints because their results occur after the India cutoff or on August 4, so the correct status is pending. Example: an earnings date is a proof gate, not proof itself.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-earnings-checkpoint)
+
+**Reference:** https://investor.onsemi.com/events/event-details/onsemi-second-quarter-2026-earnings-conference-call
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-earnings-conference"></a>
 ## Earnings conference
 
@@ -1802,9 +1890,9 @@ An Electro-Semicon track is an event/program track focused on electronics and se
 <a id="term-electronic-design-automation-eda"></a>
 ## Electronic Design Automation (EDA)
 
-EDA is the software and methodology stack used to design, simulate, verify, implement and sign off integrated circuits. It solves the complexity problem: modern chips are too large and timing-sensitive to design reliably by manual drawing. In today's Synopsys/NVIDIA news, EDA matters because AI and accelerated computing are being applied inside chip creation itself, especially verification and simulation. Comparison: CAD for mechanical design helps draw parts; EDA helps prove that billions of transistors will behave correctly before fabrication.
+Electronic Design Automation is the software and methodology stack used to design, simulate, verify, implement and sign off integrated circuits. It solves the complexity problem of building chips with billions of transistors by automating planning, RTL checks, synthesis, place-and-route, timing, power, verification and manufacturing preparation. In today's CSIS item, EDA matters because export controls on design tools can shape who can design advanced chips, not just who can fabricate them. Comparison: without EDA, modern VLSI design would be like trying to hand-draw an entire city map at transistor scale.
 
-**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-electronic-design-automation-eda)
+**Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-electronic-design-automation-eda), [2026-08-03](../2026-08-03/README.md#daily-term-electronic-design-automation-eda)
 
 **Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
 
@@ -1993,6 +2081,17 @@ Ability to track EUV scanner location, operation, parts, and service history.
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-evaluation-sample"></a>
+## Evaluation sample
+
+An evaluation sample is an early product unit shipped to selected partners so they can test compatibility, performance, firmware, software support, signal integrity, thermal behavior and use-case fit before commercial release. It solves the validation gap between a vendor announcement and real deployment: customers need hardware in their own systems before they can qualify it. In today's Kioxia item it matters because XL1 is not yet a broad commercial product; August 2026 samples are for ecosystem collaborators and some functions may not be fully tested. Example: an evaluation sample is like an engineering sample CPU: useful evidence, but not final volume availability.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-evaluation-sample)
+
+**Reference:** https://www.businesswire.com/news/home/20260803920975/en/Kioxia-to-Showcase-CXL-Compatible-Memory-Expansion-Module-KIOXIA-XL1-Series-for-AI-Workloads
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-evidence-checkpoint"></a>
 ## Evidence checkpoint
 
@@ -2040,11 +2139,11 @@ An export ban is a government restriction that prevents a product, material, or 
 <a id="term-export-controls"></a>
 ## Export controls
 
-An export control is a legal restriction on transferring specified goods, software, technology, or technical assistance to particular destinations, entities, or end uses. It solves national-security and foreign-policy concerns by making some transactions require authorization or become prohibited. In semiconductors, controls can cover AI accelerators, manufacturing equipment, design software, and know-how. No new semiconductor rule was verified in the July 4 window, so the existing US Export Administration Regulations remain the policy baseline rather than a fresh event.
+Export controls are legal restrictions on transferring specified goods, software, technology, services or know-how to certain countries, companies, people or end uses. They solve national-security and foreign-policy problems by limiting access to sensitive technology, but they can also reshape commercial incentives and accelerate local alternatives. In today's note, export controls matter because EDA, semiconductor IP, advanced tools, AI chips and memory sourcing are all policy pressure points. Example: a new BIS rule is binding law; a think-tank report or congressional letter is not binding by itself.
 
-**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-export-controls), [2026-06-20](../2026-06-20/README.md#daily-term-export-controls), [2026-07-04](../2026-07-04/README.md#daily-term-export-controls), [2026-07-05](../2026-07-05/README.md#daily-term-export-controls), [2026-07-12](../2026-07-12/README.md#daily-term-export-controls), [2026-07-14](../2026-07-14/README.md#daily-term-export-controls)
+**Appears in:** [2026-06-17](../2026-06-17/README.md#daily-term-export-controls), [2026-06-20](../2026-06-20/README.md#daily-term-export-controls), [2026-07-04](../2026-07-04/README.md#daily-term-export-controls), [2026-07-05](../2026-07-05/README.md#daily-term-export-controls), [2026-07-12](../2026-07-12/README.md#daily-term-export-controls), [2026-07-14](../2026-07-14/README.md#daily-term-export-controls), [2026-08-03](../2026-08-03/README.md#daily-term-export-controls)
 
-**Reference:** https://www.bis.gov/regulations/ear
+**Reference:** https://www.federalregister.gov/documents/2022/10/13/2022-21658/implementation-of-additional-export-controls-certain-advanced-computing-and-semiconductor
 
 [Back to A-Z index](#a-z-index)
 
@@ -2427,6 +2526,17 @@ Full-node PPA means a process generation aims to deliver a meaningful step in po
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-full-node-ppa)
 
 **Reference:** https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-functional-safety"></a>
+## Functional safety
+
+Functional safety is the discipline of designing electronic and software-controlled systems so that faults are detected, controlled or mitigated before they create unreasonable risk. It solves the safety problem in cars, robots and autonomous machines where a chip or software fault can affect steering, braking, sensing or motion. In today's Socionext/imec news, functional safety matters because automotive and Physical AI chiplets need long-term reliability and predictable failure behavior, not only peak TOPS. Example: ISO 26262 is a major road-vehicle functional-safety standard.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-functional-safety)
+
+**Reference:** https://www.iso.org/standard/43464.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -3358,6 +3468,17 @@ Memory supply allocation is the process of deciding which customers and end mark
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-memory-tiering"></a>
+## Memory tiering
+
+Memory tiering is the practice of placing data across multiple memory layers according to speed, cost, latency, bandwidth and access frequency. It solves the economic problem of keeping every byte in expensive DRAM or HBM even when some data is cold or only occasionally used. In today's Kioxia news, tiering matters because XL1 aims to place less frequently accessed data on a CXL flash module while keeping hotter data in DRAM. Example: HBM/DRAM handle the most urgent data, CXL memory handles warm data, and SSD/object storage handles colder data.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-memory-tiering)
+
+**Reference:** https://www.businesswire.com/news/home/20260803920975/en/Kioxia-to-Showcase-CXL-Compatible-Memory-Expansion-Module-KIOXIA-XL1-Series-for-AI-Workloads
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-memory-wall"></a>
 ## Memory wall
 
@@ -3636,6 +3757,17 @@ Nanostack is IBM's 3D transistor approach that stacks nanosheet-style transistor
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-nanostack-transistor-architecture)
 
 **Reference:** https://research.ibm.com/blog/what-is-a-nanostack
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-nanotechnology-commercialization"></a>
+## Nanotechnology commercialization
+
+Nanotechnology commercialization is the process of moving nanoscale research, materials, fabrication methods, sensors or devices from lab results into manufacturable products, startups, process tools or industrial partnerships. It solves the gap between academic discovery and market impact. In today's Bengaluru INDIA NANO item, commercialization matters because the event theme and tracks focus on AI, semiconductors and practical deployment, but the proof is later MoUs, pilots, startups and manufacturing adoption. Example: a lab nanosensor becomes commercial only after manufacturable process, reliability, cost and customer use are proven.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-nanotechnology-commercialization)
+
+**Reference:** https://www.bengaluruindianano.in/conference.php
 
 [Back to A-Z index](#a-z-index)
 
@@ -4119,7 +4251,7 @@ Photoresist coating equipment applies a uniform light-sensitive polymer layer on
 
 Physical AI is AI used to understand, simulate, control, or optimize real-world physical systems such as robots, factories, vehicles, logistics networks, medical devices, and industrial equipment. It solves the gap between text or image intelligence and action in the physical world, where models must handle geometry, timing, sensors, safety, and feedback. In today's news, Japan's project matters because NVIDIA frames the AI infrastructure around robotics, digital twins, manufacturing, logistics, healthcare, and telecommunications. Example: a chatbot predicts words; physical AI may guide a robot arm or simulate a factory line.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai), [2026-07-29](../2026-07-29/README.md#daily-term-physical-ai)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai), [2026-07-29](../2026-07-29/README.md#daily-term-physical-ai), [2026-08-03](../2026-08-03/README.md#daily-term-physical-ai)
 
 **Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
 
@@ -4158,6 +4290,17 @@ Post-silicon validation is the process of exercising fabricated chips in real bo
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-power-factor-correction-pfc"></a>
+## Power factor correction (PFC)
+
+Power factor correction is a power-electronics function that shapes AC input current so electrical power is drawn more efficiently and with less reactive or distorted current. It solves the grid and power-supply efficiency problem when many high-power systems draw energy from AC mains. In today's Advanced Energy context, PFC matters because the company recently launched a high-density module, and AI data centers and semiconductor equipment both need efficient front-end power conversion. Comparison: poor power factor is like pulling current in messy bursts; PFC makes the load look cleaner to the grid and downstream converters.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-power-factor-correction-pfc)
+
+**Reference:** https://www.advancedenergy.com/en-us/products/dc-dc-conversion-products/encapsulated-pcb-mount/pfc-bmp/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-power-integrity"></a>
 ## Power integrity
 
@@ -4175,6 +4318,17 @@ A power semiconductor switches, controls, or converts electrical energy rather t
 **Appears in:** [2026-07-02](../2026-07-02/README.md#daily-term-power-semiconductor)
 
 **Reference:** https://www.infineon.com/press-release/2023/infxx202302-058
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-precision-power-conversion"></a>
+## Precision power conversion
+
+Precision power conversion is the controlled conversion, measurement and regulation of electrical power for mission-critical systems such as semiconductor equipment, data centers, medical devices and telecom infrastructure. It solves the problem that advanced equipment cannot tolerate unstable voltage, inefficient conversion or poor control during plasma, deposition, etch, test or high-density compute operation. In today's Advanced Energy item, it matters because the company serves semiconductor equipment and AI data-center power architecture, making its earnings a read-through for tool and infrastructure demand. Example: a fab etch chamber needs tightly controlled RF/plasma power; an AI rack needs efficient DC power delivery.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-precision-power-conversion)
+
+**Reference:** https://www.advancedenergy.com/en-us/about/
 
 [Back to A-Z index](#a-z-index)
 
@@ -4468,6 +4622,17 @@ A rack-scale AI solution is a complete compute system designed at the rack level
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-reference-design"></a>
+## Reference design
+
+A reference design is a validated example architecture, board, package, chiplet arrangement or system flow that partners can reuse as a starting point. It solves the adoption-risk problem because customers do not want to invent every interface, power tree, safety mechanism and validation method from zero. In today's AECP item, reference designs matter because imec says the program aims to accelerate standardization and practical implementation of chiplet technology. Comparison: a reference design is like a known-good recipe; customers can modify it, but the baseline has already been tested.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-reference-design)
+
+**Reference:** https://www.socionext.com/cn/pr/imec_AECP/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-register-transfer-level-rtl"></a>
 ## Register-transfer level (RTL)
 
@@ -4698,12 +4863,34 @@ Semicon 2.0 is the second phase of India's Semicon India Programme, approved wit
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-semicon-west"></a>
+## SEMICON West
+
+SEMICON West is SEMI's North American semiconductor industry event covering the electronics design and manufacturing supply chain, including fabs, equipment, materials, packaging, test, workforce and policy. It solves the coordination problem for a fragmented supply chain by putting toolmakers, suppliers, customers, governments and talent programs in one event cycle. In today's catch-up item, the Phoenix move matters because events tend to follow where manufacturing clusters, workforce programs and supplier ecosystems are growing. Example: moving the event does not create capacity, but it signals where the supply-chain center of gravity is shifting.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-semicon-west)
+
+**Reference:** https://www.semi.org/en/semi-press-release/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-semiconductor"></a>
 ## Semiconductor
 
 A semiconductor is a material whose electrical conductivity can be controlled, enabling devices such as diodes and transistors. In this project the word also refers broadly to the industry that designs, fabricates, packages, tests, and supplies integrated circuits.
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-cluster"></a>
+## Semiconductor cluster
+
+A semiconductor cluster is a geographic concentration of fabs, OSATs, equipment suppliers, materials companies, universities, utilities, workforce programs, logistics providers and government incentives. It solves the coordination and speed problem because semiconductor manufacturing depends on nearby suppliers, trained workers, reliable power/water, service engineers and repeatable logistics. In today's SEMICON West catch-up, Arizona's cluster matters because SEMI cites more than USD 200B in semiconductor investment since 2020 and workforce-development efforts as reasons Phoenix becomes the long-term home. Comparison: one fab is a facility; a cluster is the surrounding ecosystem that helps the facility ramp and survive.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-semiconductor-cluster)
+
+**Reference:** https://www.semi.org/en/semi-press-release/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027
 
 [Back to A-Z index](#a-z-index)
 
@@ -4798,11 +4985,11 @@ Semiconductor intellectual property is reusable or protectable chip-design knowl
 <a id="term-semiconductor-ip"></a>
 ## Semiconductor IP
 
-Semiconductor IP is a reusable design block such as a memory controller, interface PHY, processor core, security block or standard-cell library licensed into a chip. It solves the reuse and time-to-market problem: teams do not redesign every proven block from scratch. In today's Cadence report, IP matters because Cadence said IP revenue grew more than 40% year over year, helped by demand for Star IP and an Intel agreement. Example: buying PCIe or DDR controller IP is like using a qualified engine module instead of designing the entire engine yourself.
+Semiconductor IP is a pre-designed and often pre-verified block of logic, memory, interface, security, analog or subsystem circuitry licensed for use inside a custom SoC. It solves time-to-market and verification risk because chip designers do not want to recreate every PCIe, memory controller, SerDes, CPU subsystem or security block from scratch. In today's EDA export-control discussion, IP matters because restricting EDA alone may not be enough if design know-how and reusable blocks can be sourced, copied or replaced. Example: a USB controller IP block is like a certified component inside a larger chip design.
 
-**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-ip), [2026-07-28](../2026-07-28/README.md#daily-term-semiconductor-ip)
+**Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-semiconductor-ip), [2026-07-28](../2026-07-28/README.md#daily-term-semiconductor-ip), [2026-08-03](../2026-08-03/README.md#daily-term-semiconductor-ip)
 
-**Reference:** https://www.synopsys.com/glossary/what-is-semiconductor-ip.html
+**Reference:** https://www.synopsys.com/designware-ip.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -4814,6 +5001,17 @@ Semiconductor manufacturing equipment OEM sales are sales of original equipment 
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-semiconductor-manufacturing-equipment-oem-sales)
 
 **Reference:** https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-materials"></a>
+## Semiconductor materials
+
+Semiconductor materials are the wafers, gases, chemicals, precursors, photoresists, dielectrics, metals, slurries, filters, packaging materials and thermal materials used to build and package chips. They solve the physical manufacturing problem: design files cannot become working silicon without atom-level material control. In today's Qnity/Entegris item, materials matter because AI chips require advanced process chemistry, purity control, thermal paths and packaging integration, not only leading-edge lithography. Example: a small contaminant in a high-purity chemical can become a killer defect on a wafer.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-semiconductor-materials)
+
+**Reference:** https://www.entegris.com/en/home/about-us/news/news-archive.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -4949,6 +5147,17 @@ A signoff-ready flow is an EDA methodology that has been validated for final che
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-silicon-carbide-sic"></a>
+## Silicon carbide (SiC)
+
+Silicon carbide is a wide-bandgap semiconductor material used to switch and convert power efficiently at higher voltages, temperatures and power levels than ordinary silicon. It solves the power-electronics problem in EVs, industrial drives, charging, solar and energy infrastructure where lower losses and smaller systems matter. In today's onsemi earnings watch, SiC matters because automotive and industrial recovery can affect demand for power devices, modules and capacity utilization. Comparison: silicon is the traditional power device material; SiC handles tougher high-voltage/high-temperature work with better efficiency.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-silicon-carbide-sic)
+
+**Reference:** https://www.onsemi.com/solutions/technology/silicon-carbide-sic
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-silicon-to-systems"></a>
 ## Silicon to Systems
 
@@ -4996,11 +5205,11 @@ SOCAMM2 is a Samsung memory module/product family named in its Q2 2026 materials
 <a id="term-software-defined-vehicle-sdv"></a>
 ## Software-defined vehicle (SDV)
 
-An SDV is a vehicle whose features, safety behavior, infotainment, diagnostics, driver-assistance and update path are increasingly controlled by software running on centralized compute, networking and secure processors. It solves the vehicle-upgrade and complexity problem: instead of many isolated electronic control units, automakers can use more powerful compute platforms and software updates. In today's NXP result, SDV matters because NXP pointed to software-defined vehicles as a company-specific growth driver. VLSI example: SDVs need MCUs, processors, in-vehicle networking, power management, secure elements, radar and mixed-signal chips.
+A software-defined vehicle is a vehicle architecture where many features, controls, updates and user experiences are controlled by software running on centralized or zonal compute platforms rather than isolated fixed-function ECUs. It solves the flexibility and updateability problem in cars: automakers want to add, improve and monetize features after shipment. In today's AECP item, SDV matters because it increases demand for high-performance, reliable automotive compute, making chiplets and advanced packaging more relevant. Comparison: an older car has many separate appliance-like controllers; an SDV behaves more like a rolling compute platform.
 
-**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-software-defined-vehicle-sdv)
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-software-defined-vehicle-sdv), [2026-08-03](../2026-08-03/README.md#daily-term-software-defined-vehicle-sdv)
 
-**Reference:** https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results
+**Reference:** https://www.synopsys.com/blogs/chip-design/software-defined-vehicles-synopsys-arm.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -5343,6 +5552,17 @@ A test escape is a defective device that passes the applied manufacturing tests 
 **Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-test-escape)
 
 **Reference:** https://itctestweekindia.org/agenda
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-thermal-interface-material-tim"></a>
+## Thermal interface material (TIM)
+
+A thermal interface material is placed between a hot component and a heat spreader, lid, cold plate or heat sink to reduce microscopic air gaps and improve heat transfer. It solves the heat-removal problem in high-power chips and packages where poor thermal contact can throttle performance or reduce lifetime. In today's materials discussion, TIM matters because AI accelerators, HBM stacks and 2.5D/3D packages create high heat density that packaging materials must manage. Example: TIM is the bridge between a chip package and its cooling hardware; without it, heat transfer is much worse.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-thermal-interface-material-tim)
+
+**Reference:** https://www.edge-ai-vision.com/2025/09/thermal-interface-materials-the-critical-heat-transfer-frontier-in-advanced-semiconductor-packaging/
 
 [Back to A-Z index](#a-z-index)
 
@@ -5813,6 +6033,20 @@ A world model is a learned representation that predicts or reasons about how an 
 WSTS means World Semiconductor Trade Statistics. A three-month moving average smooths the latest month by averaging recent monthly revenue readings, reducing noise from calendar timing, shipments, and reporting volatility. It solves the problem of overreacting to one bumpy month. In this news, it matters because US$120.6 billion is a smoothed May sales figure, not necessarily the exact invoice total for one calendar month. Example: it is like averaging three ADC samples to reduce noise before interpreting a signal. Source: [SIA May 2026 sales release](https://www.semiconductors.org/global-semiconductor-sales-increase-9-2-month-to-month-in-may/) and [WSTS](https://www.wsts.org/)
 
 **Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-wsts-three-month-moving-average)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="letter-x"></a>
+# X
+
+<a id="term-xl-flash"></a>
+## XL-FLASH
+
+XL-FLASH is Kioxia's low-latency, high-performance flash memory designed to reduce the performance gap between volatile DRAM and ordinary NAND flash storage. It solves the problem that DRAM is fast but expensive and capacity-limited, while NAND is cheaper and persistent but traditionally too slow to behave like memory. In today's XL1 item, XL-FLASH is the physical media that makes a flash-backed CXL memory tier credible for less frequently accessed AI data. Comparison: ordinary SSD NAND is optimized for storage capacity; XL-FLASH is optimized to behave closer to storage-class memory.
+
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-xl-flash)
+
+**Reference:** https://europe.kioxia.com/en-mea/business/memory/xlflash.html
 
 [Back to A-Z index](#a-z-index)
 
