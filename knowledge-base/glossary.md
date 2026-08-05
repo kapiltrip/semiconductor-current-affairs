@@ -1,12 +1,12 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-03**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-05**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
 ## A-Z Index
 
-[0-9](#letter-0-9) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y)
+[0-9](#letter-0-9) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
 ## How To Use This Glossary
 
@@ -132,6 +132,17 @@ A 300mm fab uses circular silicon wafers about 300 millimeters in diameter, and 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-300mm-equivalent-wafer-shipment"></a>
+## 300mm-equivalent wafer shipment
+
+A 300mm-equivalent wafer shipment converts wafer output into a common 300 mm wafer basis so capacity can be compared across fabs and wafer sizes. It solves the reporting problem that a 200 mm wafer and a 300 mm wafer do not contain the same silicon area or die count. In today's GlobalFoundries result, 625,000 300mm-equivalent wafer shipments matter because they show foundry output volume rising 8% year over year and sequentially. Comparison: it is like converting different package sizes into one standard unit before comparing volume.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-300mm-equivalent-wafer-shipment)
+
+**Reference:** https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-3d-heterogeneous-integration"></a>
 ## 3D heterogeneous integration
 
@@ -140,6 +151,17 @@ A 300mm fab uses circular silicon wafers about 300 millimeters in diameter, and 
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-3d-heterogeneous-integration)
 
 **Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-3d-memory"></a>
+## 3D memory
+
+3D memory stacks memory cells, dies, or functional layers vertically so capacity, bandwidth, or proximity can rise without only expanding sideways on the package or board. It solves the area and interconnect problem as two-dimensional scaling becomes harder and AI systems demand more memory near compute. In today's Samsung item, 3D memory matters because zHBM and zNAND-O are both attempts to use vertical integration to improve AI memory architecture. Example: NAND flash already uses many vertical layers; HBM stacks DRAM dies; zHBM would push vertical stacking even closer to the accelerator.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-3d-memory)
+
+**Reference:** https://semiconductor.samsung.com/us/dram/hbm/
 
 [Back to A-Z index](#a-z-index)
 
@@ -218,6 +240,17 @@ A14 process technology is TSMC's next cutting-edge logic process after its 2 nm-
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-a14-process-technology)
 
 **Reference:** https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A14
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-adjusted-ebitda"></a>
+## Adjusted EBITDA
+
+Adjusted EBITDA is earnings before interest, taxes, depreciation, and amortization, further adjusted for selected items management excludes. It solves the business-comparison problem of estimating operating cash-like profitability across companies with different capital structures and depreciation schedules, but it is not the same as free cash flow. In today's Qnity guidance, adjusted EBITDA matters because materials suppliers are being valued on operating leverage from AI and advanced packaging demand. Comparison: EBITDA ignores many real costs; free cash flow asks how much cash remains after operating and capital needs.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-adjusted-ebitda)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/investor-alert-non-gaap-financial-measures
 
 [Back to A-Z index](#a-z-index)
 
@@ -370,6 +403,28 @@ An AI data center is a facility optimized for training or serving AI models usin
 **Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-ai-data-center)
 
 **Reference:** https://timesofindia.indiatimes.com/business/india-business/spains-submer-to-invest-2-billion-in-madhya-pradesh-semiconductor-sector-may-create-5000-jobs/articleshow/132362019.cms
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-data-center-power-supply"></a>
+## AI data-center power supply
+
+An AI data-center power supply converts and regulates electrical energy for dense AI servers, accelerator racks, memory, networking, cooling, and facility infrastructure. It solves the problem that AI clusters draw enormous, fast-changing power loads that must remain efficient and stable from grid to chip rails. In today's Infineon and onsemi follow-up context, power supplies matter because AI growth is now a semiconductor demand driver for MOSFETs, GaN, SiC, controllers, sensors, and voltage regulation. Example: increasing accelerator power can require redesigning rack-level power conversion, not just installing a bigger GPU.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-ai-data-center-power-supply)
+
+**Reference:** https://www.infineon.com/cms/en/applications/solutions/data-center/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-data-center-power-tree"></a>
+## AI data-center power tree
+
+An AI data-center power tree is the chain of electrical conversion stages that moves power from grid input to racks, boards, accelerator packages, memory, networking silicon, and voltage rails. It solves the problem that GPUs, CPUs, HBM, optics, fans, pumps, and storage all need different voltages with high efficiency and fast transient response. In today's onsemi, Advanced Energy, and Infineon-adjacent context, the power tree matters because AI growth is limited not only by chips but by the ability to deliver stable, efficient power to very dense racks. Example: a 48 V rack bus may be stepped down through converters to low-voltage rails near an accelerator package.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-ai-data-center-power-tree)
+
+**Reference:** https://www.onsemi.com/solutions/applications/data-center
 
 [Back to A-Z index](#a-z-index)
 
@@ -901,6 +956,17 @@ Capacity lead time is the delay between deciding to invest in a fab and actually
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-capacity-reservation-agreement"></a>
+## Capacity reservation agreement
+
+A capacity reservation agreement is a customer commitment that reserves future supply, production capacity, or product availability, often with commercial terms that can include prepayments, minimum purchases, or allocation rights. It solves the supply assurance problem when demand is high and customers fear shortages in critical chips or modules. In today's Infineon item, these agreements matter because the company said multi-year AI customer reservations are concluded or under negotiation with cumulative high-single-digit-billion-euro revenue potential. Comparison: a spot order buys what is available now; a reservation agreement tries to secure future capacity before it is scarce.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-capacity-reservation-agreement)
+
+**Reference:** https://www.infineon.com/press-release/2026/infpr202608-125
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-capacity-utilization"></a>
 ## Capacity utilization
 
@@ -1110,6 +1176,17 @@ CBA fabricates the NAND memory-cell array and CMOS control circuitry on separate
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-co-packaged-optics"></a>
+## Co-packaged optics
+
+Co-packaged optics places optical engines very close to switching or compute silicon, often inside the same package or module boundary, to reduce electrical trace length, power, and bandwidth bottlenecks. It solves the interconnect scaling problem as AI clusters require more network bandwidth per rack and per watt. In today's optical-module risk story, co-packaged optics matters because any restriction on optical supply chains can accelerate interest in domestic or alternate optical packaging ecosystems. Comparison: pluggable optical modules sit at the panel edge; co-packaged optics moves optical conversion closer to the switch ASIC.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-co-packaged-optics)
+
+**Reference:** https://www.oiforum.com/technical-work/hot-topics/co-packaging/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-commercial-production"></a>
 ## Commercial production
 
@@ -1151,6 +1228,17 @@ Component cost pressure is the squeeze created when parts such as memory, proces
 **Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-component-cost-pressure)
 
 **Reference:** https://apnews.com/article/94102918cb3592ebc1d2a38c4d7d819a
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-composable-infrastructure"></a>
+## Composable infrastructure
+
+Composable infrastructure means compute, memory, storage, and networking resources can be pooled and assigned dynamically to workloads instead of being fixed inside one rigid server. It solves the utilization problem where one system has idle storage or memory while another workload is starved. In today's PCIe Gen 6 storage demo, composability matters because fast switches make it easier to create disaggregated pools for AI training, inference, and data pipelines. Comparison: a fixed server is like a prebuilt desktop PC; composable infrastructure is like a lab bench where parts can be assigned to the experiment that needs them.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-composable-infrastructure)
+
+**Reference:** https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1340,6 +1428,17 @@ Data Center and AI is Intel's business segment for server and AI-oriented comput
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-data-center-segment"></a>
+## Data Center segment
+
+A Data Center segment is a company's reporting category for chips, systems, or services sold into server, cloud, AI, networking, and enterprise infrastructure customers. It solves the investor-analysis problem of separating AI/cloud demand from PCs, gaming, embedded, automotive, or consumer products. In today's AMD result, the Data Center segment matters because AMD said it represented 58% of company revenue, making server CPUs and AI accelerators the central demand proof point. Comparison: a gaming GPU sale and an AI accelerator sale may use related silicon skills, but the buyer, margin profile, software dependency, and supply-chain constraints are different.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-data-center-segment)
+
+**Reference:** https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-data-processing-unit-dpu"></a>
 ## Data processing unit (DPU)
 
@@ -1348,6 +1447,17 @@ A data processing unit is a programmable infrastructure processor that offloads 
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-data-processing-unit-dpu)
 
 **Reference:** https://newsroom.amd.com/news/microsoft-azure-ai-infrastructure/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-data-silo"></a>
+## Data silo
+
+A data silo is a store of data that is isolated by tool, department, vendor, security boundary, format, or ownership so it cannot easily be combined with related data. It solves local control and security needs but creates a factory-learning problem because yield or equipment issues often require cross-tool, cross-process context. In today's SEMI workshop, data silos matter because autonomous discovery and AI manufacturing require connecting metrology, inspection, process, maintenance, and product data safely. Example: lithography overlay data and etch defect data may be stored separately even when the root cause crosses both steps.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-data-silo)
+
+**Reference:** https://www.semi.org/en/event/ai-techniques-workshop
 
 [Back to A-Z index](#a-z-index)
 
@@ -1599,6 +1709,17 @@ Direct employment means jobs created inside the company or project itself, rathe
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-direct-employment)
 
 **Reference:** https://timesofindia.indiatimes.com/city/bhopal/mp-secures-proposed-rs-6200cr-semiconductor-investment/articleshow/132589604.cms
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-direct-liquid-cooling"></a>
+## Direct liquid cooling
+
+Direct liquid cooling places a liquid-cooled cold plate or fluid path close to hot components so heat moves into liquid instead of relying only on air. It solves the thermal problem in dense servers where air cooling cannot remove enough heat from CPUs, GPUs, memory, SSDs, and power devices. In today's Kioxia CM10/NX1 context, direct liquid cooling matters because storage is also becoming part of the high-density AI thermal design, not just GPUs. Comparison: air cooling is like using room air to remove heat; direct liquid cooling puts a heat-removal path directly on the component.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-direct-liquid-cooling)
+
+**Reference:** https://www.opencompute.org/wiki/Cooling_Environments/Advanced_Cooling_Solutions
 
 [Back to A-Z index](#a-z-index)
 
@@ -2117,11 +2238,11 @@ An exchange-traded fund is an investment fund traded on an exchange that usually
 <a id="term-expectations-risk"></a>
 ## Expectations risk
 
-Expectations risk is the chance that a stock falls despite good results because investors had already priced in even better outcomes. It solves the gap between business performance and market reaction: prices move against expectations, not only against absolute results. In today's news, TSMC can report record profit and still see pressure if investors worry about capex, valuation, or AI-demand sustainability.
+Expectations risk is the chance that a stock or sector falls even after good results because investors had already priced in an even stronger outcome. It solves the market-analysis problem of separating company performance from valuation and sentiment. In today's AMD follow-up, expectations risk matters because reporting said AMD beat or guided well but shares fell after hours as AI-chip expectations were already high. Example: an exam score of 90 can disappoint if everyone expected 98.
 
-**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-expectations-risk)
+**Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-expectations-risk), [2026-08-05](../2026-08-05/README.md#daily-term-expectations-risk)
 
-**Reference:** https://www.marketwatch.com/story/tsmc-posts-record-quarter-but-expectations-are-now-exceptionally-high-says-fund-manager-145cd3ab
+**Reference:** https://www.investopedia.com/market-update-amd-stock-earnings-q2-chipmaker-ai-12033859
 
 [Back to A-Z index](#a-z-index)
 
@@ -2565,6 +2686,17 @@ A GAAP loss is a net loss under generally accepted accounting principles, includ
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-gallium-nitride-gan"></a>
+## Gallium nitride (GaN)
+
+Gallium nitride is a wide-bandgap semiconductor material used for fast, efficient power switching at high frequency and high power density. It solves the power-conversion problem where ordinary silicon switches lose too much energy or require larger passive components at high switching speeds. In today's onsemi result, GaN matters because onsemi highlighted its GaNEXUS portfolio, linking power-device technology to AI data-center and high-efficiency power applications. Comparison: silicon carbide often fits very high-voltage EV and grid work; GaN often fits compact, high-frequency power supplies and adapters.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-gallium-nitride-gan)
+
+**Reference:** https://www.onsemi.com/solutions/technology/gallium-nitride-gan
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-gate-all-around-high-volume-manufacturing"></a>
 ## Gate-all-around high-volume manufacturing
 
@@ -2617,6 +2749,17 @@ A global value chain is the international network of companies, countries and pr
 **Appears in:** [2026-07-21](../2026-07-21/README.md#daily-term-global-value-chain-gvc)
 
 **Reference:** https://www.oecd.org/en/topics/sub-issues/global-value-and-supply-chains.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-gpu-direct-access"></a>
+## GPU direct access
+
+GPU direct access means a GPU can reach storage or memory resources with fewer CPU-mediated copies, reducing data-movement overhead between accelerator memory and storage. It solves the bottleneck where CPUs become traffic controllers for huge AI datasets even when GPUs are the real compute engines. In today's Kioxia GP1 FMS item, GPU direct access matters because high-IOPS SSDs are being positioned for AI workloads that need faster feeding of accelerators. Comparison: ordinary data loading may pass through CPU memory; GPU direct paths try to shorten that route.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-gpu-direct-access)
+
+**Reference:** https://developer.nvidia.com/gpudirect
 
 [Back to A-Z index](#a-z-index)
 
@@ -2775,12 +2918,23 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-high-iops"></a>
+## High IOPS
+
+High IOPS means high input/output operations per second, usually referring to how many small read or write operations a storage device can complete in one second. It solves the small-random-access problem in databases, metadata-heavy systems, AI data loading, retrieval, and cache workloads where large sequential bandwidth alone is not enough. In today's Kioxia item, high IOPS matters because AI systems may need many fast accesses rather than only streaming large files. Comparison: bandwidth measures how much cargo moves per second; IOPS measures how many trips can be completed.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-high-iops)
+
+**Reference:** https://nvmexpress.org/resources/nvme-technology/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-high-bandwidth-memory-hbm"></a>
 ## High-Bandwidth Memory (HBM)
 
 High-Bandwidth Memory is stacked DRAM connected with dense vertical and package-level interconnect so an accelerator can access memory with far more bandwidth and lower energy per bit than many ordinary off-package memory paths. It solves the AI memory-wall problem: accelerators can perform many operations, but they slow down if data cannot reach compute fast enough. In today's news, HBM matters because Alphabet cloud demand, Supermicro AI server mix, NVIDIA Japan systems, and SEMI DRAM equipment growth all depend on high-bandwidth memory capacity and packaging. A comparison: ordinary server DRAM is like a wider road outside the city; HBM is like building short, wide roads directly beside the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-02](../2026-08-02/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-02](../2026-08-02/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-04](../2026-08-04/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
 
@@ -3021,6 +3175,17 @@ Integrated circuit export value is the monetary value of ICs recorded as exporte
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-integrated-voltage-regulator-ivr"></a>
+## Integrated voltage regulator (IVR)
+
+An integrated voltage regulator places voltage-regulation circuitry closer to, or inside, the processor/package so power can be delivered with lower parasitic losses and faster response. It solves the power-delivery problem created by large AI chips whose current demand changes extremely quickly across many voltage domains. In today's GlobalFoundries item, IVR matters because the Photeon acquisition is tied to AI data-center power delivery. Comparison: a board-level regulator is farther from the load; an IVR moves regulation closer to the silicon that needs stable voltage.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-integrated-voltage-regulator-ivr)
+
+**Reference:** https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-intel-3"></a>
 ## Intel 3
 
@@ -3040,6 +3205,17 @@ Intel Foundry is Intel's contract manufacturing business that aims to make chips
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-intel-foundry)
 
 **Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-interconnect-solutions"></a>
+## Interconnect Solutions
+
+Interconnect Solutions are materials, films, dielectrics, adhesives, metallization, and integration technologies that help electrical signals and power move between dies, packages, boards, and systems. They solve the packaging and signal-integrity problem as chips move from single-die packages toward HBM, chiplets, 2.5D/3D integration, and dense AI boards. In today's Qnity result, Interconnect Solutions matter because the segment's growth was tied to AI, data centers, and advanced packaging. Example: compute dies need transistor scaling, but they also need package-level wiring to reach memory and other dies.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-interconnect-solutions)
+
+**Reference:** https://www.qnity.com/industries/semiconductor
 
 [Back to A-Z index](#a-z-index)
 
@@ -3084,7 +3260,7 @@ The KOSPI Market is the main stock market of the Korea Exchange for many of Sout
 
 KV cache is the stored set of key and value tensors created during transformer inference so the model does not recompute attention information for earlier tokens each time it generates a new token. It solves the latency and compute-waste problem in long-context AI inference: without caching, every generated token would repeatedly revisit the full prior sequence at high cost. In today's XCENA news, KV cache matters because long context windows make memory capacity and bandwidth a first-order bottleneck, so CXL-attached memory is being proposed for KV-cache sharing and offload. Example: for a chatbot conversation, the KV cache is like keeping a working index of earlier words so the model can continue quickly.
 
-**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache), [2026-08-02](../2026-08-02/README.md#daily-term-kv-cache)
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache), [2026-08-02](../2026-08-02/README.md#daily-term-kv-cache), [2026-08-04](../2026-08-04/README.md#daily-term-kv-cache)
 
 **Reference:** https://huggingface.co/docs/transformers/v4.45.2/kv_cache
 
@@ -3605,6 +3781,17 @@ MR-MUF stands for mass reflow molded underfill. It is a packaging process SK hyn
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-multi-agent-workflow"></a>
+## Multi-agent workflow
+
+A multi-agent workflow is an AI or automation system where multiple specialized agents handle separate tasks, exchange state, and coordinate toward an outcome under observable controls. It solves the complexity problem in manufacturing analysis where data cleaning, anomaly detection, recipe search, documentation, and decision support may require different tools and responsibilities. In today's SEMI workshop, multi-agent workflows matter because SEMI's agenda highlights observable and scalable approaches rather than black-box AI demos. Comparison: one chatbot gives answers; a multi-agent manufacturing workflow separates planner, data analyst, tool specialist, and verifier roles.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-multi-agent-workflow)
+
+**Reference:** https://www.semi.org/en/event/ai-techniques-workshop
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-multi-tenant-ai-factory"></a>
 ## Multi-tenant AI factory
 
@@ -3771,6 +3958,17 @@ Nanotechnology commercialization is the process of moving nanoscale research, ma
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-nanotechnology-roadmap"></a>
+## Nanotechnology roadmap
+
+A nanotechnology roadmap is a long-term plan that prioritizes research themes, infrastructure, talent, funding, industry collaboration, and commercialization paths for nanoscale science and engineering. It solves the policy problem of scattered research by turning conferences and labs into sequenced investment choices. In today's Karnataka item, the roadmap matters because semiconductors depend on nanoscale materials, process control, characterization, sensors, and packaging. Example: a roadmap can decide whether a state funds nano-characterization labs, semiconductor materials startups, or university-industry pilots.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-nanotechnology-roadmap)
+
+**Reference:** https://m.economictimes.com/news/india/karnataka-to-prepare-10-20-year-nanotechnology-roadmap-to-drive-research-and-innovation/articleshow/132937283.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-nasdaq-global-select-market"></a>
 ## Nasdaq Global Select Market
 
@@ -3832,6 +4030,17 @@ Node mix is the distribution of revenue, wafers, or products across process tech
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-node-mix)
 
 **Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-non-gaap"></a>
+## Non-GAAP
+
+Non-GAAP means a company reports adjusted financial measures that do not strictly follow Generally Accepted Accounting Principles, usually excluding items such as stock compensation, restructuring, acquisition costs, or one-time charges. It solves the business-analysis problem of separating recurring operating performance from special accounting items, but it can also make results look stronger if investors ignore what was excluded. In today's AMD, onsemi, and Advanced Energy results, non-GAAP figures matter because management and analysts often compare chip cycles using adjusted gross margin, operating income, and EPS. Example: GAAP EPS is the audited accounting view; non-GAAP EPS is management's adjusted operating view.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-non-gaap)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/investor-alert-non-gaap-financial-measures
 
 [Back to A-Z index](#a-z-index)
 
@@ -4036,6 +4245,17 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-optical-transceiver"></a>
+## Optical transceiver
+
+An optical transceiver is a module that converts electrical data signals into optical signals for fiber transmission and converts received optical signals back into electrical form. It solves the high-bandwidth networking problem in data centers, where copper links become too lossy or power-hungry over distance. In today's reported U.S. policy item, optical transceivers matter because AI clusters need massive east-west bandwidth between accelerators, switches, and racks, and Chinese suppliers are major participants in this component chain. Comparison: a NIC speaks electrical signals inside a server; an optical transceiver is the light-based doorway to the fiber network.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver)
+
+**Reference:** https://www.ieee802.org/3/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-optoelectronics"></a>
 ## Optoelectronics
 
@@ -4066,6 +4286,17 @@ Order intake is the value of new customer orders booked during a period. It solv
 **Appears in:** [2026-07-11](../2026-07-11/README.md#daily-term-order-intake), [2026-07-12](../2026-07-12/README.md#daily-term-order-intake), [2026-07-15](../2026-07-15/README.md#daily-term-order-intake)
 
 **Reference:** https://www.asml.com/en/news/press-releases/2026/q1-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-organic-sales"></a>
+## Organic sales
+
+Organic sales growth measures revenue growth from the existing business after excluding effects such as acquisitions, divestitures, or currency swings. It solves the analysis problem of telling whether demand truly grew in the core business rather than only through corporate transactions. In today's Qnity result, organic sales growth matters because the company reported strong growth in semiconductor materials demand, especially around AI, data centers, and advanced packaging. Example: if a company buys another company, reported sales can rise even without more customer demand; organic sales tries to remove that distortion.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-organic-sales)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/investor-alert-non-gaap-financial-measures
 
 [Back to A-Z index](#a-z-index)
 
@@ -4171,6 +4402,28 @@ PCIe 6.x refers to the sixth generation PCI Express interconnect family, with PC
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-pcie-fanout-switch"></a>
+## PCIe fanout switch
+
+A PCIe fanout switch is a switching chip that connects one or more host processors to many downstream PCIe devices such as SSDs, GPUs, NICs, or accelerators. It solves the topology problem when a single CPU root complex lacks enough direct lanes or when many high-bandwidth devices need flexible connectivity. In today's Microchip-Micron demo, the Switchtec Gen 6 fanout switch matters because it sits between host processors and multiple Micron SSDs so drives can run nearer their full PCIe 6 potential. Example: it acts like a traffic interchange between the host and many fast endpoints, not like a simple cable.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-pcie-fanout-switch)
+
+**Reference:** https://www.globenewswire.com/news-release/2026/08/04/3338174/0/en/microchip-technology-in-collaboration-with-micron-technology-demonstrates-high-performance-pcie-gen-6-storage-architecture-for-ai-and-data-center-infrastructure.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-pcie-gen-6"></a>
+## PCIe Gen 6
+
+PCIe Gen 6 is the sixth generation of the PCI Express interconnect standard, doubling the raw transfer rate of PCIe Gen 5 to 64 GT/s per lane and using newer signaling and error-control methods to keep bandwidth rising. It solves the system bottleneck where CPUs, GPUs, SSDs, network devices, and accelerators need more I/O bandwidth than older PCIe links can provide. In today's Microchip-Micron, Marvell, and Kioxia FMS items, PCIe Gen 6 matters because storage and switching must keep up with AI accelerators and shared memory tiers. Comparison: PCIe Gen 5 is a high-speed highway; Gen 6 adds more lanes of effective data movement per physical lane.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-pcie-gen-6)
+
+**Reference:** https://pcisig.com/pcie-60-specification
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-pdk"></a>
 ## PDK
 
@@ -4251,7 +4504,7 @@ Photoresist coating equipment applies a uniform light-sensitive polymer layer on
 
 Physical AI is AI used to understand, simulate, control, or optimize real-world physical systems such as robots, factories, vehicles, logistics networks, medical devices, and industrial equipment. It solves the gap between text or image intelligence and action in the physical world, where models must handle geometry, timing, sensors, safety, and feedback. In today's news, Japan's project matters because NVIDIA frames the AI infrastructure around robotics, digital twins, manufacturing, logistics, healthcare, and telecommunications. Example: a chatbot predicts words; physical AI may guide a robot arm or simulate a factory line.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai), [2026-07-29](../2026-07-29/README.md#daily-term-physical-ai), [2026-08-03](../2026-08-03/README.md#daily-term-physical-ai)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-physical-ai), [2026-07-29](../2026-07-29/README.md#daily-term-physical-ai), [2026-08-03](../2026-08-03/README.md#daily-term-physical-ai), [2026-08-05](../2026-08-05/README.md#daily-term-physical-ai)
 
 **Reference:** https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure
 
@@ -4324,9 +4577,9 @@ A power semiconductor switches, controls, or converts electrical energy rather t
 <a id="term-precision-power-conversion"></a>
 ## Precision power conversion
 
-Precision power conversion is the controlled conversion, measurement and regulation of electrical power for mission-critical systems such as semiconductor equipment, data centers, medical devices and telecom infrastructure. It solves the problem that advanced equipment cannot tolerate unstable voltage, inefficient conversion or poor control during plasma, deposition, etch, test or high-density compute operation. In today's Advanced Energy item, it matters because the company serves semiconductor equipment and AI data-center power architecture, making its earnings a read-through for tool and infrastructure demand. Example: a fab etch chamber needs tightly controlled RF/plasma power; an AI rack needs efficient DC power delivery.
+Precision power conversion is tightly controlled conversion, measurement, and regulation of electrical power for systems that cannot tolerate unstable voltage or inefficient delivery, including semiconductor manufacturing equipment and AI data centers. It solves the manufacturing and infrastructure problem that plasma tools, deposition tools, etch chambers, inspection systems, and dense AI racks need accurate, reliable power under changing loads. In today's Advanced Energy result, record semiconductor revenue matters because precision power demand can reveal upstream tool and fab activity before finished chips ship. Example: a fab plasma etch tool needs carefully controlled RF power; an AI rack needs efficient DC conversion across many boards.
 
-**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-precision-power-conversion)
+**Appears in:** [2026-08-03](../2026-08-03/README.md#daily-term-precision-power-conversion), [2026-08-04](../2026-08-04/README.md#daily-term-precision-power-conversion)
 
 **Reference:** https://www.advancedenergy.com/en-us/about/
 
@@ -4688,6 +4941,17 @@ RPO is contracted revenue that a company has not yet recognized in its income st
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-reported-draft-ban"></a>
+## Reported draft ban
+
+A reported draft ban is a media-reported policy proposal that has not yet become a final, enforceable regulation or order. It solves no legal requirement by itself; it is a risk signal that researchers must track separately from binding action. In today's optical-transceiver story, this matters because Guardian, Caixin, and market reports describe FCC-related draft activity, but no final BIS or FCC rule was verified in this run. Example: a draft policy can move stocks immediately, but companies usually cannot determine compliance obligations until final text is issued.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-reported-draft-ban)
+
+**Reference:** https://www.bis.gov/news-updates
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-return-on-invested-capital"></a>
 ## Return on invested capital
 
@@ -4718,6 +4982,17 @@ An RF, or radio-frequency, component processes signals in frequency ranges used 
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-rf-component)
 
 **Reference:** https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-risc-v-processor-ip"></a>
+## RISC-V processor IP
+
+RISC-V processor IP is a licensable processor design based on the open RISC-V instruction set architecture, packaged with implementation files, verification collateral, software tools, and integration support. It solves the custom-compute problem by letting chipmakers add configurable CPU cores without designing an instruction set and toolchain from zero. In today's GlobalFoundries release, RISC-V IP matters because GF says the Synopsys ARC Processor IP acquisition with MIPS adds processor IP and software tools for Physical AI custom design and manufacturing. Comparison: the ISA is the language; processor IP is a working core design that speaks that language.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-risc-v-processor-ip)
+
+**Reference:** https://riscv.org/about/
 
 [Back to A-Z index](#a-z-index)
 
@@ -4849,6 +5124,17 @@ A secure element is a tamper-resistant chip subsystem that stores secret keys an
 **Appears in:** [2026-07-05](../2026-07-05/README.md#daily-term-secure-element)
 
 **Reference:** https://newsroom.st.com/media-center/press-item.html/p4784.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-segment-result"></a>
+## Segment Result
+
+Segment Result is Infineon's internal profitability measure for each operating segment after allocating directly attributable revenues and costs under the company's reporting method. It solves the business-analysis problem of seeing operating strength by segment without treating every accounting item as core business performance. In today's Infineon result, Segment Result and Segment Result Margin matter because management used them to show profitability while AI data-center power and automotive recovery shape guidance. Example: revenue tells how much was sold; segment result indicates how much operating profit the segment generated under management's measure.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-segment-result)
+
+**Reference:** https://www.infineon.com/press-release/2026/infpr202608-125
 
 [Back to A-Z index](#a-z-index)
 
@@ -5158,6 +5444,28 @@ Silicon carbide is a wide-bandgap semiconductor material used to switch and conv
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-silicon-germanium-sige"></a>
+## Silicon germanium (SiGe)
+
+Silicon germanium is a semiconductor alloy that combines silicon with germanium to improve carrier mobility and high-frequency performance for RF, analog, optical, and mixed-signal devices. It solves the performance problem for circuits that need faster analog/RF behavior than ordinary silicon CMOS can provide while still using silicon manufacturing infrastructure. In today's GlobalFoundries release, SiGe matters because the company links it with optical networking and AI data-center growth. Example: SiGe BiCMOS can support high-speed optical transceiver and RF front-end circuits.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-silicon-germanium-sige)
+
+**Reference:** https://gf.com/technology-platforms/sige/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-silicon-photonics"></a>
+## Silicon photonics
+
+Silicon photonics integrates optical components such as modulators, waveguides, photodetectors, and sometimes lasers or laser-coupling structures on silicon-based platforms to move data using light. It solves the bandwidth, latency, and energy problem of moving huge data volumes between chips, boards, racks, and data centers when electrical links become too power-hungry or bandwidth-limited. In today's GlobalFoundries result and reported optical-module policy story, silicon photonics matters because AI clusters need high-speed optical networking and supply-chain resilience. Comparison: copper electrical links are useful over short distances; optical links carry more data farther with lower loss in many high-speed cases.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-silicon-photonics)
+
+**Reference:** https://gf.com/technology-platforms/silicon-photonics/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-silicon-to-systems"></a>
 ## Silicon to Systems
 
@@ -5188,6 +5496,17 @@ SMART Lab stands for Skilled Manpower Advanced Research and Training Lab, a trai
 **Appears in:** [2026-07-31](../2026-07-31/README.md#daily-term-smart-lab)
 
 **Reference:** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291667
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-smart-manufacturing"></a>
+## Smart manufacturing
+
+Smart manufacturing uses data, sensors, automation, analytics, AI, and connected workflows to improve factory decisions, yield, maintenance, scheduling, and process control. It solves the problem that advanced semiconductor fabs generate huge amounts of process data that humans cannot manually interpret fast enough. In today's SEMI workshop, smart manufacturing matters because the focus is AI techniques deployed inside semiconductor manufacturing, not only AI chips sold to customers. Example: predictive maintenance on a deposition tool is smart manufacturing; a standalone spreadsheet after a failure is not enough.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-smart-manufacturing)
+
+**Reference:** https://www.semi.org/en/communities/smart-manufacturing
 
 [Back to A-Z index](#a-z-index)
 
@@ -5282,11 +5601,11 @@ SRAM is fast on-chip memory made from transistor latch cells. It avoids refresh 
 <a id="term-ssd-controller"></a>
 ## SSD controller
 
-An SSD controller is the processor and logic subsystem inside the drive that schedules reads and writes, maps logical addresses to NAND locations, performs error correction, manages wear leveling, handles security, and communicates with the host. It solves the problem that raw NAND is not directly usable as a reliable block device. In PM1763, Samsung highlights a newly developed 4 nm controller, which suggests that controller performance and power are now strategic parts of AI-storage design, not secondary details.
+An SSD controller is the processor and firmware engine inside a solid-state drive that manages NAND flash, error correction, wear leveling, host interface traffic, queueing, encryption, and performance scheduling. It solves the problem that raw NAND cells are slow, error-prone, and wear-limited unless a controller hides those details from the host system. In today's Marvell Bravera SC6 item, the SSD controller matters because PCIe 6 AI storage performance depends on controller architecture, not only NAND capacity. Example: NAND is the storage media; the controller is the traffic manager and reliability engine.
 
-**Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-ssd-controller)
+**Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-ssd-controller), [2026-08-04](../2026-08-04/README.md#daily-term-ssd-controller)
 
-**Reference:** https://news.samsung.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure
+**Reference:** https://www.marvell.com/products/storage/bravera-storage-controllers.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -5552,6 +5871,17 @@ A test escape is a defective device that passes the applied manufacturing tests 
 **Appears in:** [2026-07-19](../2026-07-19/README.md#daily-term-test-escape)
 
 **Reference:** https://itctestweekindia.org/agenda
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-thermal-density"></a>
+## Thermal density
+
+Thermal density is the amount of heat generated per unit area or volume, especially inside a chip, package, rack, or module. It solves no problem by itself; it is the constraint designers must manage so devices do not throttle, fail reliability tests, or damage nearby components. In today's Samsung zHBM discussion, thermal density matters because stacking hot logic and memory vertically can shorten connections but makes heat removal much harder. Comparison: spreading heat across a table is easier than stacking many hot plates on top of each other.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-thermal-density)
+
+**Reference:** https://semiengineering.com/knowledge_centers/packaging/thermal-management/
 
 [Back to A-Z index](#a-z-index)
 
@@ -5885,6 +6215,17 @@ Very-large-scale integration is the design and manufacture of integrated circuit
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-vlsi-centre-of-excellence"></a>
+## VLSI Centre of Excellence
+
+A VLSI Centre of Excellence is an organized academic-industry-government hub for chip design, verification, fabrication awareness, tools, curriculum, projects, and talent development. It solves the ecosystem problem that semiconductor capability requires coordinated labs, mentors, EDA access, industry projects, and long training cycles rather than isolated classroom theory. In today's NITK C-VISTA item, the concept matters because India needs VLSI skill depth to support design, verification, packaging, testing, and eventual manufacturing. Example: a good center should create tapeout-ready and test-ready engineers, not only host seminars.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-vlsi-centre-of-excellence)
+
+**Reference:** https://timesofindia.indiatimes.com/city/mangaluru/nitk-hosts-founding-conclave-for-new-semiconductor-centre/articleshow/132868140.cms
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-w"></a>
 # W
 
@@ -6027,6 +6368,17 @@ A world model is a learned representation that predicts or reasons about how an 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-write-amplification"></a>
+## Write amplification
+
+Write amplification is the effect where an SSD writes more physical NAND data than the host requested because of garbage collection, wear leveling, metadata updates, and block erase constraints. It solves nothing by itself; it is a cost that SSD controllers try to reduce so endurance, latency, and performance improve. In today's Marvell item, lower write amplification matters because AI data pipelines and cache workloads can stress SSD endurance. Example: if the host writes 1 GB but the SSD internally writes 3 GB, write amplification is 3x.
+
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-write-amplification)
+
+**Reference:** https://www.micron.com/about/blog/storage/ssd/what-is-write-amplification
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-wsts-three-month-moving-average"></a>
 ## WSTS three-month moving average
 
@@ -6094,6 +6446,31 @@ Yield ramp is the process of improving the percentage of good dies or packages a
 **Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-yield-ramp)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="letter-z"></a>
+# Z
+
+<a id="term-zhbm"></a>
+## zHBM
+
+zHBM is Samsung's concept for vertically stacking high-bandwidth memory directly above AI accelerators rather than placing HBM stacks beside the processor on an interposer. It solves the package-distance and bandwidth-density problem by trying to shorten the physical connection between memory and compute, but it creates harder thermal, yield, bonding, and test challenges. In today's Samsung FMS item, zHBM matters because it points to a possible post-side-by-side HBM architecture for AI infrastructure. Comparison: conventional HBM sits next to the GPU; zHBM imagines memory above the accelerator like floors on top of a compute building.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-zhbm)
+
+**Reference:** https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-znand-o"></a>
+## zNAND-O
+
+zNAND-O is Samsung's next-generation 3D memory concept presented at FMS 2026 as part of its AI infrastructure memory vision. It solves the problem of pushing NAND or storage-class memory closer to high-performance AI data paths, though Samsung's public announcement gives concept-level direction rather than full production specifications. In today's note, zNAND-O matters because memory vendors are exploring vertical, 3D, and near-compute forms beyond ordinary SSD placement. Comparison: ordinary NAND is usually behind an SSD controller; zNAND-O points toward a more tightly integrated 3D memory role.
+
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-znand-o)
+
+**Reference:** https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure
 
 [Back to A-Z index](#a-z-index)
 
