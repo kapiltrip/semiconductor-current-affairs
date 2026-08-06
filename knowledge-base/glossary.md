@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-05**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-06**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -218,6 +218,17 @@ A 3D-IC is a three-dimensional integrated circuit or package architecture where 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-4d-nand"></a>
+## 4D NAND
+
+4D NAND is SK hynix's branding for a 3D NAND architecture that places peripheral control circuitry under the memory cell array, improving die area efficiency and performance scaling. It solves the physical-scaling problem where adding more NAND layers and peripheral circuits can make die size, cost, and power harder to manage. In today's HBF/FMS item, 4D NAND matters because SK hynix showcased a tenth-generation 375-layer version as part of its AI memory/storage roadmap. Comparison: ordinary 3D NAND stacks cells vertically; 4D NAND also optimizes where support circuitry sits.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-4d-nand)
+
+**Reference:** https://news.skhynix.com/en/hbf-at-fms-2026/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-6-inch-wafer-line"></a>
 ## 6-inch wafer line
 
@@ -329,6 +340,17 @@ In TSMC's reporting, advanced technologies are process nodes at 7 nm and more ad
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-advanced-verification"></a>
+## Advanced verification
+
+Advanced verification is the use of systematic methods such as constrained-random simulation, formal verification, emulation, assertion-based checks, coverage closure, protocol compliance, and hardware/software co-verification to prove a chip behaves correctly before tapeout. It solves the correctness problem that modern SoCs are too complex to test by hand or by a few directed tests. In today's SEMICON India Hackathon item, advanced verification matters because India talent programs are explicitly targeting verification depth. Example: a PCIe controller may pass simple tests but fail rare ordering, reset, or error-handling cases unless advanced verification finds them.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-advanced-verification)
+
+**Reference:** https://semiengineering.com/knowledge_centers/eda-design/verification/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-agentic-ai"></a>
 ## Agentic AI
 
@@ -428,6 +450,17 @@ An AI data-center power tree is the chain of electrical conversion stages that m
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-fabric-switch"></a>
+## AI fabric switch
+
+An AI fabric switch is a high-bandwidth switching chip or device that connects accelerators, CPUs, memory expanders, storage, and networking endpoints inside rack-scale AI systems. It solves the data-movement problem where many devices must communicate at high speed without being trapped behind a single host or fixed topology. In today's Astera result, Scorpio fabric switches matter because management expects them to become the company's largest product family in Q3. Comparison: a server motherboard switch connects local devices; an AI fabric switch helps build a rack-scale system fabric.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-ai-fabric-switch)
+
+**Reference:** https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ai-factory"></a>
 ## AI factory
 
@@ -447,6 +480,17 @@ AI for Design means using AI inside the engineering workflow: creating tests, fi
 **Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-ai-for-design)
 
 **Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-in-eda"></a>
+## AI in EDA
+
+AI in EDA means using machine learning or agentic systems to assist chip-design tasks such as verification, synthesis, placement, routing, timing closure, power analysis, debugging, and design-space exploration. It solves the productivity problem caused by enormous VLSI complexity and limited expert engineering time, but results must still be verified through formal, simulation, signoff, and silicon checks. In today's SEMICON India Hackathon item, AI in EDA matters because it appears as an official challenge area for student innovation. Comparison: AI may suggest a floorplan, but signoff tools still prove whether timing, power, and DRC rules pass.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-ai-in-eda)
+
+**Reference:** https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1295,6 +1339,17 @@ Chip-on-panel-on-substrate, a panel-level packaging direction intended to improv
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-countermeasure-list"></a>
+## Countermeasure list
+
+A countermeasure list is a government sanctions or restrictions mechanism used to impose limits on named foreign entities in response to actions the government considers harmful. It solves the policy-enforcement problem of targeting specific companies without banning all trade in a sector. In today's China-U.S. tech-control update, the term matters because Xinhua reported China placed Compliance Testing LLC on its countermeasure list effective August 5. Example: being listed can restrict transactions, cooperation, or other activities with the named entity inside that jurisdiction.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-countermeasure-list)
+
+**Reference:** https://www.xinhuanet.com/english/20260805/e2b99f908f5047e7afba398eda2c1651/c.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-coverage-closure"></a>
 ## Coverage closure
 
@@ -1458,6 +1513,17 @@ A data silo is a store of data that is isolated by tool, department, vendor, sec
 **Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-data-silo)
 
 **Reference:** https://www.semi.org/en/event/ai-techniques-workshop
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-datacenter-revenue"></a>
+## Datacenter revenue
+
+Datacenter revenue is sales tied to cloud, hyperscaler, enterprise, AI infrastructure, storage, networking, and server customers rather than consumer or client devices. It solves the business-analysis problem of separating infrastructure demand from PCs, phones, cameras, or retail storage. In today's Sandisk result, datacenter revenue matters because it rose sharply and shows AI infrastructure is pulling NAND flash and storage capacity, not only GPUs and HBM. Example: a flash device sold into a hyperscale AI cluster counts differently from a consumer USB drive even if both use NAND.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-datacenter-revenue)
+
+**Reference:** https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-fourth-quarter-2026-financial-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -2235,6 +2301,17 @@ An exchange-traded fund is an investment fund traded on an exchange that usually
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-exclusivity-signal"></a>
+## Exclusivity signal
+
+An exclusivity signal is a statement or reported commercial direction suggesting that a major buyer intends to rely primarily or exclusively on one supplier for a future technology layer. It solves no engineering problem by itself; it is market evidence about customer preference, supply allocation, and competitive positioning. In today's Nvidia/SpaceX reporting, the signal matters because reported comments that SpaceX will use Nvidia chips exclusively lifted Nvidia sentiment and pressured rivals such as AMD. Example: an exclusive accelerator commitment can move stocks even before purchase-order details are public.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-exclusivity-signal)
+
+**Reference:** https://www.investopedia.com/market-update-nvidia-stock-is-on-the-rise-after-elon-musk-says-spacex-will-exclusively-buy-its-chips-nvda-spcx-12034923
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-expectations-risk"></a>
 ## Expectations risk
 
@@ -2620,11 +2697,11 @@ FP4 and FP8 are low-precision floating-point number formats that use fewer bits 
 <a id="term-free-cash-flow"></a>
 ## Free cash flow
 
-Free cash flow is cash generated from operations after capital spending needed to run or expand the business. It solves the cash-quality question: accounting profit can be strong while cash generation is weak, especially in capital-intensive sectors. In today's NXP and KLA results, free cash flow matters because both companies returned capital to shareholders while still funding operations and investment. Example: profit is an accounting view; free cash flow asks how much cash remains after the factory/tool/software business keeps itself running.
+Free cash flow is cash generated from operations minus capital expenditures, showing cash left after funding the assets needed to run and grow the business. It solves the quality-of-earnings problem because high accounting profit is less useful if the company must spend nearly all cash on factories, tools, inventory, or infrastructure. In today's WD and Sandisk context, free cash flow matters because storage companies are using AI demand to generate cash, repurchase shares, pay dividends, or fund future capacity. Example: net income is an accounting result; free cash flow asks how much cash remains after investment needs.
 
-**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-free-cash-flow)
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-free-cash-flow), [2026-08-06](../2026-08-06/README.md#daily-term-free-cash-flow)
 
-**Reference:** https://media.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-second-quarter-2026-results
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/free-cash-flow
 
 [Back to A-Z index](#a-z-index)
 
@@ -2788,6 +2865,17 @@ Gross margin is revenue minus cost of goods sold, expressed as a percentage of r
 <a id="letter-h"></a>
 # H
 
+<a id="term-hard-disk-drive-hdd"></a>
+## Hard disk drive (HDD)
+
+A hard disk drive stores data magnetically on spinning platters read and written by moving heads. It solves the cold and warm data capacity problem because HDDs can offer very low cost per terabyte for large datasets, backups, logs, media, and cloud object storage. In today's WD result, HDD matters because AI creates massive data storage needs even when compute hot paths use HBM, DRAM, and SSDs. Comparison: SSDs are faster and more shock-resistant; HDDs are usually cheaper for very large capacity.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-hard-disk-drive-hdd)
+
+**Reference:** https://www.westerndigital.com/solutions/data-center
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-hardware-accelerator"></a>
 ## Hardware accelerator
 
@@ -2915,6 +3003,17 @@ HBC is Qualcomm's data-center memory/compute architecture for inference accelera
 **Appears in:** [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-compute-hbc)
 
 **Reference:** https://www.qualcomm.com/news/releases/2026/06/qualcomm-unveils-comprehensive-data-center-roadmap-for-the-agent
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-high-bandwidth-flash-hbf"></a>
+## High Bandwidth Flash (HBF)
+
+High Bandwidth Flash is a proposed NAND-based memory tier that aims to provide much higher bandwidth than ordinary SSD storage while offering more capacity than HBM, using stacked flash and a high-speed processor interface. It solves the AI inference problem where models, KV caches, embeddings, and long-context data may be too large for HBM but too latency-sensitive for ordinary SSD access. In today's SK hynix-Sandisk news, HBF matters because the first open standard specifications were disclosed through OCP at FMS 2026. Comparison: HBM is fastest and closest, HBF aims to be larger and still package-close, and SSDs provide broader persistent storage.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-high-bandwidth-flash-hbf)
+
+**Reference:** https://news.skhynix.com/en/hbf-at-fms-2026/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3875,7 +3974,7 @@ Nameplate capacity is the maximum designed output quoted for a plant under assum
 
 NAND flash is non-volatile semiconductor storage: it retains bits after power is removed. Cells are arranged so many bits can be stored densely and written or erased in blocks, which lowers cost per bit but makes random byte-level updates more complex than DRAM. It solves persistent-storage needs in SSDs, phones, vehicles, and AI data pipelines. SK hynix's M17 plan matters because AI systems need not only HBM and compute but also large storage tiers for datasets, checkpoints, retrieval, logs, and model distribution. Compare NAND with DRAM: NAND is denser and persistent but slower and wears with program/erase cycles.
 
-**Appears in:** [2026-06-27](../2026-06-27/README.md#daily-term-nand-flash), [2026-07-02](../2026-07-02/README.md#daily-term-nand-flash), [2026-07-07](../2026-07-07/README.md#daily-term-nand-flash), [2026-08-01](../2026-08-01/README.md#daily-term-nand-flash)
+**Appears in:** [2026-06-27](../2026-06-27/README.md#daily-term-nand-flash), [2026-07-02](../2026-07-02/README.md#daily-term-nand-flash), [2026-07-07](../2026-07-07/README.md#daily-term-nand-flash), [2026-08-01](../2026-08-01/README.md#daily-term-nand-flash), [2026-08-06](../2026-08-06/README.md#daily-term-nand-flash)
 
 **Reference:** https://news.skhynix.com/fact-07/
 
@@ -4013,6 +4112,17 @@ Network transport is the layer that moves data reliably and efficiently between 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-new-business-model-agreement"></a>
+## New Business Model agreement
+
+A New Business Model agreement is Sandisk's label for customer agreements intended to deepen long-term datacenter relationships and reduce storage-cycle volatility through more structured commercial commitments. It solves the business problem that memory and storage suppliers historically swing between shortages and oversupply, so customers and suppliers want clearer supply, pricing, and capacity visibility. In today's Sandisk result, NBMs matter because the company said it added five more agreements after announcing five in April. Example: it is closer to a strategic supply arrangement than a one-off spot sale, but the exact terms are company-specific and not fully public.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-new-business-model-agreement)
+
+**Reference:** https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-fourth-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-node"></a>
 ## Node
 
@@ -4121,6 +4231,17 @@ NVMe, or Non-Volatile Memory Express, is a storage protocol designed for flash a
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-nvme-power-limit-configuration"></a>
+## NVMe power limit configuration
+
+NVMe power limit configuration is a proposed or emerging NVMe capability that lets a host enforce strict power caps on storage devices beyond ordinary predefined power states. It solves the platform power-budget problem where servers, laptops, and dense AI systems need predictable SSD behavior from boot through runtime. In today's FMS standards context, it matters because NVM Express sessions included power and voltage telemetry proposals for next-generation SSDs. Example: instead of trusting an SSD's generic power state, the host can set a tighter power ceiling for the platform.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-nvme-power-limit-configuration)
+
+**Reference:** https://nvmexpress.org/event/future-of-memory-and-storage-fms-2026/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-o"></a>
 # O
 
@@ -4212,6 +4333,17 @@ An open accelerator interconnect is a standards-based connection approach for li
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-open-compute-project-ocp"></a>
+## Open Compute Project (OCP)
+
+Open Compute Project is an industry organization that publishes open hardware designs, specifications, and best practices for data-center infrastructure. It solves the ecosystem problem where hyperscalers, chipmakers, system builders, and suppliers need shared standards to reduce fragmentation and speed adoption. In today's HBF item, OCP matters because SK hynix and Sandisk disclosed HBF specifications through OCP to position the technology as an open industry standard rather than a proprietary memory island. Example: OCP can make a rack, storage, or memory specification easier for multiple vendors to implement.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-open-compute-project-ocp)
+
+**Reference:** https://www.opencompute.org/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-open-weight-ai-model"></a>
 ## Open-weight AI model
 
@@ -4250,7 +4382,7 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 An optical transceiver is a module that converts electrical data signals into optical signals for fiber transmission and converts received optical signals back into electrical form. It solves the high-bandwidth networking problem in data centers, where copper links become too lossy or power-hungry over distance. In today's reported U.S. policy item, optical transceivers matter because AI clusters need massive east-west bandwidth between accelerators, switches, and racks, and Chinese suppliers are major participants in this component chain. Comparison: a NIC speaks electrical signals inside a server; an optical transceiver is the light-based doorway to the fiber network.
 
-**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver)
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver), [2026-08-06](../2026-08-06/README.md#daily-term-optical-transceiver)
 
 **Reference:** https://www.ieee802.org/3/
 
@@ -4952,6 +5084,17 @@ A reported draft ban is a media-reported policy proposal that has not yet become
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-retimer"></a>
+## Retimer
+
+A retimer is a signal-conditioning chip that receives a high-speed signal, cleans up timing and noise, and retransmits it so the link can travel farther or remain reliable at higher data rates. It solves the signal-integrity problem in PCIe, CXL, Ethernet, and other high-speed links where loss, jitter, crosstalk, and board/package effects degrade the signal. In today's Astera news, retimers matter because 224G Ethernet, PCIe, CXL, and rack-scale AI links need clean signals across boards, cables, and modules. Comparison: a redriver boosts a signal; a retimer fully recovers clock/data and retransmits a cleaner signal.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-retimer)
+
+**Reference:** https://www.asteralabs.com/products/taurus/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-return-on-invested-capital"></a>
 ## Return on invested capital
 
@@ -5408,6 +5551,17 @@ Dilution is the reduction in an existing shareholder's proportional ownership an
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-shareholder-dilution)
 
 **Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/convertible-securities
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-signal-conditioning"></a>
+## Signal conditioning
+
+Signal conditioning is the use of circuits such as retimers, redrivers, equalizers, clock recovery, and diagnostics to preserve data quality across high-speed electrical links. It solves the physical-channel problem that faster links become more sensitive to board traces, connectors, packages, cables, and temperature. In today's Astera result, signal conditioning matters because AI racks need reliable PCIe, CXL, Ethernet, and UALink paths at very high data rates. Example: without signal conditioning, a 224G link can look electrically open but fail under real traffic due to errors.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-signal-conditioning)
+
+**Reference:** https://www.asteralabs.com/products/taurus/
 
 [Back to A-Z index](#a-z-index)
 
@@ -6115,6 +6269,17 @@ Underlying shares are the actual company shares that economically support anothe
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-universal-chiplet-interconnect-express-ucie"></a>
+## Universal Chiplet Interconnect Express (UCIe)
+
+Universal Chiplet Interconnect Express is an open specification for connecting chiplets inside packages, defining how different dies can communicate with standardized protocols and physical interfaces. It solves the interoperability problem in multi-die systems where each vendor would otherwise create proprietary die-to-die links. In today's HBF item, UCIe matters because SK hynix and Sandisk say HBF adopts UCIe so the flash-based memory tier can integrate with different processors, including CPUs and GPUs. Comparison: PCIe connects board-level devices; UCIe targets chiplet-level connections inside a package.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-universal-chiplet-interconnect-express-ucie)
+
+**Reference:** https://uciexpress.org/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-unrealized-equity-gain"></a>
 ## Unrealized equity gain
 
@@ -6424,6 +6589,17 @@ Yield is the percentage of manufactured dies or wafers that meet required electr
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-yield)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-yield-optimisation"></a>
+## Yield optimisation
+
+Yield optimisation is the engineering process of increasing the percentage of manufactured dies or packaged parts that meet specifications by reducing defects, process variation, test escapes, and reliability failures. It solves the cost problem in semiconductors because every failed die, package, or module raises the cost per good unit. In today's SEMICON India Hackathon item, yield optimisation matters because the official challenge areas include it, showing students must learn manufacturing analytics, not only RTL. Example: improving yield from 70% to 90% can be more valuable than designing a slightly faster circuit.
+
+**Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-yield-optimisation)
+
+**Reference:** https://www.semiconindia.org/special-features-2026/Hackathon
 
 [Back to A-Z index](#a-z-index)
 

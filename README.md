@@ -8,7 +8,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 
 ## Study Navigation
 
-- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-08-05.
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-08-06.
 - [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
 - [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
 - [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
@@ -124,6 +124,7 @@ scripts/                       Index-maintenance utilities
 | 2026-08-03 | [2026-08-03/README.md](2026-08-03/README.md) | [images/2026-08-03/links.md](images/2026-08-03/links.md) | Kioxia XL1 CXL memory expansion, Socionext-imec autonomous-edge chiplets, onsemi/Advanced Energy/AMD earnings checkpoints, Bengaluru India Nano opening, Qnity/Entegris materials watch, CSIS EDA export controls, MediaTek AI-chip financing report, SEMICON West Phoenix catch-up |
 | 2026-08-04 | [2026-08-04/README.md](2026-08-04/README.md) | [images/2026-08-04/links.md](images/2026-08-04/links.md) | AMD Q2 record data-center result, onsemi and Advanced Energy Q2 proof updates, Microchip-Micron PCIe 6 storage, Marvell AI memory infrastructure, Kioxia FMS flash storage, Qnity materials, India Nano/C-VISTA |
 | 2026-08-05 | [2026-08-05/README.md](2026-08-05/README.md) | [images/2026-08-05/links.md](images/2026-08-05/links.md) | Infineon AI data-center power, GlobalFoundries silicon photonics and RISC-V/IP, Samsung zHBM/zNAND-O, SEMI AI manufacturing, reported optical-transceiver policy risk, Karnataka nano roadmap, AMD expectation-risk follow-up |
+| 2026-08-06 | [2026-08-06/README.md](2026-08-06/README.md) | [images/2026-08-06/links.md](images/2026-08-06/links.md) | Sandisk and WD storage earnings, Astera AI fabric switches, SK hynix-Sandisk HBF standard, SEMI/NVMe standards, China countermeasures and optical-policy risk, SpaceX-Nvidia market signal, SEMICON India Hackathon |
 
 ## Note Quality Standard
 
@@ -201,4 +202,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are reviewed through 2026-08-05. All 51 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-August 5 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.
+Daily notes are reviewed through 2026-08-06. All 52 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-August 6 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.
