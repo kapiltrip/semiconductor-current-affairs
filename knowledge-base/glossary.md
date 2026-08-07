@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-06**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-07**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -14,6 +14,17 @@ Start with the short meaning on a daily page. Use this master entry when the ter
 
 <a id="letter-0-9"></a>
 # 0-9
+
+<a id="term-1-6t-optical-transceiver"></a>
+## 1.6T optical transceiver
+
+A 1.6T optical transceiver is a next-generation optical module class designed around roughly 1.6 terabits per second of aggregate throughput. It solves the scaling problem where AI clusters need more bandwidth per port so fewer ports, cables, switch stages, and watts are needed for the same data movement. In today's AOI result, 1.6T matters because the company discussed customer engagement and production-capacity plans for 800G and 1.6 Tb products. Example: doubling link speed can reduce network complexity if reliability, power, thermal behavior, and cost are controlled.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-1-6t-optical-transceiver)
+
+**Reference:** https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-reports-second-quarter-2026-results
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-12-layer-hbm"></a>
 ## 12-layer HBM
@@ -237,6 +248,17 @@ A 6-inch wafer line is a semiconductor manufacturing line built around wafers ab
 **Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-6-inch-wafer-line)
 
 **Reference:** https://www.businesswire.com/news/home/20260730948509/en/Renesas-to-Phase-Out-Production-at-Takasaki-Factory-Maintain-and-Strengthen-RD-Functions
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-800g-optical-transceiver"></a>
+## 800G optical transceiver
+
+An 800G optical transceiver is a data-center optical module that can transmit and receive roughly 800 gigabits per second by converting electrical signals from switches or accelerators into optical signals for fiber and back again. It solves the AI networking problem that copper links lose too much signal and consume too much power over the distances needed inside large clusters. In today's Applied Optoelectronics result, 800G matters because the company said those products more than doubled sequentially and expects demand to exceed production capacity through mid-2027. Comparison: a 100G or 400G link may be enough for older networks; AI clusters push toward 800G and 1.6T links to keep accelerators fed.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-800g-optical-transceiver)
+
+**Reference:** https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-reports-second-quarter-2026-results
 
 [Back to A-Z index](#a-z-index)
 
@@ -1223,9 +1245,9 @@ CBA fabricates the NAND memory-cell array and CMOS control circuitry on separate
 <a id="term-co-packaged-optics"></a>
 ## Co-packaged optics
 
-Co-packaged optics places optical engines very close to switching or compute silicon, often inside the same package or module boundary, to reduce electrical trace length, power, and bandwidth bottlenecks. It solves the interconnect scaling problem as AI clusters require more network bandwidth per rack and per watt. In today's optical-module risk story, co-packaged optics matters because any restriction on optical supply chains can accelerate interest in domestic or alternate optical packaging ecosystems. Comparison: pluggable optical modules sit at the panel edge; co-packaged optics moves optical conversion closer to the switch ASIC.
+Co-packaged optics is an architecture that places optical engines very close to, or in the same package environment as, a switch or compute ASIC instead of using only pluggable optical modules at the front panel. It solves the electrical-loss and power problem that appears when very high-speed signals must travel across long board traces from a chip to a pluggable module. In today's Himax result, CPO matters because the company said its CPO products entered engineering production ramps and expects 2027 shipments to exceed 2026. Comparison: pluggable optics are easier to service; CPO can reduce electrical distance and power but makes packaging, cooling, test, and field replacement harder.
 
-**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-co-packaged-optics)
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-co-packaged-optics), [2026-08-07](../2026-08-07/README.md#daily-term-co-packaged-optics)
 
 **Reference:** https://www.oiforum.com/technical-work/hot-topics/co-packaging/
 
@@ -1358,6 +1380,17 @@ Coverage closure is the process of proving that the verification environment has
 **Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-coverage-closure)
 
 **Reference:** https://news.synopsys.com/2026-07-26-Synopsys-Showcases-Comprehensive-Autonomous-Engineering-Workflows-from-Silicon-to-Systems%2C-Developed-with-NVIDIA-Technology
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-covered-list"></a>
+## Covered List
+
+The FCC Covered List is a U.S. communications-security list of equipment and services determined to pose an unacceptable risk to national security or the security and safety of U.S. persons. It solves the policy-enforcement problem of blocking authorization or use of risky communications equipment through a formal list rather than ad hoc case-by-case concern. In today's optical-policy update, the Covered List matters because recent FCC actions and reported optical-transceiver proposals use this machinery or related equipment-authorization logic. Example: a reported draft restriction is not final law until the relevant agency text is issued, but the Covered List shows the mechanism that could be used.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-covered-list)
+
+**Reference:** https://docs.fcc.gov/public/attachments/FCC-26-50A1.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -2107,6 +2140,17 @@ An Electronic Manufacturing Cluster is a geographically concentrated infrastruct
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-electronics-and-packaging"></a>
+## Electronics and packaging
+
+Electronics and packaging is the value-chain area that supports printed circuit boards, substrates, interconnect, advanced package assembly, surface preparation, plating, chemistry, inspection, and reliability work after or around wafer fabrication. It solves the system-integration problem that a die must be electrically connected, protected, cooled, powered, and tested before it can become a usable product. In today's MKS result, electronics and packaging matters because MKS reported strong revenue in that segment while AI systems increasingly need advanced packaging and high-density boards. Comparison: wafer fabrication builds the transistor layers; packaging and electronics make the chip usable in a board, module, server, or rack.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-electronics-and-packaging)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electronics-system-design-and-manufacturing-esdm"></a>
 ## Electronics System Design and Manufacturing (ESDM)
 
@@ -2179,6 +2223,17 @@ The Entity List is a U.S. Bureau of Industry and Security restricted-party list 
 **Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list), [2026-08-02](../2026-08-02/README.md#daily-term-entity-list)
 
 **Reference:** https://www.bis.gov/entity-list
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-equipment-authorization"></a>
+## Equipment authorization
+
+Equipment authorization is the FCC process that permits radio-frequency or communications devices to be marketed, imported, or sold in the United States after meeting applicable rules. It solves the market-access problem by making compliance a gate before equipment reaches customers. In today's policy item, equipment authorization matters because restricting authorization for a device class can function like an import and market barrier even when the target is a component category rather than a finished server. Comparison: an export control limits outbound technology; equipment authorization limits access to the U.S. device market.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-equipment-authorization)
+
+**Reference:** https://www.fcc.gov/oet/ea/rfdevice
 
 [Back to A-Z index](#a-z-index)
 
@@ -2856,9 +2911,20 @@ Graviton5 is Amazon's Arm-based custom server CPU generation for EC2 cloud insta
 
 Gross margin is revenue minus cost of goods sold, expressed as a percentage of revenue. It solves the profitability question before operating expenses: how much money remains after direct manufacturing and service costs. In today's news, TSMC's 67.7% Q2 gross margin shows extremely strong foundry economics, while reported price increases may be partly about protecting margins as overseas fabs, materials, equipment, packaging, and energy costs rise. Example: a high revenue number with weak gross margin can still be a poor manufacturing business; TSMC has both high revenue and high gross margin in the latest official quarter.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin), [2026-08-07](../2026-08-07/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-guidance"></a>
+## Guidance
+
+Guidance is management's forward-looking estimate of future revenue, margin, earnings, or business conditions. It solves the investor-communication problem of setting a measurable expectation for the next quarter or year, but it is not a guaranteed result. In today's MKS, AOI, Himax, and storage follow-ups, guidance matters because markets often react more to the next-quarter outlook than to the quarter just reported. Example: a company can beat Q2 results but sell off if Q3 guidance is below investor expectations.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-guidance)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
 
 [Back to A-Z index](#a-z-index)
 
@@ -3212,6 +3278,17 @@ Import dependence is the share of inputs, equipment, materials, components, or f
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-india-semiconductor-mission"></a>
+## India Semiconductor Mission
+
+India Semiconductor Mission is India's government program for building domestic semiconductor design, manufacturing, packaging, display, materials, equipment, and talent capability. It solves the national supply-chain problem that India historically had strong chip-design talent but limited domestic front-end and back-end manufacturing depth. In today's India item, ISM matters because workforce articles and SEMICON India programs must be judged against actual ISM execution milestones such as approved projects, tools, output, qualification, and customers. Comparison: a hackathon builds talent; ISM project execution must eventually prove commercial manufacturing and validated chips.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-india-semiconductor-mission)
+
+**Reference:** https://www.ism.gov.in/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-indium-phosphide-photonics"></a>
 ## Indium phosphide photonics
 
@@ -3362,6 +3439,17 @@ KV cache is the stored set of key and value tensors created during transformer i
 **Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache), [2026-08-02](../2026-08-02/README.md#daily-term-kv-cache), [2026-08-04](../2026-08-04/README.md#daily-term-kv-cache)
 
 **Reference:** https://huggingface.co/docs/transformers/v4.45.2/kv_cache
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-kv-cache-offload"></a>
+## KV-cache offload
+
+KV-cache offload is the movement of transformer attention key-value cache data out of the fastest accelerator memory into a larger but slower memory or storage tier when the cache becomes too large or expensive to keep entirely in HBM. It solves the long-context and high-concurrency inference problem where serving many users or very long prompts can consume huge memory capacity. In today's Silicon Motion item, KV-cache offload matters because enterprise SSD controllers are being marketed as part of the AI inference memory hierarchy, not just as ordinary storage. Comparison: HBM is closest and fastest; SSD-backed offload is slower but can expand effective context capacity if latency is controlled.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-kv-cache-offload)
+
+**Reference:** https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3776,6 +3864,17 @@ Memory-chip supply volatility means memory availability and pricing can change s
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-mems-timing"></a>
+## MEMS timing
+
+MEMS timing uses micro-electromechanical resonators and clock circuits made with semiconductor manufacturing methods to generate stable timing signals. It solves the synchronization problem in electronics where processors, radios, networks, sensors, storage, and distributed systems need accurate clocks to exchange data reliably. In today's SiTime item, MEMS timing matters because AI clusters need tighter time synchronization to improve utilization and reduce wait cycles across many accelerators and network devices. Comparison: quartz timing is older and widely used; MEMS timing can offer semiconductor-style integration, ruggedness, programmability, and supply-chain advantages.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-mems-timing)
+
+**Reference:** https://investor.sitime.com/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-mems-timing-resonator"></a>
 ## MEMS timing resonator
 
@@ -3861,9 +3960,9 @@ Monthly revenue is a company disclosure showing sales recognized in one month be
 <a id="term-monthly-sales-release"></a>
 ## Monthly sales release
 
-A monthly sales release is a short revenue disclosure that gives investors a near-term view of demand before a full quarterly report. It solves the timing problem in fast-moving industries: users of the data do not have to wait for quarterly earnings to see whether sales momentum is changing. In today's news, TSMC's June release matters because it will test whether AI/HPC demand remained strong in the final month of Q2.
+A monthly sales release is a recurring company disclosure that reports revenue for a specific month before full quarterly results are available. It solves the timeliness problem for investors and supply-chain researchers who want earlier evidence of demand, utilization, pricing, and customer pull. In today's foundry follow-up, monthly sales release matters because TSMC's July 2026 sales are scheduled for August 10, so there is no verified July foundry revenue update yet. Example: TSMC monthly sales can indicate foundry momentum before detailed quarterly margin and node-mix data arrive.
 
-**Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-monthly-sales-release), [2026-07-11](../2026-07-11/README.md#daily-term-monthly-sales-release), [2026-07-12](../2026-07-12/README.md#daily-term-monthly-sales-release)
+**Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-monthly-sales-release), [2026-07-11](../2026-07-11/README.md#daily-term-monthly-sales-release), [2026-07-12](../2026-07-12/README.md#daily-term-monthly-sales-release), [2026-08-07](../2026-08-07/README.md#daily-term-monthly-sales-release)
 
 **Reference:** https://investor.tsmc.com/english/financial-calendar
 
@@ -4960,6 +5059,17 @@ A QMS is the documented set of responsibilities, processes, controls, measuremen
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-quality-of-service"></a>
+## Quality of service
+
+Quality of service, or QoS, is the ability of a system to control performance characteristics such as latency, throughput, fairness, priority, and predictability under real workloads. It solves the multi-tenant infrastructure problem where one workload can otherwise create long delays or unpredictable service for another workload. In today's Silicon Motion item, QoS matters because the MonTitan RDK is positioned for predictable SSD behavior in agentic AI and KV-cache offload workloads. Example: average latency can look fine while rare tail-latency spikes still stall a GPU; QoS tries to control both.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-quality-of-service)
+
+**Reference:** https://nvmexpress.org/specifications/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-quality-readiness"></a>
 ## Quality readiness
 
@@ -5840,6 +5950,17 @@ A substrate is the package foundation that mechanically supports chips and route
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-super-tcxo"></a>
+## Super-TCXO
+
+A Super-TCXO is a high-performance temperature-compensated crystal oscillator class designed to hold frequency very accurately across temperature changes and system stress. It solves the clock-stability problem where temperature drift can degrade synchronization, radio performance, network timing, or distributed compute coordination. In today's SiTime context, Super-TCXO matters because precision timing is being linked to AI data-center GPU utilization and sub-nanosecond synchronization targets. Comparison: an ordinary oscillator provides a clock; a TCXO corrects temperature-related drift; a high-end Super-TCXO targets much tighter stability.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-super-tcxo)
+
+**Reference:** https://investor.sitime.com/news-releases/news-release-details/sitime-boosts-gpu-utilization-ai-data-centers-elite-2-super-tcxo
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-superchip"></a>
 ## Superchip
 
@@ -5928,6 +6049,17 @@ A system-on-chip is an integrated circuit that combines processors, memory inter
 
 <a id="letter-t"></a>
 # T
+
+<a id="term-tail-latency"></a>
+## Tail latency
+
+Tail latency is the slowest slice of response times, often measured at the 95th, 99th, or 99.9th percentile rather than the average. It solves the performance-analysis problem that averages hide rare delays that can stall distributed systems and waste accelerator time. In today's Silicon Motion and AOI items, tail latency matters because AI inference, optical networks, and SSD-backed cache paths all need predictable worst-case behavior, not only high peak bandwidth. Example: a storage device with low average latency but bad 99th-percentile latency can make an AI service feel slow or waste expensive GPUs waiting for data.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-tail-latency)
+
+**Reference:** https://queue.acm.org/detail.cfm?id=2800693
+
+[Back to A-Z index](#a-z-index)
 
 <a id="term-take-or-pay-agreement"></a>
 ## Take-or-pay agreement
@@ -6064,11 +6196,11 @@ Thermal resistance measures how difficult it is for heat to move from a hot comp
 <a id="term-three-month-moving-average"></a>
 ## Three-month moving average
 
-A three-month moving average smooths a data series by averaging the latest three months instead of treating one month's raw number as the full signal. It solves the noise problem in cyclical markets where shipments, billing, customer schedules, and currency can distort one period. In today's news, SIA's data matters because it confirms broad semiconductor demand strength, but it should not be read as a real-time quote for July 8 trading.
+A three-month moving average is a statistical smoothing method that reports the average of the current month and the previous two months instead of one noisy month alone. It solves the market-data problem that semiconductor shipments can jump around because of quarter-end purchasing, inventory corrections, holidays, and customer timing. In today's SIA release, it matters because monthly semiconductor sales are compiled by WSTS and reported as a three-month moving average, so June 2026 is a smoothed demand signal rather than a single raw shipment month. Example: a one-month spike can look dramatic; a three-month moving average asks whether the direction is sustained.
 
-**Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-three-month-moving-average)
+**Appears in:** [2026-07-08](../2026-07-08/README.md#daily-term-three-month-moving-average), [2026-08-07](../2026-08-07/README.md#daily-term-three-month-moving-average)
 
-**Reference:** https://www.semiconductors.org/global-semiconductor-sales-increase-9-2-month-to-month-in-may/
+**Reference:** https://www.semiconductors.org/global-semiconductor-sales-increase-35-1-from-q1-2026-to-q2-2026/
 
 [Back to A-Z index](#a-z-index)
 
@@ -6414,6 +6546,17 @@ Wafer bumping forms tiny conductive bumps or pillars on wafer pads before dies a
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-wafer-fabrication-equipment"></a>
+## Wafer fabrication equipment
+
+Wafer fabrication equipment, often shortened to WFE, is the category of tools used to manufacture integrated circuits on wafers, including deposition, etch, lithography support, cleaning, ion implantation, inspection, metrology, process control, and related subsystems. It solves the physical manufacturing problem of repeatedly building, patterning, removing, measuring, and controlling ultra-thin films at nanometer scale. In today's MKS result, WFE matters because equipment and subsystem demand is a leading indicator for future wafer capacity, NAND upgrades, advanced packaging, and AI-linked process complexity. Example: a GPU shipment in 2027 may depend on tool orders and subsystem capacity placed much earlier.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-wafer-fabrication-equipment)
+
+**Reference:** https://www.semi.org/en/market-data
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-wafer-fabrication-equipment-wfe"></a>
 ## Wafer fabrication equipment (WFE)
 
@@ -6541,6 +6684,17 @@ Write amplification is the effect where an SSD writes more physical NAND data th
 **Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-write-amplification)
 
 **Reference:** https://www.micron.com/about/blog/storage/ssd/what-is-write-amplification
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wsts"></a>
+## WSTS
+
+World Semiconductor Trade Statistics is an independent industry statistics organization that collects and reports semiconductor market data from participating companies. It solves the trust problem in global chip sales data by using a common reporting framework rather than relying only on analyst estimates or company anecdotes. In today's SIA item, WSTS matters because SIA says its monthly sales data are compiled by WSTS. Comparison: SIA publishes the public release; WSTS is the statistical source behind the monthly shipment series.
+
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-wsts)
+
+**Reference:** https://www.wsts.org/
 
 [Back to A-Z index](#a-z-index)
 
