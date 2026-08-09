@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-07**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-08**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -315,6 +315,17 @@ An advanced node is a leading semiconductor manufacturing generation used for hi
 An advanced packaging and test facility turns fabricated dies into qualified multi-die products by performing steps such as wafer preparation, die stacking, fine-pitch interconnection, molding or bonding, thermal integration, electrical test, burn-in, and reliability screening. It solves the problem that AI memory performance depends on connecting multiple DRAM dies and often a logic base die with short, dense, thermally manageable paths. SK hynix's P&T7 facility matters because HBM capacity can be limited by stacking, package yield, and final test even when front-end DRAM wafers are available. A wafer fab makes transistor layers; packaging and test assemble and validate usable products. Sources: [SK hynix](https://news.skhynix.com/fact-07/) and [Reuters](https://www.marketscreener.com/news/sk-hynix-to-spend-64-billion-on-flash-memory-chip-plants-under-broader-ai-investment-plan-ce7f5fd2df8df626)
 
 **Appears in:** [2026-06-18](../2026-06-18/README.md#daily-term-advanced-packaging), [2026-06-21](../2026-06-21/README.md#daily-term-advanced-packaging), [2026-06-22](../2026-06-22/README.md#daily-term-advanced-packaging), [2026-07-02](../2026-07-02/README.md#daily-term-advanced-packaging), [2026-07-11](../2026-07-11/README.md#daily-term-advanced-packaging), [2026-07-25](../2026-07-25/README.md#daily-term-advanced-packaging), [2026-07-29](../2026-07-29/README.md#daily-term-advanced-packaging), [2026-08-01](../2026-08-01/README.md#daily-term-advanced-packaging), [2026-08-03](../2026-08-03/README.md#daily-term-advanced-packaging)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-advanced-packaging-equipment"></a>
+## Advanced packaging equipment
+
+Advanced packaging equipment is the tool set used to assemble, connect, test, and protect multiple dies, memory stacks, interposers, redistribution layers, substrates, and thermal structures in high-performance packages. It solves the scaling problem that transistor shrinking alone no longer provides enough bandwidth, area, power, and cost improvement for AI hardware. In today's ACM Research item, it matters because ECP and packaging-related tools are a visible bridge between wafer fabrication and AI accelerators with HBM or chiplets. Example: a GPU package with HBM needs package-level interconnect and assembly precision that a simple single-die package does not.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-advanced-packaging-equipment)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
@@ -881,11 +892,11 @@ Assembly, packaging, system integration, and test work after wafers are fabricat
 <a id="term-backlog"></a>
 ## Backlog
 
-Backlog is the value of orders or contracted work that has not yet become revenue. It solves the business-visibility problem by showing work already won but not fully delivered or recognized. In today's Cadence report, the $8.1 billion quarter-end backlog matters because EDA software, IP, hardware emulation and system-design tools often sell through multi-period contracts. Example: a one-year license already delivered may become current revenue, while a multi-year subscription can sit partly in backlog.
+Backlog is the value or volume of customer orders that have been booked but not yet fulfilled. It solves the planning problem of showing how much future work is already in the queue, although backlog can change if customers cancel, delay, or revise orders. In today's Microchip item, a higher backlog matters because it supports management's recovery narrative in microcontrollers, analog, connectivity, automotive, industrial, and data-center-adjacent products. Comparison: bookings are new orders arriving; backlog is the accumulated unfilled order book.
 
-**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-backlog)
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-backlog), [2026-08-08](../2026-08-08/README.md#daily-term-backlog)
 
-**Reference:** https://investor.cadence.com/news/news-details/2026/Cadence-Reports-Second-Quarter-2026-Financial-Results/default.aspx
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
 
 [Back to A-Z index](#a-z-index)
 
@@ -972,6 +983,17 @@ Bookbuilding is the process in which underwriters collect indications of demand 
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-bookbuilding)
 
 **Reference:** https://www.marketscreener.com/news/south-korea-s-sk-hynix-launching-28-billion-us-listing-to-ride-global-ai-wave-ce7f5edadf88f327
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-bookings"></a>
+## Bookings
+
+Bookings are customer orders or order commitments received during a period, usually before all of the related products ship or revenue is recognized. They solve the demand-visibility problem by showing whether customers are placing future orders faster or slower than current shipments. In today's Microchip result, bookings matter because management said bookings meaningfully exceeded shipments, suggesting the embedded-chip recovery is not limited to one quarter of deliveries. Example: revenue is what was recognized; bookings are an early demand signal for future revenue if orders hold.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-bookings)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
 
 [Back to A-Z index](#a-z-index)
 
@@ -1223,9 +1245,9 @@ Clean room space is highly controlled manufacturing area where airborne particle
 <a id="term-cleanroom"></a>
 ## Cleanroom
 
-A cleanroom is a highly controlled manufacturing space where airborne particles, humidity, temperature, vibration, chemical contamination, and human procedures are tightly managed. It solves the contamination problem in semiconductor fabrication: a microscopic particle can destroy a transistor layer or create yield loss. In today's news, existing cleanroom utilization matters because Intel can expand output faster by upgrading and equipping qualified space than by only building new empty shells.
+A cleanroom is a controlled manufacturing space where airborne particles, temperature, humidity, vibration, chemical contamination, airflow, and human activity are managed so microscopic defects do not damage wafers. It solves the physical problem that modern transistor and memory structures are so small that tiny particles can kill yield or reliability. In today's SK hynix plan, cleanroom completion dates matter because a fab announcement does not become wafer output until the controlled space, utilities, tools, recipes, and qualification are ready. Comparison: a normal factory keeps machines organized; a fab cleanroom keeps the air and surfaces controlled at semiconductor defect levels.
 
-**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-cleanroom)
+**Appears in:** [2026-07-14](../2026-07-14/README.md#daily-term-cleanroom), [2026-08-08](../2026-08-08/README.md#daily-term-cleanroom)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
 
@@ -1915,7 +1937,7 @@ Domestic value addition is the share of a product's value created inside the cou
 
 DRAM, or dynamic random-access memory, is volatile memory that stores bits as charge in tiny capacitors and must be refreshed repeatedly because charge leaks away. It solves the working-memory problem for CPUs, GPUs and accelerators: systems need fast temporary storage for active code, model weights, activations, buffers and operating-system data. In today's Korea, Apple and CXMT/YMTC news, DRAM matters because AI servers consume very large memory capacity and bandwidth, pushing prices and supply allocation in ways that affect both data centers and consumer devices. Comparison: DRAM is the desk space where active work sits, while NAND flash is the shelf where data remains after power is off.
 
-**Appears in:** [2026-06-23](../2026-06-23/README.md#daily-term-dram), [2026-06-27](../2026-06-27/README.md#daily-term-dram), [2026-07-07](../2026-07-07/README.md#daily-term-dram), [2026-07-09](../2026-07-09/README.md#daily-term-dram), [2026-07-27](../2026-07-27/README.md#daily-term-dram), [2026-08-01](../2026-08-01/README.md#daily-term-dram)
+**Appears in:** [2026-06-23](../2026-06-23/README.md#daily-term-dram), [2026-06-27](../2026-06-27/README.md#daily-term-dram), [2026-07-07](../2026-07-07/README.md#daily-term-dram), [2026-07-09](../2026-07-09/README.md#daily-term-dram), [2026-07-27](../2026-07-27/README.md#daily-term-dram), [2026-08-01](../2026-08-01/README.md#daily-term-dram), [2026-08-08](../2026-08-08/README.md#daily-term-dram)
 
 **Reference:** https://www.micron.com/products/memory/dram-components
 
@@ -2030,6 +2052,17 @@ Earnings guidance is a company estimate of expected financial results before the
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-earnings-watch"></a>
+## Earnings watch
+
+An earnings watch is a tracked upcoming financial release, call, or filing used as a future evidence checkpoint rather than as a completed fact. It solves the research-discipline problem of separating what has already been verified from what must be checked after a scheduled disclosure. In today's Ceva and TSMC items, earnings watch matters because August 10 should close or update EDA/IP and foundry questions with official numbers instead of rumor. Comparison: a rumor asks "what might happen"; an earnings watch records "what official data will soon answer this."
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-earnings-watch)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ecosystem-development"></a>
 ## Ecosystem development
 
@@ -2104,6 +2137,17 @@ An Electro-Semicon track is an event/program track focused on electronics and se
 **Appears in:** [2026-07-26](../2026-07-26/README.md#daily-term-electro-semicon-track)
 
 **Reference:** https://www.bengalurutechsummit.com/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-electrochemical-plating-ecp"></a>
+## Electrochemical plating (ECP)
+
+Electrochemical plating is a semiconductor process that deposits metal onto a wafer or package substrate by using an electric current through a chemical bath. It solves the interconnect and packaging problem of building copper lines, bumps, redistribution layers, pillars, and other conductive structures with controlled thickness and uniformity. In today's ACM Research item, ECP matters because advanced packaging, chiplet integration, and high-density interconnects need reliable metal deposition beyond ordinary front-end transistor processing. Comparison: lithography defines where a feature should exist; plating helps fill or build conductive material in those defined areas.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-electrochemical-plating-ecp)
+
+**Reference:** https://www.acmrcsh.com/product-services/electrochemical-plating/
 
 [Back to A-Z index](#a-z-index)
 
@@ -2378,6 +2422,17 @@ Expectations risk is the chance that a stock or sector falls even after good res
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-expedite-request"></a>
+## Expedite request
+
+An expedite request is a customer request to receive parts faster than the normal lead time or previously agreed schedule. It solves the operational problem of urgent demand, shortages, line-down risk, or customer inventory mismatch, but it can also stress factories, distribution, and allocation systems. In today's Microchip result, elevated expedite requests matter because they are a practical signal that customers may be short of embedded and connectivity components again. Example: a car supplier may ask to pull in microcontroller shipments if production schedules recover faster than expected.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-expedite-request)
+
+**Reference:** https://www.microchip.com/en-us/support/quality
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-export-ban"></a>
 ## Export ban
 
@@ -2403,11 +2458,11 @@ Export controls are legal restrictions on transferring specified goods, software
 <a id="term-export-control-enforcement"></a>
 ## Export-control enforcement
 
-Export-control enforcement is the practical work of preventing restricted chips, tools, software, technology, or know-how from reaching prohibited users or destinations through direct shipments, resellers, cloud access, smuggling, or shell companies. It solves the gap between written rules and real-world movement of technology. In today's news, enforcement matters because Chinese AI-chip progress is shaped both by domestic capability and by how porous U.S.-led controls are. A comparison: a legal ban is the rulebook; enforcement is whether the gate actually stops the item.
+Export-control enforcement is the investigation and legal action used to make sure controlled technologies, products, software, or know-how do not reach restricted users or destinations without authorization. It solves the policy problem that rules are weak if companies can bypass them through intermediaries, false end users, or routing through third countries. In today's Nvidia-China access reporting, enforcement matters because the key question is not only whether a chip is restricted on paper, but whether advanced AI chips are still reaching restricted buyers through indirect channels. Comparison: a regulation defines the boundary; enforcement tests whether the boundary is actually being obeyed.
 
-**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-export-control-enforcement)
+**Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-export-control-enforcement), [2026-08-08](../2026-08-08/README.md#daily-term-export-control-enforcement)
 
-**Reference:** https://www.wsj.com/world/china/china-ai-chips-race-949050d0
+**Reference:** https://www.bis.gov/enforcement
 
 [Back to A-Z index](#a-z-index)
 
@@ -2429,6 +2484,17 @@ An export-control review is an internal, external, or regulator-facing examinati
 ## Fab
 
 A semiconductor fabrication plant processes wafers through repeated deposition, lithography, etch, implantation, cleaning, and metrology steps to build integrated circuits. A fab is front-end manufacturing; assembly and final test happen later.
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-fab-capital-expenditure"></a>
+## Fab capital expenditure
+
+Fab capital expenditure is the long-term money a semiconductor company commits to buildings, cleanrooms, utilities, tools, automation, process infrastructure, and capacity ramps for wafer manufacturing. It solves the business and manufacturing problem that chip demand cannot be served by software or inventory alone; companies must lock in land, power, water, construction, tools, and supplier capacity years before output arrives. In today's SK hynix item, it matters because AI memory demand is being translated into KRW 54.3 trillion of new DRAM/HBM and NAND production-base spending rather than only quarterly sales commentary. Example: buying HBM in 2027 depends partly on fab and tool decisions made years earlier.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-fab-capital-expenditure)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
 
@@ -3099,7 +3165,7 @@ High IOPS means high input/output operations per second, usually referring to ho
 
 High-Bandwidth Memory is stacked DRAM connected with dense vertical and package-level interconnect so an accelerator can access memory with far more bandwidth and lower energy per bit than many ordinary off-package memory paths. It solves the AI memory-wall problem: accelerators can perform many operations, but they slow down if data cannot reach compute fast enough. In today's news, HBM matters because Alphabet cloud demand, Supermicro AI server mix, NVIDIA Japan systems, and SEMI DRAM equipment growth all depend on high-bandwidth memory capacity and packaging. A comparison: ordinary server DRAM is like a wider road outside the city; HBM is like building short, wide roads directly beside the compute die.
 
-**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-02](../2026-08-02/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-04](../2026-08-04/README.md#daily-term-high-bandwidth-memory-hbm)
+**Appears in:** [2026-06-20](../2026-06-20/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-22](../2026-06-22/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-25](../2026-06-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-26](../2026-06-26/README.md#daily-term-high-bandwidth-memory-hbm), [2026-06-28](../2026-06-28/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-06](../2026-07-06/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-07](../2026-07-07/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-09](../2026-07-09/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-10](../2026-07-10/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-11](../2026-07-11/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-12](../2026-07-12/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-13](../2026-07-13/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-23](../2026-07-23/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-25](../2026-07-25/README.md#daily-term-high-bandwidth-memory-hbm), [2026-07-29](../2026-07-29/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-02](../2026-08-02/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-04](../2026-08-04/README.md#daily-term-high-bandwidth-memory-hbm), [2026-08-08](../2026-08-08/README.md#daily-term-high-bandwidth-memory-hbm)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/memory/high-bandwidth-memory-hbm
 
@@ -3286,6 +3352,17 @@ India Semiconductor Mission is India's government program for building domestic 
 **Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-india-semiconductor-mission)
 
 **Reference:** https://www.ism.gov.in/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-indium-phosphide-inp"></a>
+## Indium phosphide (InP)
+
+Indium phosphide is a compound semiconductor made from indium and phosphorus that is useful for high-speed and optoelectronic devices such as lasers, photodetectors, and optical communication components. It solves the materials problem that silicon is excellent for CMOS logic but is not always the best material for emitting or detecting light efficiently at telecom wavelengths. In today's optical-policy item, InP matters because AI data-center optical links can depend on materials and photonic components that are vulnerable to supply-chain and China-policy risk. Comparison: silicon is the default logic platform; InP is a specialized photonics material for high-speed optical functions.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-indium-phosphide-inp)
+
+**Reference:** https://www.rp-photonics.com/indium_phosphide.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -3619,6 +3696,17 @@ A manufacturing infrastructure constraint is a physical resource that limits con
 **Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-manufacturing-infrastructure-constraint)
 
 **Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-manufacturing-operations-support"></a>
+## Manufacturing operations support
+
+Manufacturing operations support is the engineering and data work that helps fabs and production lines run reliably, including process monitoring, quality systems, product characterization, yield analysis, planning, automation, and issue resolution. It solves the factory-execution problem that a fab is not only machines and recipes; it needs continuous engineering feedback to turn wafers into qualified products at yield. In today's GlobalFoundries India item, it matters because GF describes India as doing manufacturing operations support, which is manufacturing-critical work even though India is not listed as one of GF's wafer-fab sites. Comparison: a fab operator runs tools on-site; a remote support team may analyze data, qualify products, debug issues, and improve processes across sites.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-manufacturing-operations-support)
+
+**Reference:** https://gf.com/careers/where-we-work/apac/welcome-to-gf-india/
 
 [Back to A-Z index](#a-z-index)
 
@@ -3962,7 +4050,7 @@ Monthly revenue is a company disclosure showing sales recognized in one month be
 
 A monthly sales release is a recurring company disclosure that reports revenue for a specific month before full quarterly results are available. It solves the timeliness problem for investors and supply-chain researchers who want earlier evidence of demand, utilization, pricing, and customer pull. In today's foundry follow-up, monthly sales release matters because TSMC's July 2026 sales are scheduled for August 10, so there is no verified July foundry revenue update yet. Example: TSMC monthly sales can indicate foundry momentum before detailed quarterly margin and node-mix data arrive.
 
-**Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-monthly-sales-release), [2026-07-11](../2026-07-11/README.md#daily-term-monthly-sales-release), [2026-07-12](../2026-07-12/README.md#daily-term-monthly-sales-release), [2026-08-07](../2026-08-07/README.md#daily-term-monthly-sales-release)
+**Appears in:** [2026-07-10](../2026-07-10/README.md#daily-term-monthly-sales-release), [2026-07-11](../2026-07-11/README.md#daily-term-monthly-sales-release), [2026-07-12](../2026-07-12/README.md#daily-term-monthly-sales-release), [2026-08-07](../2026-08-07/README.md#daily-term-monthly-sales-release), [2026-08-08](../2026-08-08/README.md#daily-term-monthly-sales-release)
 
 **Reference:** https://investor.tsmc.com/english/financial-calendar
 
@@ -4073,7 +4161,7 @@ Nameplate capacity is the maximum designed output quoted for a plant under assum
 
 NAND flash is non-volatile semiconductor storage: it retains bits after power is removed. Cells are arranged so many bits can be stored densely and written or erased in blocks, which lowers cost per bit but makes random byte-level updates more complex than DRAM. It solves persistent-storage needs in SSDs, phones, vehicles, and AI data pipelines. SK hynix's M17 plan matters because AI systems need not only HBM and compute but also large storage tiers for datasets, checkpoints, retrieval, logs, and model distribution. Compare NAND with DRAM: NAND is denser and persistent but slower and wears with program/erase cycles.
 
-**Appears in:** [2026-06-27](../2026-06-27/README.md#daily-term-nand-flash), [2026-07-02](../2026-07-02/README.md#daily-term-nand-flash), [2026-07-07](../2026-07-07/README.md#daily-term-nand-flash), [2026-08-01](../2026-08-01/README.md#daily-term-nand-flash), [2026-08-06](../2026-08-06/README.md#daily-term-nand-flash)
+**Appears in:** [2026-06-27](../2026-06-27/README.md#daily-term-nand-flash), [2026-07-02](../2026-07-02/README.md#daily-term-nand-flash), [2026-07-07](../2026-07-07/README.md#daily-term-nand-flash), [2026-08-01](../2026-08-01/README.md#daily-term-nand-flash), [2026-08-06](../2026-08-06/README.md#daily-term-nand-flash), [2026-08-08](../2026-08-08/README.md#daily-term-nand-flash)
 
 **Reference:** https://news.skhynix.com/fact-07/
 
@@ -4481,7 +4569,7 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 An optical transceiver is a module that converts electrical data signals into optical signals for fiber transmission and converts received optical signals back into electrical form. It solves the high-bandwidth networking problem in data centers, where copper links become too lossy or power-hungry over distance. In today's reported U.S. policy item, optical transceivers matter because AI clusters need massive east-west bandwidth between accelerators, switches, and racks, and Chinese suppliers are major participants in this component chain. Comparison: a NIC speaks electrical signals inside a server; an optical transceiver is the light-based doorway to the fiber network.
 
-**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver), [2026-08-06](../2026-08-06/README.md#daily-term-optical-transceiver)
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver), [2026-08-06](../2026-08-06/README.md#daily-term-optical-transceiver), [2026-08-08](../2026-08-08/README.md#daily-term-optical-transceiver)
 
 **Reference:** https://www.ieee802.org/3/
 
@@ -4647,11 +4735,11 @@ A PCIe fanout switch is a switching chip that connects one or more host processo
 <a id="term-pcie-gen-6"></a>
 ## PCIe Gen 6
 
-PCIe Gen 6 is the sixth generation of the PCI Express interconnect standard, doubling the raw transfer rate of PCIe Gen 5 to 64 GT/s per lane and using newer signaling and error-control methods to keep bandwidth rising. It solves the system bottleneck where CPUs, GPUs, SSDs, network devices, and accelerators need more I/O bandwidth than older PCIe links can provide. In today's Microchip-Micron, Marvell, and Kioxia FMS items, PCIe Gen 6 matters because storage and switching must keep up with AI accelerators and shared memory tiers. Comparison: PCIe Gen 5 is a high-speed highway; Gen 6 adds more lanes of effective data movement per physical lane.
+PCI Express Gen 6 is a high-speed serial interconnect generation specified by PCI-SIG with 64 GT/s signaling per lane, using PAM4 signaling and forward error correction to move more data between CPUs, accelerators, switches, NICs, and SSDs. It solves the system-bandwidth problem created by AI servers where accelerators, storage, and network adapters need faster local communication. In today's Microchip item, PCIe Gen 6 matters because design-win momentum in this area points to demand around next-generation AI, storage, and data-center platforms. Comparison: PCIe Gen 5 doubled Gen 4 speed; Gen 6 doubles Gen 5 again but needs more complex signal integrity and error correction.
 
-**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-pcie-gen-6)
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-pcie-gen-6), [2026-08-08](../2026-08-08/README.md#daily-term-pcie-gen-6)
 
-**Reference:** https://pcisig.com/pcie-60-specification
+**Reference:** https://pcisig.com/pci-express-60-specification
 
 [Back to A-Z index](#a-z-index)
 
@@ -5719,6 +5807,17 @@ Silicon germanium is a semiconductor alloy that combines silicon with germanium 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-silicon-ip-licensing"></a>
+## Silicon IP licensing
+
+Silicon IP licensing is the business of providing reusable processor cores, connectivity blocks, DSPs, security modules, interfaces, or software stacks that chip designers integrate into their own SoCs under license. It solves the design-cost and time-to-market problem because companies do not need to reinvent every verified block from scratch. In today's Ceva watch, it matters because wireless, edge AI, sensor, automotive, and smart-edge chips often depend on licensed IP before they reach tape-out. Example: a chip company may design the SoC integration but license a DSP, Bluetooth, Wi-Fi, or AI-accelerator block from an IP vendor.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-silicon-ip-licensing)
+
+**Reference:** https://www.arm.com/glossary/semiconductor-ip
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-silicon-photonics"></a>
 ## Silicon photonics
 
@@ -6193,6 +6292,17 @@ Thermal resistance measures how difficult it is for heat to move from a hot comp
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-third-country-transshipment"></a>
+## Third-country transshipment
+
+Third-country transshipment is the movement of goods through an intermediate country before reaching the final destination, sometimes legitimately for logistics and sometimes to hide a restricted end user. It solves normal logistics needs in global trade, but it creates a compliance problem when controlled chips or equipment are routed to evade export rules. In today's Nvidia-China access report, it matters because investigations into China access often focus on whether restricted products were obtained through resellers, cloud providers, or countries not named in the original shipment paperwork. Example: a shipment that appears destined for Country A can still create risk if the real end user is in Country B.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-third-country-transshipment)
+
+**Reference:** https://www.bis.gov/enforcement
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-three-month-moving-average"></a>
 ## Three-month moving average
 
@@ -6543,6 +6653,17 @@ Wafer bumping forms tiny conductive bumps or pillars on wafer pads before dies a
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-wafer-bumping)
 
 **Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-wafer-cleaning"></a>
+## Wafer cleaning
+
+Wafer cleaning removes particles, organic residues, metals, native oxides, and process chemicals from wafers between manufacturing steps. It solves the yield problem that contamination left before deposition, etch, lithography, or bonding can create defects, leakage, poor adhesion, or reliability failures. In today's ACM Research item, cleaning matters because advanced nodes, memory, and packaging create more process steps and tighter defect tolerance, increasing the value of specialized cleaning tools. Comparison: cleaning a visible surface is cosmetic; wafer cleaning controls invisible contamination that can decide whether a die passes electrical test.
+
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-wafer-cleaning)
+
+**Reference:** https://www.acmrcsh.com/product-services/single-wafer-cleaning/
 
 [Back to A-Z index](#a-z-index)
 
