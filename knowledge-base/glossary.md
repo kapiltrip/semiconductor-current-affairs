@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-08**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-09**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -582,6 +582,17 @@ An AI server integrator designs, assembles, validates, and ships complete server
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ai-server-rack"></a>
+## AI server rack
+
+An AI server rack is a rack-level compute system containing accelerators, CPUs, memory, storage, networking, power distribution, cooling, firmware, and management hardware for AI training or inference. It solves the system-integration problem that one GPU board is not enough; large AI workloads need many devices coordinated through power, thermal, network, and software infrastructure. In today's Foxconn and CoreWeave items, AI server racks matter because demand for Nvidia and other accelerators becomes revenue for rack builders, optics suppliers, power suppliers, SSD vendors, and data-center operators. Comparison: a chip is a component; an AI server rack is the deployed unit that turns chips into usable compute capacity.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-ai-server-rack)
+
+**Reference:** https://www.opencompute.org/projects/rack-and-power
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ai-systems-manufacturing"></a>
 ## AI systems manufacturing
 
@@ -601,6 +612,17 @@ The AI trade is the market positioning around companies expected to benefit from
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-ai-trade)
 
 **Reference:** https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-thursday-july-16-2026-12020417
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-aidimm"></a>
+## AIDIMM
+
+AIDIMM is Longsys' described plug-in high-bandwidth memory architecture for edge-AI systems, using a DIMM-like upgrade idea with a native 256-bit interface and stated bandwidth up to 307.2 GB/s. It solves the edge-system upgrade problem where a device may need more local AI memory bandwidth without a full motherboard or SoC redesign. In today's note, AIDIMM matters as a signal that memory innovation is spreading beyond cloud HBM into modular edge-AI formats. Comparison: HBM is stacked near an accelerator in high-end packages; AIDIMM is framed as a plug-in memory architecture for edge-AI systems.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-aidimm)
+
+**Reference:** https://www.prnewswire.com/news-releases/fms-2026--longsys-chief-scientist-jian-chen-highlights-the-storage-foundry-model-for-edge-ai-302846008.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1626,6 +1648,17 @@ Demand elasticity measures how much quantity demanded changes when price changes
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-demand-side-proof-point"></a>
+## Demand-side proof point
+
+A demand-side proof point is evidence from customers, cloud operators, system builders, or downstream buyers showing that they are ordering, deploying, or monetizing semiconductor-based systems. It solves the research problem of distinguishing supplier optimism from actual customer pull. In today's CoreWeave, Foxconn, and SpaceX/Nvidia items, demand-side proof matters because AI chipmakers can report strong sales only if cloud builders, hyperscalers, enterprises, and system integrators can absorb and deploy the hardware. Example: TSMC revenue is a manufacturing-side signal; CoreWeave capacity, backlog, and earnings are demand-side signals.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-demand-side-proof-point)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-deployment-linked-incentive"></a>
 ## Deployment-linked incentive
 
@@ -2118,6 +2151,17 @@ EDA/IP dependency is the reliance of chip and package programs on electronic des
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-edge-ai"></a>
+## Edge AI
+
+Edge AI means running artificial-intelligence inference or smaller adaptation workloads close to the device, machine, sensor, phone, PC, robot, vehicle, or factory system instead of sending every task to a cloud data center. It solves the latency, privacy, bandwidth, cost, and reliability problem that appears when billions of devices need local decisions or intermittent connectivity. In today's Longsys item, edge AI matters because storage and memory products are being customized for AI PCs, mobile devices, industrial systems, robots, and other fragmented end devices. Comparison: cloud AI centralizes large training and serving; edge AI pushes selected inference and context handling closer to the user or machine.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-edge-ai)
+
+**Reference:** https://www.nvidia.com/en-us/glossary/edge-ai/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-edge-intelligence"></a>
 ## Edge intelligence
 
@@ -2192,6 +2236,17 @@ Electronics and packaging is the value-chain area that supports printed circuit 
 **Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-electronics-and-packaging)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-electronics-manufacturing-services-ems"></a>
+## Electronics manufacturing services (EMS)
+
+Electronics manufacturing services are outsourced manufacturing services for electronics products, including assembly, testing, supply-chain management, logistics, and sometimes design-for-manufacturing support. EMS solves the production-scale problem for brands and system companies that do not want to build every factory, line, and supplier network themselves. In today's Foxconn item, EMS matters because AI servers and racks create semiconductor demand beyond chips: boards, modules, cables, power systems, cooling, and final integration must be manufactured at scale. Comparison: TSMC manufactures wafers; Foxconn/Hon Hai assembles complex electronics systems and increasingly AI server infrastructure.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-electronics-manufacturing-services-ems)
+
+**Reference:** https://www.ipc.org/
 
 [Back to A-Z index](#a-z-index)
 
@@ -2950,6 +3005,17 @@ A global value chain is the international network of companies, countries and pr
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-gpu-allocation"></a>
+## GPU allocation
+
+GPU allocation is the process by which scarce accelerator supply is assigned across customers, cloud providers, internal projects, regions, and contracts. It solves the business problem of rationing limited advanced-chip, HBM, packaging, networking, and rack capacity when demand exceeds supply. In today's SpaceX/Nvidia reporting, allocation matters because a large buyer with strategic importance can change who gets the newest chips and when. Comparison: a purchase order says a buyer wants chips; allocation determines whether supply is actually reserved, delivered, and installed.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-gpu-allocation)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-gpu-direct-access"></a>
 ## GPU direct access
 
@@ -3237,6 +3303,17 @@ A high-performance computing order surcharge is an extra price premium charged w
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-hot-and-cold-data"></a>
+## Hot and cold data
+
+Hot and cold data describe how frequently data is accessed: hot data is used often or recently, while cold data is accessed rarely or can tolerate slower retrieval. This classification solves the memory-hierarchy problem of deciding what should stay in fast, expensive memory and what can move to cheaper, slower storage. In today's Longsys item, hot/cold data matters because edge AI devices must decide which model, cache, app, and context data deserves scarce DRAM versus NAND storage. Example: the current prompt context may be hot; an old media file or rarely used model shard may be cold.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-hot-and-cold-data)
+
+**Reference:** https://www.snia.org/education/online-dictionary
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-hpc"></a>
 ## HPC
 
@@ -3375,6 +3452,17 @@ Compound-semiconductor technology useful for high-speed optical and photonic dev
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-industry-defined-semiconductor-challenge"></a>
+## Industry-defined semiconductor challenge
+
+An industry-defined semiconductor challenge is a student or engineering problem statement created around real chip-design, verification, EDA, yield, manufacturing, packaging, or test needs rather than a generic coding exercise. It solves the talent-alignment problem by making training closer to actual semiconductor workflows. In today's SEMICON India Hackathon item, it matters because the August 16 proposal deadline pushes students toward applied VLSI and manufacturing problems with industry visibility. Comparison: a generic hackathon may reward app demos; a semiconductor challenge should involve signals, flows, constraints, data, tools, or physical manufacturing behavior.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-industry-defined-semiconductor-challenge)
+
+**Reference:** https://www.semiconindia.org/special-features-2026/Hackathon
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-inference-asic"></a>
 ## Inference ASIC
 
@@ -3392,6 +3480,17 @@ An IPO is the first sale of a company's shares to the public market. The busines
 **Appears in:** [2026-07-27](../2026-07-27/README.md#daily-term-initial-public-offering-ipo)
 
 **Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-inp-wafer"></a>
+## InP wafer
+
+An InP wafer is a wafer made from indium phosphide, a compound semiconductor material used for high-speed and optoelectronic devices such as lasers and photodetectors. It solves the photonics-materials problem that silicon does not emit light efficiently for many telecom and data-center optical functions. In today's optical watch, InP wafers matter because reported China-linked supply constraints can affect lasers and transceiver production for AI data centers. Comparison: silicon wafers dominate CMOS logic; InP wafers support specialized optical devices.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-inp-wafer)
+
+**Reference:** https://www.rp-photonics.com/indium_phosphide.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -3513,7 +3612,7 @@ The KOSPI Market is the main stock market of the Korea Exchange for many of Sout
 
 KV cache is the stored set of key and value tensors created during transformer inference so the model does not recompute attention information for earlier tokens each time it generates a new token. It solves the latency and compute-waste problem in long-context AI inference: without caching, every generated token would repeatedly revisit the full prior sequence at high cost. In today's XCENA news, KV cache matters because long context windows make memory capacity and bandwidth a first-order bottleneck, so CXL-attached memory is being proposed for KV-cache sharing and offload. Example: for a chatbot conversation, the KV cache is like keeping a working index of earlier words so the model can continue quickly.
 
-**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache), [2026-08-02](../2026-08-02/README.md#daily-term-kv-cache), [2026-08-04](../2026-08-04/README.md#daily-term-kv-cache)
+**Appears in:** [2026-08-01](../2026-08-01/README.md#daily-term-kv-cache), [2026-08-02](../2026-08-02/README.md#daily-term-kv-cache), [2026-08-04](../2026-08-04/README.md#daily-term-kv-cache), [2026-08-09](../2026-08-09/README.md#daily-term-kv-cache)
 
 **Reference:** https://huggingface.co/docs/transformers/v4.45.2/kv_cache
 
@@ -3842,6 +3941,17 @@ Memory allocation means the amount of DRAM, HBM, NAND or finished memory product
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-memory-bandwidth"></a>
+## Memory bandwidth
+
+Memory bandwidth is the amount of data a memory system can transfer per second between memory and compute logic. It solves the feed-the-compute problem: processors and accelerators can only work at full speed if data arrives fast enough. In today's Longsys, SK hynix, and Foxconn-related items, bandwidth matters because AI workloads are constrained by moving model weights, activations, KV cache, and intermediate data, not only by arithmetic units. Example: a system with strong compute but weak memory bandwidth can leave AI accelerators idle.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-memory-bandwidth)
+
+**Reference:** https://www.jedec.org/standards-documents/docs/jesd238
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-memory-chip"></a>
 ## Memory chip
 
@@ -3991,6 +4101,17 @@ Metrology is precision measurement inside semiconductor manufacturing, such as m
 **Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-metrology)
 
 **Reference:** https://www.kla.com/advance/education/chip-manufacturing-101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-mixture-of-experts-moe"></a>
+## Mixture-of-experts (MoE)
+
+Mixture-of-experts is a neural-network architecture that contains multiple expert subnetworks and routes each token or input to only a subset of those experts. It solves the scaling problem of increasing model capacity without activating every parameter on every inference step, but it creates memory-placement and routing complexity. In today's Longsys item, MoE matters because iSA + AISSD is positioned around offloading MoE parameters and KV cache to storage resources for local AI inference. Comparison: a dense model uses the whole model each step; an MoE model activates selected experts, which can save compute but complicate memory and storage movement.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-mixture-of-experts-moe)
+
+**Reference:** https://arxiv.org/abs/1701.06538
 
 [Back to A-Z index](#a-z-index)
 
@@ -4266,6 +4387,17 @@ Nasdaq Global Select Market is Nasdaq's top listing tier, with quantitative and 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-neocloud"></a>
+## Neocloud
+
+A neocloud is a specialized AI cloud provider built around large GPU clusters and AI infrastructure rather than a broad general-purpose cloud platform. It solves the market problem that hyperscalers cannot always satisfy AI compute demand quickly or flexibly, so customers rent capacity from specialized GPU-cloud operators. In today's CoreWeave and SpaceX/Nvidia item, neocloud matters because GPU allocation, financing cost, and data-center execution can decide whether these firms benefit from or lose to direct hardware buyers. Example: CoreWeave is a neocloud; AWS, Azure, and Google Cloud are larger general-purpose hyperscalers.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-neocloud)
+
+**Reference:** https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Second-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-neoverse"></a>
 ## Neoverse
 
@@ -4487,6 +4619,17 @@ An official release check is a deliberate scan of primary company or regulator p
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-official-status-check"></a>
+## Official status check
+
+An official status check is a deliberate review of regulator, company, standards-body, or filing pages to verify whether a reported event has become a formal disclosure, rule, filing, or enforcement action. It solves the research-quality problem of not treating rumors, analyst notes, drafts, or media reports as completed facts. In today's BIS item, official status checking matters because optical-transceiver and Nvidia-China access reports remain policy risks unless BIS, FCC, the Federal Register, or a court/enforcement source publishes binding text. Example: MarketWatch reporting can move stocks; BIS text changes compliance duties.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check)
+
+**Reference:** https://www.bis.gov/news-updates
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-offshore-foundry-restriction"></a>
 ## Offshore foundry restriction
 
@@ -4561,6 +4704,17 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 **Appears in:** [2026-07-06](../2026-07-06/README.md#daily-term-operating-profit), [2026-07-07](../2026-07-07/README.md#daily-term-operating-profit)
 
 **Reference:** https://www.samsung.com/global/ir/reports-disclosures/public-disclosure-view.84695/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-optical-earnings-watch"></a>
+## Optical earnings watch
+
+An optical earnings watch is a tracked upcoming financial result from companies that make lasers, transceivers, optical engines, photonic components, or related materials used in data-center networks. It solves the evidence problem of verifying whether optical AI demand is translating into revenue, margins, capacity, and customer commitments. In today's Lumentum and Coherent watch, it matters because optical components are a major bottleneck and policy-risk area for AI cluster scaling. Example: AOI gave one official optical signal earlier; Lumentum and Coherent can test whether that strength is broader.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-optical-earnings-watch)
+
+**Reference:** https://www.oiforum.com/technical-work/hot-topics/800g/
 
 [Back to A-Z index](#a-z-index)
 
@@ -5807,6 +5961,17 @@ Silicon germanium is a semiconductor alloy that combines silicon with germanium 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-silicon-ip"></a>
+## Silicon IP
+
+Silicon intellectual property is a reusable circuit or subsystem block, such as a processor core, DSP, interface, wireless block, security engine, or AI accelerator, licensed for integration into a larger chip. It solves the design-time and verification-cost problem because teams can reuse qualified blocks instead of designing every function from scratch. In today's Ceva proof queue, silicon IP matters because wireless, smart-edge, automotive, and edge-AI chips often start by licensing proven IP before SoC integration and tape-out. Comparison: buying a chip gives you hardware; licensing IP gives you a design block to integrate into your own chip.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-silicon-ip)
+
+**Reference:** https://www.arm.com/glossary/semiconductor-ip
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-silicon-ip-licensing"></a>
 ## Silicon IP licensing
 
@@ -6002,6 +6167,17 @@ A storage accelerator is hardware or a subsystem that offloads storage-related w
 **Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-storage-accelerator)
 
 **Reference:** https://www.businesswire.com/news/home/20260729150347/en/MaxLinear-Showcases-Panther-for-AI-Storage-Efficiency-and-AI-Inference-Performance-at-FMS-2026
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-storage-foundry-model"></a>
+## Storage foundry model
+
+A storage foundry model is a business and engineering approach where a storage company offers customized hardware, firmware, host software, packaging, testing, and manufacturing work for customer-specific systems, similar in spirit to how a chip foundry builds customer designs but applied to storage subsystems. It solves the product-fragmentation problem that edge-AI devices have different processors, operating systems, AI models, power limits, form factors, and security needs. In today's Longsys item, it matters because the company is arguing that standard storage products are not enough for edge AI; customers need co-optimized storage designs. Example: a robot, AI PC, and industrial gateway may all use NAND, but their latency, endurance, temperature, and model-cache behavior can differ sharply.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-storage-foundry-model)
+
+**Reference:** https://www.prnewswire.com/news-releases/fms-2026--longsys-chief-scientist-jian-chen-highlights-the-storage-foundry-model-for-edge-ai-302846008.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -6456,6 +6632,17 @@ UCIe, or Universal Chiplet Interconnect Express, is an open die-to-die interconn
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-ufs"></a>
+## UFS
+
+Universal Flash Storage is a JEDEC storage interface and device standard for embedded NAND-based storage used in phones, vehicles, edge devices, and other compact systems. It solves the embedded-storage problem by providing higher performance and more advanced command handling than older eMMC-style storage while fitting mobile and low-power use cases. In today's Longsys item, UFS matters because HLCache UFS is positioned as a way to manage hot and cold data in mobile AI devices under memory pressure. Comparison: UFS is common in mobile/embedded systems; NVMe SSDs are more common in PCs, servers, and high-performance storage paths.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-ufs)
+
+**Reference:** https://www.jedec.org/standards-documents/focus/flash/universal-flash-storage-ufs
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-ufs-5-0"></a>
 ## UFS 5.0
 
@@ -6497,6 +6684,17 @@ Ultra-low-latency inference means generating AI responses with very short delay 
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-ultra-low-latency-inference)
 
 **Reference:** https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-unaudited-consolidated-revenue"></a>
+## Unaudited consolidated revenue
+
+Unaudited consolidated revenue is company revenue reported across a group of subsidiaries before completion of full external audit procedures. It solves the timeliness problem by giving investors and supply-chain researchers fast monthly or quarterly demand evidence, but the numbers can later be adjusted. In today's Foxconn item, it matters because Hon Hai's July monthly revenue gives an early AI-server supply-chain signal before full quarterly margins and product-mix details arrive. Comparison: monthly unaudited revenue is fast; audited annual financial statements are more complete and controlled.
+
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-unaudited-consolidated-revenue)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/financial-statements
 
 [Back to A-Z index](#a-z-index)
 
@@ -6672,7 +6870,7 @@ Wafer cleaning removes particles, organic residues, metals, native oxides, and p
 
 Wafer fabrication equipment, often shortened to WFE, is the category of tools used to manufacture integrated circuits on wafers, including deposition, etch, lithography support, cleaning, ion implantation, inspection, metrology, process control, and related subsystems. It solves the physical manufacturing problem of repeatedly building, patterning, removing, measuring, and controlling ultra-thin films at nanometer scale. In today's MKS result, WFE matters because equipment and subsystem demand is a leading indicator for future wafer capacity, NAND upgrades, advanced packaging, and AI-linked process complexity. Example: a GPU shipment in 2027 may depend on tool orders and subsystem capacity placed much earlier.
 
-**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-wafer-fabrication-equipment)
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-wafer-fabrication-equipment), [2026-08-09](../2026-08-09/README.md#daily-term-wafer-fabrication-equipment)
 
 **Reference:** https://www.semi.org/en/market-data
 
