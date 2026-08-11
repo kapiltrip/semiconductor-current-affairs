@@ -8,7 +8,7 @@ The goal is not to collect every article. The goal is to build discussion-ready 
 
 ## Study Navigation
 
-- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-08-09.
+- [Daily index](#daily-index): open any date from 2026-06-16 through 2026-08-10.
 - [A-Z technical-term index](knowledge-base/glossary.md): open a definition, its source, and every day where the term is taught.
 - [Semiconductor industry map](knowledge-base/industry-map.md): place each story in the value chain.
 - [India semiconductor tracker](knowledge-base/india-semiconductor-tracker.md): follow projects, policy, and ecosystem evidence.
@@ -128,6 +128,7 @@ scripts/                       Index-maintenance utilities
 | 2026-08-07 | [2026-08-07/README.md](2026-08-07/README.md) | [images/2026-08-07/links.md](images/2026-08-07/links.md) | SIA Q2 global sales surge, MKS equipment and packaging demand, AOI 800G optics, Silicon Motion MonTitan, Himax CPO, SiTime timing, policy status, TSMC follow-up, India workforce |
 | 2026-08-08 | [2026-08-08/README.md](2026-08-08/README.md) | [images/2026-08-08/links.md](images/2026-08-08/links.md) | Weekend catch-up: SK hynix fab capex, ACM equipment/ECP, Microchip recovery, optical/InP policy risk, Nvidia-China access reporting, GF India support hub, Ceva/TSMC proof queue |
 | 2026-08-09 | [2026-08-09/README.md](2026-08-09/README.md) | [images/2026-08-09/links.md](images/2026-08-09/links.md) | Sunday proof queue: Longsys edge-AI storage, Foxconn AI-server revenue, TSMC/Ceva/Lumentum/Coherent/AMAT/CoreWeave checkpoints, SpaceX-Nvidia neocloud risk, BIS status, SEMICON India Hackathon |
+| 2026-08-10 | [2026-08-10/README.md](2026-08-10/README.md) | [images/2026-08-10/links.md](images/2026-08-10/links.md) | TSMC July foundry revenue, Ceva IP licensing result, Intel $15B offering, Apple-CXMT report, Nvidia/HBM memory-content risk, optics/equipment proof queue, BIS and SEMICON India |
 
 ## Note Quality Standard
 
@@ -205,4 +206,4 @@ Related editorials are welcome and should get complete original coverage in the 
 
 ## Current Status
 
-Daily notes are reviewed through 2026-08-09. All 55 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-August 9 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.
+Daily notes are reviewed through 2026-08-10. All 56 pages have clickable page navigation and end-of-page technical-term indexes, while the master glossary canonicalizes repeated terms and links back to the relevant days. Source manifests and readable headline/source screenshots, official source images, or clearly labeled generated metadata reference cards are included where available. Full article/editorial bodies are not duplicated; the daily notes use original study explanations with source links. July 18 is text-link-only because clean screenshot capture was blocked or timed out; July 19-August 10 use generated reference cards after browser capture proved unreliable, and the cards explicitly state that they are not webpage screenshots.

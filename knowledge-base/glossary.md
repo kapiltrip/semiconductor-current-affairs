@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-09**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-10**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -1115,7 +1115,7 @@ Capex support is financial assistance tied to capital expenditure such as fabs, 
 
 Capital expenditure is money spent on long-lived productive assets such as fabs, cleanrooms, EUV scanners, deposition tools, etch systems, test equipment, packaging lines, and data-center infrastructure. It solves future capacity and technology needs, but it is not the same as current production. In today's news, capex matters because Samsung's profits and SK hynix's offering are both linked to future memory supply, yet capex only becomes shipped chips after installation, process qualification, yield learning, and customer qualification. Example: buying a lithography tool is not equal to shipping a qualified HBM stack.
 
-**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex), [2026-07-22](../2026-07-22/README.md#daily-term-capital-expenditure-capex), [2026-07-28](../2026-07-28/README.md#daily-term-capital-expenditure-capex)
+**Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-capital-expenditure-capex), [2026-07-06](../2026-07-06/README.md#daily-term-capital-expenditure-capex), [2026-07-07](../2026-07-07/README.md#daily-term-capital-expenditure-capex), [2026-07-10](../2026-07-10/README.md#daily-term-capital-expenditure-capex), [2026-07-16](../2026-07-16/README.md#daily-term-capital-expenditure-capex), [2026-07-22](../2026-07-22/README.md#daily-term-capital-expenditure-capex), [2026-07-28](../2026-07-28/README.md#daily-term-capital-expenditure-capex), [2026-08-10](../2026-08-10/README.md#daily-term-capital-expenditure-capex)
 
 **Reference:** https://www.semi.org/en/semi-press-release/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-dollars-in-2026
 
@@ -1377,11 +1377,11 @@ CAE uses simulation software to model physical behavior such as thermal, mechani
 <a id="term-consolidated-net-revenue"></a>
 ## Consolidated net revenue
 
-Consolidated net revenue is revenue from the whole company group after combining subsidiaries and removing internal transactions. It solves the accounting problem of showing the economic revenue of the business as one entity instead of double-counting intercompany sales. In today's news, it matters because TSMC reports consolidated monthly revenue, giving a group-level demand signal rather than a narrow single-site number.
+Consolidated net revenue is revenue reported for a company group after combining the parent and controlled subsidiaries and removing internal transactions, usually after returns, discounts, and similar deductions from gross sales. It solves the accounting problem of showing the economic sales of the whole group rather than double-counting sales between related entities. In today's TSMC item, it matters because the July number is a consolidated company-wide manufacturing signal, not one fab or one customer. Comparison: consolidated revenue is group-level; segment revenue breaks sales into business lines when the company provides that detail.
 
-**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-consolidated-net-revenue)
+**Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-consolidated-net-revenue), [2026-08-10](../2026-08-10/README.md#daily-term-consolidated-net-revenue)
 
-**Reference:** https://pr.tsmc.com/english/news/3323
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/financial-statements
 
 [Back to A-Z index](#a-z-index)
 
@@ -1841,6 +1841,17 @@ Diluted earnings per share divides net income by the share count after consideri
 **Appears in:** [2026-07-16](../2026-07-16/README.md#daily-term-diluted-earnings-per-share)
 
 **Reference:** https://pr.tsmc.com/english/news/3326
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-dilution"></a>
+## Dilution
+
+Dilution happens when a company issues new shares and each existing share represents a smaller percentage ownership claim on the company. It solves the funding problem for the company but creates a tradeoff for shareholders because the ownership base expands. In today's Intel item, dilution matters because a large common-stock offering can fund fabs and working capital while reducing existing shareholders' percentage stake unless future earnings grow enough to offset it. Example: issuing debt avoids immediate share dilution but adds interest and repayment obligations.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-dilution)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/dilution
 
 [Back to A-Z index](#a-z-index)
 
@@ -2319,7 +2330,7 @@ An enterprise SSD is a solid-state drive built for server and data-center worklo
 
 The Entity List is a U.S. Bureau of Industry and Security restricted-party list that imposes license requirements on exports, reexports and transfers involving named entities under the Export Administration Regulations. It solves the enforcement problem in export controls: instead of only controlling product categories, the U.S. can restrict transactions with specific organizations of concern. In today's CXMT/YMTC watch, the Entity List matters because political pressure is rising, but no new final BIS Entity List action against CXMT/YMTC was verified before cutoff. Comparison: a congressional letter is pressure; an Entity List rule is an enforceable licensing trigger.
 
-**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list), [2026-08-02](../2026-08-02/README.md#daily-term-entity-list)
+**Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list), [2026-08-02](../2026-08-02/README.md#daily-term-entity-list), [2026-08-10](../2026-08-10/README.md#daily-term-entity-list)
 
 **Reference:** https://www.bis.gov/entity-list
 
@@ -2529,6 +2540,17 @@ An export-control review is an internal, external, or regulator-facing examinati
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-export-control-review)
 
 **Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-external-wafers"></a>
+## External wafers
+
+External wafers are wafers manufactured for outside customers rather than for the manufacturer's own internal product groups. It solves the foundry-business question of whether a manufacturing network can attract third-party designs and compete as a merchant supplier. In today's Intel offering release, external wafers matter because Intel linked AI demand and foundry opportunities to financing needs. Comparison: Intel product wafers serve Intel CPUs or accelerators; external wafers serve customers using Intel Foundry capacity.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-external-wafers)
+
+**Reference:** https://www.intel.com/content/www/us/en/foundry/overview.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2823,6 +2845,17 @@ Foundry diversification means building a supply chain where a chip company can u
 **Appears in:** [2026-06-22](../2026-06-22/README.md#daily-term-foundry-diversification)
 
 **Reference:** https://www.synopsys.com/glossary/what-is-a-process-design-kit.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-foundry-monthly-revenue"></a>
+## Foundry monthly revenue
+
+Foundry monthly revenue is the revenue a contract chip manufacturer reports for one month from making wafers for customers. It solves the research problem of getting a near-real-time demand signal before full quarterly earnings arrive, but it does not reveal exact customers, nodes, margins, or utilization by product. In today's TSMC item, it matters because July revenue shows wafer-manufacturing demand remained strong after the prior proof queue. Example: TSMC monthly revenue is current foundry output evidence; an analyst estimate is only a forecast.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-foundry-monthly-revenue)
+
+**Reference:** https://investor.tsmc.com/english/monthly-revenue/2026
 
 [Back to A-Z index](#a-z-index)
 
@@ -3146,6 +3179,17 @@ An HBM demand signal is evidence that customers need more high-bandwidth memory 
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-hbm-demand-signal)
 
 **Reference:** https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-5c384a21
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-hbm-supply-constraint"></a>
+## HBM supply constraint
+
+An HBM supply constraint is a shortage or tight allocation of high-bandwidth memory stacks, packaging capacity, qualified yields, or supplier commitments relative to AI accelerator demand. It solves no problem by itself; it is the bottleneck that forces chipmakers to redesign products, prioritize customers, raise prices, or delay ramps. In today's Nvidia-Rubin market report, HBM tightness matters because memory content can shape accelerator configuration and revenue for memory suppliers. Comparison: ordinary server DRAM can be expanded with DIMMs; HBM is integrated close to the accelerator package and is much harder to substitute late.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-hbm-supply-constraint)
+
+**Reference:** https://www.jedec.org/standards-documents/docs/jesd238
 
 [Back to A-Z index](#a-z-index)
 
@@ -3963,6 +4007,17 @@ A memory chip stores data or instructions for short-term working use, long-term 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-memory-content"></a>
+## Memory content
+
+Memory content is the amount, type, bandwidth, and value of memory included in a device, board, server, or accelerator platform. It solves the sizing problem of connecting chip demand to memory vendor revenue and system performance. In today's Nvidia-Rubin/HBM item, memory content matters because a change in HBM quantity per accelerator can shift both performance and supplier sales. Example: two GPUs can use the same compute die family but very different HBM stack counts or capacities.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-memory-content)
+
+**Reference:** https://www.jedec.org/standards-documents/docs/jesd238
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-memory-cycle"></a>
 ## Memory cycle
 
@@ -4484,6 +4539,17 @@ Non-GAAP earnings per share adjusts standard accounting profit by excluding sele
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-non-gaap-operating-margin"></a>
+## Non-GAAP operating margin
+
+Non-GAAP operating margin is operating income as a percentage of revenue after management excludes certain expenses or accounting items from standard GAAP results. It solves the communication problem of showing an adjusted view of operating performance, but it must be checked against GAAP because exclusions can make profitability look cleaner than statutory accounting. In today's Ceva result, it matters because the company reported stronger adjusted operating leverage along with licensing growth. Comparison: GAAP is the regulated accounting baseline; non-GAAP is management's adjusted lens.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-non-gaap-operating-margin)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/non-gaap-financial-measures
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-non-handset-revenue"></a>
 ## Non-handset revenue
 
@@ -4712,7 +4778,7 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 An optical earnings watch is a tracked upcoming financial result from companies that make lasers, transceivers, optical engines, photonic components, or related materials used in data-center networks. It solves the evidence problem of verifying whether optical AI demand is translating into revenue, margins, capacity, and customer commitments. In today's Lumentum and Coherent watch, it matters because optical components are a major bottleneck and policy-risk area for AI cluster scaling. Example: AOI gave one official optical signal earlier; Lumentum and Coherent can test whether that strength is broader.
 
-**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-optical-earnings-watch)
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-optical-earnings-watch), [2026-08-10](../2026-08-10/README.md#daily-term-optical-earnings-watch)
 
 **Reference:** https://www.oiforum.com/technical-work/hot-topics/800g/
 
@@ -5243,6 +5309,17 @@ PP&E is the accounting category for long-lived physical assets such as buildings
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-proposal-submission-deadline"></a>
+## Proposal submission deadline
+
+A proposal submission deadline is the formal last date by which participants must submit a project plan, problem statement, approach, and expected output for review. It solves the program-management problem of turning open interest into comparable, reviewable entries. In today's SEMICON India Hackathon update, the August 16 deadline matters because students need to convert semiconductor interest into a specific VLSI, EDA, verification, yield, manufacturing, or design proposal. Example: registering interest is not enough; a proposal needs a defined input, method, output, and validation metric.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-proposal-submission-deadline)
+
+**Reference:** https://www.semiconindia.org/special-features-2026/Hackathon
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-public-private-co-investment"></a>
 ## Public-private co-investment
 
@@ -5538,7 +5615,7 @@ ROCm is AMD's open software platform for GPU computing, including drivers, compi
 
 Royalty revenue is money earned when customers use licensed technology or IP in shipped products, often tied to units, value, or contract terms. It solves the scaling problem for IP companies: they can benefit when partners ship chips or devices without manufacturing every chip themselves. In today's Arm result, royalty revenue matters because AI/data-center adoption of Arm-based designs can grow Arm's revenue as partners ship more processors. Example: Arm designs the CPU architecture and IP; partners build chips and pay royalties when products ship.
 
-**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-royalty-revenue)
+**Appears in:** [2026-07-30](../2026-07-30/README.md#daily-term-royalty-revenue), [2026-08-10](../2026-08-10/README.md#daily-term-royalty-revenue)
 
 **Reference:** https://investors.arm.com/financials/quarterly-annual-results/
 
@@ -5977,7 +6054,7 @@ Silicon intellectual property is a reusable circuit or subsystem block, such as 
 
 Silicon IP licensing is the business of providing reusable processor cores, connectivity blocks, DSPs, security modules, interfaces, or software stacks that chip designers integrate into their own SoCs under license. It solves the design-cost and time-to-market problem because companies do not need to reinvent every verified block from scratch. In today's Ceva watch, it matters because wireless, edge AI, sensor, automotive, and smart-edge chips often depend on licensed IP before they reach tape-out. Example: a chip company may design the SoC integration but license a DSP, Bluetooth, Wi-Fi, or AI-accelerator block from an IP vendor.
 
-**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-silicon-ip-licensing)
+**Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-silicon-ip-licensing), [2026-08-10](../2026-08-10/README.md#daily-term-silicon-ip-licensing)
 
 **Reference:** https://www.arm.com/glossary/semiconductor-ip
 
@@ -6709,6 +6786,17 @@ Underlying shares are the actual company shares that economically support anothe
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-underwritten-public-offering"></a>
+## Underwritten public offering
+
+An underwritten public offering is a sale of securities to public investors where investment banks buy or arrange the sale of shares under agreed terms. It solves the capital-raising problem by giving a company faster access to large pools of investor money, but it can dilute existing shareholders and signals funding needs. In today's Intel item, it matters because Intel is trying to fund capex and working capital while executing manufacturing, foundry, and advanced-packaging plans. Example: a debt raise increases obligations; a common-stock offering increases shares outstanding.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-underwritten-public-offering)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/underwriter
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-universal-chiplet-interconnect-express-ucie"></a>
 ## Universal Chiplet Interconnect Express (UCIe)
 
@@ -6786,6 +6874,17 @@ Vendor financing is when a supplier helps finance a customer's purchase or proje
 **Appears in:** [2026-08-02](../2026-08-02/README.md#daily-term-vendor-financing)
 
 **Reference:** https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-vendor-qualification"></a>
+## Vendor qualification
+
+Vendor qualification is the engineering, reliability, supply-chain, compliance, and commercial process used before a customer approves a supplier's component for production. It solves the risk problem that an unqualified component can fail performance, reliability, security, export-control, or customer-support requirements. In today's Apple-CXMT reporting, qualification matters because testing memory does not equal a confirmed supplier award. Example: a phone maker may test a DRAM vendor for months before using that memory in production devices.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-vendor-qualification)
+
+**Reference:** https://www.jedec.org/standards-documents/focus/quality-reliability
 
 [Back to A-Z index](#a-z-index)
 
@@ -6870,7 +6969,7 @@ Wafer cleaning removes particles, organic residues, metals, native oxides, and p
 
 Wafer fabrication equipment, often shortened to WFE, is the category of tools used to manufacture integrated circuits on wafers, including deposition, etch, lithography support, cleaning, ion implantation, inspection, metrology, process control, and related subsystems. It solves the physical manufacturing problem of repeatedly building, patterning, removing, measuring, and controlling ultra-thin films at nanometer scale. In today's MKS result, WFE matters because equipment and subsystem demand is a leading indicator for future wafer capacity, NAND upgrades, advanced packaging, and AI-linked process complexity. Example: a GPU shipment in 2027 may depend on tool orders and subsystem capacity placed much earlier.
 
-**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-wafer-fabrication-equipment), [2026-08-09](../2026-08-09/README.md#daily-term-wafer-fabrication-equipment)
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-wafer-fabrication-equipment), [2026-08-09](../2026-08-09/README.md#daily-term-wafer-fabrication-equipment), [2026-08-10](../2026-08-10/README.md#daily-term-wafer-fabrication-equipment)
 
 **Reference:** https://www.semi.org/en/market-data
 
@@ -7051,6 +7150,17 @@ Year-over-year growth compares a metric with the same period one year earlier. I
 **Appears in:** [2026-07-13](../2026-07-13/README.md#daily-term-year-over-year-growth)
 
 **Reference:** https://pr.tsmc.com/english/news/3323
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-year-to-date-revenue"></a>
+## Year-to-date revenue
+
+Year-to-date revenue is the cumulative revenue from the start of the fiscal or calendar year through the current reporting period. It solves the context problem of not overreacting to one month by showing how the year is tracking as a whole. In today's TSMC item, the 2026 year-to-date total matters because July strength is added to an already strong January-July base. Example: a single month can spike because of shipment timing; year-to-date data smooths some of that noise.
+
+**Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-year-to-date-revenue)
+
+**Reference:** https://investor.tsmc.com/english/monthly-revenue/2026
 
 [Back to A-Z index](#a-z-index)
 
