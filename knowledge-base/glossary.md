@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-10**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-11**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -384,6 +384,17 @@ Advanced verification is the use of systematic methods such as constrained-rando
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-after-market-earnings-release"></a>
+## After-market earnings release
+
+An after-market earnings release is a company result published after the stock exchange closes for regular trading. It solves the disclosure-timing problem by giving investors time to read numbers before the next full trading session, but it means an early-day notebook must mark the result pending if the release has not occurred yet. In today's note, CoreWeave, Supermicro, and Lumentum are after-close proof points, so their final numbers are not included before the cutoff. Example: a 5:00 PM ET call occurs after the U.S. market close and after this India-time daily run.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-after-market-earnings-release)
+
+**Reference:** https://www.sec.gov/edgar/browse/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-agentic-ai"></a>
 ## Agentic AI
 
@@ -447,6 +458,17 @@ An AI ASIC is an application-specific integrated circuit optimized for AI worklo
 **Appears in:** [2026-06-25](../2026-06-25/README.md#daily-term-ai-asic), [2026-07-09](../2026-07-09/README.md#daily-term-ai-asic)
 
 **Reference:** https://www.investing.com/news/stock-market-news/exclusive-meta-to-put-ai-chip-into-production-in-september-source-says-4144127
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-cloud-capacity"></a>
+## AI cloud capacity
+
+AI cloud capacity is the deployed computing, networking, storage, power, cooling, and software infrastructure available to rent or use for AI training and inference. It solves the demand problem for customers that need GPUs or accelerators without building their own data centers. In today's CoreWeave and Riot/Anthropic items, capacity matters because semiconductor demand becomes revenue only when chips turn into usable compute. Comparison: a GPU shipment is component supply; AI cloud capacity is installed, powered, networked, and sellable compute.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-ai-cloud-capacity)
+
+**Reference:** https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Second-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -914,11 +936,11 @@ Assembly, packaging, system integration, and test work after wafers are fabricat
 <a id="term-backlog"></a>
 ## Backlog
 
-Backlog is the value or volume of customer orders that have been booked but not yet fulfilled. It solves the planning problem of showing how much future work is already in the queue, although backlog can change if customers cancel, delay, or revise orders. In today's Microchip item, a higher backlog matters because it supports management's recovery narrative in microcontrollers, analog, connectivity, automotive, industrial, and data-center-adjacent products. Comparison: bookings are new orders arriving; backlog is the accumulated unfilled order book.
+Backlog is customer orders or commitments received but not yet recognized as revenue because delivery, acceptance, or performance obligations are still pending. It solves the visibility problem by showing demand that may convert into future revenue, but it can be affected by cancellations, delays, terms, and customer concentration. In today's Supermicro update, backlog matters because more than $60B of new orders would be a major AI-server signal, but the company also warned some orders may not be firm commitments. Comparison: revenue is already recognized; backlog is future execution risk.
 
-**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-backlog), [2026-08-08](../2026-08-08/README.md#daily-term-backlog)
+**Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-backlog), [2026-08-08](../2026-08-08/README.md#daily-term-backlog), [2026-08-11](../2026-08-11/README.md#daily-term-backlog)
 
-**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_revenue
 
 [Back to A-Z index](#a-z-index)
 
@@ -1352,6 +1374,17 @@ Composable infrastructure means compute, memory, storage, and networking resourc
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-compute-contract"></a>
+## Compute contract
+
+A compute contract is an agreement to provide computing capacity, often measured by power, GPUs, servers, location, duration, and service obligations, to a customer over time. It solves the capacity-assurance problem for AI companies that need guaranteed infrastructure rather than spot-market access. In today's Riot/Anthropic reporting, the reported 20-year arrangement matters because it would turn semiconductor hardware demand into long-lived data-center service revenue if executed. Example: buying GPUs is a component purchase; signing a compute contract secures access to installed infrastructure.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-compute-contract)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-compute-express-link-cxl"></a>
 ## Compute Express Link (CXL)
 
@@ -1593,6 +1626,17 @@ A data silo is a store of data that is isolated by tool, department, vendor, sec
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-data-center-building-block-solution"></a>
+## Data-center building-block solution
+
+A data-center building-block solution is a modular server or rack architecture made from configurable compute, GPU, storage, networking, power, cooling, motherboard, chassis, and software components. It solves the customization and time-to-market problem because customers can assemble systems for different AI, enterprise, storage, or edge workloads without redesigning every platform. In today's Supermicro watch, the term matters because backlog and margins depend on which customer and product blocks are being delivered. Comparison: a single server SKU is fixed; a building-block platform is a reusable menu of system pieces.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-data-center-building-block-solution)
+
+**Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-datacenter-revenue"></a>
 ## Datacenter revenue
 
@@ -1653,7 +1697,7 @@ Demand elasticity measures how much quantity demanded changes when price changes
 
 A demand-side proof point is evidence from customers, cloud operators, system builders, or downstream buyers showing that they are ordering, deploying, or monetizing semiconductor-based systems. It solves the research problem of distinguishing supplier optimism from actual customer pull. In today's CoreWeave, Foxconn, and SpaceX/Nvidia items, demand-side proof matters because AI chipmakers can report strong sales only if cloud builders, hyperscalers, enterprises, and system integrators can absorb and deploy the hardware. Example: TSMC revenue is a manufacturing-side signal; CoreWeave capacity, backlog, and earnings are demand-side signals.
 
-**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-demand-side-proof-point)
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-demand-side-proof-point), [2026-08-11](../2026-08-11/README.md#daily-term-demand-side-proof-point)
 
 **Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
 
@@ -2537,7 +2581,7 @@ Export-control enforcement is the investigation and legal action used to make su
 
 An export-control review is an internal, external, or regulator-facing examination of whether products, services, shipments, customers, end users, transactions, or support violated rules restricting sensitive technology flows. It solves the compliance problem in semiconductors: advanced AI hardware can have national-security restrictions, and companies must prove that channels, customers, geography, and end use were legal. In today's news, Supermicro's review is material because strong AI-server margins are less valuable if compliance findings later affect results, shipments, or customer trust. A comparison: a clean revenue beat is one thing; a revenue beat under unresolved compliance review carries more risk.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-export-control-review)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-export-control-review), [2026-08-11](../2026-08-11/README.md#daily-term-export-control-review)
 
 **Reference:** https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx
 
@@ -3076,7 +3120,7 @@ Graviton5 is Amazon's Arm-based custom server CPU generation for EC2 cloud insta
 
 Gross margin is revenue minus cost of goods sold, expressed as a percentage of revenue. It solves the profitability question before operating expenses: how much money remains after direct manufacturing and service costs. In today's news, TSMC's 67.7% Q2 gross margin shows extremely strong foundry economics, while reported price increases may be partly about protecting margins as overseas fabs, materials, equipment, packaging, and energy costs rise. Example: a high revenue number with weak gross margin can still be a poor manufacturing business; TSMC has both high revenue and high gross margin in the latest official quarter.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin), [2026-08-07](../2026-08-07/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin), [2026-08-07](../2026-08-07/README.md#daily-term-gross-margin), [2026-08-11](../2026-08-11/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
@@ -3527,6 +3571,17 @@ An IPO is the first sale of a company's shares to the public market. The busines
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-inp-supply-chain"></a>
+## InP supply chain
+
+The InP supply chain covers indium phosphide wafers, epitaxy, photonic devices, lasers, detectors, packaging, testing, and module assembly used in high-speed optical communications. It solves the material problem that silicon cannot efficiently emit light for many laser-based data-center and telecom functions. In today's optics queue, InP matters because prior reporting raised China-linked optical supply-chain risk and upcoming optical earnings may show whether demand or constraints are visible. Comparison: silicon dominates CMOS logic; InP is specialized for optoelectronic functions.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-inp-supply-chain)
+
+**Reference:** https://www.rp-photonics.com/indium_phosphide.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-inp-wafer"></a>
 ## InP wafer
 
@@ -3612,6 +3667,17 @@ Interconnect Solutions are materials, films, dielectrics, adhesives, metallizati
 **Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-interconnect-solutions)
 
 **Reference:** https://www.qnity.com/industries/semiconductor
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-investment-grade-credit-rating"></a>
+## Investment-grade credit rating
+
+An investment-grade credit rating is a bond or issuer rating that credit agencies consider lower risk than speculative-grade debt. It solves the capital-access problem because higher-rated issuers can often borrow more cheaply and from a wider investor base. In today's Intel context, equity financing matters partly because semiconductor companies must manage credit profile, debt cost, and capex needs together. Example: raising equity may protect borrowing capacity but dilutes shareholders; raising debt avoids dilution but can pressure ratings and interest expense.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-investment-grade-credit-rating)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/bond-rating
 
 [Back to A-Z index](#a-z-index)
 
@@ -4464,6 +4530,17 @@ Neoverse is Arm's infrastructure CPU platform family for cloud, data-center, net
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-net-proceeds"></a>
+## Net proceeds
+
+Net proceeds are the cash the issuer expects to receive after underwriting discounts, commissions, and offering expenses are subtracted from gross proceeds. It solves the cash-planning problem by showing how much money is actually available for capex, working capital, debt management, or other uses. In today's Intel item, estimated net proceeds of about $19.7B matter because that is the funding pool before any underwriter option exercise. Example: gross proceeds can be $20B while net proceeds are lower after transaction costs.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-net-proceeds)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/prospectus
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-net-profit-margin"></a>
 ## Net profit margin
 
@@ -4690,7 +4767,7 @@ An official release check is a deliberate scan of primary company or regulator p
 
 An official status check is a deliberate review of regulator, company, standards-body, or filing pages to verify whether a reported event has become a formal disclosure, rule, filing, or enforcement action. It solves the research-quality problem of not treating rumors, analyst notes, drafts, or media reports as completed facts. In today's BIS item, official status checking matters because optical-transceiver and Nvidia-China access reports remain policy risks unless BIS, FCC, the Federal Register, or a court/enforcement source publishes binding text. Example: MarketWatch reporting can move stocks; BIS text changes compliance duties.
 
-**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check)
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check), [2026-08-11](../2026-08-11/README.md#daily-term-official-status-check)
 
 **Reference:** https://www.bis.gov/news-updates
 
@@ -4789,7 +4866,7 @@ An optical earnings watch is a tracked upcoming financial result from companies 
 
 An optical transceiver is a module that converts electrical data signals into optical signals for fiber transmission and converts received optical signals back into electrical form. It solves the high-bandwidth networking problem in data centers, where copper links become too lossy or power-hungry over distance. In today's reported U.S. policy item, optical transceivers matter because AI clusters need massive east-west bandwidth between accelerators, switches, and racks, and Chinese suppliers are major participants in this component chain. Comparison: a NIC speaks electrical signals inside a server; an optical transceiver is the light-based doorway to the fiber network.
 
-**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver), [2026-08-06](../2026-08-06/README.md#daily-term-optical-transceiver), [2026-08-08](../2026-08-08/README.md#daily-term-optical-transceiver)
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-optical-transceiver), [2026-08-06](../2026-08-06/README.md#daily-term-optical-transceiver), [2026-08-08](../2026-08-08/README.md#daily-term-optical-transceiver), [2026-08-11](../2026-08-11/README.md#daily-term-optical-transceiver)
 
 **Reference:** https://www.ieee802.org/3/
 
@@ -5082,6 +5159,17 @@ Post-silicon validation is the process of exercising fabricated chips in real bo
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-power-capacity"></a>
+## Power capacity
+
+Power capacity is the amount of electrical power a facility can reliably deliver to compute, cooling, networking, storage, and support systems, often expressed in megawatts. It solves the deployment bottleneck problem because AI hardware is useless without enough grid connection, backup power, cooling, and facility infrastructure. In today's Riot/Anthropic report, 191 MW matters because power availability is now one of the limiting variables for AI-chip deployment. Comparison: a chip data sheet gives watts per device; data-center power capacity determines how many devices can be installed and operated.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-power-capacity)
+
+**Reference:** https://www.opencompute.org/projects/rack-and-power
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-power-factor-correction-pfc"></a>
 ## Power factor correction (PFC)
 
@@ -5165,6 +5253,17 @@ A PMT is a non-binding preliminary agreement between a company and the U.S. Comm
 **Appears in:** [2026-07-28](../2026-07-28/README.md#daily-term-preliminary-memorandum-of-terms-pmt)
 
 **Reference:** https://www.semiconductors.org/chip-supply-chain-investments/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-preliminary-unaudited-results"></a>
+## Preliminary unaudited results
+
+Preliminary unaudited results are early company estimates released before the full accounting close, audit, review, and filing process is complete. They solve the timeliness problem by giving investors a fast update, but they can change after final procedures. In today's Supermicro item, preliminary results matter because revenue, gross margin, and backlog are important, but the company explicitly warned that final results may differ. Example: preliminary revenue near a guidance range is useful evidence but not a filed 10-K or 10-Q.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-preliminary-unaudited-results)
+
+**Reference:** https://www.sec.gov/edgar/browse/
 
 [Back to A-Z index](#a-z-index)
 
@@ -5317,6 +5416,17 @@ A proposal submission deadline is the formal last date by which participants mus
 **Appears in:** [2026-08-10](../2026-08-10/README.md#daily-term-proposal-submission-deadline)
 
 **Reference:** https://www.semiconindia.org/special-features-2026/Hackathon
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-public-offering-price"></a>
+## Public offering price
+
+Public offering price is the price per share or security at which the company sells newly issued securities to public investors in an offering. It solves the transaction problem of turning a proposed raise into exact proceeds and share count. In today's Intel item, the $95 per-share price determines how many new shares are issued and how much dilution investors face. Comparison: market price moves every trading day; public offering price is the agreed sale price for the new securities.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-public-offering-price)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/prospectus
 
 [Back to A-Z index](#a-z-index)
 
@@ -6786,6 +6896,17 @@ Underlying shares are the actual company shares that economically support anothe
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-underwriter-option"></a>
+## Underwriter option
+
+An underwriter option, often called an overallotment option, gives underwriters the right to buy additional shares for a limited period after an offering, usually to support transaction execution and meet extra demand. It solves the market-distribution problem when demand exceeds the base offering or stabilization is needed. In today's Intel item, the 30-day option could add more shares beyond the base 210,526,315 shares if exercised. Comparison: the base offering is already priced; the option is potential additional issuance.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-underwriter-option)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/underwriter
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-underwritten-public-offering"></a>
 ## Underwritten public offering
 
@@ -6816,6 +6937,17 @@ An unrealized equity gain is an accounting increase in the value of securities a
 **Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-unrealized-equity-gain)
 
 **Reference:** https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-upsized-offering"></a>
+## Upsized offering
+
+An upsized offering is a securities sale that is increased above the originally announced size because the issuer and underwriters decide investor demand and pricing can support a larger raise. It solves the funding problem faster by bringing in more capital in one transaction, but it can also increase dilution for existing shareholders. In today's Intel item, the offering moved from a proposed $15B to a priced $20B deal, making the financing signal stronger than the prior day's announcement. Example: a company may launch at $15B and upsize to $20B if investor demand is deep enough at the set price.
+
+**Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-upsized-offering)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/underwriter
 
 [Back to A-Z index](#a-z-index)
 

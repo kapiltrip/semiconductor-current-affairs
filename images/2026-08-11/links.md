@@ -1,0 +1,15 @@
+# Source Links - 2026-08-11
+
+Generated source-reference cards are stored in this folder. They capture source name, date, headline, short metadata summary, and URL only; they are not full webpage screenshots and do not duplicate article bodies.
+
+| File | Source | Date | URL | Notes |
+|---|---|---|---|---|
+| intel-20b-pricing-source.png | Intel Investor Relations | 2026-08-11 | https://www.intc.com/news-events/press-releases/detail/1779/intel-announces-upsize-and-pricing-of-20-billion-common | Official $20B upsized/priced common-stock offering with share count, $95 offering price, expected net proceeds, and underwriter option. |
+| coreweave-q2-after-close-source.png | CoreWeave Investor Relations | Checked 2026-08-11 | https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Second-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx | Official Q2 2026 earnings call schedule for August 11 at 5:00 PM ET; result pending at cutoff. |
+| supermicro-q4-after-close-source.png | Supermicro Investor Relations | Checked 2026-08-11 | https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-Fourth-Quarter-of-Fiscal-Year-2026-Preliminary-Business-Update/default.aspx | Official preliminary Q4 update and August 11 after-close call schedule; includes revenue range, margin, backlog, and export-control review caveat. |
+| lumentum-after-close-optics-source.png | Lumentum Investor Relations | Checked 2026-08-11 | https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Reporting-Date-for-Fourth-Quarter-and-Fiscal-Year-2026-Results/default.aspx | Official Q4/full-year FY2026 after-close optics and photonics result schedule; result pending at cutoff. |
+| coherent-aug12-optics-source.png | Coherent | Checked 2026-08-11 | https://www.coherent.com/news/press-releases/fy2026-fourth-quarter-fy2026-conference-call-announced | Official August 12 FY2026 Q4 and year-end result schedule. |
+| applied-materials-aug13-equipment-source.png | Applied Materials Investor Relations | Checked 2026-08-11 | https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-report-fiscal-third-quarter-2026-results-aug | Official August 13 fiscal Q3 2026 wafer-equipment result schedule. |
+| riot-anthropic-compute-source.png | Investing.com / Bloomberg report | 2026-08-11 | https://www.investing.com/news/stock-market-news/anthropic-signs-91-billion-cloud-deal-with-riot-bloomberg-reports-4850722 | Reporting on a $9.1B, 20-year, 191 MW compute-capacity deal; treated as demand-side reporting, not official semiconductor supplier evidence. |
+| semicon-india-hackathon-source.png | SEMICON India | Checked 2026-08-11 | https://www.semiconindia.org/special-features-2026/Hackathon | Official India semiconductor hackathon page with August 16 registration and proposal deadline. |
+| bis-policy-status-source.png | BIS News and Updates | Checked 2026-08-11 | https://www.bis.gov/news-updates | Official status check; no newer final semiconductor rule verified before the August 11 cutoff. |
