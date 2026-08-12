@@ -1,12 +1,12 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-11**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-12**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
 ## A-Z Index
 
-[0-9](#letter-0-9) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
+[0-9](#letter-0-9) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
 ## How To Use This Glossary
 
@@ -20,7 +20,7 @@ Start with the short meaning on a daily page. Use this master entry when the ter
 
 A 1.6T optical transceiver is a next-generation optical module class designed around roughly 1.6 terabits per second of aggregate throughput. It solves the scaling problem where AI clusters need more bandwidth per port so fewer ports, cables, switch stages, and watts are needed for the same data movement. In today's AOI result, 1.6T matters because the company discussed customer engagement and production-capacity plans for 800G and 1.6 Tb products. Example: doubling link speed can reduce network complexity if reliability, power, thermal behavior, and cost are controlled.
 
-**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-1-6t-optical-transceiver)
+**Appears in:** [2026-08-07](../2026-08-07/README.md#daily-term-1-6t-optical-transceiver), [2026-08-12](../2026-08-12/README.md#daily-term-1-6t-optical-transceiver)
 
 **Reference:** https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-reports-second-quarter-2026-results
 
@@ -276,14 +276,25 @@ A14 process technology is TSMC's next cutting-edge logic process after its 2 nm-
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-active-power"></a>
+## Active power
+
+Active power is the amount of data-center power capacity that is already energized and usable for running compute infrastructure, typically stated in megawatts or gigawatts. It solves the practical deployment problem: GPUs, networking, cooling, and storage cannot become sellable AI cloud capacity until the site has available power. In today's CoreWeave result, 1.5 GW of active power matters because it is a hard infrastructure measure behind AI compute supply. Comparison: ordering GPUs is a component event; energizing power capacity is an operating-infrastructure event.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-active-power)
+
+**Reference:** https://www.opencompute.org/projects/rack-and-power
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-adjusted-ebitda"></a>
 ## Adjusted EBITDA
 
-Adjusted EBITDA is earnings before interest, taxes, depreciation, and amortization, further adjusted for selected items management excludes. It solves the business-comparison problem of estimating operating cash-like profitability across companies with different capital structures and depreciation schedules, but it is not the same as free cash flow. In today's Qnity guidance, adjusted EBITDA matters because materials suppliers are being valued on operating leverage from AI and advanced packaging demand. Comparison: EBITDA ignores many real costs; free cash flow asks how much cash remains after operating and capital needs.
+Adjusted EBITDA is earnings before interest, taxes, depreciation, and amortization, further adjusted for selected company-defined items. It solves the operating-performance comparison problem by trying to show cash-like operating profit before financing structure and asset depreciation, but it can hide important costs in capital-heavy businesses. In today's CoreWeave result, adjusted EBITDA margin of 59% looks strong while net loss remains large because interest, depreciation, and other costs matter heavily in AI data centers. Comparison: adjusted EBITDA can show operating scale; net income shows the broader accounting result after more costs.
 
-**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-adjusted-ebitda)
+**Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-adjusted-ebitda), [2026-08-12](../2026-08-12/README.md#daily-term-adjusted-ebitda)
 
-**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/investor-alert-non-gaap-financial-measures
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_non-gaap
 
 [Back to A-Z index](#a-z-index)
 
@@ -521,7 +532,7 @@ An AI fabric switch is a high-bandwidth switching chip or device that connects a
 
 An AI factory is a data-center-style industrial facility that turns electricity, chips, networking, memory, software, and data into AI outputs such as tokens, model training steps, inference responses, simulations, or recommendations. It solves the business framing problem for AI infrastructure: the output is not a physical good, but compute service at industrial scale. In today's news, NVIDIA and Wistron use the language of AI factories because the manufactured systems are meant to become the production equipment of AI services. A comparison: a steel mill uses energy and machinery to produce steel; an AI factory uses energy and accelerated computing to produce model outputs.
 
-**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory), [2026-07-23](../2026-07-23/README.md#daily-term-ai-factory), [2026-07-25](../2026-07-25/README.md#daily-term-ai-factory)
+**Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-ai-factory), [2026-07-23](../2026-07-23/README.md#daily-term-ai-factory), [2026-07-25](../2026-07-25/README.md#daily-term-ai-factory), [2026-08-12](../2026-08-12/README.md#daily-term-ai-factory)
 
 **Reference:** https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
 
@@ -590,6 +601,17 @@ AI infrastructure demand sensitivity is how strongly chip, memory, networking, s
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-ai-infrastructure-demand-sensitivity)
 
 **Reference:** https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-ai-server"></a>
+## AI server
+
+An AI server is a system built to host accelerators, CPUs, memory, storage, high-speed networking, power delivery, cooling, firmware, and management software for AI training or inference. It solves the system-integration problem by turning chips into deployable compute nodes. In today's Supermicro result, AI servers matter because revenue, backlog, gross margin, and FY2027 guidance show whether chip demand is converting into shipped rack and server infrastructure. Comparison: NVIDIA or AMD sells accelerators; Supermicro sells configured servers or rack-scale systems around them.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-ai-server)
+
+**Reference:** https://www.supermicro.com/en/solutions/ai
 
 [Back to A-Z index](#a-z-index)
 
@@ -1041,6 +1063,17 @@ Bookings are customer orders or order commitments received during a period, usua
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-bring-up-and-validation"></a>
+## Bring-up and validation
+
+Bring-up and validation is the engineering process of powering on new hardware, checking firmware, boards, links, thermal behavior, memory, interconnect, and software, then proving the system works against expected behavior. It solves the gap between "hardware exists" and "hardware is reliable enough to deploy." In today's CoreWeave result, Vera Rubin NVL72 bring-up and validation matters because future AI platforms are not useful until rack-scale systems work under real infrastructure conditions. Example: tape-out sends a chip design to manufacturing; bring-up proves the manufactured system can start and operate.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-bring-up-and-validation)
+
+**Reference:** https://semiengineering.com/knowledge_centers/eda-design/definitions/bring-up/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="letter-c"></a>
 # C
 
@@ -1313,7 +1346,7 @@ CBA fabricates the NAND memory-cell array and CMOS control circuitry on separate
 
 Co-packaged optics is an architecture that places optical engines very close to, or in the same package environment as, a switch or compute ASIC instead of using only pluggable optical modules at the front panel. It solves the electrical-loss and power problem that appears when very high-speed signals must travel across long board traces from a chip to a pluggable module. In today's Himax result, CPO matters because the company said its CPO products entered engineering production ramps and expects 2027 shipments to exceed 2026. Comparison: pluggable optics are easier to service; CPO can reduce electrical distance and power but makes packaging, cooling, test, and field replacement harder.
 
-**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-co-packaged-optics), [2026-08-07](../2026-08-07/README.md#daily-term-co-packaged-optics)
+**Appears in:** [2026-08-05](../2026-08-05/README.md#daily-term-co-packaged-optics), [2026-08-07](../2026-08-07/README.md#daily-term-co-packaged-optics), [2026-08-12](../2026-08-12/README.md#daily-term-co-packaged-optics)
 
 **Reference:** https://www.oiforum.com/technical-work/hot-topics/co-packaging/
 
@@ -1396,6 +1429,17 @@ Compute Express Link, or CXL, is an industry-supported cache-coherent interconne
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-compute-financing-platform"></a>
+## Compute financing platform
+
+A compute financing platform is a capital structure or investment vehicle designed to fund AI infrastructure such as accelerators, servers, data centers, networking, and software-backed usage contracts. It solves the funding-scale problem because AI clusters can require billions of dollars before customer revenue is fully realized. In today's NVIDIA item, the platform concept matters because NVIDIA is partnering with large financial institutions to mobilize third-party capital for customer infrastructure. Example: equipment leasing funds aircraft in aviation; compute financing may fund GPU clusters and data centers for AI customers.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-compute-financing-platform)
+
+**Reference:** https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-computer-aided-engineering-cae"></a>
 ## Computer-aided engineering (CAE)
 
@@ -1426,6 +1470,17 @@ Contract pricing is pre-negotiated pricing between suppliers and customers for f
 **Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-contract-pricing)
 
 **Reference:** https://www.jedec.org/standards-documents/focus/memory-interfaces
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-contracted-power"></a>
+## Contracted power
+
+Contracted power is power capacity reserved or secured under contracts but not necessarily fully active yet. It solves the long-lead planning problem for AI data centers, where grid interconnection, substations, backup power, cooling, and construction can take longer than chip delivery. In today's CoreWeave result, about 3.7 GW of contracted power matters because it points to future AI-cloud expansion if facilities, financing, and customer demand convert. Example: contracted power is like a reserved runway; active power is the runway already open for traffic.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-contracted-power)
+
+**Reference:** https://www.opencompute.org/projects/rack-and-power
 
 [Back to A-Z index](#a-z-index)
 
@@ -1645,6 +1700,17 @@ Datacenter revenue is sales tied to cloud, hyperscaler, enterprise, AI infrastru
 **Appears in:** [2026-08-06](../2026-08-06/README.md#daily-term-datacenter-revenue)
 
 **Reference:** https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-fourth-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-debt-extinguishment"></a>
+## Debt extinguishment
+
+Debt extinguishment is an accounting event where existing debt is repaid, exchanged, converted, or otherwise settled, causing gains or losses to be recognized depending on the terms and carrying value. It solves a capital-structure problem by changing obligations, but it can create large non-cash accounting effects. In today's Lumentum result, a one-time non-cash debt extinguishment loss explains why GAAP net loss is huge even while non-GAAP operating results are strong.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-debt-extinguishment)
+
+**Reference:** https://www.sec.gov/files/form8-k.pdf
 
 [Back to A-Z index](#a-z-index)
 
@@ -3120,7 +3186,7 @@ Graviton5 is Amazon's Arm-based custom server CPU generation for EC2 cloud insta
 
 Gross margin is revenue minus cost of goods sold, expressed as a percentage of revenue. It solves the profitability question before operating expenses: how much money remains after direct manufacturing and service costs. In today's news, TSMC's 67.7% Q2 gross margin shows extremely strong foundry economics, while reported price increases may be partly about protecting margins as overseas fabs, materials, equipment, packaging, and energy costs rise. Example: a high revenue number with weak gross margin can still be a poor manufacturing business; TSMC has both high revenue and high gross margin in the latest official quarter.
 
-**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin), [2026-08-07](../2026-08-07/README.md#daily-term-gross-margin), [2026-08-11](../2026-08-11/README.md#daily-term-gross-margin)
+**Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-gross-margin), [2026-07-15](../2026-07-15/README.md#daily-term-gross-margin), [2026-07-22](../2026-07-22/README.md#daily-term-gross-margin), [2026-07-23](../2026-07-23/README.md#daily-term-gross-margin), [2026-07-28](../2026-07-28/README.md#daily-term-gross-margin), [2026-08-07](../2026-08-07/README.md#daily-term-gross-margin), [2026-08-11](../2026-08-11/README.md#daily-term-gross-margin), [2026-08-12](../2026-08-12/README.md#daily-term-gross-margin)
 
 **Reference:** https://investor.tsmc.com/english/quarterly-results/2026/q2
 
@@ -3487,6 +3553,17 @@ An integrated device manufacturer designs and manufactures at least some of its 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-image-sensor"></a>
+## Image sensor
+
+An image sensor is a semiconductor device that converts light into electrical signals, usually using arrays of pixels that capture photons and turn them into charge or voltage. It solves the machine-vision and camera problem for smartphones, vehicles, industrial inspection, medical devices, and robotics. In today's Sony / TSMC JV item, image sensors matter because advanced process technology is being tied to future smartphone camera production in Japan. Comparison: a logic processor computes instructions; an image sensor turns optical information into digital data.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-image-sensor)
+
+**Reference:** https://www.sony-semicon.com/en/technology/is.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-immersion-duv-lithography"></a>
 ## Immersion DUV lithography
 
@@ -3678,6 +3755,20 @@ An investment-grade credit rating is a bond or issuer rating that credit agencie
 **Appears in:** [2026-08-11](../2026-08-11/README.md#daily-term-investment-grade-credit-rating)
 
 **Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/bond-rating
+
+[Back to A-Z index](#a-z-index)
+
+<a id="letter-j"></a>
+# J
+
+<a id="term-joint-venture"></a>
+## Joint venture
+
+A joint venture is a separately organized business created by two or more companies to share investment, technology, manufacturing, or market access while defining control and ownership. It solves the risk-sharing problem when one company has product technology and another has manufacturing expertise. In today's Sony / TSMC item, the JV matters because Sony is planned as the controlling shareholder while TSMC contributes process and manufacturing know-how for next-generation image sensors. Example: a supplier contract buys output; a JV creates a shared operating entity.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-joint-venture)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/joint-venture
 
 [Back to A-Z index](#a-z-index)
 
@@ -4004,6 +4095,17 @@ A mature node is an older, proven semiconductor process technology such as 28 nm
 **Appears in:** [2026-07-22](../2026-07-22/README.md#daily-term-mature-node)
 
 **Reference:** https://www.mk.co.kr/en/business/12104103
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-memorandum-of-understanding"></a>
+## Memorandum of understanding
+
+A memorandum of understanding is a formal statement of intended cooperation that may precede final binding agreements. It solves the coordination problem by documenting strategic intent, roles, and next steps before every contract term is finalized. In today's NVIDIA item, the MOU caveat matters because the financing platforms are subject to final agreements, so the capital goal is not the same as already deployed money. Example: an MOU is stronger than a casual discussion, but weaker than a closed financing contract.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-memorandum-of-understanding)
+
+**Reference:** https://www.trade.gov/knowledge-product/memorandum-understanding
 
 [Back to A-Z index](#a-z-index)
 
@@ -4508,6 +4610,17 @@ Nasdaq Global Select Market is Nasdaq's top listing tier, with quantitative and 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-navigation-error-recovery"></a>
+## Navigation-error recovery
+
+Navigation-error recovery is the process of estimating and correcting position, rotation, scale, or alignment error so an inspection or metrology tool can return to the intended die or wafer site. It solves the repeatability problem in wafer inspection, where engineers need to revisit the same pattern location accurately across images, scans, or process steps. In today's Applied Materials hackathon problem, navigation-error recovery matters because DRAM and FinFET layouts are repetitive and can confuse algorithms unless the solution uses robust features and uncertainty checks. Example: GPS recovery locates a car on a map; wafer navigation recovery locates a die site inside a dense circuit pattern.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-navigation-error-recovery)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/semiconductor-inspection-and-metrology.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-neocloud"></a>
 ## Neocloud
 
@@ -4627,6 +4740,17 @@ Non-GAAP operating margin is operating income as a percentage of revenue after m
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-non-gaap-result"></a>
+## Non-GAAP result
+
+A non-GAAP result is a company financial metric adjusted away from standard GAAP accounting, often excluding selected costs, stock compensation, restructuring charges, or one-time items. It solves the comparison problem when unusual accounting events distort period-to-period operating trends, but investors must read the reconciliation because adjustments can remove real costs. In today's Lumentum result, the gap between a GAAP net loss and non-GAAP net income matters because one-time debt extinguishment accounting dominates the GAAP result.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-non-gaap-result)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_non-gaap
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-non-handset-revenue"></a>
 ## Non-handset revenue
 
@@ -4668,6 +4792,17 @@ NVIDIA DSX is NVIDIA's full-stack AI factory platform spanning accelerators, sys
 **Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-nvidia-dsx)
 
 **Reference:** https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-nvidia-vera-rubin-nvl72"></a>
+## NVIDIA Vera Rubin NVL72
+
+NVIDIA Vera Rubin NVL72 is a next-generation NVIDIA rack-scale AI platform referenced by CoreWeave as having completed bring-up and validation in CoreWeave's environment. It solves the scale-up AI problem by packaging many accelerators, memory, networking, power, cooling, and system software into a tightly connected rack design. In today's news, it matters because CoreWeave is signaling readiness for a post-Blackwell AI infrastructure generation, not just current GPU rental demand. Comparison: a single accelerator is a chip or module; an NVL72-style rack is a full AI compute system.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-nvidia-vera-rubin-nvl72)
+
+**Reference:** https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx
 
 [Back to A-Z index](#a-z-index)
 
@@ -4767,7 +4902,7 @@ An official release check is a deliberate scan of primary company or regulator p
 
 An official status check is a deliberate review of regulator, company, standards-body, or filing pages to verify whether a reported event has become a formal disclosure, rule, filing, or enforcement action. It solves the research-quality problem of not treating rumors, analyst notes, drafts, or media reports as completed facts. In today's BIS item, official status checking matters because optical-transceiver and Nvidia-China access reports remain policy risks unless BIS, FCC, the Federal Register, or a court/enforcement source publishes binding text. Example: MarketWatch reporting can move stocks; BIS text changes compliance duties.
 
-**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check), [2026-08-11](../2026-08-11/README.md#daily-term-official-status-check)
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check), [2026-08-11](../2026-08-11/README.md#daily-term-official-status-check), [2026-08-12](../2026-08-12/README.md#daily-term-official-status-check)
 
 **Reference:** https://www.bis.gov/news-updates
 
@@ -4850,12 +4985,34 @@ Operating profit is revenue minus the costs and operating expenses tied to the c
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-optical-circuit-switch"></a>
+## Optical circuit switch
+
+An optical circuit switch is a device that redirects optical paths directly, often without converting every signal into electronics for packet switching. It solves the network-reconfiguration and power-efficiency problem in large clusters by creating high-bandwidth optical paths between selected endpoints. In today's Lumentum result, OCS matters because AI data centers need flexible interconnect fabrics as model sizes and traffic patterns change. Comparison: an Ethernet packet switch processes packets electronically; an optical circuit switch establishes light paths.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-optical-circuit-switch)
+
+**Reference:** https://www.oiforum.com/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-optical-earnings-watch"></a>
 ## Optical earnings watch
 
 An optical earnings watch is a tracked upcoming financial result from companies that make lasers, transceivers, optical engines, photonic components, or related materials used in data-center networks. It solves the evidence problem of verifying whether optical AI demand is translating into revenue, margins, capacity, and customer commitments. In today's Lumentum and Coherent watch, it matters because optical components are a major bottleneck and policy-risk area for AI cluster scaling. Example: AOI gave one official optical signal earlier; Lumentum and Coherent can test whether that strength is broader.
 
 **Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-optical-earnings-watch), [2026-08-10](../2026-08-10/README.md#daily-term-optical-earnings-watch)
+
+**Reference:** https://www.oiforum.com/technical-work/hot-topics/800g/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-optical-link"></a>
+## Optical link
+
+An optical link is a data path that uses light, usually through fiber and optical modules, to move information between chips, boards, racks, or data centers. It solves the bandwidth-distance-power problem because copper electrical links become lossy and power-hungry at high speeds and longer reaches. In today's Lumentum and Coherent watch, optical links matter because AI clusters need enormous low-latency bandwidth between accelerators and switches. Comparison: copper is often good for short in-box links; optics becomes essential as distance and bandwidth rise.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-optical-link)
 
 **Reference:** https://www.oiforum.com/technical-work/hot-topics/800g/
 
@@ -5579,6 +5736,17 @@ Regular-way trading is the normal exchange-trading state where trades follow the
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-regulatory-approval"></a>
+## Regulatory approval
+
+Regulatory approval is formal permission from government authorities required before certain transactions, investments, mergers, joint ventures, or exports can close. It solves the public-interest and compliance problem by checking competition, national security, foreign investment, and industry rules. In today's Sony / TSMC item, approval matters because the definitive agreement still depends on closing conditions before the JV can be completed. Example: signing a deal announces intent; regulatory approval allows the deal to finish legally.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-regulatory-approval)
+
+**Reference:** https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-reliability-testing"></a>
 ## Reliability testing
 
@@ -5642,6 +5810,17 @@ Return on invested capital measures how effectively a company turns invested cap
 **Appears in:** [2026-07-17](../2026-07-17/README.md#daily-term-return-on-invested-capital)
 
 **Reference:** https://www.investopedia.com/chip-stocks-slide-despite-solid-results-adding-pressure-on-the-ai-trade-12020486
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-revenue-backlog"></a>
+## Revenue backlog
+
+Revenue backlog is the value of contracted customer demand that has not yet been recognized as revenue because delivery, service availability, or other performance obligations remain unfinished. It solves the visibility problem by showing future demand beyond current-quarter sales, but it does not prove timing, margin, customer concentration, or cancellation risk by itself. In today's CoreWeave result, about USD 104B of backlog matters because AI cloud demand is being measured as future capacity commitments, not only current revenue. Example: recognized revenue is work already earned under accounting rules; backlog is a queue of future work that still must be delivered.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-revenue-backlog)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_revenue
 
 [Back to A-Z index](#a-z-index)
 
@@ -5936,6 +6115,17 @@ SIA is a U.S.-based industry association representing most U.S. semiconductor re
 **Appears in:** [2026-07-07](../2026-07-07/README.md#daily-term-semiconductor-industry-association-sia)
 
 **Reference:** https://www.semiconductors.org/global-semiconductor-sales-increase-9-2-month-to-month-in-may/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-semiconductor-inspection-image"></a>
+## Semiconductor inspection image
+
+A semiconductor inspection image is a microscope, optical, SEM, or tool-generated image used to find defects, pattern errors, contamination, overlay problems, or process variation on wafers or packages. It solves the yield-learning problem by giving engineers visual evidence of manufacturing quality. In today's SEMICON India Hackathon item, inspection-image restoration matters because noisy images can hide defects or create false positives in inspection workflows. Comparison: a normal camera image is meant for human viewing; inspection imagery is tied to defect detection, metrology, and process control.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-semiconductor-inspection-image)
+
+**Reference:** https://www.kla.com/products/inspection
 
 [Back to A-Z index](#a-z-index)
 
@@ -6280,6 +6470,17 @@ A specialty gas is a high-purity industrial gas used for tightly controlled manu
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-speckle-noise"></a>
+## Speckle noise
+
+Speckle noise is granular interference noise often seen in coherent imaging systems where reflected waves combine constructively and destructively. It solves no useful business problem by itself; it is a physical imaging problem that algorithms must reduce without destroying defect details. In today's hackathon problem, speckle noise matters because degraded semiconductor inspection images need restoration while preserving true defect information. Comparison: Gaussian noise is random additive fluctuation; speckle is multiplicative-looking granular interference.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-speckle-noise)
+
+**Reference:** https://www.nist.gov/image/speckle-pattern
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-spectrum-x-ethernet"></a>
 ## Spectrum-X Ethernet
 
@@ -6409,6 +6610,17 @@ A substrate is the package foundation that mechanically supports chips and route
 **Appears in:** [2026-07-24](../2026-07-24/README.md#daily-term-substrate)
 
 **Reference:** https://www.intc.com/news-events/press-releases/detail/1776/intel-reports-second-quarter-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-super-resolution"></a>
+## Super-resolution
+
+Super-resolution is an imaging method that reconstructs or estimates a higher-resolution image from lower-resolution data. It solves the inspection and metrology problem when tools have limits in optics, sampling, scan speed, or noise but engineers still need finer visual detail. In today's hackathon problem, super-resolution matters because restoring downsampled semiconductor inspection images can improve defect review if it does not hallucinate false structures. Example: upscaling a phone photo for looks is not enough; semiconductor super-resolution must preserve measurable features and defects.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-super-resolution)
+
+**Reference:** https://ieeexplore.ieee.org/document/6473374
 
 [Back to A-Z index](#a-z-index)
 
@@ -6663,6 +6875,17 @@ Third-country transshipment is the movement of goods through an intermediate cou
 **Appears in:** [2026-08-08](../2026-08-08/README.md#daily-term-third-country-transshipment)
 
 **Reference:** https://www.bis.gov/enforcement
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-third-party-capital"></a>
+## Third-party capital
+
+Third-party capital is money supplied by outside investors rather than by the company selling the hardware or the customer using the hardware. It solves the balance-sheet problem by spreading infrastructure funding across banks, asset managers, private capital, and infrastructure investors. In today's NVIDIA item, third-party capital matters because the announced goal is to mobilize more than USD 500B without making NVIDIA itself the only financier of AI buildout. Comparison: vendor financing puts more burden on the supplier; third-party financing tries to move funding to independent capital pools.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-third-party-capital)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/private-equity-fund
 
 [Back to A-Z index](#a-z-index)
 
@@ -7059,6 +7282,17 @@ A VLSI Centre of Excellence is an organized academic-industry-government hub for
 **Appears in:** [2026-08-04](../2026-08-04/README.md#daily-term-vlsi-centre-of-excellence)
 
 **Reference:** https://timesofindia.indiatimes.com/city/mangaluru/nitk-hosts-founding-conclave-for-new-semiconductor-centre/articleshow/132868140.cms
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-volume-production"></a>
+## Volume production
+
+Volume production is sustained, repeatable manufacturing at commercial scale with acceptable yield, quality, cost, and customer qualification. It solves the difference between prototype success and real product supply. In today's Sony / TSMC item, 2029 volume production matters because the JV is strategic but still years away from commercial output. Comparison: a pilot line proves process feasibility; volume production supplies real customers at scale.
+
+**Appears in:** [2026-08-12](../2026-08-12/README.md#daily-term-volume-production)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
 
 [Back to A-Z index](#a-z-index)
 
