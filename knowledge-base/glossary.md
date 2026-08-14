@@ -1,6 +1,6 @@
 # Semiconductor Technical-Term Index
 
-This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-12**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
+This is the master A-Z glossary for every specialist term indexed in the daily notes through **2026-08-14**. Each entry gives a usable meaning, an authoritative reference when available, and backlinks to the days where the term is taught in context.
 
 [Notebook home](../README.md) · [Daily index](../README.md#daily-index)
 
@@ -975,6 +975,17 @@ Moving power routing to the wafer backside instead of routing only through front
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-basis-point"></a>
+## Basis point
+
+A basis point is one hundredth of one percentage point. It solves the communication problem of describing small changes in rates or margins without ambiguity. Coherent's GAAP gross margin improved 277 basis points year over year, which means an increase of 2.77 percentage points, from 35.7% to 38.5%.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-basis-point)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/basis-point
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-bcd-on-soi"></a>
 ## BCD-on-SOI
 
@@ -1121,6 +1132,17 @@ Capacity lead time is the delay between deciding to invest in a fab and actually
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-capacity-ramp"></a>
+## Capacity ramp
+
+A capacity ramp is the staged increase of manufacturing output as equipment is installed, processes are qualified, yields stabilize, suppliers scale, and customers approve production. It solves the gap between strong demand and deliverable product. Coherent's inventory and capital-spending increases matter because optical demand can become revenue only if laser, wafer, packaging, module, and test capacity ramps reliably.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-capacity-ramp)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-capacity-reservation-agreement"></a>
 ## Capacity reservation agreement
 
@@ -1187,6 +1209,17 @@ Capital expenditure discipline means expanding fabs, cleanrooms, tools and packa
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-capital-intensity"></a>
+## Capital intensity
+
+Capital intensity is the amount of long-lived physical investment required to produce revenue. It solves the comparison problem between businesses that can grow mainly through software or labor and those that need fabs, tools, cleanrooms, packaging lines, and test equipment. Coherent spent about $1.103B on property, plant, and equipment in fiscal 2026 as it expanded optical capacity.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-capital-intensity)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/capital-expenditures
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-centre-of-excellence-coe"></a>
 ## Centre of Excellence (CoE)
 
@@ -1217,6 +1250,17 @@ CTI is a NAND device/process technique that physically isolates the nitride char
 **Appears in:** [2026-07-25](../2026-07-25/README.md#daily-term-charge-trap-nitride-isolation-cti)
 
 **Reference:** https://news.skhynix.com/en/research-inside-ep1/
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-chemical-mechanical-planarization"></a>
+## Chemical mechanical planarization
+
+Chemical mechanical planarization, or CMP, combines chemical reactions and mechanical polishing to flatten a wafer or package surface. It solves the topography problem: later lithography and bonding steps need very small height variation. Applied's Opta Quad CMP monitors wafer conditions during polish and adjusts in real time, which is especially important before hybrid bonding.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-chemical-mechanical-planarization)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/products/processes/chemical-mechanical-planarization.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1493,6 +1537,17 @@ Chip-on-panel-on-substrate, a panel-level packaging direction intended to improv
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-copper-to-optical-transition"></a>
+## Copper-to-optical transition
+
+The copper-to-optical transition is the movement of progressively shorter and more numerous data paths from electrical copper interconnects to photonic links as bandwidth, reach, and power constraints tighten. It does not mean copper disappears; copper remains effective over short distances, while optics moves closer to the switch or compute package when electrical reach becomes uneconomic. Coherent explicitly tied its outlook to AI datacenter architectures shifting toward optical connectivity.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-copper-to-optical-transition)
+
+**Reference:** https://www.oiforum.com/technical-work/hot-topics/co-packaging/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-countermeasure-list"></a>
 ## Countermeasure list
 
@@ -1532,6 +1587,17 @@ The FCC Covered List is a U.S. communications-security list of equipment and ser
 Chip-on-Wafer-on-Substrate, an advanced packaging approach used for large AI accelerators and HBM integration.
 
 **Appears in:** [2026-06-16](../2026-06-16/README.md#daily-term-cowos), [2026-06-17](../2026-06-17/README.md#daily-term-cowos)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-critical-dimension-e-beam-metrology"></a>
+## Critical-dimension e-beam metrology
+
+Critical-dimension e-beam metrology uses a focused electron beam to measure very small feature widths, profiles, and structural details. It solves the resolution problem that limits optical measurement on sub-10nm or complex heterogeneous features. Applied's VeritySEM 7AP targets thick and warped advanced-packaging substrates where accurate feature control is essential.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-critical-dimension-e-beam-metrology)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/products/processes/metrology-and-inspection.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -1692,6 +1758,17 @@ A data-center building-block solution is a modular server or rack architecture m
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-datacenter-optical-connectivity"></a>
+## Datacenter optical connectivity
+
+Datacenter optical connectivity is the collection of lasers, modulators, photodetectors, transceivers, fiber links, and switching interfaces that move data between servers, accelerators, racks, and facilities using light. It solves the bandwidth-distance-power problem that appears when high-speed copper links become too lossy, short-reach, or power-hungry. In Coherent's result, the category matters because Datacenter & Communications supplied $1.615B of the $2.046B quarterly revenue.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-datacenter-optical-connectivity)
+
+**Reference:** https://www.oiforum.com/technical-work/hot-topics/800g/
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-datacenter-revenue"></a>
 ## Datacenter revenue
 
@@ -1733,6 +1810,17 @@ A decoupling capacitor is placed close to an IC power pin to reduce local supply
 **Appears in:** [2026-06-30](../2026-06-30/README.md#daily-term-decoupling-capacitor)
 
 **Reference:** https://product.samsungsem.com/product-news/view.do?idx=3804&language=en
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-defect-review"></a>
+## Defect review
+
+Defect review is high-resolution imaging and classification of suspected manufacturing defects after an inspection system identifies candidate locations. It solves the yield-learning problem by separating real process failures from nuisance signals and tracing failures back to a tool, material, or step. Applied's SEMVision G7AP extends e-beam defect review across silicon, organic, and glass packaging substrates.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-defect-review)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/products/processes/metrology-and-inspection.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2305,6 +2393,17 @@ An Electro-Semicon track is an event/program track focused on electronics and se
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-electrochemical-deposition"></a>
+## Electrochemical deposition
+
+Electrochemical deposition, or ECD, uses an electrical current in a chemical bath to plate metal onto patterned surfaces. It solves the need to fill vias and build copper interconnect structures with controlled thickness and uniformity. Applied's Nokota VMax 2 ECD targets TSV fill, microbumps, and fine-pitch advanced-packaging interconnects.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-electrochemical-deposition)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/products/processes/electrochemical-deposition.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-electrochemical-plating-ecp"></a>
 ## Electrochemical plating (ECP)
 
@@ -2443,6 +2542,17 @@ The Entity List is a U.S. Bureau of Industry and Security restricted-party list 
 **Appears in:** [2026-07-29](../2026-07-29/README.md#daily-term-entity-list), [2026-08-01](../2026-08-01/README.md#daily-term-entity-list), [2026-08-02](../2026-08-02/README.md#daily-term-entity-list), [2026-08-10](../2026-08-10/README.md#daily-term-entity-list)
 
 **Reference:** https://www.bis.gov/entity-list
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-epitaxy"></a>
+## Epitaxy
+
+Epitaxy is the controlled growth of a crystalline layer whose atomic structure follows the underlying crystal. It solves the need to create high-quality, composition- and doping-controlled regions for transistors and other devices. Applied's enhanced Centura Prime Epi grows doped silicon germanium and silicon phosphorus in source/drain regions to improve strain, drive current, and efficiency for DRAM and HBM-related devices.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-epitaxy)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/products/processes/epitaxy.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -2897,11 +3007,11 @@ Formal verification mathematically proves properties about a design instead of o
 <a id="term-forward-guidance"></a>
 ## Forward guidance
 
-Forward guidance is the company's forecast and commentary about future demand, supply, margins, and spending. For Micron, guidance matters because investors want to know if HBM and server DRAM demand are strong enough to justify high memory-stock expectations.
+Forward guidance is management's estimate of future revenue, margin, expenses, earnings, or other metrics. It solves the visibility problem by converting current orders and capacity expectations into a near-term range, but it remains uncertain and is not a guarantee. Coherent guided fiscal Q1 2027 revenue to $2.2B-$2.4B and non-GAAP EPS to $1.85-$2.05.
 
-**Appears in:** [2026-06-24](../2026-06-24/README.md#daily-term-forward-guidance)
+**Appears in:** [2026-06-24](../2026-06-24/README.md#daily-term-forward-guidance), [2026-08-13](../2026-08-13/README.md#daily-term-forward-guidance)
 
-**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/earnings-guidance
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_analystreports
 
 [Back to A-Z index](#a-z-index)
 
@@ -3112,6 +3222,17 @@ Geographic process transfer is the controlled replication of a semiconductor pro
 **Appears in:** [2026-07-20](../2026-07-20/README.md#daily-term-geographic-process-transfer)
 
 **Reference:** https://au.marketscreener.com/news/tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment-ce7f51dade8df521
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-geographic-revenue-mix"></a>
+## Geographic revenue mix
+
+Geographic revenue mix is the share of company sales attributed to customer locations or shipment destinations by region. It solves the exposure question by showing how much revenue depends on different markets and policy environments. Applied reported 28% of Q3 revenue from China, down from 35% a year earlier, while the United States rose to 15% from 9%.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-geographic-revenue-mix)
+
+**Reference:** https://ir.appliedmaterials.com/static-files/425ac634-4ee7-4c41-a07f-fa9e3c42b797
 
 [Back to A-Z index](#a-z-index)
 
@@ -3484,7 +3605,7 @@ HPC means high-performance computing, a market category covering compute-intensi
 
 Hybrid bonding is a fine-pitch wafer or die bonding method that directly connects metal pads and dielectric surfaces, creating very dense electrical interconnect and strong mechanical attachment without large solder bumps. It solves the interconnect-density and signal-distance problem in advanced packages and 3D stacks. In today's news, hybrid bonding is important because it is a high-skill, high-precision process; listing it in an OSAT plan is ambitious, but execution depends on cleanliness, alignment, surface preparation, metrology, and yield. Compared with solder bump bonding, hybrid bonding can enable much finer pitch.
 
-**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-hybrid-bonding)
+**Appears in:** [2026-07-23](../2026-07-23/README.md#daily-term-hybrid-bonding), [2026-08-14](../2026-08-14/README.md#daily-term-hybrid-bonding)
 
 **Reference:** https://electronics.economictimes.indiatimes.com/news/semiconductors/paras-semiconductors-to-invest-6200-crore-in-osat-facility-in-madhya-pradesh/132553333
 
@@ -4902,7 +5023,7 @@ An official release check is a deliberate scan of primary company or regulator p
 
 An official status check is a deliberate review of regulator, company, standards-body, or filing pages to verify whether a reported event has become a formal disclosure, rule, filing, or enforcement action. It solves the research-quality problem of not treating rumors, analyst notes, drafts, or media reports as completed facts. In today's BIS item, official status checking matters because optical-transceiver and Nvidia-China access reports remain policy risks unless BIS, FCC, the Federal Register, or a court/enforcement source publishes binding text. Example: MarketWatch reporting can move stocks; BIS text changes compliance duties.
 
-**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check), [2026-08-11](../2026-08-11/README.md#daily-term-official-status-check), [2026-08-12](../2026-08-12/README.md#daily-term-official-status-check)
+**Appears in:** [2026-08-09](../2026-08-09/README.md#daily-term-official-status-check), [2026-08-11](../2026-08-11/README.md#daily-term-official-status-check), [2026-08-12](../2026-08-12/README.md#daily-term-official-status-check), [2026-08-13](../2026-08-13/README.md#daily-term-official-status-check)
 
 **Reference:** https://www.bis.gov/news-updates
 
@@ -4960,6 +5081,17 @@ An open-weight AI model makes trained model parameters available for developers 
 **Appears in:** [2026-07-18](../2026-07-18/README.md#daily-term-open-weight-ai-model)
 
 **Reference:** https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-operating-leverage"></a>
+## Operating leverage
+
+Operating leverage is the tendency for operating profit to grow faster than revenue when fixed or semi-fixed costs are spread over higher sales and gross margin improves. It solves the profitability-scaling question: strong demand is more valuable when incremental revenue produces disproportionate profit. Coherent's full-year revenue grew 22.5%, while non-GAAP operating income grew 40.5%, illustrating positive operating leverage.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-operating-leverage)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/operating-income
 
 [Back to A-Z index](#a-z-index)
 
@@ -5283,6 +5415,17 @@ Physical AI is AI used to understand, simulate, control, or optimize real-world 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-plasma-enhanced-chemical-vapor-deposition"></a>
+## Plasma-enhanced chemical vapor deposition
+
+Plasma-enhanced chemical vapor deposition, or PECVD, uses plasma energy to drive chemical reactions that deposit thin films at lower temperatures than purely thermal CVD. It solves the need to add dielectrics and protective films without exceeding the thermal budget of sensitive structures. Applied's Avila 2 PECVD deposits stress-balanced films around TSVs to support thinner DRAM dies in tall HBM stacks.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-plasma-enhanced-chemical-vapor-deposition)
+
+**Reference:** https://www.appliedmaterials.com/us/en/semiconductor/products/processes/chemical-vapor-deposition.html
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-policy-notification"></a>
 ## Policy notification
 
@@ -5457,12 +5600,34 @@ A PCB is the patterned mechanical and electrical platform that connects packaged
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-pro-forma-growth"></a>
+## Pro forma growth
+
+Pro forma growth is a comparison adjusted to make two periods more comparable after acquisitions, divestitures, or structural changes. It solves the problem that reported growth can mix underlying business expansion with changes in what the company owns. Coherent reported Q4 revenue up 34% year over year and 42% on a pro forma basis, so the reader should use the reconciliation rather than treating the two percentages as interchangeable.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-pro-forma-growth)
+
+**Reference:** https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_non-gaap
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-probe-card"></a>
 ## Probe card
 
 A probe card is the precision interface between automatic test equipment and microscopic pads or bumps on dies that are still part of a wafer. Thousands of carefully controlled probe contacts deliver power and high-speed signals, then capture responses to identify defective dies before packaging. It solves the economic problem of spending expensive package capacity on bad silicon. In AI logic and HBM, probe cards must handle dense pitch, high current, high data rates, planarity, repeated mechanical touchdowns, and low electrical parasitics. Sources: [Texas grant release](https://gov.texas.gov/news/post/governor-abbott-announces-texas-semiconductor-innovation-fund-grant-to-formfactor) and [FormFactor technical note](https://www.formfactor.com/blog/2026/at-224g-the-probe-is-no-longer-just-a-contact/)
 
 **Appears in:** [2026-07-03](../2026-07-03/README.md#daily-term-probe-card)
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-process-co-optimization"></a>
+## Process co-optimization
+
+Process co-optimization is the joint tuning of multiple manufacturing steps, materials, devices, packages, and design assumptions rather than improving each step independently. It solves interaction problems in which a change that helps deposition may hurt etch, cleaning, bonding, reliability, or device performance. Applied's EPIC Center partnerships aim to shorten the path from laboratory material innovation to manufacturable process flow.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-process-co-optimization)
+
+**Reference:** https://www.appliedmaterials.com/us/en/corporate/epic-center.html
 
 [Back to A-Z index](#a-z-index)
 
@@ -5985,6 +6150,17 @@ A secure element is a tamper-resistant chip subsystem that stores secret keys an
 **Appears in:** [2026-07-05](../2026-07-05/README.md#daily-term-secure-element)
 
 **Reference:** https://newsroom.st.com/media-center/press-item.html/p4784.html
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-segment-mix"></a>
+## Segment mix
+
+Segment mix is the proportion of total revenue or profit contributed by different business units or end markets. It solves the analysis problem of seeing whether company-wide growth is broad or concentrated. Coherent's Q4 Datacenter & Communications revenue rose to $1.615B while Industrial revenue was $430.5M, so the AI-linked optical segment drove the result while industrial demand remained softer.
+
+**Appears in:** [2026-08-13](../2026-08-13/README.md#daily-term-segment-mix)
+
+**Reference:** https://www.investor.gov/introduction-investing/investing-basics/glossary/revenue
 
 [Back to A-Z index](#a-z-index)
 
@@ -6911,6 +7087,17 @@ Threshold voltage distribution is the spread of voltage levels at which NAND cel
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-through-silicon-via"></a>
+## Through-silicon via
+
+A through-silicon via, or TSV, is a vertical conductive connection passing through a silicon die. It solves the bandwidth and footprint problem by connecting stacked dies through short vertical paths rather than long package traces. HBM uses many TSVs across stacked DRAM dies, making via fill, dielectric stress, thinning, alignment, and reliability crucial.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-through-silicon-via)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-tokens-per-dollar"></a>
 ## Tokens per dollar
 
@@ -6941,6 +7128,17 @@ Total net sales are the revenue recognized from products and services after retu
 **Appears in:** [2026-07-15](../2026-07-15/README.md#daily-term-total-net-sales)
 
 **Reference:** https://www.asml.com/en/news/press-releases/2026/q2-2026-financial-results
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-total-thickness-variation"></a>
+## Total thickness variation
+
+Total thickness variation is the difference between the thickest and thinnest measured points across a wafer, die, or processed layer. It solves the flatness-control problem by quantifying non-uniformity. In advanced packaging and hybrid bonding, excessive variation can prevent uniform contact, create voids, and reduce yield.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-total-thickness-variation)
+
+**Reference:** https://www.semi.org/en/standards
 
 [Back to A-Z index](#a-z-index)
 
@@ -7374,6 +7572,17 @@ Wafer sort is electrical testing performed while dies are still attached to the 
 
 [Back to A-Z index](#a-z-index)
 
+<a id="term-wafer-fabrication-equipment"></a>
+## Wafer-fabrication equipment
+
+Wafer-fabrication equipment is the set of tools used to deposit, pattern, etch, implant, clean, polish, inspect, and measure materials while building devices and interconnects on wafers. It solves the physical manufacturing problem of turning a circuit design into repeatable nanoscale structures. Applied Materials' Semiconductor Systems revenue of $7.04B makes WFE the central evidence in today's result.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-wafer-fabrication-equipment)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
 <a id="term-wafer-scale-engine"></a>
 ## Wafer-scale engine
 
@@ -7536,6 +7745,17 @@ Year-to-date revenue is the cumulative revenue from the start of the fiscal or c
 Yield is the percentage of manufactured dies or wafers that meet required electrical, reliability, and quality specifications. It solves the manufacturing-efficiency question: how much of the expensive processed output can actually be sold? In today's news, wafer quality matters because defects entering at the substrate stage can reduce yield across many downstream process steps. Example: if a wafer starts with a hidden defect, the fab may spend hundreds of process steps on material that later fails test.
 
 **Appears in:** [2026-07-09](../2026-07-09/README.md#daily-term-yield)
+
+**Reference:** https://www.semi.org/en/resources/semiconductor101
+
+[Back to A-Z index](#a-z-index)
+
+<a id="term-yield-learning"></a>
+## Yield learning
+
+Yield learning is the iterative process of finding defect patterns, identifying root causes, changing process conditions, and verifying that a larger share of manufactured dies or packages meets specification. It solves the economic gap between making a device once and manufacturing it profitably at scale. Today's metrology and defect-analysis systems matter because advanced packaging adds interfaces where failures can occur.
+
+**Appears in:** [2026-08-14](../2026-08-14/README.md#daily-term-yield-learning)
 
 **Reference:** https://www.semi.org/en/resources/semiconductor101
 
